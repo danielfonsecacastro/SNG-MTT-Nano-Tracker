@@ -1,0 +1,151 @@
+﻿PokerStars Hand #96878398484: Tournament #716429497, $0.45+$0.05 USD Hold'em No Limit - Level I (10/20) - 2013/04/08 19:12:42 BRT [2013/04/08 18:12:42 ET]
+Table '716429497 2' 9-max Seat #1 is the button
+Seat 1: Husky582002 (1500 in chips) 
+Seat 2: Sziklavari01 (1500 in chips) 
+Seat 3: dfcastro.net (1500 in chips) 
+Seat 4: perak 1955 (1500 in chips) 
+Seat 5: skandal76 (1500 in chips) 
+Seat 6: DanteDelgado (1500 in chips) 
+Seat 7: Rožica340 (1500 in chips) 
+Seat 8: tuche48 (1500 in chips) 
+Seat 9: oHitTheRiver (1500 in chips) 
+Sziklavari01: posts small blind 10
+dfcastro.net: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kd 7c]
+perak 1955: folds 
+skandal76: folds 
+DanteDelgado: folds 
+Rožica340: folds 
+tuche48 has timed out while being disconnected
+tuche48: folds 
+tuche48 is sitting out
+oHitTheRiver: folds 
+tuche48 is disconnected 
+Husky582002: folds 
+Sziklavari01: folds 
+Uncalled bet (10) returned to dfcastro.net
+dfcastro.net collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Husky582002 (button) folded before Flop (didn't bet)
+Seat 2: Sziklavari01 (small blind) folded before Flop
+Seat 3: dfcastro.net (big blind) collected (20)
+Seat 4: perak 1955 folded before Flop (didn't bet)
+Seat 5: skandal76 folded before Flop (didn't bet)
+Seat 6: DanteDelgado folded before Flop (didn't bet)
+Seat 7: Rožica340 folded before Flop (didn't bet)
+Seat 8: tuche48 folded before Flop (didn't bet)
+Seat 9: oHitTheRiver folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #96878441538: Tournament #716429497, $0.45+$0.05 USD Hold'em No Limit - Level I (10/20) - 2013/04/08 19:13:34 BRT [2013/04/08 18:13:34 ET]
+Table '716429497 2' 9-max Seat #2 is the button
+Seat 1: Husky582002 (1500 in chips) 
+Seat 2: Sziklavari01 (1490 in chips) 
+Seat 3: dfcastro.net (1510 in chips) 
+Seat 4: perak 1955 (1500 in chips) 
+Seat 5: skandal76 (1500 in chips) 
+Seat 6: DanteDelgado (1500 in chips) 
+Seat 7: Rožica340 (1500 in chips) 
+Seat 8: tuche48 (1500 in chips) is sitting out
+Seat 9: oHitTheRiver (1500 in chips) 
+dfcastro.net: posts small blind 10
+perak 1955: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7c Ac]
+skandal76: folds 
+DanteDelgado: folds 
+Rožica340: calls 20
+tuche48: folds 
+oHitTheRiver: folds 
+Husky582002: raises 20 to 40
+Sziklavari01: folds 
+dfcastro.net: calls 30
+perak 1955: calls 20
+Rožica340: calls 20
+*** FLOP *** [Ad Kd 4s]
+dfcastro.net: bets 60
+perak 1955: raises 60 to 120
+Rožica340: folds 
+Husky582002: folds 
+dfcastro.net: raises 60 to 180
+perak 1955: calls 60
+*** TURN *** [Ad Kd 4s] [Js]
+dfcastro.net: bets 200
+perak 1955: raises 200 to 400
+dfcastro.net: calls 200
+*** RIVER *** [Ad Kd 4s Js] [6s]
+dfcastro.net: bets 380
+perak 1955: folds 
+Uncalled bet (380) returned to dfcastro.net
+dfcastro.net collected 1320 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [Ad Kd 4s Js 6s]
+Seat 1: Husky582002 folded on the Flop
+Seat 2: Sziklavari01 (button) folded before Flop (didn't bet)
+Seat 3: dfcastro.net (small blind) collected (1320)
+Seat 4: perak 1955 (big blind) folded on the River
+Seat 5: skandal76 folded before Flop (didn't bet)
+Seat 6: DanteDelgado folded before Flop (didn't bet)
+Seat 7: Rožica340 folded on the Flop
+Seat 8: tuche48 folded before Flop (didn't bet)
+Seat 9: oHitTheRiver folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #96878533861: Tournament #716429497, $0.45+$0.05 USD Hold'em No Limit - Level I (10/20) - 2013/04/08 19:15:25 BRT [2013/04/08 18:15:25 ET]
+Table '716429497 2' 9-max Seat #3 is the button
+Seat 1: Husky582002 (1460 in chips) 
+Seat 2: Sziklavari01 (1490 in chips) 
+Seat 3: dfcastro.net (2210 in chips) 
+Seat 4: perak 1955 (880 in chips) 
+Seat 5: skandal76 (1500 in chips) 
+Seat 6: DanteDelgado (1500 in chips) 
+Seat 7: Rožica340 (1460 in chips) 
+Seat 8: tuche48 (1500 in chips) is sitting out
+Seat 9: oHitTheRiver (1500 in chips) 
+perak 1955: posts small blind 10
+skandal76: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8h 5c]
+DanteDelgado: calls 20
+Rožica340: folds 
+tuche48: folds 
+oHitTheRiver: folds 
+Husky582002: folds 
+Sziklavari01: folds 
+dfcastro.net: folds 
+perak 1955: calls 10
+skandal76: checks 
+*** FLOP *** [Ts 6h Tc]
+perak 1955: bets 20
+skandal76: folds 
+DanteDelgado: calls 20
+*** TURN *** [Ts 6h Tc] [7c]
+perak 1955: bets 20
+DanteDelgado: calls 20
+*** RIVER *** [Ts 6h Tc 7c] [4s]
+perak 1955: bets 20
+DanteDelgado: raises 1420 to 1440 and is all-in
+perak 1955: folds 
+Uncalled bet (1420) returned to DanteDelgado
+DanteDelgado collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ts 6h Tc 7c 4s]
+Seat 1: Husky582002 folded before Flop (didn't bet)
+Seat 2: Sziklavari01 folded before Flop (didn't bet)
+Seat 3: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 4: perak 1955 (small blind) folded on the River
+Seat 5: skandal76 (big blind) folded on the Flop
+Seat 6: DanteDelgado collected (180)
+Seat 7: Rožica340 folded before Flop (didn't bet)
+Seat 8: tuche48 folded before Flop (didn't bet)
+Seat 9: oHitTheRiver folded before Flop (didn't bet)
+
+
+

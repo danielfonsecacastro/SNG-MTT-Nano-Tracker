@@ -1,0 +1,685 @@
+﻿PokerStars Hand #100108345270: Tournament #744111947, 5FPP Hold'em No Limit - Level I (10/20) - 2013/06/16 0:29:49 BRT [2013/06/15 23:29:49 ET]
+Table '744111947 3' 9-max Seat #1 is the button
+Seat 1: malishiroma (2000 in chips) 
+Seat 2: Cs.Maximus (2000 in chips) 
+Seat 3: trihard12 (2000 in chips) 
+Seat 4: Gibabnu (2000 in chips) 
+Seat 5: tristan1112 (4000 in chips) 
+Seat 6: kudri2107 (2000 in chips) 
+Seat 7: dfcastro.net (4000 in chips) 
+Cs.Maximus: posts small blind 10
+trihard12: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3h 2d]
+Gibabnu: folds 
+tristan1112: folds 
+kudri2107: calls 20
+dfcastro.net: folds 
+malishiroma: calls 20
+Cs.Maximus: calls 10
+trihard12: checks 
+*** FLOP *** [4s Ts 8h]
+Cs.Maximus: bets 60
+trihard12: calls 60
+kudri2107: calls 60
+malishiroma: calls 60
+*** TURN *** [4s Ts 8h] [Js]
+Cs.Maximus: checks 
+trihard12: checks 
+kudri2107: checks 
+malishiroma: bets 120
+Cs.Maximus: folds 
+trihard12: folds 
+kudri2107: raises 140 to 260
+malishiroma: calls 140
+*** RIVER *** [4s Ts 8h Js] [6s]
+kudri2107: bets 1660 and is all-in
+malishiroma: calls 1660 and is all-in
+*** SHOW DOWN ***
+kudri2107: shows [As 5s] (a flush, Ace high)
+malishiroma: shows [Td Qd] (a pair of Tens)
+kudri2107 collected 4160 from pot
+malishiroma re-buys and receives 2000 chips for 5 FPPs
+*** SUMMARY ***
+Total pot 4160 | Rake 0 
+Board [4s Ts 8h Js 6s]
+Seat 1: malishiroma (button) showed [Td Qd] and lost with a pair of Tens
+Seat 2: Cs.Maximus (small blind) folded on the Turn
+Seat 3: trihard12 (big blind) folded on the Turn
+Seat 4: Gibabnu folded before Flop (didn't bet)
+Seat 5: tristan1112 folded before Flop (didn't bet)
+Seat 6: kudri2107 showed [As 5s] and won (4160) with a flush, Ace high
+Seat 7: dfcastro.net folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100108369080: Tournament #744111947, 5FPP Hold'em No Limit - Level I (10/20) - 2013/06/16 0:31:08 BRT [2013/06/15 23:31:08 ET]
+Table '744111947 3' 9-max Seat #2 is the button
+Seat 1: malishiroma (2000 in chips) 
+Seat 2: Cs.Maximus (1920 in chips) 
+Seat 3: trihard12 (1920 in chips) 
+Seat 4: Gibabnu (2000 in chips) 
+Seat 5: tristan1112 (4000 in chips) 
+Seat 6: kudri2107 (4160 in chips) 
+Seat 7: dfcastro.net (4000 in chips) 
+Seat 8: mekegsey (2000 in chips) 
+trihard12: posts small blind 10
+Gibabnu: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [As 3h]
+tristan1112: folds 
+kudri2107: folds 
+dfcastro.net: folds 
+mekegsey: calls 20
+malishiroma: folds 
+Cs.Maximus: raises 80 to 100
+trihard12: calls 90
+Gibabnu: calls 80
+mekegsey: calls 80
+*** FLOP *** [7h 3c 2c]
+trihard12: checks 
+Gibabnu: bets 100
+mekegsey: raises 1800 to 1900 and is all-in
+Cs.Maximus: folds 
+trihard12: calls 1820 and is all-in
+Gibabnu: folds 
+Uncalled bet (80) returned to mekegsey
+*** TURN *** [7h 3c 2c] [Kd]
+*** RIVER *** [7h 3c 2c Kd] [2d]
+*** SHOW DOWN ***
+trihard12: shows [Ac 4c] (a pair of Deuces)
+mekegsey: shows [9h 7s] (two pair, Sevens and Deuces)
+mekegsey collected 4140 from pot
+*** SUMMARY ***
+Total pot 4140 | Rake 0 
+Board [7h 3c 2c Kd 2d]
+Seat 1: malishiroma folded before Flop (didn't bet)
+Seat 2: Cs.Maximus (button) folded on the Flop
+Seat 3: trihard12 (small blind) showed [Ac 4c] and lost with a pair of Deuces
+Seat 4: Gibabnu (big blind) folded on the Flop
+Seat 5: tristan1112 folded before Flop (didn't bet)
+Seat 6: kudri2107 folded before Flop (didn't bet)
+Seat 7: dfcastro.net folded before Flop (didn't bet)
+Seat 8: mekegsey showed [9h 7s] and won (4140) with two pair, Sevens and Deuces
+
+
+
+PokerStars Hand #100108403981: Tournament #744111947, 5FPP Hold'em No Limit - Level I (10/20) - 2013/06/16 0:33:05 BRT [2013/06/15 23:33:05 ET]
+Table '744111947 5' 9-max Seat #2 is the button
+Seat 1: hlebouras (4040 in chips) 
+Seat 2: _$TÉPH@NIE_ (1980 in chips) 
+Seat 3: prs_toy (3960 in chips) 
+Seat 4: Kitzie83 (4000 in chips) 
+Seat 5: arielveo (4000 in chips) 
+Seat 6: heineken226 (4000 in chips) 
+Seat 7: dfcastro.net (4000 in chips) 
+Seat 8: TheBigArtist (2000 in chips) 
+Seat 9: Jakob_1951 (2000 in chips) 
+prs_toy: posts small blind 10
+Kitzie83: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Js Qd]
+TheBigArtist re-buys and receives 2000 chips for 5 FPPs
+arielveo: folds 
+heineken226: calls 20
+dfcastro.net: raises 30 to 50
+TheBigArtist: folds 
+Jakob_1951: folds 
+hlebouras: raises 90 to 140
+Jakob_1951 re-buys and receives 2000 chips for 5 FPPs
+_$TÉPH@NIE_: folds 
+prs_toy: folds 
+Kitzie83: folds 
+heineken226: calls 120
+dfcastro.net: folds 
+*** FLOP *** [2s 8s 3h]
+heineken226: checks 
+hlebouras: bets 600
+heineken226: calls 600
+*** TURN *** [2s 8s 3h] [2h]
+heineken226: checks 
+hlebouras: bets 3300 and is all-in
+heineken226: calls 3260 and is all-in
+Uncalled bet (40) returned to hlebouras
+*** RIVER *** [2s 8s 3h 2h] [5h]
+*** SHOW DOWN ***
+heineken226: shows [7h 4h] (a flush, Seven high)
+hlebouras: shows [3s 4c] (two pair, Threes and Deuces)
+heineken226 collected 8080 from pot
+*** SUMMARY ***
+Total pot 8080 | Rake 0 
+Board [2s 8s 3h 2h 5h]
+Seat 1: hlebouras showed [3s 4c] and lost with two pair, Threes and Deuces
+Seat 2: _$TÉPH@NIE_ (button) folded before Flop (didn't bet)
+Seat 3: prs_toy (small blind) folded before Flop
+Seat 4: Kitzie83 (big blind) folded before Flop
+Seat 5: arielveo folded before Flop (didn't bet)
+Seat 6: heineken226 showed [7h 4h] and won (8080) with a flush, Seven high
+Seat 7: dfcastro.net folded before Flop
+Seat 8: TheBigArtist folded before Flop (didn't bet)
+Seat 9: Jakob_1951 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100108423033: Tournament #744111947, 5FPP Hold'em No Limit - Level I (10/20) - 2013/06/16 0:34:09 BRT [2013/06/15 23:34:09 ET]
+Table '744111947 5' 9-max Seat #3 is the button
+Seat 1: hlebouras (40 in chips) 
+Seat 2: _$TÉPH@NIE_ (1980 in chips) 
+Seat 3: prs_toy (3950 in chips) 
+Seat 4: Kitzie83 (3980 in chips) 
+Seat 6: heineken226 (8080 in chips) 
+Seat 7: dfcastro.net (3950 in chips) 
+Seat 8: TheBigArtist (4000 in chips) 
+Seat 9: Jakob_1951 (4000 in chips) 
+Kitzie83: posts small blind 10
+heineken226: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8s Js]
+dfcastro.net: folds 
+TheBigArtist: raises 80 to 100
+Jakob_1951: raises 80 to 180
+hlebouras has timed out while disconnected
+hlebouras: folds 
+hlebouras is sitting out
+_$TÉPH@NIE_: folds 
+prs_toy: raises 3770 to 3950 and is all-in
+Kitzie83: folds 
+heineken226: folds 
+TheBigArtist: raises 50 to 4000 and is all-in
+Jakob_1951: calls 3820 and is all-in
+*** FLOP *** [Qd Ts Kh]
+*** TURN *** [Qd Ts Kh] [5s]
+*** RIVER *** [Qd Ts Kh 5s] [5h]
+*** SHOW DOWN ***
+TheBigArtist: shows [Jc Ah] (a straight, Ten to Ace)
+Jakob_1951: shows [Ad Qh] (two pair, Queens and Fives)
+TheBigArtist collected 100 from side pot
+prs_toy: shows [7c 6c] (a pair of Fives)
+TheBigArtist collected 11880 from main pot
+Jakob_1951 re-buys and receives 4000 chips for 10 FPPs
+prs_toy re-buys and receives 4000 chips for 10 FPPs
+*** SUMMARY ***
+Total pot 11980 Main pot 11880. Side pot 100. | Rake 0 
+Board [Qd Ts Kh 5s 5h]
+Seat 1: hlebouras folded before Flop (didn't bet)
+Seat 2: _$TÉPH@NIE_ folded before Flop (didn't bet)
+Seat 3: prs_toy (button) showed [7c 6c] and lost with a pair of Fives
+Seat 4: Kitzie83 (small blind) folded before Flop
+Seat 6: heineken226 (big blind) folded before Flop
+Seat 7: dfcastro.net folded before Flop (didn't bet)
+Seat 8: TheBigArtist showed [Jc Ah] and won (11980) with a straight, Ten to Ace
+Seat 9: Jakob_1951 showed [Ad Qh] and lost with two pair, Queens and Fives
+
+
+
+PokerStars Hand #100108444630: Tournament #744111947, 5FPP Hold'em No Limit - Level II (15/30) - 2013/06/16 0:35:23 BRT [2013/06/15 23:35:23 ET]
+Table '744111947 5' 9-max Seat #4 is the button
+Seat 1: hlebouras (40 in chips) is sitting out
+Seat 2: _$TÉPH@NIE_ (1980 in chips) 
+Seat 3: prs_toy (4000 in chips) 
+Seat 4: Kitzie83 (3970 in chips) 
+Seat 5: romka4363 (2000 in chips) out of hand (moved from another table into small blind)
+Seat 6: heineken226 (8060 in chips) 
+Seat 7: dfcastro.net (3950 in chips) 
+Seat 8: TheBigArtist (11980 in chips) 
+Seat 9: Jakob_1951 (4000 in chips) 
+heineken226: posts small blind 15
+dfcastro.net: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2d 5c]
+TheBigArtist: raises 11950 to 11980 and is all-in
+Jakob_1951: calls 4000 and is all-in
+hlebouras: folds 
+_$TÉPH@NIE_: folds 
+prs_toy: folds 
+Kitzie83: folds 
+heineken226: folds 
+dfcastro.net: folds 
+Uncalled bet (7980) returned to TheBigArtist
+*** FLOP *** [7d Qc 7c]
+*** TURN *** [7d Qc 7c] [6d]
+*** RIVER *** [7d Qc 7c 6d] [9d]
+*** SHOW DOWN ***
+TheBigArtist: shows [Td Tc] (two pair, Tens and Sevens)
+Jakob_1951: shows [Js Jc] (two pair, Jacks and Sevens)
+Jakob_1951 collected 8045 from pot
+*** SUMMARY ***
+Total pot 8045 | Rake 0 
+Board [7d Qc 7c 6d 9d]
+Seat 1: hlebouras folded before Flop (didn't bet)
+Seat 2: _$TÉPH@NIE_ folded before Flop (didn't bet)
+Seat 3: prs_toy folded before Flop (didn't bet)
+Seat 4: Kitzie83 (button) folded before Flop (didn't bet)
+Seat 6: heineken226 (small blind) folded before Flop
+Seat 7: dfcastro.net (big blind) folded before Flop
+Seat 8: TheBigArtist showed [Td Tc] and lost with two pair, Tens and Sevens
+Seat 9: Jakob_1951 showed [Js Jc] and won (8045) with two pair, Jacks and Sevens
+
+
+
+PokerStars Hand #100108454669: Tournament #744111947, 5FPP Hold'em No Limit - Level II (15/30) - 2013/06/16 0:35:57 BRT [2013/06/15 23:35:57 ET]
+Table '744111947 5' 9-max Seat #6 is the button
+Seat 2: _$TÉPH@NIE_ (1980 in chips) 
+Seat 3: prs_toy (4000 in chips) 
+Seat 4: Kitzie83 (3970 in chips) 
+Seat 5: romka4363 (2000 in chips) 
+Seat 6: heineken226 (8045 in chips) 
+Seat 7: dfcastro.net (3920 in chips) 
+Seat 8: TheBigArtist (7980 in chips) 
+Seat 9: Jakob_1951 (8045 in chips) 
+dfcastro.net: posts small blind 15
+TheBigArtist: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Jh 9c]
+Jakob_1951: calls 30
+_$TÉPH@NIE_: raises 1950 to 1980 and is all-in
+prs_toy: folds 
+Kitzie83: folds 
+romka4363: folds 
+heineken226: folds 
+dfcastro.net: folds 
+TheBigArtist: calls 1950
+Jakob_1951: calls 1950
+*** FLOP *** [9h 9d 5s]
+TheBigArtist: checks 
+Jakob_1951: checks 
+*** TURN *** [9h 9d 5s] [3s]
+TheBigArtist: bets 6000 and is all-in
+Jakob_1951: folds 
+Uncalled bet (6000) returned to TheBigArtist
+*** RIVER *** [9h 9d 5s 3s] [5h]
+*** SHOW DOWN ***
+TheBigArtist: shows [Ah 3h] (two pair, Nines and Fives)
+_$TÉPH@NIE_: shows [Td 3d] (two pair, Nines and Fives - lower kicker)
+TheBigArtist collected 5955 from pot
+_$TÉPH@NIE_ finished the tournament in 61st place
+*** SUMMARY ***
+Total pot 5955 | Rake 0 
+Board [9h 9d 5s 3s 5h]
+Seat 2: _$TÉPH@NIE_ showed [Td 3d] and lost with two pair, Nines and Fives
+Seat 3: prs_toy folded before Flop (didn't bet)
+Seat 4: Kitzie83 folded before Flop (didn't bet)
+Seat 5: romka4363 folded before Flop (didn't bet)
+Seat 6: heineken226 (button) folded before Flop (didn't bet)
+Seat 7: dfcastro.net (small blind) folded before Flop
+Seat 8: TheBigArtist (big blind) showed [Ah 3h] and won (5955) with two pair, Nines and Fives
+Seat 9: Jakob_1951 folded on the Turn
+
+
+
+PokerStars Hand #100108468973: Tournament #744111947, 5FPP Hold'em No Limit - Level II (15/30) - 2013/06/16 0:36:46 BRT [2013/06/15 23:36:46 ET]
+Table '744111947 5' 9-max Seat #7 is the button
+Seat 1: WarlleyJr (2000 in chips) 
+Seat 2: WESTCYDE#1 (2000 in chips) 
+Seat 3: prs_toy (4000 in chips) 
+Seat 4: Kitzie83 (3970 in chips) 
+Seat 5: romka4363 (2000 in chips) 
+Seat 6: heineken226 (8045 in chips) 
+Seat 7: dfcastro.net (3905 in chips) 
+Seat 8: TheBigArtist (11955 in chips) 
+Seat 9: Jakob_1951 (6065 in chips) 
+TheBigArtist: posts small blind 15
+Jakob_1951: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4c Jh]
+WarlleyJr: folds 
+WESTCYDE#1: calls 30
+prs_toy: folds 
+Kitzie83: calls 30
+romka4363: folds 
+heineken226: folds 
+dfcastro.net: folds 
+TheBigArtist: raises 180 to 210
+Jakob_1951: raises 5855 to 6065 and is all-in
+WESTCYDE#1: calls 1970 and is all-in
+Kitzie83: folds 
+TheBigArtist: calls 5855
+*** FLOP *** [Kh Qh Qd]
+*** TURN *** [Kh Qh Qd] [As]
+*** RIVER *** [Kh Qh Qd As] [9s]
+*** SHOW DOWN ***
+TheBigArtist: shows [Qs Ad] (a full house, Queens full of Aces)
+Jakob_1951: shows [Ts Th] (two pair, Queens and Tens)
+TheBigArtist collected 8130 from side pot
+WESTCYDE#1: shows [Tc 8c] (a pair of Queens)
+TheBigArtist collected 6030 from main pot
+Jakob_1951 re-buys and receives 4000 chips for 10 FPPs
+WESTCYDE#1 re-buys and receives 4000 chips for 10 FPPs
+*** SUMMARY ***
+Total pot 14160 Main pot 6030. Side pot 8130. | Rake 0 
+Board [Kh Qh Qd As 9s]
+Seat 1: WarlleyJr folded before Flop (didn't bet)
+Seat 2: WESTCYDE#1 showed [Tc 8c] and lost with a pair of Queens
+Seat 3: prs_toy folded before Flop (didn't bet)
+Seat 4: Kitzie83 folded before Flop
+Seat 5: romka4363 folded before Flop (didn't bet)
+Seat 6: heineken226 folded before Flop (didn't bet)
+Seat 7: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 8: TheBigArtist (small blind) showed [Qs Ad] and won (14160) with a full house, Queens full of Aces
+Seat 9: Jakob_1951 (big blind) showed [Ts Th] and lost with two pair, Queens and Tens
+
+
+
+PokerStars Hand #100108492219: Tournament #744111947, 5FPP Hold'em No Limit - Level II (15/30) - 2013/06/16 0:38:06 BRT [2013/06/15 23:38:06 ET]
+Table '744111947 5' 9-max Seat #8 is the button
+Seat 1: WarlleyJr (2000 in chips) 
+Seat 2: WESTCYDE#1 (4000 in chips) 
+Seat 3: prs_toy (4000 in chips) 
+Seat 4: Kitzie83 (3940 in chips) 
+Seat 5: romka4363 (2000 in chips) 
+Seat 6: heineken226 (8045 in chips) 
+Seat 7: dfcastro.net (3905 in chips) 
+Seat 8: TheBigArtist (20050 in chips) 
+Seat 9: Jakob_1951 (4000 in chips) 
+Jakob_1951: posts small blind 15
+WarlleyJr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7c 8d]
+WESTCYDE#1: folds 
+prs_toy: calls 30
+Kitzie83: folds 
+romka4363: calls 30
+heineken226: folds 
+dfcastro.net: folds 
+TheBigArtist: folds 
+Jakob_1951: folds 
+WarlleyJr: checks 
+*** FLOP *** [2h Kc 3s]
+WarlleyJr: folds 
+prs_toy: checks 
+romka4363: checks 
+*** TURN *** [2h Kc 3s] [Js]
+prs_toy: checks 
+romka4363: checks 
+*** RIVER *** [2h Kc 3s Js] [Qs]
+prs_toy: checks 
+romka4363: checks 
+*** SHOW DOWN ***
+prs_toy: shows [Ac 5s] (high card Ace)
+romka4363: mucks hand 
+prs_toy collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | Rake 0 
+Board [2h Kc 3s Js Qs]
+Seat 1: WarlleyJr (big blind) folded on the Flop
+Seat 2: WESTCYDE#1 folded before Flop (didn't bet)
+Seat 3: prs_toy showed [Ac 5s] and won (105) with high card Ace
+Seat 4: Kitzie83 folded before Flop (didn't bet)
+Seat 5: romka4363 mucked [9d 6s]
+Seat 6: heineken226 folded before Flop (didn't bet)
+Seat 7: dfcastro.net folded before Flop (didn't bet)
+Seat 8: TheBigArtist (button) folded before Flop (didn't bet)
+Seat 9: Jakob_1951 (small blind) folded before Flop
+
+
+
+PokerStars Hand #100108501950: Tournament #744111947, 5FPP Hold'em No Limit - Level II (15/30) - 2013/06/16 0:38:40 BRT [2013/06/15 23:38:40 ET]
+Table '744111947 5' 9-max Seat #9 is the button
+Seat 1: WarlleyJr (1970 in chips) 
+Seat 2: WESTCYDE#1 (4000 in chips) 
+Seat 3: prs_toy (4075 in chips) 
+Seat 4: Kitzie83 (3940 in chips) 
+Seat 5: romka4363 (1970 in chips) 
+Seat 6: heineken226 (8045 in chips) 
+Seat 7: dfcastro.net (3905 in chips) 
+Seat 8: TheBigArtist (20050 in chips) 
+Seat 9: Jakob_1951 (3985 in chips) 
+WarlleyJr: posts small blind 15
+WESTCYDE#1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Jc Jh]
+prs_toy: calls 30
+Kitzie83: folds 
+romka4363: calls 30
+heineken226 has timed out
+heineken226: folds 
+heineken226 is sitting out
+dfcastro.net: raises 105 to 135
+TheBigArtist: folds 
+Jakob_1951: folds 
+WarlleyJr: calls 120
+WESTCYDE#1: folds 
+prs_toy: calls 105
+romka4363: calls 105
+*** FLOP *** [As 6c Qc]
+WarlleyJr: folds 
+prs_toy: checks 
+romka4363: checks 
+dfcastro.net: checks 
+*** TURN *** [As 6c Qc] [Qd]
+prs_toy: checks 
+romka4363: checks 
+dfcastro.net: checks 
+*** RIVER *** [As 6c Qc Qd] [9h]
+prs_toy: bets 150
+romka4363: calls 150
+heineken226 has returned
+dfcastro.net: calls 150
+*** SHOW DOWN ***
+prs_toy: shows [3s Ac] (two pair, Aces and Queens)
+romka4363: mucks hand 
+dfcastro.net: mucks hand 
+prs_toy collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [As 6c Qc Qd 9h]
+Seat 1: WarlleyJr (small blind) folded on the Flop
+Seat 2: WESTCYDE#1 (big blind) folded before Flop
+Seat 3: prs_toy showed [3s Ac] and won (1020) with two pair, Aces and Queens
+Seat 4: Kitzie83 folded before Flop (didn't bet)
+Seat 5: romka4363 mucked [4h 4c]
+Seat 6: heineken226 folded before Flop (didn't bet)
+Seat 7: dfcastro.net mucked [Jc Jh]
+Seat 8: TheBigArtist folded before Flop (didn't bet)
+Seat 9: Jakob_1951 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100108526852: Tournament #744111947, 5FPP Hold'em No Limit - Level III (25/50) - 2013/06/16 0:40:07 BRT [2013/06/15 23:40:07 ET]
+Table '744111947 5' 9-max Seat #1 is the button
+Seat 1: WarlleyJr (1835 in chips) 
+Seat 2: WESTCYDE#1 (3970 in chips) 
+Seat 3: prs_toy (4810 in chips) 
+Seat 4: Kitzie83 (3940 in chips) 
+Seat 5: romka4363 (1685 in chips) 
+Seat 7: dfcastro.net (3620 in chips) 
+Seat 8: TheBigArtist (20050 in chips) 
+Seat 9: Jakob_1951 (3985 in chips) 
+WESTCYDE#1: posts small blind 25
+prs_toy: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Td 9d]
+Kitzie83: folds 
+romka4363: calls 50
+dfcastro.net: folds 
+TheBigArtist: folds 
+Jakob_1951: folds 
+WarlleyJr: calls 50
+WESTCYDE#1: raises 3920 to 3970 and is all-in
+prs_toy: raises 840 to 4810 and is all-in
+romka4363: folds 
+WarlleyJr: folds 
+Uncalled bet (840) returned to prs_toy
+WarlleyJr re-buys and receives 2000 chips for 5 FPPs
+*** FLOP *** [2h 9h 8h]
+*** TURN *** [2h 9h 8h] [2d]
+*** RIVER *** [2h 9h 8h 2d] [2c]
+*** SHOW DOWN ***
+WESTCYDE#1: shows [7c 7d] (a full house, Deuces full of Sevens)
+prs_toy: shows [Jh Ad] (three of a kind, Deuces)
+WESTCYDE#1 collected 8040 from pot
+*** SUMMARY ***
+Total pot 8040 | Rake 0 
+Board [2h 9h 8h 2d 2c]
+Seat 1: WarlleyJr (button) folded before Flop
+Seat 2: WESTCYDE#1 (small blind) showed [7c 7d] and won (8040) with a full house, Deuces full of Sevens
+Seat 3: prs_toy (big blind) showed [Jh Ad] and lost with three of a kind, Deuces
+Seat 4: Kitzie83 folded before Flop (didn't bet)
+Seat 5: romka4363 folded before Flop
+Seat 7: dfcastro.net folded before Flop (didn't bet)
+Seat 8: TheBigArtist folded before Flop (didn't bet)
+Seat 9: Jakob_1951 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100108537256: Tournament #744111947, 5FPP Hold'em No Limit - Level III (25/50) - 2013/06/16 0:40:43 BRT [2013/06/15 23:40:43 ET]
+Table '744111947 5' 9-max Seat #2 is the button
+Seat 1: WarlleyJr (3785 in chips) 
+Seat 2: WESTCYDE#1 (8040 in chips) 
+Seat 3: prs_toy (840 in chips) 
+Seat 4: Kitzie83 (3940 in chips) 
+Seat 5: romka4363 (1635 in chips) 
+Seat 6: KeeNchiK (2000 in chips) 
+Seat 7: dfcastro.net (3620 in chips) 
+Seat 8: TheBigArtist (20050 in chips) 
+Seat 9: Jakob_1951 (3985 in chips) 
+prs_toy: posts small blind 25
+Kitzie83: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2h Jd]
+romka4363: raises 50 to 100
+KeeNchiK: folds 
+dfcastro.net: folds 
+TheBigArtist: folds 
+Jakob_1951: calls 100
+WarlleyJr: folds 
+WESTCYDE#1: calls 100
+prs_toy: raises 740 to 840 and is all-in
+Kitzie83: raises 3100 to 3940 and is all-in
+romka4363: calls 1535 and is all-in
+Jakob_1951: raises 45 to 3985 and is all-in
+WESTCYDE#1: folds 
+Uncalled bet (45) returned to Jakob_1951
+*** FLOP *** [Ks Qs 6c]
+*** TURN *** [Ks Qs 6c] [3c]
+*** RIVER *** [Ks Qs 6c 3c] [7c]
+*** SHOW DOWN ***
+Kitzie83: shows [7d 7s] (three of a kind, Sevens)
+Jakob_1951: shows [Qc 9d] (a pair of Queens)
+Kitzie83 collected 4610 from side pot-2 
+romka4363: shows [5h 5s] (a pair of Fives)
+Kitzie83 collected 2385 from side pot-1 
+prs_toy: shows [7h 6d] (two pair, Sevens and Sixes)
+Kitzie83 collected 3460 from main pot
+prs_toy has timed out while disconnected
+prs_toy is sitting out
+romka4363 finished the tournament in 74th place
+prs_toy finished the tournament in 75th place
+*** SUMMARY ***
+Total pot 10455 Main pot 3460. Side pot-1 2385. Side pot-2 4610. | Rake 0 
+Board [Ks Qs 6c 3c 7c]
+Seat 1: WarlleyJr folded before Flop (didn't bet)
+Seat 2: WESTCYDE#1 (button) folded before Flop
+Seat 3: prs_toy (small blind) showed [7h 6d] and lost with two pair, Sevens and Sixes
+Seat 4: Kitzie83 (big blind) showed [7d 7s] and won (10455) with three of a kind, Sevens
+Seat 5: romka4363 showed [5h 5s] and lost with a pair of Fives
+Seat 6: KeeNchiK folded before Flop (didn't bet)
+Seat 7: dfcastro.net folded before Flop (didn't bet)
+Seat 8: TheBigArtist folded before Flop (didn't bet)
+Seat 9: Jakob_1951 showed [Qc 9d] and lost with a pair of Queens
+
+
+
+PokerStars Hand #100108560288: Tournament #744111947, 5FPP Hold'em No Limit - Level III (25/50) - 2013/06/16 0:42:03 BRT [2013/06/15 23:42:03 ET]
+Table '744111947 5' 9-max Seat #4 is the button
+Seat 1: WarlleyJr (3785 in chips) 
+Seat 2: WESTCYDE#1 (7940 in chips) 
+Seat 4: Kitzie83 (10455 in chips) 
+Seat 6: KeeNchiK (2000 in chips) 
+Seat 7: dfcastro.net (3620 in chips) 
+Seat 8: TheBigArtist (20050 in chips) 
+Seat 9: Jakob_1951 (45 in chips) 
+KeeNchiK: posts small blind 25
+dfcastro.net: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3c 5s]
+TheBigArtist: folds 
+Jakob_1951: calls 45 and is all-in
+Jakob_1951 re-buys and receives 2000 chips for 5 FPPs
+WarlleyJr: raises 100 to 150
+WESTCYDE#1: calls 150
+Kitzie83: calls 150
+KeeNchiK: raises 1850 to 2000 and is all-in
+dfcastro.net: folds 
+WarlleyJr: folds 
+WESTCYDE#1: calls 1850
+Kitzie83: calls 1850
+*** FLOP *** [2d 9h 6d]
+WESTCYDE#1: checks 
+Kitzie83: checks 
+*** TURN *** [2d 9h 6d] [5d]
+WESTCYDE#1: checks 
+Kitzie83: checks 
+*** RIVER *** [2d 9h 6d 5d] [5c]
+WESTCYDE#1: checks 
+Kitzie83: checks 
+*** SHOW DOWN ***
+KeeNchiK: shows [Kd Kc] (two pair, Kings and Fives)
+WESTCYDE#1: mucks hand 
+Kitzie83: mucks hand 
+KeeNchiK collected 5975 from side pot
+Jakob_1951: mucks hand 
+KeeNchiK collected 270 from main pot
+*** SUMMARY ***
+Total pot 6245 Main pot 270. Side pot 5975. | Rake 0 
+Board [2d 9h 6d 5d 5c]
+Seat 1: WarlleyJr folded before Flop
+Seat 2: WESTCYDE#1 mucked [7d Ah]
+Seat 4: Kitzie83 (button) mucked [Ks Tc]
+Seat 6: KeeNchiK (small blind) showed [Kd Kc] and won (6245) with two pair, Kings and Fives
+Seat 7: dfcastro.net (big blind) folded before Flop
+Seat 8: TheBigArtist folded before Flop (didn't bet)
+Seat 9: Jakob_1951 mucked [Ts 9s]
+
+
+
+PokerStars Hand #100108581015: Tournament #744111947, 5FPP Hold'em No Limit - Level III (25/50) - 2013/06/16 0:43:16 BRT [2013/06/15 23:43:16 ET]
+Table '744111947 5' 9-max Seat #6 is the button
+Seat 1: WarlleyJr (3635 in chips) 
+Seat 2: WESTCYDE#1 (5940 in chips) 
+Seat 4: Kitzie83 (8455 in chips) 
+Seat 5: fulloff85 (2000 in chips) 
+Seat 6: KeeNchiK (6245 in chips) 
+Seat 7: dfcastro.net (3570 in chips) 
+Seat 8: TheBigArtist (20050 in chips) 
+Seat 9: Jakob_1951 (2000 in chips) 
+dfcastro.net: posts small blind 25
+TheBigArtist: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8s As]
+Jakob_1951: raises 1950 to 2000 and is all-in
+Jakob_1951 re-buys and receives 2000 chips for 5 FPPs
+WarlleyJr: raises 1635 to 3635 and is all-in
+WESTCYDE#1: folds 
+Kitzie83: folds 
+fulloff85: folds 
+KeeNchiK: folds 
+dfcastro.net: calls 3545 and is all-in
+TheBigArtist: calls 3585
+*** FLOP *** [4c 3c 6c]
+*** TURN *** [4c 3c 6c] [6h]
+*** RIVER *** [4c 3c 6c 6h] [Kd]
+*** SHOW DOWN ***
+TheBigArtist: shows [Jh Jc] (two pair, Jacks and Sixes)
+WarlleyJr: shows [7s 9h] (a pair of Sixes)
+TheBigArtist collected 130 from side pot-2 
+dfcastro.net: shows [8s As] (a pair of Sixes)
+TheBigArtist collected 4710 from side pot-1 
+Jakob_1951: shows [7h 7d] (two pair, Sevens and Sixes)
+TheBigArtist collected 8000 from main pot
+WarlleyJr re-buys and receives 4000 chips for 10 FPPs
+dfcastro.net finished the tournament in 78th place
+*** SUMMARY ***
+Total pot 12840 Main pot 8000. Side pot-1 4710. Side pot-2 130. | Rake 0 
+Board [4c 3c 6c 6h Kd]
+Seat 1: WarlleyJr showed [7s 9h] and lost with a pair of Sixes
+Seat 2: WESTCYDE#1 folded before Flop (didn't bet)
+Seat 4: Kitzie83 folded before Flop (didn't bet)
+Seat 5: fulloff85 folded before Flop (didn't bet)
+Seat 6: KeeNchiK (button) folded before Flop (didn't bet)
+Seat 7: dfcastro.net (small blind) showed [8s As] and lost with a pair of Sixes
+Seat 8: TheBigArtist (big blind) showed [Jh Jc] and won (12840) with two pair, Jacks and Sixes
+Seat 9: Jakob_1951 showed [7h 7d] and lost with two pair, Sevens and Sixes
+
+
+

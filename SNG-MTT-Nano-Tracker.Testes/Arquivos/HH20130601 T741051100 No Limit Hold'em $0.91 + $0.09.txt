@@ -1,0 +1,4437 @@
+﻿PokerStars Hand #99417107668: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2013/06/01 13:01:12 BRT [2013/06/01 12:01:12 ET]
+Table '741051100 2' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (1350 in chips) 
+Seat 2: Meryl X (1730 in chips) 
+Seat 3: falcao25 (1460 in chips) 
+Seat 4: abxaz1k (1420 in chips) 
+Seat 5: havel_br (1470 in chips) 
+Seat 6: M190E (1400 in chips) 
+Seat 7: TomaszPB (1500 in chips) 
+Seat 8: NIK2S1960 (1760 in chips) 
+Seat 9: BrunoMarcos (1410 in chips) 
+Meryl X: posts small blind 10
+falcao25: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Jh 9s]
+abxaz1k: folds 
+havel_br: folds 
+M190E: calls 20
+TomaszPB: folds 
+NIK2S1960: calls 20
+BrunoMarcos has timed out
+BrunoMarcos: folds 
+BrunoMarcos is sitting out
+dfcastro.net: folds 
+Meryl X: calls 10
+falcao25: checks 
+*** FLOP *** [Kc 8d 4h]
+Meryl X: checks 
+falcao25: checks 
+M190E: checks 
+NIK2S1960: checks 
+*** TURN *** [Kc 8d 4h] [Ac]
+Meryl X: checks 
+falcao25: checks 
+M190E: checks 
+NIK2S1960: checks 
+*** RIVER *** [Kc 8d 4h Ac] [4c]
+Meryl X: checks 
+falcao25: checks 
+M190E: checks 
+NIK2S1960: folds 
+*** SHOW DOWN ***
+Meryl X: shows [Tc 7h] (a pair of Fours)
+falcao25: shows [6d Jc] (a pair of Fours - Ace+King+Jack kicker)
+M190E: shows [6c Js] (a pair of Fours)
+falcao25 collected 40 from pot
+M190E collected 40 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kc 8d 4h Ac 4c]
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 2: Meryl X (small blind) showed [Tc 7h] and lost with a pair of Fours
+Seat 3: falcao25 (big blind) showed [6d Jc] and won (40) with a pair of Fours
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: havel_br folded before Flop (didn't bet)
+Seat 6: M190E showed [6c Js] and won (40) with a pair of Fours
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded on the River
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99417166071: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2013/06/01 13:02:39 BRT [2013/06/01 12:02:39 ET]
+Table '741051100 2' 9-max Seat #2 is the button
+Seat 1: dfcastro.net (1350 in chips) 
+Seat 2: Meryl X (1710 in chips) 
+Seat 3: falcao25 (1480 in chips) 
+Seat 4: abxaz1k (1420 in chips) 
+Seat 5: havel_br (1470 in chips) 
+Seat 6: M190E (1420 in chips) 
+Seat 7: TomaszPB (1500 in chips) 
+Seat 8: NIK2S1960 (1740 in chips) 
+Seat 9: BrunoMarcos (1410 in chips) is sitting out
+falcao25: posts small blind 10
+abxaz1k: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3c 4s]
+havel_br: folds 
+M190E: calls 20
+TomaszPB: folds 
+NIK2S1960: folds 
+BrunoMarcos: folds 
+dfcastro.net: folds 
+Meryl X: calls 20
+falcao25: calls 10
+abxaz1k: checks 
+*** FLOP *** [5d Ad Qh]
+falcao25: checks 
+abxaz1k: checks 
+M190E: checks 
+Meryl X: bets 20
+falcao25: folds 
+abxaz1k: folds 
+M190E: folds 
+Uncalled bet (20) returned to Meryl X
+Meryl X collected 80 from pot
+Meryl X: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5d Ad Qh]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: Meryl X (button) collected (80)
+Seat 3: falcao25 (small blind) folded on the Flop
+Seat 4: abxaz1k (big blind) folded on the Flop
+Seat 5: havel_br folded before Flop (didn't bet)
+Seat 6: M190E folded on the Flop
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99417192188: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level I (10/20) - 2013/06/01 13:03:15 BRT [2013/06/01 12:03:15 ET]
+Table '741051100 2' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (1350 in chips) 
+Seat 2: Meryl X (1770 in chips) 
+Seat 3: falcao25 (1460 in chips) 
+Seat 4: abxaz1k (1400 in chips) 
+Seat 5: havel_br (1470 in chips) 
+Seat 6: M190E (1400 in chips) 
+Seat 7: TomaszPB (1500 in chips) 
+Seat 8: NIK2S1960 (1740 in chips) 
+Seat 9: BrunoMarcos (1410 in chips) is sitting out
+abxaz1k: posts small blind 10
+havel_br: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Js 5h]
+M190E: calls 20
+TomaszPB: folds 
+NIK2S1960: calls 20
+BrunoMarcos: folds 
+dfcastro.net: folds 
+Meryl X: calls 20
+falcao25: raises 50 to 70
+abxaz1k: folds 
+havel_br: folds 
+M190E: calls 50
+NIK2S1960: folds 
+Meryl X: calls 50
+*** FLOP *** [8c Qd 4d]
+M190E: checks 
+Meryl X: bets 20
+falcao25: raises 90 to 110
+M190E: calls 110
+Meryl X: calls 90
+*** TURN *** [8c Qd 4d] [5s]
+M190E: checks 
+Meryl X: checks 
+falcao25: checks 
+*** RIVER *** [8c Qd 4d 5s] [6h]
+M190E: bets 300
+Meryl X: raises 1290 to 1590 and is all-in
+falcao25: folds 
+M190E: calls 920 and is all-in
+Uncalled bet (370) returned to Meryl X
+*** SHOW DOWN ***
+Meryl X: shows [7c 5d] (a straight, Four to Eight)
+M190E: shows [8d Qs] (two pair, Queens and Eights)
+Meryl X collected 3030 from pot
+M190E finished the tournament in 43rd place
+*** SUMMARY ***
+Total pot 3030 | Rake 0 
+Board [8c Qd 4d 5s 6h]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: Meryl X showed [7c 5d] and won (3030) with a straight, Four to Eight
+Seat 3: falcao25 (button) folded on the River
+Seat 4: abxaz1k (small blind) folded before Flop
+Seat 5: havel_br (big blind) folded before Flop
+Seat 6: M190E showed [8d Qs] and lost with two pair, Queens and Eights
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99417287755: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2013/06/01 13:05:26 BRT [2013/06/01 12:05:26 ET]
+Table '741051100 2' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (1350 in chips) 
+Seat 2: Meryl X (3400 in chips) 
+Seat 3: falcao25 (1280 in chips) 
+Seat 4: abxaz1k (1390 in chips) 
+Seat 5: havel_br (1450 in chips) 
+Seat 7: TomaszPB (1500 in chips) 
+Seat 8: NIK2S1960 (1720 in chips) 
+Seat 9: BrunoMarcos (1410 in chips) is sitting out
+havel_br: posts small blind 15
+TomaszPB: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kh Jh]
+NIK2S1960: folds 
+BrunoMarcos: folds 
+dfcastro.net: folds 
+Meryl X: folds 
+falcao25: folds 
+abxaz1k: raises 30 to 60
+havel_br: folds 
+TomaszPB: folds 
+Uncalled bet (30) returned to abxaz1k
+BrunoMarcos has returned
+abxaz1k collected 75 from pot
+abxaz1k: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: Meryl X folded before Flop (didn't bet)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k (button) collected (75)
+Seat 5: havel_br (small blind) folded before Flop
+Seat 7: TomaszPB (big blind) folded before Flop
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99417316092: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2013/06/01 13:06:04 BRT [2013/06/01 12:06:04 ET]
+Table '741051100 2' 9-max Seat #5 is the button
+Seat 1: dfcastro.net (1350 in chips) 
+Seat 2: Meryl X (3400 in chips) 
+Seat 3: falcao25 (1280 in chips) 
+Seat 4: abxaz1k (1435 in chips) 
+Seat 5: havel_br (1435 in chips) 
+Seat 7: TomaszPB (1470 in chips) 
+Seat 8: NIK2S1960 (1720 in chips) 
+Seat 9: BrunoMarcos (1410 in chips) 
+TomaszPB: posts small blind 15
+NIK2S1960: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ah Qd]
+BrunoMarcos: raises 90 to 120
+dfcastro.net: calls 120
+Meryl X: folds 
+falcao25: folds 
+abxaz1k: folds 
+havel_br: folds 
+TomaszPB: folds 
+NIK2S1960: folds 
+*** FLOP *** [7d 8d 4s]
+BrunoMarcos: bets 210
+dfcastro.net: folds 
+Uncalled bet (210) returned to BrunoMarcos
+BrunoMarcos collected 285 from pot
+*** SUMMARY ***
+Total pot 285 | Rake 0 
+Board [7d 8d 4s]
+Seat 1: dfcastro.net folded on the Flop
+Seat 2: Meryl X folded before Flop (didn't bet)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: havel_br (button) folded before Flop (didn't bet)
+Seat 7: TomaszPB (small blind) folded before Flop
+Seat 8: NIK2S1960 (big blind) folded before Flop
+Seat 9: BrunoMarcos collected (285)
+
+
+
+PokerStars Hand #99417357208: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2013/06/01 13:06:59 BRT [2013/06/01 12:06:59 ET]
+Table '741051100 2' 9-max Seat #7 is the button
+Seat 1: dfcastro.net (1230 in chips) 
+Seat 2: Meryl X (3400 in chips) 
+Seat 3: falcao25 (1280 in chips) 
+Seat 4: abxaz1k (1435 in chips) 
+Seat 5: havel_br (1435 in chips) 
+Seat 7: TomaszPB (1455 in chips) 
+Seat 8: NIK2S1960 (1690 in chips) 
+Seat 9: BrunoMarcos (1575 in chips) 
+NIK2S1960: posts small blind 15
+BrunoMarcos: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Th 7d]
+dfcastro.net: folds 
+Meryl X: calls 30
+falcao25: folds 
+abxaz1k: folds 
+havel_br: folds 
+TomaszPB: folds 
+NIK2S1960: calls 15
+BrunoMarcos: checks 
+*** FLOP *** [8s 4d 6d]
+NIK2S1960: checks 
+BrunoMarcos: checks 
+Meryl X: checks 
+*** TURN *** [8s 4d 6d] [7c]
+NIK2S1960: checks 
+BrunoMarcos: checks 
+Meryl X: checks 
+*** RIVER *** [8s 4d 6d 7c] [Jh]
+NIK2S1960: checks 
+BrunoMarcos: checks 
+Meryl X: checks 
+*** SHOW DOWN ***
+NIK2S1960: shows [9h Kc] (high card King)
+BrunoMarcos: mucks hand 
+Meryl X: mucks hand 
+NIK2S1960 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [8s 4d 6d 7c Jh]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: Meryl X mucked [Ts Qs]
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: havel_br folded before Flop (didn't bet)
+Seat 7: TomaszPB (button) folded before Flop (didn't bet)
+Seat 8: NIK2S1960 (small blind) showed [9h Kc] and won (90) with high card King
+Seat 9: BrunoMarcos (big blind) mucked [2c Qh]
+
+
+
+PokerStars Hand #99417426226: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2013/06/01 13:08:31 BRT [2013/06/01 12:08:31 ET]
+Table '741051100 2' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (1230 in chips) 
+Seat 2: Meryl X (3370 in chips) 
+Seat 3: falcao25 (1280 in chips) 
+Seat 4: abxaz1k (1435 in chips) 
+Seat 5: havel_br (1435 in chips) 
+Seat 7: TomaszPB (1455 in chips) 
+Seat 8: NIK2S1960 (1750 in chips) 
+Seat 9: BrunoMarcos (1545 in chips) 
+BrunoMarcos: posts small blind 15
+dfcastro.net: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ks Qc]
+Meryl X: calls 30
+falcao25: folds 
+abxaz1k: folds 
+havel_br: folds 
+TomaszPB: folds 
+NIK2S1960: calls 30
+BrunoMarcos: calls 15
+dfcastro.net: checks 
+*** FLOP *** [6s Ad 9d]
+BrunoMarcos: checks 
+dfcastro.net: checks 
+Meryl X: bets 60
+NIK2S1960: calls 60
+BrunoMarcos: folds 
+dfcastro.net: calls 60
+*** TURN *** [6s Ad 9d] [8c]
+dfcastro.net: checks 
+Meryl X: checks 
+NIK2S1960: bets 60
+dfcastro.net: folds 
+Meryl X: raises 240 to 300
+NIK2S1960: calls 240
+*** RIVER *** [6s Ad 9d 8c] [Ac]
+Meryl X: checks 
+NIK2S1960: checks 
+*** SHOW DOWN ***
+Meryl X: shows [8h 9h] (two pair, Aces and Nines)
+NIK2S1960: mucks hand 
+Meryl X collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [6s Ad 9d 8c Ac]
+Seat 1: dfcastro.net (big blind) folded on the Turn
+Seat 2: Meryl X showed [8h 9h] and won (900) with two pair, Aces and Nines
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: havel_br folded before Flop (didn't bet)
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 (button) mucked [8d 7h]
+Seat 9: BrunoMarcos (small blind) folded on the Flop
+
+
+
+PokerStars Hand #99417509274: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2013/06/01 13:10:24 BRT [2013/06/01 12:10:24 ET]
+Table '741051100 2' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (1140 in chips) 
+Seat 2: Meryl X (3880 in chips) 
+Seat 3: falcao25 (1280 in chips) 
+Seat 4: abxaz1k (1435 in chips) 
+Seat 5: havel_br (1435 in chips) 
+Seat 7: TomaszPB (1455 in chips) 
+Seat 8: NIK2S1960 (1360 in chips) 
+Seat 9: BrunoMarcos (1515 in chips) 
+dfcastro.net: posts small blind 15
+Meryl X: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7s 9h]
+falcao25: folds 
+abxaz1k: folds 
+havel_br: folds 
+TomaszPB: raises 60 to 90
+NIK2S1960: folds 
+BrunoMarcos: folds 
+dfcastro.net: folds 
+Meryl X: calls 60
+*** FLOP *** [Ad 7d Jd]
+Meryl X: checks 
+TomaszPB: bets 90
+Meryl X: folds 
+Uncalled bet (90) returned to TomaszPB
+TomaszPB collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [Ad 7d Jd]
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 2: Meryl X (big blind) folded on the Flop
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: havel_br folded before Flop (didn't bet)
+Seat 7: TomaszPB collected (195)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99417568495: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2013/06/01 13:11:45 BRT [2013/06/01 12:11:45 ET]
+Table '741051100 2' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (1125 in chips) 
+Seat 2: Meryl X (3790 in chips) 
+Seat 3: falcao25 (1280 in chips) 
+Seat 4: abxaz1k (1435 in chips) 
+Seat 5: havel_br (1435 in chips) 
+Seat 7: TomaszPB (1560 in chips) 
+Seat 8: NIK2S1960 (1360 in chips) 
+Seat 9: BrunoMarcos (1515 in chips) 
+Meryl X: posts small blind 15
+falcao25: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7d 2c]
+abxaz1k: folds 
+havel_br: raises 60 to 90
+TomaszPB: folds 
+NIK2S1960: folds 
+BrunoMarcos: calls 90
+dfcastro.net: folds 
+Meryl X: folds 
+falcao25: folds 
+*** FLOP *** [Jc 9s 2h]
+havel_br: bets 150
+BrunoMarcos: calls 150
+*** TURN *** [Jc 9s 2h] [5s]
+havel_br: checks 
+BrunoMarcos: bets 240
+havel_br: calls 240
+*** RIVER *** [Jc 9s 2h 5s] [7s]
+havel_br: checks 
+BrunoMarcos: bets 1035 and is all-in
+havel_br: folds 
+Uncalled bet (1035) returned to BrunoMarcos
+BrunoMarcos collected 1005 from pot
+BrunoMarcos: doesn't show hand 
+*** SUMMARY ***
+Total pot 1005 | Rake 0 
+Board [Jc 9s 2h 5s 7s]
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 2: Meryl X (small blind) folded before Flop
+Seat 3: falcao25 (big blind) folded before Flop
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: havel_br folded on the River
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos collected (1005)
+
+
+
+PokerStars Hand #99417617688: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level II (15/30) - 2013/06/01 13:12:52 BRT [2013/06/01 12:12:52 ET]
+Table '741051100 2' 9-max Seat #2 is the button
+Seat 1: dfcastro.net (1125 in chips) 
+Seat 2: Meryl X (3775 in chips) 
+Seat 3: falcao25 (1250 in chips) 
+Seat 4: abxaz1k (1435 in chips) 
+Seat 5: havel_br (955 in chips) 
+Seat 7: TomaszPB (1560 in chips) 
+Seat 8: NIK2S1960 (1360 in chips) 
+Seat 9: BrunoMarcos (2040 in chips) 
+falcao25: posts small blind 15
+abxaz1k: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2d Kh]
+havel_br: calls 30
+TomaszPB: folds 
+NIK2S1960: calls 30
+BrunoMarcos: folds 
+dfcastro.net: folds 
+Meryl X: calls 30
+falcao25: calls 15
+abxaz1k: checks 
+*** FLOP *** [6s Qs Ah]
+falcao25: checks 
+abxaz1k: checks 
+havel_br: checks 
+NIK2S1960: checks 
+Meryl X: checks 
+*** TURN *** [6s Qs Ah] [2h]
+falcao25: checks 
+abxaz1k: checks 
+havel_br: checks 
+NIK2S1960: checks 
+Meryl X: checks 
+*** RIVER *** [6s Qs Ah 2h] [7d]
+falcao25: checks 
+abxaz1k: checks 
+havel_br: checks 
+NIK2S1960: checks 
+Meryl X: checks 
+*** SHOW DOWN ***
+falcao25: shows [8h Qc] (a pair of Queens)
+abxaz1k: mucks hand 
+havel_br: mucks hand 
+NIK2S1960: mucks hand 
+Meryl X: mucks hand 
+falcao25 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [6s Qs Ah 2h 7d]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: Meryl X (button) mucked [Jd 9c]
+Seat 3: falcao25 (small blind) showed [8h Qc] and won (150) with a pair of Queens
+Seat 4: abxaz1k (big blind) mucked [7h Ts]
+Seat 5: havel_br mucked [Jc Kd]
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 mucked [Kc 9d]
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99417715623: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2013/06/01 13:15:04 BRT [2013/06/01 12:15:04 ET]
+Table '741051100 2' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (1125 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 4: abxaz1k (1405 in chips) 
+Seat 5: havel_br (925 in chips) 
+Seat 7: TomaszPB (1560 in chips) 
+Seat 8: NIK2S1960 (1330 in chips) 
+Seat 9: BrunoMarcos (2040 in chips) 
+abxaz1k: posts small blind 25
+havel_br: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6s 7s]
+TomaszPB: folds 
+NIK2S1960: folds 
+BrunoMarcos: folds 
+dfcastro.net: folds 
+falcao25: folds 
+abxaz1k: calls 25
+havel_br: checks 
+*** FLOP *** [Ac 9d 4s]
+abxaz1k: checks 
+havel_br: bets 100
+abxaz1k: folds 
+Uncalled bet (100) returned to havel_br
+havel_br collected 100 from pot
+havel_br: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Ac 9d 4s]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: falcao25 (button) folded before Flop (didn't bet)
+Seat 4: abxaz1k (small blind) folded on the Flop
+Seat 5: havel_br (big blind) collected (100)
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99417747684: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2013/06/01 13:15:48 BRT [2013/06/01 12:15:48 ET]
+Table '741051100 2' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (1125 in chips) 
+Seat 2: autorität (1870 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 4: abxaz1k (1355 in chips) 
+Seat 5: havel_br (975 in chips) 
+Seat 6: I_inGodMode (270 in chips) 
+Seat 7: TomaszPB (1560 in chips) 
+Seat 8: NIK2S1960 (1330 in chips) 
+Seat 9: BrunoMarcos (2040 in chips) 
+havel_br: posts small blind 25
+I_inGodMode: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3c Qs]
+TomaszPB: folds 
+NIK2S1960: calls 50
+BrunoMarcos: calls 50
+dfcastro.net: folds 
+autorität: folds 
+falcao25: folds 
+abxaz1k: folds 
+havel_br: folds 
+I_inGodMode: checks 
+*** FLOP *** [Ad Kd 8s]
+I_inGodMode: checks 
+NIK2S1960: checks 
+BrunoMarcos: checks 
+*** TURN *** [Ad Kd 8s] [Jc]
+I_inGodMode: checks 
+NIK2S1960: bets 100
+BrunoMarcos: folds 
+I_inGodMode: folds 
+Uncalled bet (100) returned to NIK2S1960
+NIK2S1960 collected 175 from pot
+*** SUMMARY ***
+Total pot 175 | Rake 0 
+Board [Ad Kd 8s Jc]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: autorität folded before Flop (didn't bet)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k (button) folded before Flop (didn't bet)
+Seat 5: havel_br (small blind) folded before Flop
+Seat 6: I_inGodMode (big blind) folded on the Turn
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 collected (175)
+Seat 9: BrunoMarcos folded on the Turn
+
+
+
+PokerStars Hand #99417791156: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2013/06/01 13:16:47 BRT [2013/06/01 12:16:47 ET]
+Table '741051100 2' 9-max Seat #5 is the button
+Seat 1: dfcastro.net (1125 in chips) 
+Seat 2: autorität (1870 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 4: abxaz1k (1355 in chips) 
+Seat 5: havel_br (950 in chips) 
+Seat 6: I_inGodMode (220 in chips) 
+Seat 7: TomaszPB (1560 in chips) 
+Seat 8: NIK2S1960 (1455 in chips) 
+Seat 9: BrunoMarcos (1990 in chips) 
+I_inGodMode: posts small blind 25
+TomaszPB: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4c 8c]
+NIK2S1960: folds 
+BrunoMarcos: raises 200 to 250
+dfcastro.net: folds 
+autorität: folds 
+falcao25: folds 
+abxaz1k: folds 
+havel_br: folds 
+I_inGodMode: calls 195 and is all-in
+TomaszPB: folds 
+Uncalled bet (30) returned to BrunoMarcos
+*** FLOP *** [7h 2h 5s]
+*** TURN *** [7h 2h 5s] [9c]
+*** RIVER *** [7h 2h 5s 9c] [Kd]
+*** SHOW DOWN ***
+I_inGodMode: shows [As 7d] (a pair of Sevens)
+BrunoMarcos: shows [Ah Kh] (a pair of Kings)
+BrunoMarcos collected 490 from pot
+I_inGodMode finished the tournament in 36th place
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [7h 2h 5s 9c Kd]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: autorität folded before Flop (didn't bet)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: havel_br (button) folded before Flop (didn't bet)
+Seat 6: I_inGodMode (small blind) showed [As 7d] and lost with a pair of Sevens
+Seat 7: TomaszPB (big blind) folded before Flop
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos showed [Ah Kh] and won (490) with a pair of Kings
+
+
+
+PokerStars Hand #99417831153: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2013/06/01 13:17:42 BRT [2013/06/01 12:17:42 ET]
+Table '741051100 2' 9-max Seat #7 is the button
+Seat 1: dfcastro.net (1125 in chips) 
+Seat 2: autorität (1870 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 4: abxaz1k (1355 in chips) 
+Seat 5: havel_br (950 in chips) 
+Seat 7: TomaszPB (1510 in chips) 
+Seat 8: NIK2S1960 (1455 in chips) 
+Seat 9: BrunoMarcos (2260 in chips) 
+NIK2S1960: posts small blind 25
+BrunoMarcos: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2c Kc]
+dfcastro.net: folds 
+autorität: folds 
+falcao25: folds 
+abxaz1k: folds 
+havel_br: raises 75 to 125
+TomaszPB: folds 
+NIK2S1960: folds 
+BrunoMarcos: folds 
+Uncalled bet (75) returned to havel_br
+havel_br collected 125 from pot
+havel_br: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: autorität folded before Flop (didn't bet)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: havel_br collected (125)
+Seat 7: TomaszPB (button) folded before Flop (didn't bet)
+Seat 8: NIK2S1960 (small blind) folded before Flop
+Seat 9: BrunoMarcos (big blind) folded before Flop
+
+
+
+PokerStars Hand #99417854697: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2013/06/01 13:18:14 BRT [2013/06/01 12:18:14 ET]
+Table '741051100 2' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (1125 in chips) 
+Seat 2: autorität (1870 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 4: abxaz1k (1355 in chips) 
+Seat 5: havel_br (1025 in chips) 
+Seat 7: TomaszPB (1510 in chips) 
+Seat 8: NIK2S1960 (1430 in chips) 
+Seat 9: BrunoMarcos (2210 in chips) 
+BrunoMarcos: posts small blind 25
+dfcastro.net: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3s 6d]
+autorität: raises 100 to 150
+falcao25: folds 
+abxaz1k: folds 
+havel_br: folds 
+TomaszPB: folds 
+NIK2S1960: folds 
+BrunoMarcos: calls 125
+dfcastro.net: folds 
+*** FLOP *** [7s 5s As]
+BrunoMarcos: checks 
+autorität: checks 
+*** TURN *** [7s 5s As] [Ks]
+BrunoMarcos: checks 
+autorität: bets 50
+BrunoMarcos: raises 100 to 150
+autorität: raises 100 to 250
+BrunoMarcos: raises 200 to 450
+autorität: calls 200
+*** RIVER *** [7s 5s As Ks] [7h]
+BrunoMarcos: checks 
+autorität: bets 1250
+BrunoMarcos: folds 
+Uncalled bet (1250) returned to autorität
+autorität collected 1250 from pot
+autorität: doesn't show hand 
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Board [7s 5s As Ks 7h]
+Seat 1: dfcastro.net (big blind) folded before Flop
+Seat 2: autorität collected (1250)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: havel_br folded before Flop (didn't bet)
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 (button) folded before Flop (didn't bet)
+Seat 9: BrunoMarcos (small blind) folded on the River
+
+
+
+PokerStars Hand #99417917609: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2013/06/01 13:19:39 BRT [2013/06/01 12:19:39 ET]
+Table '741051100 2' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (1075 in chips) 
+Seat 2: autorität (2520 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 4: abxaz1k (1355 in chips) 
+Seat 5: havel_br (1025 in chips) 
+Seat 7: TomaszPB (1510 in chips) 
+Seat 8: NIK2S1960 (1430 in chips) 
+Seat 9: BrunoMarcos (1610 in chips) 
+dfcastro.net: posts small blind 25
+autorität: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ks 6c]
+falcao25: folds 
+abxaz1k: raises 50 to 100
+havel_br: folds 
+TomaszPB: folds 
+NIK2S1960: folds 
+BrunoMarcos: folds 
+dfcastro.net: folds 
+autorität: folds 
+Uncalled bet (50) returned to abxaz1k
+abxaz1k collected 125 from pot
+abxaz1k: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 2: autorität (big blind) folded before Flop
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k collected (125)
+Seat 5: havel_br folded before Flop (didn't bet)
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99417943068: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2013/06/01 13:20:14 BRT [2013/06/01 12:20:14 ET]
+Table '741051100 2' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (1050 in chips) 
+Seat 2: autorität (2470 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 4: abxaz1k (1430 in chips) 
+Seat 5: havel_br (1025 in chips) 
+Seat 7: TomaszPB (1510 in chips) 
+Seat 8: NIK2S1960 (1430 in chips) 
+Seat 9: BrunoMarcos (1610 in chips) 
+autorität: posts small blind 25
+falcao25: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Jh Ts]
+abxaz1k: folds 
+havel_br: folds 
+TomaszPB: folds 
+NIK2S1960: folds 
+BrunoMarcos: folds 
+dfcastro.net: folds 
+autorität: raises 50 to 100
+falcao25: folds 
+Uncalled bet (50) returned to autorität
+autorität collected 100 from pot
+autorität: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 2: autorität (small blind) collected (100)
+Seat 3: falcao25 (big blind) folded before Flop
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: havel_br folded before Flop (didn't bet)
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99417965494: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2013/06/01 13:20:45 BRT [2013/06/01 12:20:45 ET]
+Table '741051100 2' 9-max Seat #2 is the button
+Seat 1: dfcastro.net (1050 in chips) 
+Seat 2: autorität (2520 in chips) 
+Seat 3: falcao25 (1320 in chips) 
+Seat 4: abxaz1k (1430 in chips) 
+Seat 5: havel_br (1025 in chips) 
+Seat 7: TomaszPB (1510 in chips) 
+Seat 8: NIK2S1960 (1430 in chips) 
+Seat 9: BrunoMarcos (1610 in chips) 
+falcao25: posts small blind 25
+abxaz1k: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [9c Ah]
+havel_br: folds 
+TomaszPB: calls 50
+NIK2S1960: folds 
+BrunoMarcos: raises 250 to 300
+dfcastro.net: folds 
+autorität: folds 
+falcao25: folds 
+abxaz1k: folds 
+TomaszPB: folds 
+Uncalled bet (250) returned to BrunoMarcos
+BrunoMarcos collected 175 from pot
+*** SUMMARY ***
+Total pot 175 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: autorität (button) folded before Flop (didn't bet)
+Seat 3: falcao25 (small blind) folded before Flop
+Seat 4: abxaz1k (big blind) folded before Flop
+Seat 5: havel_br folded before Flop (didn't bet)
+Seat 7: TomaszPB folded before Flop
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos collected (175)
+
+
+
+PokerStars Hand #99417997297: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2013/06/01 13:21:28 BRT [2013/06/01 12:21:28 ET]
+Table '741051100 2' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (1050 in chips) 
+Seat 2: autorität (2520 in chips) 
+Seat 3: falcao25 (1295 in chips) 
+Seat 4: abxaz1k (1380 in chips) 
+Seat 5: havel_br (1025 in chips) 
+Seat 7: TomaszPB (1460 in chips) 
+Seat 8: NIK2S1960 (1430 in chips) 
+Seat 9: BrunoMarcos (1735 in chips) 
+abxaz1k: posts small blind 25
+havel_br: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Tc 5s]
+TomaszPB: folds 
+NIK2S1960: calls 50
+BrunoMarcos: folds 
+dfcastro.net: folds 
+autorität: folds 
+falcao25: folds 
+abxaz1k: calls 25
+havel_br: checks 
+*** FLOP *** [3d Qd 8h]
+abxaz1k: checks 
+havel_br: checks 
+NIK2S1960: bets 50
+abxaz1k: calls 50
+havel_br: folds 
+*** TURN *** [3d Qd 8h] [8s]
+abxaz1k: checks 
+NIK2S1960: checks 
+*** RIVER *** [3d Qd 8h 8s] [Qh]
+abxaz1k: bets 1280 and is all-in
+NIK2S1960: folds 
+Uncalled bet (1280) returned to abxaz1k
+abxaz1k collected 250 from pot
+abxaz1k: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [3d Qd 8h 8s Qh]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: autorität folded before Flop (didn't bet)
+Seat 3: falcao25 (button) folded before Flop (didn't bet)
+Seat 4: abxaz1k (small blind) collected (250)
+Seat 5: havel_br (big blind) folded on the Flop
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded on the River
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418048784: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2013/06/01 13:22:38 BRT [2013/06/01 12:22:38 ET]
+Table '741051100 2' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (1050 in chips) 
+Seat 2: autorität (2520 in chips) 
+Seat 3: falcao25 (1295 in chips) 
+Seat 4: abxaz1k (1530 in chips) 
+Seat 5: havel_br (975 in chips) 
+Seat 7: TomaszPB (1460 in chips) 
+Seat 8: NIK2S1960 (1330 in chips) 
+Seat 9: BrunoMarcos (1735 in chips) 
+havel_br: posts small blind 25
+TomaszPB: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6h Qh]
+NIK2S1960: raises 50 to 100
+BrunoMarcos: folds 
+dfcastro.net: folds 
+autorität: folds 
+falcao25: folds 
+abxaz1k: folds 
+havel_br: calls 75
+TomaszPB: folds 
+*** FLOP *** [Ac 6s 4s]
+havel_br: checks 
+NIK2S1960: bets 100
+havel_br: folds 
+Uncalled bet (100) returned to NIK2S1960
+NIK2S1960 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [Ac 6s 4s]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: autorität folded before Flop (didn't bet)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k (button) folded before Flop (didn't bet)
+Seat 5: havel_br (small blind) folded on the Flop
+Seat 7: TomaszPB (big blind) folded before Flop
+Seat 8: NIK2S1960 collected (250)
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418089835: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level III (25/50) - 2013/06/01 13:23:34 BRT [2013/06/01 12:23:34 ET]
+Table '741051100 2' 9-max Seat #5 is the button
+Seat 1: dfcastro.net (1050 in chips) 
+Seat 2: autorität (2520 in chips) 
+Seat 3: falcao25 (1295 in chips) 
+Seat 4: abxaz1k (1530 in chips) 
+Seat 5: havel_br (875 in chips) 
+Seat 7: TomaszPB (1410 in chips) 
+Seat 8: NIK2S1960 (1480 in chips) 
+Seat 9: BrunoMarcos (1735 in chips) 
+TomaszPB: posts small blind 25
+NIK2S1960: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6d Th]
+BrunoMarcos: folds 
+dfcastro.net: folds 
+autorität: folds 
+falcao25: folds 
+abxaz1k: folds 
+havel_br: raises 50 to 100
+TomaszPB: folds 
+NIK2S1960: calls 50
+*** FLOP *** [Kh 4d 2h]
+NIK2S1960: bets 100
+havel_br: calls 100
+*** TURN *** [Kh 4d 2h] [2s]
+NIK2S1960: bets 100
+havel_br: calls 100
+*** RIVER *** [Kh 4d 2h 2s] [7d]
+NIK2S1960: bets 100
+havel_br: folds 
+Uncalled bet (100) returned to NIK2S1960
+NIK2S1960 collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | Rake 0 
+Board [Kh 4d 2h 2s 7d]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: autorität folded before Flop (didn't bet)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: havel_br (button) folded on the River
+Seat 7: TomaszPB (small blind) folded before Flop
+Seat 8: NIK2S1960 (big blind) collected (625)
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418134501: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level IV (50/100) - 2013/06/01 13:24:35 BRT [2013/06/01 12:24:35 ET]
+Table '741051100 2' 9-max Seat #7 is the button
+Seat 1: dfcastro.net (1050 in chips) 
+Seat 2: autorität (2520 in chips) 
+Seat 3: falcao25 (1295 in chips) 
+Seat 4: abxaz1k (1530 in chips) 
+Seat 5: havel_br (575 in chips) 
+Seat 7: TomaszPB (1385 in chips) 
+Seat 8: NIK2S1960 (1805 in chips) 
+Seat 9: BrunoMarcos (1735 in chips) 
+NIK2S1960: posts small blind 50
+BrunoMarcos: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2d 3s]
+dfcastro.net: folds 
+autorität: folds 
+falcao25: folds 
+abxaz1k: folds 
+havel_br: folds 
+TomaszPB: folds 
+NIK2S1960: folds 
+Uncalled bet (50) returned to BrunoMarcos
+BrunoMarcos collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: autorität folded before Flop (didn't bet)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: havel_br folded before Flop (didn't bet)
+Seat 7: TomaszPB (button) folded before Flop (didn't bet)
+Seat 8: NIK2S1960 (small blind) folded before Flop
+Seat 9: BrunoMarcos (big blind) collected (100)
+
+
+
+PokerStars Hand #99418156914: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level IV (50/100) - 2013/06/01 13:25:06 BRT [2013/06/01 12:25:06 ET]
+Table '741051100 2' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (1050 in chips) 
+Seat 2: autorität (2520 in chips) 
+Seat 3: falcao25 (1295 in chips) 
+Seat 4: abxaz1k (1530 in chips) 
+Seat 5: havel_br (575 in chips) 
+Seat 7: TomaszPB (1385 in chips) 
+Seat 8: NIK2S1960 (1755 in chips) 
+Seat 9: BrunoMarcos (1785 in chips) 
+BrunoMarcos: posts small blind 50
+dfcastro.net: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ac Kc]
+autorität: raises 200 to 300
+falcao25: folds 
+abxaz1k: folds 
+havel_br: folds 
+TomaszPB: folds 
+NIK2S1960: folds 
+BrunoMarcos: folds 
+dfcastro.net: raises 750 to 1050 and is all-in
+autorität: calls 750
+*** FLOP *** [9c 4s 6c]
+*** TURN *** [9c 4s 6c] [2d]
+*** RIVER *** [9c 4s 6c 2d] [Ah]
+*** SHOW DOWN ***
+dfcastro.net: shows [Ac Kc] (a pair of Aces)
+autorität: shows [Qh As] (a pair of Aces - lower kicker)
+dfcastro.net collected 2150 from pot
+*** SUMMARY ***
+Total pot 2150 | Rake 0 
+Board [9c 4s 6c 2d Ah]
+Seat 1: dfcastro.net (big blind) showed [Ac Kc] and won (2150) with a pair of Aces
+Seat 2: autorität showed [Qh As] and lost with a pair of Aces
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: havel_br folded before Flop (didn't bet)
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 (button) folded before Flop (didn't bet)
+Seat 9: BrunoMarcos (small blind) folded before Flop
+
+
+
+PokerStars Hand #99418183745: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level IV (50/100) - 2013/06/01 13:25:43 BRT [2013/06/01 12:25:43 ET]
+Table '741051100 2' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (2150 in chips) 
+Seat 2: autorität (1470 in chips) 
+Seat 3: falcao25 (1295 in chips) 
+Seat 4: abxaz1k (1530 in chips) 
+Seat 5: havel_br (575 in chips) 
+Seat 7: TomaszPB (1385 in chips) 
+Seat 8: NIK2S1960 (1755 in chips) 
+Seat 9: BrunoMarcos (1735 in chips) 
+dfcastro.net: posts small blind 50
+autorität: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Th 9d]
+falcao25: folds 
+abxaz1k: folds 
+havel_br: raises 475 to 575 and is all-in
+TomaszPB: folds 
+NIK2S1960: folds 
+BrunoMarcos: folds 
+dfcastro.net: folds 
+autorität: folds 
+Uncalled bet (475) returned to havel_br
+havel_br collected 250 from pot
+havel_br: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 2: autorität (big blind) folded before Flop
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: havel_br collected (250)
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418204792: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level IV (50/100) - 2013/06/01 13:26:12 BRT [2013/06/01 12:26:12 ET]
+Table '741051100 2' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (2100 in chips) 
+Seat 2: autorität (1370 in chips) 
+Seat 3: falcao25 (1295 in chips) 
+Seat 4: abxaz1k (1530 in chips) 
+Seat 5: havel_br (725 in chips) 
+Seat 7: TomaszPB (1385 in chips) 
+Seat 8: NIK2S1960 (1755 in chips) 
+Seat 9: BrunoMarcos (1735 in chips) 
+autorität: posts small blind 50
+falcao25: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4d 6s]
+abxaz1k: folds 
+havel_br: raises 625 to 725 and is all-in
+TomaszPB: folds 
+NIK2S1960: calls 725
+BrunoMarcos: folds 
+dfcastro.net: folds 
+autorität: folds 
+falcao25: folds 
+*** FLOP *** [7d Kc 6c]
+*** TURN *** [7d Kc 6c] [2d]
+*** RIVER *** [7d Kc 6c 2d] [Ac]
+*** SHOW DOWN ***
+havel_br: shows [Kh 9h] (a pair of Kings)
+NIK2S1960: shows [Ks Js] (a pair of Kings - Ace+Jack kicker)
+NIK2S1960 collected 1600 from pot
+havel_br finished the tournament in 31st place
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Board [7d Kc 6c 2d Ac]
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 2: autorität (small blind) folded before Flop
+Seat 3: falcao25 (big blind) folded before Flop
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: havel_br showed [Kh 9h] and lost with a pair of Kings
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 showed [Ks Js] and won (1600) with a pair of Kings
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418234537: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level IV (50/100) - 2013/06/01 13:26:52 BRT [2013/06/01 12:26:52 ET]
+Table '741051100 2' 9-max Seat #2 is the button
+Seat 1: dfcastro.net (2100 in chips) 
+Seat 2: autorität (1320 in chips) 
+Seat 3: falcao25 (1195 in chips) 
+Seat 4: abxaz1k (1530 in chips) 
+Seat 7: TomaszPB (1385 in chips) 
+Seat 8: NIK2S1960 (2630 in chips) 
+Seat 9: BrunoMarcos (1735 in chips) 
+falcao25: posts small blind 50
+abxaz1k: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2d Td]
+TomaszPB: folds 
+NIK2S1960: folds 
+BrunoMarcos: folds 
+dfcastro.net: folds 
+autorität: raises 200 to 300
+falcao25: folds 
+abxaz1k: calls 200
+*** FLOP *** [Ts Jd 9c]
+abxaz1k: checks 
+autorität: bets 300
+abxaz1k: raises 930 to 1230 and is all-in
+autorität: calls 720 and is all-in
+Uncalled bet (210) returned to abxaz1k
+*** TURN *** [Ts Jd 9c] [4d]
+*** RIVER *** [Ts Jd 9c 4d] [7h]
+*** SHOW DOWN ***
+abxaz1k: shows [Kd As] (high card Ace)
+autorität: shows [Ad Qs] (high card Ace - lower kicker)
+abxaz1k collected 2690 from pot
+autorität finished the tournament in 29th place
+*** SUMMARY ***
+Total pot 2690 | Rake 0 
+Board [Ts Jd 9c 4d 7h]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: autorität (button) showed [Ad Qs] and lost with high card Ace
+Seat 3: falcao25 (small blind) folded before Flop
+Seat 4: abxaz1k (big blind) showed [Kd As] and won (2690) with high card Ace
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418267884: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level IV (50/100) - 2013/06/01 13:27:38 BRT [2013/06/01 12:27:38 ET]
+Table '741051100 2' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (2100 in chips) 
+Seat 3: falcao25 (1145 in chips) 
+Seat 4: abxaz1k (2900 in chips) 
+Seat 7: TomaszPB (1385 in chips) 
+Seat 8: NIK2S1960 (2630 in chips) 
+Seat 9: BrunoMarcos (1735 in chips) 
+abxaz1k: posts small blind 50
+TomaszPB: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Td 4s]
+NIK2S1960: folds 
+BrunoMarcos: folds 
+dfcastro.net: folds 
+falcao25: folds 
+abxaz1k: calls 50
+TomaszPB: checks 
+*** FLOP *** [Ah 6c 9c]
+abxaz1k: checks 
+TomaszPB: checks 
+*** TURN *** [Ah 6c 9c] [As]
+abxaz1k: checks 
+TomaszPB: checks 
+*** RIVER *** [Ah 6c 9c As] [5c]
+abxaz1k: checks 
+TomaszPB: checks 
+*** SHOW DOWN ***
+abxaz1k: shows [9d Kc] (two pair, Aces and Nines)
+TomaszPB: mucks hand 
+abxaz1k collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Ah 6c 9c As 5c]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: falcao25 (button) folded before Flop (didn't bet)
+Seat 4: abxaz1k (small blind) showed [9d Kc] and won (200) with two pair, Aces and Nines
+Seat 7: TomaszPB (big blind) mucked [5h 8d]
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418307261: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level IV (50/100) - 2013/06/01 13:28:33 BRT [2013/06/01 12:28:33 ET]
+Table '741051100 2' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (2100 in chips) 
+Seat 2: GEOPAR (2555 in chips) 
+Seat 3: falcao25 (1145 in chips) 
+Seat 4: abxaz1k (3000 in chips) 
+Seat 7: TomaszPB (1285 in chips) 
+Seat 8: NIK2S1960 (2630 in chips) 
+Seat 9: BrunoMarcos (1735 in chips) 
+TomaszPB: posts small blind 50
+NIK2S1960: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ad 3c]
+BrunoMarcos: folds 
+dfcastro.net: folds 
+GEOPAR: folds 
+falcao25: raises 1045 to 1145 and is all-in
+abxaz1k: folds 
+TomaszPB: folds 
+NIK2S1960: folds 
+Uncalled bet (1045) returned to falcao25
+falcao25 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR folded before Flop (didn't bet)
+Seat 3: falcao25 collected (250)
+Seat 4: abxaz1k (button) folded before Flop (didn't bet)
+Seat 7: TomaszPB (small blind) folded before Flop
+Seat 8: NIK2S1960 (big blind) folded before Flop
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418332786: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level IV (50/100) - 2013/06/01 13:29:08 BRT [2013/06/01 12:29:08 ET]
+Table '741051100 2' 9-max Seat #7 is the button
+Seat 1: dfcastro.net (2100 in chips) 
+Seat 2: GEOPAR (2555 in chips) 
+Seat 3: falcao25 (1295 in chips) 
+Seat 4: abxaz1k (3000 in chips) 
+Seat 5: k@sepr-r-r (4415 in chips) 
+Seat 6: Roma bub (2105 in chips) 
+Seat 7: TomaszPB (1235 in chips) 
+Seat 8: NIK2S1960 (2530 in chips) 
+Seat 9: BrunoMarcos (1735 in chips) 
+NIK2S1960: posts small blind 50
+BrunoMarcos: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3h 2d]
+dfcastro.net: folds 
+GEOPAR: folds 
+falcao25: folds 
+abxaz1k: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+TomaszPB: raises 100 to 200
+NIK2S1960: folds 
+BrunoMarcos: folds 
+Uncalled bet (100) returned to TomaszPB
+TomaszPB collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR folded before Flop (didn't bet)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 7: TomaszPB (button) collected (250)
+Seat 8: NIK2S1960 (small blind) folded before Flop
+Seat 9: BrunoMarcos (big blind) folded before Flop
+
+
+
+PokerStars Hand #99418370199: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level IV (50/100) - 2013/06/01 13:29:59 BRT [2013/06/01 12:29:59 ET]
+Table '741051100 2' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (2100 in chips) 
+Seat 2: GEOPAR (2555 in chips) 
+Seat 3: falcao25 (1295 in chips) 
+Seat 4: abxaz1k (3000 in chips) 
+Seat 5: k@sepr-r-r (4415 in chips) 
+Seat 6: Roma bub (2105 in chips) 
+Seat 7: TomaszPB (1385 in chips) 
+Seat 8: NIK2S1960 (2480 in chips) 
+Seat 9: BrunoMarcos (1635 in chips) 
+BrunoMarcos: posts small blind 50
+dfcastro.net: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Jc Ad]
+GEOPAR: folds 
+falcao25: folds 
+abxaz1k: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+TomaszPB: folds 
+NIK2S1960: raises 100 to 200
+BrunoMarcos: folds 
+dfcastro.net: calls 100
+*** FLOP *** [2c 4h 6h]
+dfcastro.net: checks 
+NIK2S1960: bets 100
+dfcastro.net: calls 100
+*** TURN *** [2c 4h 6h] [Th]
+dfcastro.net: checks 
+NIK2S1960: bets 100
+dfcastro.net: folds 
+Uncalled bet (100) returned to NIK2S1960
+NIK2S1960 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [2c 4h 6h Th]
+Seat 1: dfcastro.net (big blind) folded on the Turn
+Seat 2: GEOPAR folded before Flop (didn't bet)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 (button) collected (650)
+Seat 9: BrunoMarcos (small blind) folded before Flop
+
+
+
+PokerStars Hand #99418412781: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level IV (50/100) - 2013/06/01 13:30:57 BRT [2013/06/01 12:30:57 ET]
+Table '741051100 2' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (1800 in chips) 
+Seat 2: GEOPAR (2555 in chips) 
+Seat 3: falcao25 (1295 in chips) 
+Seat 4: abxaz1k (3000 in chips) 
+Seat 5: k@sepr-r-r (4415 in chips) 
+Seat 6: Roma bub (2105 in chips) 
+Seat 7: TomaszPB (1385 in chips) 
+Seat 8: NIK2S1960 (2830 in chips) 
+Seat 9: BrunoMarcos (1585 in chips) 
+dfcastro.net: posts small blind 50
+GEOPAR: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5c Js]
+falcao25: folds 
+abxaz1k: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+TomaszPB: raises 100 to 200
+NIK2S1960: folds 
+BrunoMarcos: calls 200
+dfcastro.net: folds 
+GEOPAR: calls 100
+*** FLOP *** [3c Kh 5h]
+GEOPAR: checks 
+TomaszPB: checks 
+BrunoMarcos: checks 
+*** TURN *** [3c Kh 5h] [Th]
+GEOPAR: bets 300
+TomaszPB: folds 
+BrunoMarcos: folds 
+Uncalled bet (300) returned to GEOPAR
+GEOPAR collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [3c Kh 5h Th]
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 2: GEOPAR (big blind) collected (650)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 7: TomaszPB folded on the Turn
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos (button) folded on the Turn
+
+
+
+PokerStars Hand #99418450174: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level IV (50/100) - 2013/06/01 13:31:47 BRT [2013/06/01 12:31:47 ET]
+Table '741051100 2' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (1750 in chips) 
+Seat 2: GEOPAR (3005 in chips) 
+Seat 3: falcao25 (1295 in chips) 
+Seat 4: abxaz1k (3000 in chips) 
+Seat 5: k@sepr-r-r (4415 in chips) 
+Seat 6: Roma bub (2105 in chips) 
+Seat 7: TomaszPB (1185 in chips) 
+Seat 8: NIK2S1960 (2830 in chips) 
+Seat 9: BrunoMarcos (1385 in chips) 
+GEOPAR: posts small blind 50
+falcao25: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5d 8s]
+abxaz1k: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+TomaszPB: raises 100 to 200
+NIK2S1960: folds 
+BrunoMarcos: folds 
+dfcastro.net: folds 
+GEOPAR: calls 150
+falcao25: folds 
+*** FLOP *** [6c 3h Ac]
+GEOPAR: checks 
+TomaszPB: bets 200
+GEOPAR: calls 200
+*** TURN *** [6c 3h Ac] [Kc]
+GEOPAR: checks 
+TomaszPB: checks 
+*** RIVER *** [6c 3h Ac Kc] [2s]
+GEOPAR: bets 400
+TomaszPB: folds 
+Uncalled bet (400) returned to GEOPAR
+GEOPAR collected 900 from pot
+GEOPAR: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [6c 3h Ac Kc 2s]
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 2: GEOPAR (small blind) collected (900)
+Seat 3: falcao25 (big blind) folded before Flop
+Seat 4: abxaz1k folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 7: TomaszPB folded on the River
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418481001: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level IV (50/100) - 2013/06/01 13:32:29 BRT [2013/06/01 12:32:29 ET]
+Table '741051100 2' 9-max Seat #2 is the button
+Seat 1: dfcastro.net (1750 in chips) 
+Seat 2: GEOPAR (3505 in chips) 
+Seat 3: falcao25 (1195 in chips) 
+Seat 4: abxaz1k (3000 in chips) 
+Seat 5: k@sepr-r-r (4415 in chips) 
+Seat 6: Roma bub (2105 in chips) 
+Seat 7: TomaszPB (785 in chips) 
+Seat 8: NIK2S1960 (2830 in chips) 
+Seat 9: BrunoMarcos (1385 in chips) 
+falcao25: posts small blind 50
+abxaz1k: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2h 4s]
+k@sepr-r-r: folds 
+Roma bub: folds 
+TomaszPB: raises 100 to 200
+NIK2S1960: folds 
+BrunoMarcos: folds 
+dfcastro.net: folds 
+GEOPAR: calls 200
+falcao25: folds 
+abxaz1k: folds 
+*** FLOP *** [5s 9d 7d]
+TomaszPB: bets 200
+GEOPAR: calls 200
+*** TURN *** [5s 9d 7d] [7s]
+TomaszPB: checks 
+GEOPAR: bets 300
+TomaszPB: folds 
+Uncalled bet (300) returned to GEOPAR
+GEOPAR collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [5s 9d 7d 7s]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR (button) collected (950)
+Seat 3: falcao25 (small blind) folded before Flop
+Seat 4: abxaz1k (big blind) folded before Flop
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 7: TomaszPB folded on the Turn
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418515665: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level IV (50/100) - 2013/06/01 13:33:16 BRT [2013/06/01 12:33:16 ET]
+Table '741051100 2' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (1750 in chips) 
+Seat 2: GEOPAR (4055 in chips) 
+Seat 3: falcao25 (1145 in chips) 
+Seat 4: abxaz1k (2900 in chips) 
+Seat 5: k@sepr-r-r (4415 in chips) 
+Seat 6: Roma bub (2105 in chips) 
+Seat 7: TomaszPB (385 in chips) 
+Seat 8: NIK2S1960 (2830 in chips) 
+Seat 9: BrunoMarcos (1385 in chips) 
+abxaz1k: posts small blind 50
+k@sepr-r-r: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Jc 6c]
+Roma bub: folds 
+Roma bub is sitting out
+Roma bub has returned
+TomaszPB: raises 285 to 385 and is all-in
+NIK2S1960: folds 
+BrunoMarcos: folds 
+dfcastro.net: folds 
+GEOPAR: folds 
+falcao25: folds 
+abxaz1k: folds 
+k@sepr-r-r: folds 
+Uncalled bet (285) returned to TomaszPB
+TomaszPB collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR folded before Flop (didn't bet)
+Seat 3: falcao25 (button) folded before Flop (didn't bet)
+Seat 4: abxaz1k (small blind) folded before Flop
+Seat 5: k@sepr-r-r (big blind) folded before Flop
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 7: TomaszPB collected (250)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418553553: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:34:07 BRT [2013/06/01 12:34:07 ET]
+Table '741051100 2' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (1750 in chips) 
+Seat 2: GEOPAR (4055 in chips) 
+Seat 3: falcao25 (1145 in chips) 
+Seat 4: abxaz1k (2850 in chips) 
+Seat 5: k@sepr-r-r (4315 in chips) 
+Seat 6: Roma bub (2105 in chips) 
+Seat 7: TomaszPB (535 in chips) 
+Seat 8: NIK2S1960 (2830 in chips) 
+Seat 9: BrunoMarcos (1385 in chips) 
+k@sepr-r-r: posts small blind 75
+Roma bub: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3c Jh]
+TomaszPB: raises 385 to 535 and is all-in
+NIK2S1960: folds 
+BrunoMarcos: folds 
+dfcastro.net: folds 
+GEOPAR: folds 
+falcao25: folds 
+abxaz1k: folds 
+k@sepr-r-r: folds 
+Roma bub: calls 385
+*** FLOP *** [6s Ks Js]
+*** TURN *** [6s Ks Js] [4h]
+*** RIVER *** [6s Ks Js 4h] [4c]
+*** SHOW DOWN ***
+Roma bub: shows [Jc Qd] (two pair, Jacks and Fours)
+TomaszPB: shows [Kd Ac] (two pair, Kings and Fours)
+TomaszPB collected 1145 from pot
+*** SUMMARY ***
+Total pot 1145 | Rake 0 
+Board [6s Ks Js 4h 4c]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR folded before Flop (didn't bet)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: abxaz1k (button) folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r (small blind) folded before Flop
+Seat 6: Roma bub (big blind) showed [Jc Qd] and lost with two pair, Jacks and Fours
+Seat 7: TomaszPB showed [Kd Ac] and won (1145) with two pair, Kings and Fours
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418576316: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:34:38 BRT [2013/06/01 12:34:38 ET]
+Table '741051100 2' 9-max Seat #5 is the button
+Seat 1: dfcastro.net (1750 in chips) 
+Seat 2: GEOPAR (4055 in chips) 
+Seat 3: falcao25 (1145 in chips) 
+Seat 5: k@sepr-r-r (4240 in chips) 
+Seat 6: Roma bub (1570 in chips) 
+Seat 7: TomaszPB (1145 in chips) 
+Seat 8: NIK2S1960 (2830 in chips) 
+Seat 9: BrunoMarcos (1385 in chips) 
+Roma bub: posts small blind 75
+TomaszPB: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8s 6h]
+NIK2S1960: folds 
+BrunoMarcos: folds 
+dfcastro.net: folds 
+GEOPAR: folds 
+falcao25: raises 995 to 1145 and is all-in
+k@sepr-r-r: folds 
+Roma bub: folds 
+TomaszPB: folds 
+Uncalled bet (995) returned to falcao25
+falcao25 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR folded before Flop (didn't bet)
+Seat 3: falcao25 collected (375)
+Seat 5: k@sepr-r-r (button) folded before Flop (didn't bet)
+Seat 6: Roma bub (small blind) folded before Flop
+Seat 7: TomaszPB (big blind) folded before Flop
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418597788: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:35:07 BRT [2013/06/01 12:35:07 ET]
+Table '741051100 2' 9-max Seat #6 is the button
+Seat 1: dfcastro.net (1750 in chips) 
+Seat 2: GEOPAR (4055 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 5: k@sepr-r-r (4240 in chips) 
+Seat 6: Roma bub (1495 in chips) 
+Seat 7: TomaszPB (995 in chips) 
+Seat 8: NIK2S1960 (2830 in chips) 
+Seat 9: BrunoMarcos (1385 in chips) 
+TomaszPB: posts small blind 75
+NIK2S1960: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Jc Ah]
+BrunoMarcos: folds 
+dfcastro.net: raises 180 to 330
+GEOPAR: folds 
+falcao25: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+TomaszPB: folds 
+NIK2S1960: folds 
+Uncalled bet (180) returned to dfcastro.net
+dfcastro.net collected 375 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: dfcastro.net collected (375)
+Seat 2: GEOPAR folded before Flop (didn't bet)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub (button) folded before Flop (didn't bet)
+Seat 7: TomaszPB (small blind) folded before Flop
+Seat 8: NIK2S1960 (big blind) folded before Flop
+Seat 9: BrunoMarcos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418629049: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:35:49 BRT [2013/06/01 12:35:49 ET]
+Table '741051100 2' 9-max Seat #7 is the button
+Seat 1: dfcastro.net (1975 in chips) 
+Seat 2: GEOPAR (4055 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 5: k@sepr-r-r (4240 in chips) 
+Seat 6: Roma bub (1495 in chips) 
+Seat 7: TomaszPB (920 in chips) 
+Seat 8: NIK2S1960 (2680 in chips) 
+Seat 9: BrunoMarcos (1385 in chips) 
+NIK2S1960: posts small blind 75
+BrunoMarcos: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kh Js]
+dfcastro.net: folds 
+GEOPAR: raises 300 to 450
+falcao25: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+TomaszPB: folds 
+NIK2S1960: folds 
+BrunoMarcos: folds 
+Uncalled bet (300) returned to GEOPAR
+GEOPAR collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR collected (375)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 7: TomaszPB (button) folded before Flop (didn't bet)
+Seat 8: NIK2S1960 (small blind) folded before Flop
+Seat 9: BrunoMarcos (big blind) folded before Flop
+
+
+
+PokerStars Hand #99418654907: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:36:25 BRT [2013/06/01 12:36:25 ET]
+Table '741051100 2' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (1975 in chips) 
+Seat 2: GEOPAR (4280 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 5: k@sepr-r-r (4240 in chips) 
+Seat 6: Roma bub (1495 in chips) 
+Seat 7: TomaszPB (920 in chips) 
+Seat 8: NIK2S1960 (2605 in chips) 
+Seat 9: BrunoMarcos (1235 in chips) 
+BrunoMarcos: posts small blind 75
+dfcastro.net: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3s 4s]
+GEOPAR: raises 300 to 450
+falcao25: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+TomaszPB: folds 
+NIK2S1960: folds 
+BrunoMarcos: folds 
+dfcastro.net: folds 
+Uncalled bet (300) returned to GEOPAR
+GEOPAR collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: dfcastro.net (big blind) folded before Flop
+Seat 2: GEOPAR collected (375)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 7: TomaszPB folded before Flop (didn't bet)
+Seat 8: NIK2S1960 (button) folded before Flop (didn't bet)
+Seat 9: BrunoMarcos (small blind) folded before Flop
+
+
+
+PokerStars Hand #99418674886: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:36:52 BRT [2013/06/01 12:36:52 ET]
+Table '741051100 2' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (1825 in chips) 
+Seat 2: GEOPAR (4505 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 5: k@sepr-r-r (4240 in chips) 
+Seat 6: Roma bub (1495 in chips) 
+Seat 8: NIK2S1960 (2605 in chips) 
+Seat 9: BrunoMarcos (1160 in chips) 
+dfcastro.net: posts small blind 75
+GEOPAR: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8s Kh]
+falcao25 has timed out
+falcao25: folds 
+falcao25 is sitting out
+falcao25 has returned
+k@sepr-r-r: folds 
+Roma bub: folds 
+NIK2S1960: raises 300 to 450
+BrunoMarcos: folds 
+dfcastro.net: folds 
+GEOPAR: calls 300
+*** FLOP *** [Kd Jh 8c]
+GEOPAR: checks 
+NIK2S1960: bets 300
+GEOPAR: calls 300
+*** TURN *** [Kd Jh 8c] [2h]
+GEOPAR: checks 
+NIK2S1960: checks 
+*** RIVER *** [Kd Jh 8c 2h] [4h]
+GEOPAR: bets 1200
+NIK2S1960: calls 1200
+*** SHOW DOWN ***
+GEOPAR: shows [Qc Td] (high card King)
+NIK2S1960: shows [Ts Th] (a pair of Tens)
+NIK2S1960 collected 3975 from pot
+*** SUMMARY ***
+Total pot 3975 | Rake 0 
+Board [Kd Jh 8c 2h 4h]
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 2: GEOPAR (big blind) showed [Qc Td] and lost with high card King
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 8: NIK2S1960 showed [Ts Th] and won (3975) with a pair of Tens
+Seat 9: BrunoMarcos (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418715518: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:37:48 BRT [2013/06/01 12:37:48 ET]
+Table '741051100 2' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (1750 in chips) 
+Seat 2: GEOPAR (2555 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 5: k@sepr-r-r (4240 in chips) 
+Seat 6: Roma bub (1495 in chips) 
+Seat 8: NIK2S1960 (4630 in chips) 
+Seat 9: BrunoMarcos (1160 in chips) 
+GEOPAR: posts small blind 75
+falcao25: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kc Ks]
+k@sepr-r-r: folds 
+Roma bub: folds 
+NIK2S1960: raises 300 to 450
+BrunoMarcos: raises 710 to 1160 and is all-in
+dfcastro.net: raises 590 to 1750 and is all-in
+GEOPAR: folds 
+falcao25: folds 
+NIK2S1960: calls 1300
+*** FLOP *** [6d 2d 6c]
+*** TURN *** [6d 2d 6c] [Qs]
+*** RIVER *** [6d 2d 6c Qs] [Jc]
+*** SHOW DOWN ***
+NIK2S1960: shows [Ac Qd] (two pair, Queens and Sixes)
+dfcastro.net: shows [Kc Ks] (two pair, Kings and Sixes)
+dfcastro.net collected 1180 from side pot
+BrunoMarcos: shows [7c 8c] (a pair of Sixes)
+dfcastro.net collected 3705 from main pot
+BrunoMarcos finished the tournament in 21st place
+*** SUMMARY ***
+Total pot 4885 Main pot 3705. Side pot 1180. | Rake 0 
+Board [6d 2d 6c Qs Jc]
+Seat 1: dfcastro.net (button) showed [Kc Ks] and won (4885) with two pair, Kings and Sixes
+Seat 2: GEOPAR (small blind) folded before Flop
+Seat 3: falcao25 (big blind) folded before Flop
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 8: NIK2S1960 showed [Ac Qd] and lost with two pair, Queens and Sixes
+Seat 9: BrunoMarcos showed [7c 8c] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #99418743994: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:38:27 BRT [2013/06/01 12:38:27 ET]
+Table '741051100 2' 9-max Seat #2 is the button
+Seat 1: dfcastro.net (4885 in chips) 
+Seat 2: GEOPAR (2480 in chips) 
+Seat 3: falcao25 (1220 in chips) 
+Seat 5: k@sepr-r-r (4240 in chips) 
+Seat 6: Roma bub (1495 in chips) 
+Seat 8: NIK2S1960 (2880 in chips) 
+falcao25: posts small blind 75
+k@sepr-r-r: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3d 5h]
+Roma bub: folds 
+NIK2S1960: folds 
+dfcastro.net: folds 
+GEOPAR: raises 300 to 450
+falcao25: folds 
+k@sepr-r-r: folds 
+Uncalled bet (300) returned to GEOPAR
+GEOPAR collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR (button) collected (375)
+Seat 3: falcao25 (small blind) folded before Flop
+Seat 5: k@sepr-r-r (big blind) folded before Flop
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418760550: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:38:50 BRT [2013/06/01 12:38:50 ET]
+Table '741051100 2' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (4885 in chips) 
+Seat 2: GEOPAR (2705 in chips) 
+Seat 3: falcao25 (1145 in chips) 
+Seat 5: k@sepr-r-r (4090 in chips) 
+Seat 6: Roma bub (1495 in chips) 
+Seat 8: NIK2S1960 (2880 in chips) 
+k@sepr-r-r: posts small blind 75
+Roma bub: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8s 3s]
+NIK2S1960: folds 
+dfcastro.net: folds 
+GEOPAR: folds 
+falcao25: raises 995 to 1145 and is all-in
+k@sepr-r-r: folds 
+Roma bub: folds 
+Uncalled bet (995) returned to falcao25
+falcao25 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR folded before Flop (didn't bet)
+Seat 3: falcao25 (button) collected (375)
+Seat 5: k@sepr-r-r (small blind) folded before Flop
+Seat 6: Roma bub (big blind) folded before Flop
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418773519: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:39:09 BRT [2013/06/01 12:39:09 ET]
+Table '741051100 2' 9-max Seat #5 is the button
+Seat 1: dfcastro.net (4885 in chips) 
+Seat 2: GEOPAR (2705 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 5: k@sepr-r-r (4015 in chips) 
+Seat 6: Roma bub (1345 in chips) 
+Seat 8: NIK2S1960 (2880 in chips) 
+Roma bub: posts small blind 75
+NIK2S1960: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qd 6s]
+dfcastro.net: folds 
+GEOPAR: folds 
+falcao25: folds 
+k@sepr-r-r: raises 300 to 450
+Roma bub: folds 
+NIK2S1960: folds 
+Uncalled bet (300) returned to k@sepr-r-r
+k@sepr-r-r collected 375 from pot
+k@sepr-r-r: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR folded before Flop (didn't bet)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r (button) collected (375)
+Seat 6: Roma bub (small blind) folded before Flop
+Seat 8: NIK2S1960 (big blind) folded before Flop
+
+
+
+PokerStars Hand #99418787115: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:39:27 BRT [2013/06/01 12:39:27 ET]
+Table '741051100 2' 9-max Seat #6 is the button
+Seat 1: dfcastro.net (4885 in chips) 
+Seat 2: GEOPAR (2705 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 5: k@sepr-r-r (4240 in chips) 
+Seat 6: Roma bub (1270 in chips) 
+Seat 8: NIK2S1960 (2730 in chips) 
+NIK2S1960: posts small blind 75
+dfcastro.net: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kd 2c]
+GEOPAR: folds 
+falcao25: folds 
+k@sepr-r-r: calls 150
+Roma bub: folds 
+NIK2S1960: calls 75
+dfcastro.net: checks 
+*** FLOP *** [6h Td Kc]
+NIK2S1960: checks 
+dfcastro.net: checks 
+k@sepr-r-r: bets 300
+NIK2S1960: folds 
+dfcastro.net: raises 300 to 600
+k@sepr-r-r: raises 1050 to 1650
+dfcastro.net: folds 
+Uncalled bet (1050) returned to k@sepr-r-r
+k@sepr-r-r collected 1650 from pot
+k@sepr-r-r: doesn't show hand 
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [6h Td Kc]
+Seat 1: dfcastro.net (big blind) folded on the Flop
+Seat 2: GEOPAR folded before Flop (didn't bet)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r collected (1650)
+Seat 6: Roma bub (button) folded before Flop (didn't bet)
+Seat 8: NIK2S1960 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #99418828606: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:40:24 BRT [2013/06/01 12:40:24 ET]
+Table '741051100 2' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (4135 in chips) 
+Seat 2: GEOPAR (2705 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 5: k@sepr-r-r (5140 in chips) 
+Seat 6: Roma bub (1270 in chips) 
+Seat 8: NIK2S1960 (2580 in chips) 
+dfcastro.net: posts small blind 75
+GEOPAR: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6d 6s]
+falcao25: folds 
+k@sepr-r-r: folds 
+Roma bub: raises 1120 to 1270 and is all-in
+NIK2S1960: folds 
+dfcastro.net: folds 
+GEOPAR: folds 
+Uncalled bet (1120) returned to Roma bub
+Roma bub collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 2: GEOPAR (big blind) folded before Flop
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub collected (375)
+Seat 8: NIK2S1960 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418850263: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:40:54 BRT [2013/06/01 12:40:54 ET]
+Table '741051100 2' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (4060 in chips) 
+Seat 2: GEOPAR (2555 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 5: k@sepr-r-r (5140 in chips) 
+Seat 6: Roma bub (1495 in chips) 
+Seat 8: NIK2S1960 (2580 in chips) 
+GEOPAR: posts small blind 75
+falcao25: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7d 2s]
+k@sepr-r-r: folds 
+Roma bub: folds 
+NIK2S1960: folds 
+dfcastro.net: folds 
+GEOPAR: raises 450 to 600
+falcao25: folds 
+Uncalled bet (450) returned to GEOPAR
+GEOPAR collected 300 from pot
+GEOPAR: shows [Ks Kd] (a pair of Kings)
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 2: GEOPAR (small blind) collected (300)
+Seat 3: falcao25 (big blind) folded before Flop
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418882527: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:41:39 BRT [2013/06/01 12:41:39 ET]
+Table '741051100 2' 9-max Seat #2 is the button
+Seat 1: dfcastro.net (4060 in chips) 
+Seat 2: GEOPAR (2705 in chips) 
+Seat 3: falcao25 (1220 in chips) 
+Seat 5: k@sepr-r-r (5140 in chips) 
+Seat 6: Roma bub (1495 in chips) 
+Seat 8: NIK2S1960 (2580 in chips) 
+falcao25: posts small blind 75
+k@sepr-r-r: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Jd 3h]
+Roma bub: folds 
+NIK2S1960: folds 
+dfcastro.net: folds 
+GEOPAR: folds 
+falcao25: folds 
+Uncalled bet (75) returned to k@sepr-r-r
+k@sepr-r-r collected 150 from pot
+k@sepr-r-r: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR (button) folded before Flop (didn't bet)
+Seat 3: falcao25 (small blind) folded before Flop
+Seat 5: k@sepr-r-r (big blind) collected (150)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418896316: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:41:58 BRT [2013/06/01 12:41:58 ET]
+Table '741051100 2' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (4060 in chips) 
+Seat 2: GEOPAR (2705 in chips) 
+Seat 3: falcao25 (1145 in chips) 
+Seat 5: k@sepr-r-r (5215 in chips) 
+Seat 6: Roma bub (1495 in chips) 
+Seat 8: NIK2S1960 (2580 in chips) 
+k@sepr-r-r: posts small blind 75
+Roma bub: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2d 5d]
+NIK2S1960: folds 
+dfcastro.net: folds 
+GEOPAR: folds 
+falcao25: raises 995 to 1145 and is all-in
+k@sepr-r-r: folds 
+Roma bub: folds 
+Uncalled bet (995) returned to falcao25
+falcao25 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR folded before Flop (didn't bet)
+Seat 3: falcao25 (button) collected (375)
+Seat 5: k@sepr-r-r (small blind) folded before Flop
+Seat 6: Roma bub (big blind) folded before Flop
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99418915590: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:42:24 BRT [2013/06/01 12:42:24 ET]
+Table '741051100 2' 9-max Seat #5 is the button
+Seat 1: dfcastro.net (4060 in chips) 
+Seat 2: GEOPAR (2705 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 5: k@sepr-r-r (5140 in chips) 
+Seat 6: Roma bub (1345 in chips) 
+Seat 8: NIK2S1960 (2580 in chips) 
+Roma bub: posts small blind 75
+NIK2S1960: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qh 4h]
+dfcastro.net: folds 
+GEOPAR: raises 300 to 450
+falcao25: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+NIK2S1960: folds 
+Uncalled bet (300) returned to GEOPAR
+GEOPAR collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR collected (375)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r (button) folded before Flop (didn't bet)
+Seat 6: Roma bub (small blind) folded before Flop
+Seat 8: NIK2S1960 (big blind) folded before Flop
+
+
+
+PokerStars Hand #99418937071: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:42:52 BRT [2013/06/01 12:42:52 ET]
+Table '741051100 2' 9-max Seat #6 is the button
+Seat 1: dfcastro.net (4060 in chips) 
+Seat 2: GEOPAR (2930 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 4: D4ns3n (1530 in chips) 
+Seat 5: k@sepr-r-r (5140 in chips) 
+Seat 6: Roma bub (1270 in chips) 
+Seat 7: rugado2013 (2170 in chips) out of hand (moved from another table into small blind)
+Seat 8: NIK2S1960 (2430 in chips) 
+Seat 9: noonesee (6200 in chips) 
+NIK2S1960: posts small blind 75
+noonesee: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7h 5h]
+dfcastro.net: folds 
+GEOPAR: raises 300 to 450
+falcao25: folds 
+D4ns3n: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+NIK2S1960: folds 
+noonesee: folds 
+Uncalled bet (300) returned to GEOPAR
+GEOPAR collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR collected (375)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: D4ns3n folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub (button) folded before Flop (didn't bet)
+Seat 8: NIK2S1960 (small blind) folded before Flop
+Seat 9: noonesee (big blind) folded before Flop
+
+
+
+PokerStars Hand #99418965307: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:43:30 BRT [2013/06/01 12:43:30 ET]
+Table '741051100 2' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (4060 in chips) 
+Seat 2: GEOPAR (3155 in chips) 
+Seat 3: falcao25 (1370 in chips) 
+Seat 4: D4ns3n (1530 in chips) 
+Seat 5: k@sepr-r-r (5140 in chips) 
+Seat 6: Roma bub (1270 in chips) 
+Seat 7: rugado2013 (2170 in chips) 
+Seat 8: NIK2S1960 (2355 in chips) 
+Seat 9: noonesee (6050 in chips) 
+noonesee: posts small blind 75
+dfcastro.net: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7c Ah]
+GEOPAR: folds 
+falcao25: raises 1220 to 1370 and is all-in
+D4ns3n: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+rugado2013: folds 
+NIK2S1960: folds 
+noonesee: folds 
+dfcastro.net: folds 
+Uncalled bet (1220) returned to falcao25
+falcao25 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: dfcastro.net (big blind) folded before Flop
+Seat 2: GEOPAR folded before Flop (didn't bet)
+Seat 3: falcao25 collected (375)
+Seat 4: D4ns3n folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 7: rugado2013 folded before Flop (didn't bet)
+Seat 8: NIK2S1960 (button) folded before Flop (didn't bet)
+Seat 9: noonesee (small blind) folded before Flop
+
+
+
+PokerStars Hand #99418984380: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level V (75/150) - 2013/06/01 13:43:56 BRT [2013/06/01 12:43:56 ET]
+Table '741051100 2' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (3910 in chips) 
+Seat 2: GEOPAR (3155 in chips) 
+Seat 3: falcao25 (1595 in chips) 
+Seat 4: D4ns3n (1530 in chips) 
+Seat 5: k@sepr-r-r (5140 in chips) 
+Seat 6: Roma bub (1270 in chips) 
+Seat 7: rugado2013 (2170 in chips) 
+Seat 8: NIK2S1960 (2355 in chips) 
+Seat 9: noonesee (5975 in chips) 
+dfcastro.net: posts small blind 75
+GEOPAR: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Tc 4c]
+falcao25: folds 
+D4ns3n: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+rugado2013: raises 2020 to 2170 and is all-in
+NIK2S1960: folds 
+noonesee: folds 
+dfcastro.net: folds 
+GEOPAR: folds 
+Uncalled bet (2020) returned to rugado2013
+rugado2013 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 2: GEOPAR (big blind) folded before Flop
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: D4ns3n folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 7: rugado2013 collected (375)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: noonesee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419003969: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VI (100/200) - 2013/06/01 13:44:22 BRT [2013/06/01 12:44:22 ET]
+Table '741051100 2' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (3835 in chips) 
+Seat 2: GEOPAR (3005 in chips) 
+Seat 3: falcao25 (1595 in chips) 
+Seat 4: D4ns3n (1530 in chips) 
+Seat 5: k@sepr-r-r (5140 in chips) 
+Seat 6: Roma bub (1270 in chips) 
+Seat 7: rugado2013 (2395 in chips) 
+Seat 8: NIK2S1960 (2355 in chips) 
+Seat 9: noonesee (5975 in chips) 
+GEOPAR: posts small blind 100
+falcao25: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kd 9c]
+D4ns3n: folds 
+k@sepr-r-r: raises 300 to 500
+Roma bub: folds 
+rugado2013: folds 
+NIK2S1960: raises 1855 to 2355 and is all-in
+noonesee: folds 
+dfcastro.net: folds 
+GEOPAR: folds 
+falcao25: folds 
+k@sepr-r-r: folds 
+Uncalled bet (1855) returned to NIK2S1960
+NIK2S1960 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 2: GEOPAR (small blind) folded before Flop
+Seat 3: falcao25 (big blind) folded before Flop
+Seat 4: D4ns3n folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 7: rugado2013 folded before Flop (didn't bet)
+Seat 8: NIK2S1960 collected (1300)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419032108: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VI (100/200) - 2013/06/01 13:44:59 BRT [2013/06/01 12:44:59 ET]
+Table '741051100 2' 9-max Seat #2 is the button
+Seat 1: dfcastro.net (3835 in chips) 
+Seat 2: GEOPAR (2905 in chips) 
+Seat 3: falcao25 (1395 in chips) 
+Seat 4: D4ns3n (1530 in chips) 
+Seat 5: k@sepr-r-r (4640 in chips) 
+Seat 6: Roma bub (1270 in chips) 
+Seat 7: rugado2013 (2395 in chips) 
+Seat 8: NIK2S1960 (3155 in chips) 
+Seat 9: noonesee (5975 in chips) 
+falcao25: posts small blind 100
+D4ns3n: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7s Qc]
+k@sepr-r-r: folds 
+Roma bub: folds 
+rugado2013: folds 
+NIK2S1960: folds 
+noonesee: folds 
+dfcastro.net: folds 
+GEOPAR: raises 200 to 400
+falcao25: folds 
+D4ns3n: folds 
+Uncalled bet (200) returned to GEOPAR
+GEOPAR collected 500 from pot
+GEOPAR: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR (button) collected (500)
+Seat 3: falcao25 (small blind) folded before Flop
+Seat 4: D4ns3n (big blind) folded before Flop
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 7: rugado2013 folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419052076: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VI (100/200) - 2013/06/01 13:45:26 BRT [2013/06/01 12:45:26 ET]
+Table '741051100 2' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (3835 in chips) 
+Seat 2: GEOPAR (3205 in chips) 
+Seat 3: falcao25 (1295 in chips) 
+Seat 4: D4ns3n (1330 in chips) 
+Seat 5: k@sepr-r-r (4640 in chips) 
+Seat 6: Roma bub (1270 in chips) 
+Seat 7: rugado2013 (2395 in chips) 
+Seat 8: NIK2S1960 (3155 in chips) 
+Seat 9: noonesee (5975 in chips) 
+D4ns3n: posts small blind 100
+k@sepr-r-r: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4s 3s]
+Roma bub: folds 
+rugado2013: folds 
+NIK2S1960: folds 
+noonesee: raises 200 to 400
+dfcastro.net: folds 
+GEOPAR: folds 
+falcao25: folds 
+D4ns3n: folds 
+k@sepr-r-r: folds 
+Uncalled bet (200) returned to noonesee
+noonesee collected 500 from pot
+noonesee: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR folded before Flop (didn't bet)
+Seat 3: falcao25 (button) folded before Flop (didn't bet)
+Seat 4: D4ns3n (small blind) folded before Flop
+Seat 5: k@sepr-r-r (big blind) folded before Flop
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 7: rugado2013 folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: noonesee collected (500)
+
+
+
+PokerStars Hand #99419077384: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VI (100/200) - 2013/06/01 13:45:59 BRT [2013/06/01 12:45:59 ET]
+Table '741051100 2' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (3835 in chips) 
+Seat 2: GEOPAR (3205 in chips) 
+Seat 3: falcao25 (1295 in chips) 
+Seat 4: D4ns3n (1230 in chips) 
+Seat 5: k@sepr-r-r (4440 in chips) 
+Seat 6: Roma bub (1270 in chips) 
+Seat 7: rugado2013 (2395 in chips) 
+Seat 8: NIK2S1960 (3155 in chips) 
+Seat 9: noonesee (6275 in chips) 
+k@sepr-r-r: posts small blind 100
+Roma bub: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ah Ks]
+rugado2013: folds 
+NIK2S1960: folds 
+noonesee: folds 
+dfcastro.net: raises 240 to 440
+GEOPAR: calls 440
+falcao25: folds 
+D4ns3n: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+*** FLOP *** [9s 6c 7s]
+dfcastro.net: bets 600
+GEOPAR: calls 600
+*** TURN *** [9s 6c 7s] [Qd]
+dfcastro.net: checks 
+GEOPAR: bets 800
+dfcastro.net: calls 800
+*** RIVER *** [9s 6c 7s Qd] [9c]
+dfcastro.net: checks 
+GEOPAR: bets 1000
+dfcastro.net: folds 
+Uncalled bet (1000) returned to GEOPAR
+GEOPAR collected 3980 from pot
+*** SUMMARY ***
+Total pot 3980 | Rake 0 
+Board [9s 6c 7s Qd 9c]
+Seat 1: dfcastro.net folded on the River
+Seat 2: GEOPAR collected (3980)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: D4ns3n (button) folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r (small blind) folded before Flop
+Seat 6: Roma bub (big blind) folded before Flop
+Seat 7: rugado2013 folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419144631: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VI (100/200) - 2013/06/01 13:47:28 BRT [2013/06/01 12:47:28 ET]
+Table '741051100 2' 9-max Seat #5 is the button
+Seat 1: dfcastro.net (1995 in chips) 
+Seat 2: GEOPAR (5345 in chips) 
+Seat 3: falcao25 (1295 in chips) 
+Seat 4: D4ns3n (1230 in chips) 
+Seat 5: k@sepr-r-r (4340 in chips) 
+Seat 6: Roma bub (1070 in chips) 
+Seat 7: rugado2013 (2395 in chips) 
+Seat 8: NIK2S1960 (3155 in chips) 
+Seat 9: noonesee (6275 in chips) 
+Roma bub: posts small blind 100
+rugado2013: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qs 3h]
+NIK2S1960: folds 
+noonesee: folds 
+dfcastro.net: folds 
+GEOPAR: raises 200 to 400
+falcao25: folds 
+D4ns3n: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+rugado2013: folds 
+Uncalled bet (200) returned to GEOPAR
+GEOPAR collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR collected (500)
+Seat 3: falcao25 folded before Flop (didn't bet)
+Seat 4: D4ns3n folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r (button) folded before Flop (didn't bet)
+Seat 6: Roma bub (small blind) folded before Flop
+Seat 7: rugado2013 (big blind) folded before Flop
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419164576: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VI (100/200) - 2013/06/01 13:47:55 BRT [2013/06/01 12:47:55 ET]
+Table '741051100 2' 9-max Seat #6 is the button
+Seat 1: dfcastro.net (1995 in chips) 
+Seat 2: GEOPAR (5645 in chips) 
+Seat 3: falcao25 (1295 in chips) 
+Seat 4: D4ns3n (1230 in chips) 
+Seat 5: k@sepr-r-r (4340 in chips) 
+Seat 6: Roma bub (970 in chips) 
+Seat 7: rugado2013 (2195 in chips) 
+Seat 8: NIK2S1960 (3155 in chips) 
+Seat 9: noonesee (6275 in chips) 
+rugado2013: posts small blind 100
+NIK2S1960: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3h 2d]
+noonesee: folds 
+dfcastro.net: folds 
+GEOPAR: calls 200
+falcao25: raises 1095 to 1295 and is all-in
+D4ns3n: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+rugado2013: raises 900 to 2195 and is all-in
+NIK2S1960: raises 960 to 3155 and is all-in
+GEOPAR: folds 
+Uncalled bet (960) returned to NIK2S1960
+*** FLOP *** [3d Ks Qs]
+*** TURN *** [3d Ks Qs] [7c]
+*** RIVER *** [3d Ks Qs 7c] [4s]
+*** SHOW DOWN ***
+rugado2013: shows [6c 6s] (a pair of Sixes)
+NIK2S1960: shows [Ac Ah] (a pair of Aces)
+NIK2S1960 collected 1800 from side pot
+falcao25: shows [9s Qc] (a pair of Queens)
+NIK2S1960 collected 4085 from main pot
+rugado2013 finished the tournament in 17th place
+falcao25 finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 5885 Main pot 4085. Side pot 1800. | Rake 0 
+Board [3d Ks Qs 7c 4s]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: GEOPAR folded before Flop
+Seat 3: falcao25 showed [9s Qc] and lost with a pair of Queens
+Seat 4: D4ns3n folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub (button) folded before Flop (didn't bet)
+Seat 7: rugado2013 (small blind) showed [6c 6s] and lost with a pair of Sixes
+Seat 8: NIK2S1960 (big blind) showed [Ac Ah] and won (5885) with a pair of Aces
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419198656: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VI (100/200) - 2013/06/01 13:48:40 BRT [2013/06/01 12:48:40 ET]
+Table '741051100 2' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (1995 in chips) 
+Seat 2: GEOPAR (5445 in chips) 
+Seat 4: D4ns3n (1230 in chips) 
+Seat 5: k@sepr-r-r (4340 in chips) 
+Seat 6: Roma bub (970 in chips) 
+Seat 8: NIK2S1960 (6845 in chips) 
+Seat 9: noonesee (6275 in chips) 
+noonesee: posts small blind 100
+dfcastro.net: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kd As]
+GEOPAR: raises 200 to 400
+D4ns3n: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+NIK2S1960: calls 400
+noonesee: folds 
+dfcastro.net: raises 1595 to 1995 and is all-in
+GEOPAR: calls 1595
+NIK2S1960: folds 
+*** FLOP *** [Qs Kh Qh]
+*** TURN *** [Qs Kh Qh] [Ac]
+*** RIVER *** [Qs Kh Qh Ac] [9c]
+*** SHOW DOWN ***
+dfcastro.net: shows [Kd As] (two pair, Aces and Kings)
+GEOPAR: shows [4s 3s] (a pair of Queens)
+dfcastro.net collected 4490 from pot
+*** SUMMARY ***
+Total pot 4490 | Rake 0 
+Board [Qs Kh Qh Ac 9c]
+Seat 1: dfcastro.net (big blind) showed [Kd As] and won (4490) with two pair, Aces and Kings
+Seat 2: GEOPAR showed [4s 3s] and lost with a pair of Queens
+Seat 4: D4ns3n folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 8: NIK2S1960 (button) folded before Flop
+Seat 9: noonesee (small blind) folded before Flop
+
+
+
+PokerStars Hand #99419233305: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VI (100/200) - 2013/06/01 13:49:26 BRT [2013/06/01 12:49:26 ET]
+Table '741051100 2' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (4490 in chips) 
+Seat 2: GEOPAR (3450 in chips) 
+Seat 3: 7xxcookxx7 (1439 in chips) 
+Seat 4: D4ns3n (1230 in chips) 
+Seat 5: k@sepr-r-r (4340 in chips) 
+Seat 6: Roma bub (970 in chips) 
+Seat 8: NIK2S1960 (6445 in chips) 
+Seat 9: noonesee (6175 in chips) 
+dfcastro.net: posts small blind 100
+GEOPAR: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Tc 8c]
+7xxcookxx7: folds 
+D4ns3n: raises 1030 to 1230 and is all-in
+k@sepr-r-r: folds 
+Roma bub: folds 
+NIK2S1960: folds 
+noonesee: folds 
+dfcastro.net: folds 
+dfcastro.net is sitting out
+GEOPAR: folds 
+Uncalled bet (1030) returned to D4ns3n
+D4ns3n collected 500 from pot
+D4ns3n: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 2: GEOPAR (big blind) folded before Flop
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: D4ns3n collected (500)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: noonesee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419253745: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VI (100/200) - 2013/06/01 13:49:54 BRT [2013/06/01 12:49:54 ET]
+Table '741051100 2' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (4390 in chips) is sitting out
+Seat 2: GEOPAR (3250 in chips) 
+Seat 3: 7xxcookxx7 (1439 in chips) 
+Seat 4: D4ns3n (1530 in chips) 
+Seat 5: k@sepr-r-r (4340 in chips) 
+Seat 6: Roma bub (970 in chips) 
+Seat 8: NIK2S1960 (6445 in chips) 
+Seat 9: noonesee (6175 in chips) 
+GEOPAR: posts small blind 100
+7xxcookxx7: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [9d 7c]
+D4ns3n: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+NIK2S1960: folds 
+noonesee: raises 350 to 550
+dfcastro.net: folds 
+GEOPAR: calls 450
+7xxcookxx7: folds 
+*** FLOP *** [Th Kh 2s]
+GEOPAR: bets 600
+noonesee: raises 5025 to 5625 and is all-in
+GEOPAR: calls 2100 and is all-in
+Uncalled bet (2925) returned to noonesee
+*** TURN *** [Th Kh 2s] [Ts]
+*** RIVER *** [Th Kh 2s Ts] [3h]
+*** SHOW DOWN ***
+GEOPAR: shows [5d Kd] (two pair, Kings and Tens)
+noonesee: shows [As Ah] (two pair, Aces and Tens)
+noonesee collected 6700 from pot
+GEOPAR finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 6700 | Rake 0 
+Board [Th Kh 2s Ts 3h]
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 2: GEOPAR (small blind) showed [5d Kd] and lost with two pair, Kings and Tens
+Seat 3: 7xxcookxx7 (big blind) folded before Flop
+Seat 4: D4ns3n folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: noonesee showed [As Ah] and won (6700) with two pair, Aces and Tens
+
+
+
+PokerStars Hand #99419294887: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VI (100/200) - 2013/06/01 13:50:49 BRT [2013/06/01 12:50:49 ET]
+Table '741051100 2' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (4390 in chips) is sitting out
+Seat 3: 7xxcookxx7 (1239 in chips) 
+Seat 4: D4ns3n (1530 in chips) 
+Seat 5: k@sepr-r-r (4340 in chips) 
+Seat 6: Roma bub (970 in chips) 
+Seat 8: NIK2S1960 (6445 in chips) 
+Seat 9: noonesee (9625 in chips) 
+D4ns3n: posts small blind 100
+k@sepr-r-r: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6s 6d]
+Roma bub: raises 200 to 400
+NIK2S1960: folds 
+noonesee: calls 400
+dfcastro.net: folds 
+7xxcookxx7: folds 
+D4ns3n: folds 
+k@sepr-r-r: folds 
+*** FLOP *** [7d 5h 5d]
+Roma bub: bets 570 and is all-in
+noonesee: calls 570
+*** TURN *** [7d 5h 5d] [9c]
+*** RIVER *** [7d 5h 5d 9c] [Jh]
+*** SHOW DOWN ***
+Roma bub: shows [Jd Jc] (a full house, Jacks full of Fives)
+noonesee: shows [Js Ah] (two pair, Jacks and Fives)
+Roma bub collected 2240 from pot
+*** SUMMARY ***
+Total pot 2240 | Rake 0 
+Board [7d 5h 5d 9c Jh]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 (button) folded before Flop (didn't bet)
+Seat 4: D4ns3n (small blind) folded before Flop
+Seat 5: k@sepr-r-r (big blind) folded before Flop
+Seat 6: Roma bub showed [Jd Jc] and won (2240) with a full house, Jacks full of Fives
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: noonesee showed [Js Ah] and lost with two pair, Jacks and Fives
+
+
+
+PokerStars Hand #99419322926: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VI (100/200) - 2013/06/01 13:51:27 BRT [2013/06/01 12:51:27 ET]
+Table '741051100 2' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (4390 in chips) is sitting out
+Seat 3: 7xxcookxx7 (1239 in chips) 
+Seat 4: D4ns3n (1430 in chips) 
+Seat 5: k@sepr-r-r (4140 in chips) 
+Seat 6: Roma bub (2240 in chips) 
+Seat 8: NIK2S1960 (6445 in chips) 
+Seat 9: noonesee (8655 in chips) 
+k@sepr-r-r: posts small blind 100
+Roma bub: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5s 4s]
+NIK2S1960: folds 
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: folds 
+D4ns3n: raises 1230 to 1430 and is all-in
+k@sepr-r-r: folds 
+Roma bub: calls 1230
+*** FLOP *** [7c Tc As]
+*** TURN *** [7c Tc As] [6h]
+*** RIVER *** [7c Tc As 6h] [4c]
+*** SHOW DOWN ***
+Roma bub: shows [Ac 7h] (two pair, Aces and Sevens)
+D4ns3n: shows [7s Ts] (two pair, Tens and Sevens)
+Roma bub collected 2960 from pot
+D4ns3n finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 2960 | Rake 0 
+Board [7c Tc As 6h 4c]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: D4ns3n (button) showed [7s Ts] and lost with two pair, Tens and Sevens
+Seat 5: k@sepr-r-r (small blind) folded before Flop
+Seat 6: Roma bub (big blind) showed [Ac 7h] and won (2960) with two pair, Aces and Sevens
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419343481: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VI (100/200) - 2013/06/01 13:51:54 BRT [2013/06/01 12:51:54 ET]
+Table '741051100 2' 9-max Seat #5 is the button
+Seat 1: dfcastro.net (4390 in chips) is sitting out
+Seat 3: 7xxcookxx7 (1239 in chips) 
+Seat 5: k@sepr-r-r (4040 in chips) 
+Seat 6: Roma bub (3770 in chips) 
+Seat 8: NIK2S1960 (6445 in chips) 
+Seat 9: noonesee (8655 in chips) 
+Roma bub: posts small blind 100
+NIK2S1960: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4d 6h]
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: calls 200
+k@sepr-r-r: calls 200
+Roma bub: folds 
+NIK2S1960: checks 
+*** FLOP *** [Ks Kc 6s]
+NIK2S1960: checks 
+7xxcookxx7: checks 
+k@sepr-r-r: bets 400
+NIK2S1960: folds 
+7xxcookxx7: raises 639 to 1039 and is all-in
+k@sepr-r-r: folds 
+Uncalled bet (639) returned to 7xxcookxx7
+7xxcookxx7 collected 1500 from pot
+7xxcookxx7: shows [8c 8s] (two pair, Kings and Eights)
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [Ks Kc 6s]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 collected (1500)
+Seat 5: k@sepr-r-r (button) folded on the Flop
+Seat 6: Roma bub (small blind) folded before Flop
+Seat 8: NIK2S1960 (big blind) folded on the Flop
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419376097: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VI (100/200) - 2013/06/01 13:52:38 BRT [2013/06/01 12:52:38 ET]
+Table '741051100 2' 9-max Seat #6 is the button
+Seat 1: dfcastro.net (4390 in chips) is sitting out
+Seat 3: 7xxcookxx7 (2139 in chips) 
+Seat 4: sKc.94 (3173 in chips) 
+Seat 5: k@sepr-r-r (3440 in chips) 
+Seat 6: Roma bub (3670 in chips) 
+Seat 8: NIK2S1960 (6245 in chips) 
+Seat 9: noonesee (8655 in chips) 
+NIK2S1960: posts small blind 100
+noonesee: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qs 2s]
+dfcastro.net: folds 
+dfcastro.net has returned
+7xxcookxx7: folds 
+sKc.94: folds 
+k@sepr-r-r: folds 
+Roma bub: raises 400 to 600
+NIK2S1960: calls 500
+noonesee: folds 
+*** FLOP *** [Jc Th Js]
+NIK2S1960: bets 400
+Roma bub: calls 400
+*** TURN *** [Jc Th Js] [7s]
+NIK2S1960: checks 
+Roma bub: bets 400
+NIK2S1960: calls 400
+*** RIVER *** [Jc Th Js 7s] [4c]
+NIK2S1960: checks 
+Roma bub: bets 1000
+NIK2S1960: calls 1000
+*** SHOW DOWN ***
+Roma bub: shows [Tc Ts] (a full house, Tens full of Jacks)
+NIK2S1960: mucks hand 
+Roma bub collected 5000 from pot
+*** SUMMARY ***
+Total pot 5000 | Rake 0 
+Board [Jc Th Js 7s 4c]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub (button) showed [Tc Ts] and won (5000) with a full house, Tens full of Jacks
+Seat 8: NIK2S1960 (small blind) mucked [Kd Qc]
+Seat 9: noonesee (big blind) folded before Flop
+
+
+
+PokerStars Hand #99419412541: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VI (100/200) - 2013/06/01 13:53:27 BRT [2013/06/01 12:53:27 ET]
+Table '741051100 2' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (4390 in chips) 
+Seat 3: 7xxcookxx7 (2139 in chips) 
+Seat 4: sKc.94 (3173 in chips) 
+Seat 5: k@sepr-r-r (3440 in chips) 
+Seat 6: Roma bub (6270 in chips) 
+Seat 8: NIK2S1960 (3845 in chips) 
+Seat 9: noonesee (8455 in chips) 
+noonesee: posts small blind 100
+dfcastro.net: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4c 7s]
+7xxcookxx7: folds 
+sKc.94: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+NIK2S1960: folds 
+noonesee: raises 200 to 400
+dfcastro.net: folds 
+Uncalled bet (200) returned to noonesee
+noonesee collected 400 from pot
+noonesee: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: dfcastro.net (big blind) folded before Flop
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 8: NIK2S1960 (button) folded before Flop (didn't bet)
+Seat 9: noonesee (small blind) collected (400)
+
+
+
+PokerStars Hand #99419436574: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VI (100/200) - 2013/06/01 13:54:00 BRT [2013/06/01 12:54:00 ET]
+Table '741051100 2' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (4190 in chips) 
+Seat 3: 7xxcookxx7 (2139 in chips) 
+Seat 4: sKc.94 (3173 in chips) 
+Seat 5: k@sepr-r-r (3440 in chips) 
+Seat 6: Roma bub (6270 in chips) 
+Seat 8: NIK2S1960 (3845 in chips) 
+Seat 9: noonesee (8655 in chips) 
+dfcastro.net: posts small blind 100
+7xxcookxx7: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ac Kd]
+sKc.94: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+NIK2S1960: folds 
+noonesee: folds 
+dfcastro.net: raises 240 to 440
+7xxcookxx7: folds 
+Uncalled bet (240) returned to dfcastro.net
+dfcastro.net collected 400 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: dfcastro.net (small blind) collected (400)
+Seat 3: 7xxcookxx7 (big blind) folded before Flop
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: noonesee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419458702: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 13:54:30 BRT [2013/06/01 12:54:30 ET]
+Table '741051100 2' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (4390 in chips) 
+Seat 3: 7xxcookxx7 (1939 in chips) 
+Seat 4: sKc.94 (3173 in chips) 
+Seat 5: k@sepr-r-r (3440 in chips) 
+Seat 6: Roma bub (6270 in chips) 
+Seat 8: NIK2S1960 (3845 in chips) 
+Seat 9: noonesee (8655 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+NIK2S1960: posts the ante 25
+noonesee: posts the ante 25
+7xxcookxx7: posts small blind 100
+sKc.94: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3c 3s]
+k@sepr-r-r: folds 
+Roma bub: folds 
+NIK2S1960: folds 
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: folds 
+Uncalled bet (100) returned to sKc.94
+sKc.94 collected 375 from pot
+sKc.94: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 (small blind) folded before Flop
+Seat 4: sKc.94 (big blind) collected (375)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419469817: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 13:54:45 BRT [2013/06/01 12:54:45 ET]
+Table '741051100 2' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (4365 in chips) 
+Seat 3: 7xxcookxx7 (1814 in chips) 
+Seat 4: sKc.94 (3423 in chips) 
+Seat 5: k@sepr-r-r (3415 in chips) 
+Seat 6: Roma bub (6245 in chips) 
+Seat 8: NIK2S1960 (3820 in chips) 
+Seat 9: noonesee (8630 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+NIK2S1960: posts the ante 25
+noonesee: posts the ante 25
+sKc.94: posts small blind 100
+k@sepr-r-r: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Jd Td]
+Roma bub: folds 
+NIK2S1960: folds 
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: folds 
+sKc.94: folds 
+Uncalled bet (100) returned to k@sepr-r-r
+k@sepr-r-r collected 375 from pot
+k@sepr-r-r: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 (button) folded before Flop (didn't bet)
+Seat 4: sKc.94 (small blind) folded before Flop
+Seat 5: k@sepr-r-r (big blind) collected (375)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419482063: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 13:55:02 BRT [2013/06/01 12:55:02 ET]
+Table '741051100 2' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (4340 in chips) 
+Seat 3: 7xxcookxx7 (1789 in chips) 
+Seat 4: sKc.94 (3298 in chips) 
+Seat 5: k@sepr-r-r (3665 in chips) 
+Seat 6: Roma bub (6220 in chips) 
+Seat 8: NIK2S1960 (3795 in chips) 
+Seat 9: noonesee (8605 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+NIK2S1960: posts the ante 25
+noonesee: posts the ante 25
+k@sepr-r-r: posts small blind 100
+Roma bub: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7h 3c]
+NIK2S1960: folds 
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: folds 
+sKc.94: raises 3073 to 3273 and is all-in
+k@sepr-r-r: folds 
+Roma bub: folds 
+Uncalled bet (3073) returned to sKc.94
+sKc.94 collected 675 from pot
+sKc.94: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 (button) collected (675)
+Seat 5: k@sepr-r-r (small blind) folded before Flop
+Seat 6: Roma bub (big blind) folded before Flop
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419665615: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:00:41 BRT [2013/06/01 13:00:41 ET]
+Table '741051100 2' 9-max Seat #5 is the button
+Seat 1: dfcastro.net (4315 in chips) 
+Seat 3: 7xxcookxx7 (1764 in chips) 
+Seat 4: sKc.94 (3748 in chips) 
+Seat 5: k@sepr-r-r (3540 in chips) 
+Seat 6: Roma bub (5995 in chips) 
+Seat 8: NIK2S1960 (3770 in chips) 
+Seat 9: noonesee (8580 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+NIK2S1960: posts the ante 25
+noonesee: posts the ante 25
+Roma bub: posts small blind 100
+NIK2S1960: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6d 5d]
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: raises 1539 to 1739 and is all-in
+sKc.94: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+NIK2S1960: folds 
+Uncalled bet (1539) returned to 7xxcookxx7
+7xxcookxx7 collected 675 from pot
+7xxcookxx7: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 collected (675)
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r (button) folded before Flop (didn't bet)
+Seat 6: Roma bub (small blind) folded before Flop
+Seat 8: NIK2S1960 (big blind) folded before Flop
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419686742: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:01:15 BRT [2013/06/01 13:01:15 ET]
+Table '741051100 2' 9-max Seat #6 is the button
+Seat 1: dfcastro.net (4290 in chips) 
+Seat 3: 7xxcookxx7 (2214 in chips) 
+Seat 4: sKc.94 (3723 in chips) 
+Seat 5: k@sepr-r-r (3515 in chips) 
+Seat 6: Roma bub (5870 in chips) 
+Seat 8: NIK2S1960 (3545 in chips) 
+Seat 9: noonesee (8555 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+NIK2S1960: posts the ante 25
+noonesee: posts the ante 25
+NIK2S1960: posts small blind 100
+noonesee: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qc Ac]
+dfcastro.net: raises 240 to 440
+7xxcookxx7: folds 
+sKc.94: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+NIK2S1960: folds 
+noonesee: folds 
+Uncalled bet (240) returned to dfcastro.net
+dfcastro.net collected 675 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: dfcastro.net collected (675)
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub (button) folded before Flop (didn't bet)
+Seat 8: NIK2S1960 (small blind) folded before Flop
+Seat 9: noonesee (big blind) folded before Flop
+
+
+
+PokerStars Hand #99419699525: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:01:34 BRT [2013/06/01 13:01:34 ET]
+Table '741051100 2' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (4740 in chips) 
+Seat 3: 7xxcookxx7 (2189 in chips) 
+Seat 4: sKc.94 (3698 in chips) 
+Seat 5: k@sepr-r-r (3490 in chips) 
+Seat 6: Roma bub (5845 in chips) 
+Seat 8: NIK2S1960 (3420 in chips) 
+Seat 9: noonesee (8330 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+NIK2S1960: posts the ante 25
+noonesee: posts the ante 25
+noonesee: posts small blind 100
+dfcastro.net: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qd Jd]
+7xxcookxx7: folds 
+sKc.94: folds 
+k@sepr-r-r: folds 
+Roma bub: raises 400 to 600
+NIK2S1960: folds 
+noonesee: folds 
+dfcastro.net: folds 
+Uncalled bet (400) returned to Roma bub
+Roma bub collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: dfcastro.net (big blind) folded before Flop
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub collected (675)
+Seat 8: NIK2S1960 (button) folded before Flop (didn't bet)
+Seat 9: noonesee (small blind) folded before Flop
+
+
+
+PokerStars Hand #99419727343: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:02:12 BRT [2013/06/01 13:02:12 ET]
+Table '741051100 2' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (4515 in chips) 
+Seat 3: 7xxcookxx7 (2164 in chips) 
+Seat 4: sKc.94 (3673 in chips) 
+Seat 5: k@sepr-r-r (3465 in chips) 
+Seat 6: Roma bub (6295 in chips) 
+Seat 8: NIK2S1960 (3395 in chips) 
+Seat 9: noonesee (8205 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+NIK2S1960: posts the ante 25
+noonesee: posts the ante 25
+dfcastro.net: posts small blind 100
+7xxcookxx7: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8c 4s]
+sKc.94: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+NIK2S1960: folds 
+noonesee: raises 200 to 400
+dfcastro.net: folds 
+7xxcookxx7: folds 
+Uncalled bet (200) returned to noonesee
+noonesee collected 675 from pot
+noonesee: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 3: 7xxcookxx7 (big blind) folded before Flop
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: noonesee (button) collected (675)
+
+
+
+PokerStars Hand #99419746624: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:02:39 BRT [2013/06/01 13:02:39 ET]
+Table '741051100 2' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (4390 in chips) 
+Seat 3: 7xxcookxx7 (1939 in chips) 
+Seat 4: sKc.94 (3648 in chips) 
+Seat 5: k@sepr-r-r (3440 in chips) 
+Seat 6: Roma bub (6270 in chips) 
+Seat 8: NIK2S1960 (3370 in chips) 
+Seat 9: noonesee (8655 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+NIK2S1960: posts the ante 25
+noonesee: posts the ante 25
+7xxcookxx7: posts small blind 100
+sKc.94: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [As 3s]
+k@sepr-r-r: folds 
+Roma bub: folds 
+NIK2S1960: folds 
+noonesee: folds 
+dfcastro.net: raises 240 to 440
+7xxcookxx7: raises 1474 to 1914 and is all-in
+sKc.94: folds 
+dfcastro.net: folds 
+Uncalled bet (1474) returned to 7xxcookxx7
+7xxcookxx7 collected 1255 from pot
+*** SUMMARY ***
+Total pot 1255 | Rake 0 
+Seat 1: dfcastro.net (button) folded before Flop
+Seat 3: 7xxcookxx7 (small blind) collected (1255)
+Seat 4: sKc.94 (big blind) folded before Flop
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419768086: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:03:07 BRT [2013/06/01 13:03:07 ET]
+Table '741051100 2' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (3925 in chips) 
+Seat 3: 7xxcookxx7 (2729 in chips) 
+Seat 4: sKc.94 (3423 in chips) 
+Seat 5: k@sepr-r-r (3415 in chips) 
+Seat 6: Roma bub (6245 in chips) 
+Seat 8: NIK2S1960 (3345 in chips) 
+Seat 9: noonesee (8630 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+NIK2S1960: posts the ante 25
+noonesee: posts the ante 25
+sKc.94: posts small blind 100
+k@sepr-r-r: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8c 3d]
+Roma bub: folds 
+NIK2S1960: raises 3120 to 3320 and is all-in
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: folds 
+sKc.94: folds 
+k@sepr-r-r: folds 
+Uncalled bet (3120) returned to NIK2S1960
+NIK2S1960 collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 (button) folded before Flop (didn't bet)
+Seat 4: sKc.94 (small blind) folded before Flop
+Seat 5: k@sepr-r-r (big blind) folded before Flop
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 8: NIK2S1960 collected (675)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419791145: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:03:36 BRT [2013/06/01 13:03:36 ET]
+Table '741051100 2' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (3900 in chips) 
+Seat 3: 7xxcookxx7 (2704 in chips) 
+Seat 4: sKc.94 (3298 in chips) 
+Seat 5: k@sepr-r-r (3190 in chips) 
+Seat 6: Roma bub (6220 in chips) 
+Seat 8: NIK2S1960 (3795 in chips) 
+Seat 9: noonesee (8605 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+NIK2S1960: posts the ante 25
+noonesee: posts the ante 25
+k@sepr-r-r: posts small blind 100
+Roma bub: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4d 8h]
+NIK2S1960: folds 
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: folds 
+sKc.94: folds 
+k@sepr-r-r: raises 2965 to 3165 and is all-in
+Roma bub: folds 
+Uncalled bet (2965) returned to k@sepr-r-r
+k@sepr-r-r collected 575 from pot
+k@sepr-r-r: doesn't show hand 
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 (button) folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r (small blind) collected (575)
+Seat 6: Roma bub (big blind) folded before Flop
+Seat 8: NIK2S1960 folded before Flop (didn't bet)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419822837: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:04:18 BRT [2013/06/01 13:04:18 ET]
+Table '741051100 2' 9-max Seat #5 is the button
+Seat 1: dfcastro.net (3875 in chips) 
+Seat 3: 7xxcookxx7 (2679 in chips) 
+Seat 4: sKc.94 (3273 in chips) 
+Seat 5: k@sepr-r-r (3540 in chips) 
+Seat 6: Roma bub (5995 in chips) 
+Seat 8: NIK2S1960 (3770 in chips) 
+Seat 9: noonesee (8580 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+NIK2S1960: posts the ante 25
+noonesee: posts the ante 25
+Roma bub: posts small blind 100
+NIK2S1960: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [9h 2h]
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: folds 
+sKc.94: folds 
+k@sepr-r-r: folds 
+Roma bub: raises 400 to 600
+NIK2S1960: raises 3145 to 3745 and is all-in
+Roma bub: calls 3145
+*** FLOP *** [Th 8d Td]
+*** TURN *** [Th 8d Td] [6h]
+*** RIVER *** [Th 8d Td 6h] [7d]
+*** SHOW DOWN ***
+Roma bub: shows [Ah Tc] (three of a kind, Tens)
+NIK2S1960: shows [Qc As] (a pair of Tens)
+Roma bub collected 7665 from pot
+NIK2S1960 finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 7665 | Rake 0 
+Board [Th 8d Td 6h 7d]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r (button) folded before Flop (didn't bet)
+Seat 6: Roma bub (small blind) showed [Ah Tc] and won (7665) with three of a kind, Tens
+Seat 8: NIK2S1960 (big blind) showed [Qc As] and lost with a pair of Tens
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419847604: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:04:49 BRT [2013/06/01 13:04:49 ET]
+Table '741051100 2' 9-max Seat #6 is the button
+Seat 1: dfcastro.net (3850 in chips) 
+Seat 3: 7xxcookxx7 (2654 in chips) 
+Seat 4: sKc.94 (3248 in chips) 
+Seat 5: k@sepr-r-r (3515 in chips) 
+Seat 6: Roma bub (9890 in chips) 
+Seat 9: noonesee (8555 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+noonesee: posts small blind 100
+dfcastro.net: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6c 2c]
+7xxcookxx7: folds 
+sKc.94: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+noonesee: raises 200 to 400
+dfcastro.net: folds 
+Uncalled bet (200) returned to noonesee
+noonesee collected 550 from pot
+noonesee: doesn't show hand 
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Seat 1: dfcastro.net (big blind) folded before Flop
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub (button) folded before Flop (didn't bet)
+Seat 9: noonesee (small blind) collected (550)
+
+
+
+PokerStars Hand #99419861412: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:05:07 BRT [2013/06/01 13:05:07 ET]
+Table '741051100 2' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (3625 in chips) 
+Seat 3: 7xxcookxx7 (2629 in chips) 
+Seat 4: sKc.94 (3223 in chips) 
+Seat 5: k@sepr-r-r (3490 in chips) 
+Seat 6: Roma bub (9865 in chips) 
+Seat 9: noonesee (8880 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+dfcastro.net: posts small blind 100
+7xxcookxx7: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ad 3c]
+sKc.94: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+noonesee: raises 200 to 400
+dfcastro.net: folds 
+7xxcookxx7: folds 
+Uncalled bet (200) returned to noonesee
+noonesee collected 650 from pot
+noonesee: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 3: 7xxcookxx7 (big blind) folded before Flop
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 9: noonesee (button) collected (650)
+
+
+
+PokerStars Hand #99419878626: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:05:29 BRT [2013/06/01 13:05:29 ET]
+Table '741051100 2' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (3500 in chips) 
+Seat 3: 7xxcookxx7 (2404 in chips) 
+Seat 4: sKc.94 (3198 in chips) 
+Seat 5: k@sepr-r-r (3465 in chips) 
+Seat 6: Roma bub (9840 in chips) 
+Seat 9: noonesee (9305 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+7xxcookxx7: posts small blind 100
+sKc.94: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qs Td]
+k@sepr-r-r: folds 
+Roma bub: folds 
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: folds 
+Uncalled bet (100) returned to sKc.94
+sKc.94 collected 350 from pot
+sKc.94: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 (small blind) folded before Flop
+Seat 4: sKc.94 (big blind) collected (350)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419890068: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:05:43 BRT [2013/06/01 13:05:43 ET]
+Table '741051100 2' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (3475 in chips) 
+Seat 3: 7xxcookxx7 (2279 in chips) 
+Seat 4: sKc.94 (3423 in chips) 
+Seat 5: k@sepr-r-r (3440 in chips) 
+Seat 6: Roma bub (9815 in chips) 
+Seat 9: noonesee (9280 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+sKc.94: posts small blind 100
+k@sepr-r-r: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [9s Js]
+Roma bub: folds 
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: folds 
+sKc.94: raises 3198 to 3398 and is all-in
+k@sepr-r-r: folds 
+Uncalled bet (3198) returned to sKc.94
+sKc.94 collected 550 from pot
+sKc.94: doesn't show hand 
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 (button) folded before Flop (didn't bet)
+Seat 4: sKc.94 (small blind) collected (550)
+Seat 5: k@sepr-r-r (big blind) folded before Flop
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419928636: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:06:32 BRT [2013/06/01 13:06:32 ET]
+Table '741051100 2' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (3450 in chips) 
+Seat 3: 7xxcookxx7 (2254 in chips) 
+Seat 4: sKc.94 (3748 in chips) 
+Seat 5: k@sepr-r-r (3215 in chips) 
+Seat 6: Roma bub (9790 in chips) 
+Seat 9: noonesee (9255 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+k@sepr-r-r: posts small blind 100
+Roma bub: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2c Ts]
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: folds 
+sKc.94: folds 
+k@sepr-r-r: raises 300 to 500
+Roma bub: folds 
+Uncalled bet (300) returned to k@sepr-r-r
+k@sepr-r-r collected 550 from pot
+k@sepr-r-r: doesn't show hand 
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 (button) folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r (small blind) collected (550)
+Seat 6: Roma bub (big blind) folded before Flop
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419948220: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:06:57 BRT [2013/06/01 13:06:57 ET]
+Table '741051100 2' 9-max Seat #5 is the button
+Seat 1: dfcastro.net (3425 in chips) 
+Seat 3: 7xxcookxx7 (2229 in chips) 
+Seat 4: sKc.94 (3723 in chips) 
+Seat 5: k@sepr-r-r (3540 in chips) 
+Seat 6: Roma bub (9565 in chips) 
+Seat 9: noonesee (9230 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+Roma bub: posts small blind 100
+noonesee: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ks 2s]
+dfcastro.net: folds 
+7xxcookxx7: folds 
+sKc.94: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+Uncalled bet (100) returned to noonesee
+noonesee collected 350 from pot
+noonesee: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r (button) folded before Flop (didn't bet)
+Seat 6: Roma bub (small blind) folded before Flop
+Seat 9: noonesee (big blind) collected (350)
+
+
+
+PokerStars Hand #99419959671: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:07:12 BRT [2013/06/01 13:07:12 ET]
+Table '741051100 2' 9-max Seat #6 is the button
+Seat 1: dfcastro.net (3400 in chips) 
+Seat 3: 7xxcookxx7 (2204 in chips) 
+Seat 4: sKc.94 (3698 in chips) 
+Seat 5: k@sepr-r-r (3515 in chips) 
+Seat 6: Roma bub (9440 in chips) 
+Seat 9: noonesee (9455 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+noonesee: posts small blind 100
+dfcastro.net: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Jc Ac]
+7xxcookxx7: folds 
+sKc.94: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+noonesee: folds 
+Uncalled bet (100) returned to dfcastro.net
+dfcastro.net collected 350 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 1: dfcastro.net (big blind) collected (350)
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub (button) folded before Flop (didn't bet)
+Seat 9: noonesee (small blind) folded before Flop
+
+
+
+PokerStars Hand #99419972248: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:07:28 BRT [2013/06/01 13:07:28 ET]
+Table '741051100 2' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (3625 in chips) 
+Seat 3: 7xxcookxx7 (2179 in chips) 
+Seat 4: sKc.94 (3673 in chips) 
+Seat 5: k@sepr-r-r (3490 in chips) 
+Seat 6: Roma bub (9415 in chips) 
+Seat 9: noonesee (9330 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+dfcastro.net: posts small blind 100
+7xxcookxx7: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qd 6h]
+sKc.94: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+noonesee: folds 
+dfcastro.net: folds 
+Uncalled bet (100) returned to 7xxcookxx7
+7xxcookxx7 collected 350 from pot
+7xxcookxx7: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 3: 7xxcookxx7 (big blind) collected (350)
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 9: noonesee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419985529: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:07:45 BRT [2013/06/01 13:07:45 ET]
+Table '741051100 2' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (3500 in chips) 
+Seat 3: 7xxcookxx7 (2404 in chips) 
+Seat 4: sKc.94 (3648 in chips) 
+Seat 5: k@sepr-r-r (3465 in chips) 
+Seat 6: Roma bub (9390 in chips) 
+Seat 9: noonesee (9305 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+7xxcookxx7: posts small blind 100
+sKc.94: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7c Jh]
+k@sepr-r-r: folds 
+Roma bub: folds 
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: folds 
+Uncalled bet (100) returned to sKc.94
+sKc.94 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 (small blind) folded before Flop
+Seat 4: sKc.94 (big blind) collected (350)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99419997210: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:08:00 BRT [2013/06/01 13:08:00 ET]
+Table '741051100 2' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (3475 in chips) 
+Seat 3: 7xxcookxx7 (2279 in chips) 
+Seat 4: sKc.94 (3873 in chips) 
+Seat 5: k@sepr-r-r (3440 in chips) 
+Seat 6: Roma bub (9365 in chips) 
+Seat 9: noonesee (9280 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+sKc.94: posts small blind 100
+k@sepr-r-r: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4h 4s]
+Roma bub: folds 
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: folds 
+sKc.94: folds 
+Uncalled bet (100) returned to k@sepr-r-r
+k@sepr-r-r collected 350 from pot
+k@sepr-r-r: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 (button) folded before Flop (didn't bet)
+Seat 4: sKc.94 (small blind) folded before Flop
+Seat 5: k@sepr-r-r (big blind) collected (350)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99420017224: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:08:26 BRT [2013/06/01 13:08:26 ET]
+Table '741051100 2' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (3450 in chips) 
+Seat 3: 7xxcookxx7 (2254 in chips) 
+Seat 4: sKc.94 (3748 in chips) 
+Seat 5: k@sepr-r-r (3665 in chips) 
+Seat 6: Roma bub (9340 in chips) 
+Seat 9: noonesee (9255 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+k@sepr-r-r: posts small blind 100
+Roma bub: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [As 5d]
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: folds 
+sKc.94: folds 
+k@sepr-r-r: raises 300 to 500
+Roma bub: raises 1100 to 1600
+k@sepr-r-r: calls 1100
+*** FLOP *** [9c 6c 8s]
+k@sepr-r-r: checks 
+Roma bub: bets 2800
+k@sepr-r-r: folds 
+Uncalled bet (2800) returned to Roma bub
+Roma bub collected 3350 from pot
+Roma bub: doesn't show hand 
+*** SUMMARY ***
+Total pot 3350 | Rake 0 
+Board [9c 6c 8s]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 (button) folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r (small blind) folded on the Flop
+Seat 6: Roma bub (big blind) collected (3350)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99420044393: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:09:01 BRT [2013/06/01 13:09:01 ET]
+Table '741051100 2' 9-max Seat #5 is the button
+Seat 1: dfcastro.net (3425 in chips) 
+Seat 3: 7xxcookxx7 (2229 in chips) 
+Seat 4: sKc.94 (3723 in chips) 
+Seat 5: k@sepr-r-r (2040 in chips) 
+Seat 6: Roma bub (11065 in chips) 
+Seat 9: noonesee (9230 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+Roma bub: posts small blind 100
+noonesee: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6c 2h]
+dfcastro.net: folds 
+7xxcookxx7: folds 
+sKc.94: folds 
+k@sepr-r-r: raises 1815 to 2015 and is all-in
+Roma bub: folds 
+noonesee: folds 
+Uncalled bet (1815) returned to k@sepr-r-r
+k@sepr-r-r collected 650 from pot
+k@sepr-r-r: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r (button) collected (650)
+Seat 6: Roma bub (small blind) folded before Flop
+Seat 9: noonesee (big blind) folded before Flop
+
+
+
+PokerStars Hand #99420072946: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VII (100/200) - 2013/06/01 14:09:39 BRT [2013/06/01 13:09:39 ET]
+Table '741051100 2' 9-max Seat #6 is the button
+Seat 1: dfcastro.net (3400 in chips) 
+Seat 3: 7xxcookxx7 (2204 in chips) 
+Seat 4: sKc.94 (3698 in chips) 
+Seat 5: k@sepr-r-r (2465 in chips) 
+Seat 6: Roma bub (10940 in chips) 
+Seat 9: noonesee (9005 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+noonesee: posts small blind 100
+dfcastro.net: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8h 2s]
+7xxcookxx7: folds 
+sKc.94: folds 
+k@sepr-r-r: folds 
+Roma bub: folds 
+noonesee: folds 
+Uncalled bet (100) returned to dfcastro.net
+dfcastro.net collected 350 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 1: dfcastro.net (big blind) collected (350)
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub (button) folded before Flop (didn't bet)
+Seat 9: noonesee (small blind) folded before Flop
+
+
+
+PokerStars Hand #99420091977: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/01 14:10:04 BRT [2013/06/01 13:10:04 ET]
+Table '741051100 2' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (3625 in chips) 
+Seat 3: 7xxcookxx7 (2179 in chips) 
+Seat 4: sKc.94 (3673 in chips) 
+Seat 5: k@sepr-r-r (2440 in chips) 
+Seat 6: Roma bub (10915 in chips) 
+Seat 9: noonesee (8880 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+dfcastro.net: posts small blind 150
+7xxcookxx7: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8d 6c]
+sKc.94: raises 3348 to 3648 and is all-in
+k@sepr-r-r: folds 
+Roma bub: folds 
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: folds 
+Uncalled bet (3348) returned to sKc.94
+sKc.94 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 3: 7xxcookxx7 (big blind) folded before Flop
+Seat 4: sKc.94 collected (900)
+Seat 5: k@sepr-r-r folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 9: noonesee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99420104053: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/01 14:10:20 BRT [2013/06/01 13:10:20 ET]
+Table '741051100 2' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (3450 in chips) 
+Seat 3: 7xxcookxx7 (1854 in chips) 
+Seat 4: sKc.94 (4248 in chips) 
+Seat 5: k@sepr-r-r (2415 in chips) 
+Seat 6: Roma bub (10890 in chips) 
+Seat 9: noonesee (8855 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+7xxcookxx7: posts small blind 150
+sKc.94: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [9d 7c]
+k@sepr-r-r: raises 2090 to 2390 and is all-in
+Roma bub: folds 
+noonesee: calls 2390
+dfcastro.net: folds 
+7xxcookxx7: folds 
+sKc.94: folds 
+*** FLOP *** [6c Ah 9c]
+*** TURN *** [6c Ah 9c] [7d]
+*** RIVER *** [6c Ah 9c 7d] [8c]
+*** SHOW DOWN ***
+k@sepr-r-r: shows [Tc Ac] (a flush, Ace high)
+noonesee: shows [9s As] (two pair, Aces and Nines)
+k@sepr-r-r collected 5380 from pot
+*** SUMMARY ***
+Total pot 5380 | Rake 0 
+Board [6c Ah 9c 7d 8c]
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 (small blind) folded before Flop
+Seat 4: sKc.94 (big blind) folded before Flop
+Seat 5: k@sepr-r-r showed [Tc Ac] and won (5380) with a flush, Ace high
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 9: noonesee showed [9s As] and lost with two pair, Aces and Nines
+
+
+
+PokerStars Hand #99420125672: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/01 14:10:48 BRT [2013/06/01 13:10:48 ET]
+Table '741051100 2' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (3425 in chips) 
+Seat 3: 7xxcookxx7 (1679 in chips) 
+Seat 4: sKc.94 (3923 in chips) 
+Seat 5: k@sepr-r-r (5380 in chips) 
+Seat 6: Roma bub (10865 in chips) 
+Seat 9: noonesee (6440 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+sKc.94: posts small blind 150
+k@sepr-r-r: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kd As]
+Roma bub: folds 
+noonesee: folds 
+dfcastro.net: raises 360 to 660
+7xxcookxx7: folds 
+sKc.94: folds 
+k@sepr-r-r: folds 
+Uncalled bet (360) returned to dfcastro.net
+dfcastro.net collected 900 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: dfcastro.net collected (900)
+Seat 3: 7xxcookxx7 (button) folded before Flop (didn't bet)
+Seat 4: sKc.94 (small blind) folded before Flop
+Seat 5: k@sepr-r-r (big blind) folded before Flop
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99420144844: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/01 14:11:13 BRT [2013/06/01 13:11:13 ET]
+Table '741051100 2' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (4000 in chips) 
+Seat 3: 7xxcookxx7 (1654 in chips) 
+Seat 4: sKc.94 (3748 in chips) 
+Seat 5: k@sepr-r-r (5055 in chips) 
+Seat 6: Roma bub (10840 in chips) 
+Seat 9: noonesee (6415 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+k@sepr-r-r: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+k@sepr-r-r: posts small blind 150
+Roma bub: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qh 9d]
+noonesee: raises 400 to 700
+dfcastro.net: folds 
+7xxcookxx7: folds 
+sKc.94: folds 
+k@sepr-r-r: calls 550
+Roma bub: folds 
+*** FLOP *** [Jc 8c 9h]
+k@sepr-r-r: bets 1500
+noonesee: raises 4190 to 5690 and is all-in
+k@sepr-r-r: calls 2830 and is all-in
+Uncalled bet (1360) returned to noonesee
+*** TURN *** [Jc 8c 9h] [As]
+*** RIVER *** [Jc 8c 9h As] [6d]
+*** SHOW DOWN ***
+k@sepr-r-r: shows [Tc Ac] (a pair of Aces)
+noonesee: shows [Ah Kd] (a pair of Aces - King kicker)
+noonesee collected 10510 from pot
+k@sepr-r-r finished the tournament in 11th place
+*** SUMMARY ***
+Total pot 10510 | Rake 0 
+Board [Jc 8c 9h As 6d]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 (button) folded before Flop (didn't bet)
+Seat 5: k@sepr-r-r (small blind) showed [Tc Ac] and lost with a pair of Aces
+Seat 6: Roma bub (big blind) folded before Flop
+Seat 9: noonesee showed [Ah Kd] and won (10510) with a pair of Aces
+
+
+
+PokerStars Hand #99420175464: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/01 14:11:53 BRT [2013/06/01 13:11:53 ET]
+Table '741051100 2' 9-max Seat #6 is the button
+Seat 1: dfcastro.net (3975 in chips) 
+Seat 3: 7xxcookxx7 (1629 in chips) 
+Seat 4: sKc.94 (3723 in chips) 
+Seat 6: Roma bub (10515 in chips) 
+Seat 9: noonesee (11870 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+noonesee: posts small blind 150
+dfcastro.net: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [9h Qh]
+7xxcookxx7: folds 
+sKc.94: folds 
+Roma bub: folds 
+noonesee: raises 300 to 600
+dfcastro.net: folds 
+Uncalled bet (300) returned to noonesee
+noonesee collected 725 from pot
+noonesee: doesn't show hand 
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Seat 1: dfcastro.net (big blind) folded before Flop
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 6: Roma bub (button) folded before Flop (didn't bet)
+Seat 9: noonesee (small blind) collected (725)
+
+
+
+PokerStars Hand #99420191601: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/01 14:12:15 BRT [2013/06/01 13:12:15 ET]
+Table '741051100 2' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (3650 in chips) 
+Seat 3: 7xxcookxx7 (1604 in chips) 
+Seat 4: sKc.94 (3698 in chips) 
+Seat 6: Roma bub (10490 in chips) 
+Seat 9: noonesee (12270 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+dfcastro.net: posts small blind 150
+7xxcookxx7: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8d Js]
+sKc.94: folds 
+Roma bub: folds 
+noonesee: folds 
+dfcastro.net: folds 
+Uncalled bet (150) returned to 7xxcookxx7
+7xxcookxx7 collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | Rake 0 
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 3: 7xxcookxx7 (big blind) collected (425)
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 9: noonesee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99420199187: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/01 14:12:25 BRT [2013/06/01 13:12:25 ET]
+Table '741051100 2' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (3475 in chips) 
+Seat 3: 7xxcookxx7 (1854 in chips) 
+Seat 4: sKc.94 (3673 in chips) 
+Seat 6: Roma bub (10465 in chips) 
+Seat 9: noonesee (12245 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+7xxcookxx7: posts small blind 150
+sKc.94: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3s 8c]
+Roma bub: folds 
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: folds 
+Uncalled bet (150) returned to sKc.94
+sKc.94 collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | Rake 0 
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 (small blind) folded before Flop
+Seat 4: sKc.94 (big blind) collected (425)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99420211523: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/01 14:12:41 BRT [2013/06/01 13:12:41 ET]
+Table '741051100 2' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (3450 in chips) 
+Seat 3: 7xxcookxx7 (1679 in chips) 
+Seat 4: sKc.94 (3923 in chips) 
+Seat 6: Roma bub (10440 in chips) 
+Seat 9: noonesee (12220 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+sKc.94: posts small blind 150
+Roma bub: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3c 2d]
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: folds 
+sKc.94: raises 3598 to 3898 and is all-in
+Roma bub: folds 
+Uncalled bet (3598) returned to sKc.94
+sKc.94 collected 725 from pot
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 (button) folded before Flop (didn't bet)
+Seat 4: sKc.94 (small blind) collected (725)
+Seat 6: Roma bub (big blind) folded before Flop
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99420224863: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/01 14:12:59 BRT [2013/06/01 13:12:59 ET]
+Table '741051100 2' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (3425 in chips) 
+Seat 3: 7xxcookxx7 (1654 in chips) 
+Seat 4: sKc.94 (4323 in chips) 
+Seat 6: Roma bub (10115 in chips) 
+Seat 9: noonesee (12195 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+Roma bub: posts small blind 150
+noonesee: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4s 9s]
+dfcastro.net: folds 
+7xxcookxx7: folds 
+sKc.94: folds 
+Roma bub: folds 
+Uncalled bet (150) returned to noonesee
+noonesee collected 425 from pot
+noonesee: doesn't show hand 
+*** SUMMARY ***
+Total pot 425 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 (button) folded before Flop (didn't bet)
+Seat 6: Roma bub (small blind) folded before Flop
+Seat 9: noonesee (big blind) collected (425)
+
+
+
+PokerStars Hand #99420233419: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/01 14:13:10 BRT [2013/06/01 13:13:10 ET]
+Table '741051100 2' 9-max Seat #6 is the button
+Seat 1: dfcastro.net (3400 in chips) 
+Seat 3: 7xxcookxx7 (1629 in chips) 
+Seat 4: sKc.94 (4298 in chips) 
+Seat 6: Roma bub (9940 in chips) 
+Seat 9: noonesee (12445 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+noonesee: posts small blind 150
+dfcastro.net: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4c 9d]
+7xxcookxx7: folds 
+sKc.94: folds 
+Roma bub: folds 
+noonesee: folds 
+Uncalled bet (150) returned to dfcastro.net
+dfcastro.net collected 425 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 425 | Rake 0 
+Seat 1: dfcastro.net (big blind) collected (425)
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 6: Roma bub (button) folded before Flop (didn't bet)
+Seat 9: noonesee (small blind) folded before Flop
+
+
+
+PokerStars Hand #99420241583: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/01 14:13:21 BRT [2013/06/01 13:13:21 ET]
+Table '741051100 2' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (3650 in chips) 
+Seat 3: 7xxcookxx7 (1604 in chips) 
+Seat 4: sKc.94 (4273 in chips) 
+Seat 6: Roma bub (9915 in chips) 
+Seat 9: noonesee (12270 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+dfcastro.net: posts small blind 150
+7xxcookxx7: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4c 9c]
+sKc.94: raises 375 to 675
+Roma bub: folds 
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: raises 904 to 1579 and is all-in
+sKc.94: calls 904
+*** FLOP *** [Qc 4s 6d]
+*** TURN *** [Qc 4s 6d] [Ts]
+*** RIVER *** [Qc 4s 6d Ts] [Kh]
+*** SHOW DOWN ***
+7xxcookxx7: shows [5h 5d] (a pair of Fives)
+sKc.94: shows [3s Ad] (high card Ace)
+7xxcookxx7 collected 3433 from pot
+*** SUMMARY ***
+Total pot 3433 | Rake 0 
+Board [Qc 4s 6d Ts Kh]
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 3: 7xxcookxx7 (big blind) showed [5h 5d] and won (3433) with a pair of Fives
+Seat 4: sKc.94 showed [3s Ad] and lost with high card Ace
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 9: noonesee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99420266043: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/01 14:13:53 BRT [2013/06/01 13:13:53 ET]
+Table '741051100 2' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (3475 in chips) 
+Seat 3: 7xxcookxx7 (3433 in chips) 
+Seat 4: sKc.94 (2669 in chips) 
+Seat 6: Roma bub (9890 in chips) 
+Seat 9: noonesee (12245 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+7xxcookxx7: posts small blind 150
+sKc.94: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7c 4s]
+Roma bub: folds 
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7: folds 
+Uncalled bet (150) returned to sKc.94
+sKc.94 collected 425 from pot
+sKc.94: doesn't show hand 
+*** SUMMARY ***
+Total pot 425 | Rake 0 
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 (small blind) folded before Flop
+Seat 4: sKc.94 (big blind) collected (425)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99420275679: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/01 14:14:06 BRT [2013/06/01 13:14:06 ET]
+Table '741051100 2' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (3450 in chips) 
+Seat 3: 7xxcookxx7 (3258 in chips) 
+Seat 4: sKc.94 (2919 in chips) 
+Seat 6: Roma bub (9865 in chips) 
+Seat 9: noonesee (12220 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+sKc.94: posts small blind 150
+Roma bub: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4s 2s]
+noonesee: folds 
+dfcastro.net: folds 
+7xxcookxx7 said, "insta cALL ACE rag"
+7xxcookxx7: folds 
+sKc.94: folds 
+Uncalled bet (150) returned to Roma bub
+Roma bub collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 (button) folded before Flop (didn't bet)
+Seat 4: sKc.94 (small blind) folded before Flop
+Seat 6: Roma bub (big blind) collected (425)
+Seat 9: noonesee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #99420305906: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/01 14:14:46 BRT [2013/06/01 13:14:46 ET]
+Table '741051100 2' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (3425 in chips) 
+Seat 3: 7xxcookxx7 (3233 in chips) 
+Seat 4: sKc.94 (2744 in chips) 
+Seat 6: Roma bub (10115 in chips) 
+Seat 9: noonesee (12195 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+Roma bub: posts small blind 150
+noonesee: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ks Tc]
+sKc.94 said, "odds"
+dfcastro.net: folds 
+7xxcookxx7: folds 
+sKc.94: raises 2419 to 2719 and is all-in
+Roma bub: folds 
+noonesee: folds 
+Uncalled bet (2419) returned to sKc.94
+sKc.94 collected 875 from pot
+sKc.94: doesn't show hand 
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 (button) collected (875)
+Seat 6: Roma bub (small blind) folded before Flop
+Seat 9: noonesee (big blind) folded before Flop
+
+
+
+PokerStars Hand #99420315696: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/01 14:14:58 BRT [2013/06/01 13:14:58 ET]
+Table '741051100 2' 9-max Seat #6 is the button
+Seat 1: dfcastro.net (3400 in chips) 
+Seat 3: 7xxcookxx7 (3208 in chips) 
+Seat 4: sKc.94 (3294 in chips) 
+Seat 6: Roma bub (9940 in chips) 
+Seat 9: noonesee (11870 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+noonesee: posts small blind 150
+dfcastro.net: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ad 7c]
+7xxcookxx7: folds 
+sKc.94: folds 
+Roma bub: folds 
+7xxcookxx7 said, "hahahahadonk pooo more like it"
+noonesee: folds 
+Uncalled bet (150) returned to dfcastro.net
+dfcastro.net collected 425 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 425 | Rake 0 
+Seat 1: dfcastro.net (big blind) collected (425)
+Seat 3: 7xxcookxx7 folded before Flop (didn't bet)
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 6: Roma bub (button) folded before Flop (didn't bet)
+Seat 9: noonesee (small blind) folded before Flop
+
+
+
+PokerStars Hand #99420338244: Tournament #741051100, $0.91+$0.09 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/01 14:15:28 BRT [2013/06/01 13:15:28 ET]
+Table '741051100 2' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (3650 in chips) 
+Seat 3: 7xxcookxx7 (3183 in chips) 
+Seat 4: sKc.94 (3269 in chips) 
+Seat 6: Roma bub (9915 in chips) 
+Seat 9: noonesee (11695 in chips) 
+dfcastro.net: posts the ante 25
+7xxcookxx7: posts the ante 25
+sKc.94: posts the ante 25
+Roma bub: posts the ante 25
+noonesee: posts the ante 25
+dfcastro.net: posts small blind 150
+7xxcookxx7: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qs Ac]
+sKc.94: folds 
+Roma bub: folds 
+noonesee: raises 300 to 600
+dfcastro.net: raises 3025 to 3625 and is all-in
+7xxcookxx7: folds 
+noonesee: calls 3025
+*** FLOP *** [Ah 5c 9s]
+*** TURN *** [Ah 5c 9s] [Qd]
+*** RIVER *** [Ah 5c 9s Qd] [4c]
+*** SHOW DOWN ***
+dfcastro.net: shows [Qs Ac] (two pair, Aces and Queens)
+noonesee: shows [9h 9d] (three of a kind, Nines)
+noonesee collected 7675 from pot
+*** SUMMARY ***
+Total pot 7675 | Rake 0 
+Board [Ah 5c 9s Qd 4c]
+Seat 1: dfcastro.net (small blind) showed [Qs Ac] and lost with two pair, Aces and Queens
+Seat 3: 7xxcookxx7 (big blind) folded before Flop
+Seat 4: sKc.94 folded before Flop (didn't bet)
+Seat 6: Roma bub folded before Flop (didn't bet)
+Seat 9: noonesee (button) showed [9h 9d] and won (7675) with three of a kind, Nines
+
+
+

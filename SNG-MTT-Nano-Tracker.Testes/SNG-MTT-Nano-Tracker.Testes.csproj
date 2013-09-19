@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F70BE964-1348-4E64-A155-D56766FC916C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SNGMTTNanoTracker.Testes</RootNamespace>
+    <AssemblyName>SNG-MTT-Nano-Tracker.Testes</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Moq, Version=4.0.10827.0, Culture=neutral, PublicKeyToken=69f491c39445e920, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\Documentos\Visual Studio 2012\Projects\Poker\packages\Moq.4.0.10827\lib\NET35\Moq.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>..\packages\NUnit.2.6.2\lib\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MaoTestes.cs" />
+    <Compile Include="MesaTestes.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GerenciadorDeResultadosTestes.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Arquivos\Arquivo3Maos.txt" />
+    <Content Include="Arquivos\HH20130427 T725058424 No Limit Hold%27em %240.23 + %240.02.txt" />
+    <Content Include="Arquivos\HH20130601 T741051100 No Limit Hold%27em %240.91 + %240.09.txt" />
+    <Content Include="Arquivos\HH20130615 T744111947 No Limit Hold%27em 5 FPP.txt" />
+    <Content Include="Arquivos\HH20130619 T749571403 No Limit Hold%27em %241.35 + %240.15.txt" />
+    <Content Include="Arquivos\HH20130621 T750518676 No Limit Hold%27em %240.23 + %240.02.txt" />
+    <Content Include="Arquivos\HH20130629 T754035897 No Limit Hold%27em %240.23 + %240.02.txt" />
+    <Content Include="Arquivos\notes.dfcastronet.xml" />
+    <Content Include="Arquivos\TournSummary\TS20130629 T754035897 No Limit Hold%27em %240.23+%240.02.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SNG-MTT-Nano-Tracker\SNG-MTT-Nano-Tracker.csproj">
+      <Project>{74563031-b12f-4e79-875c-4652775b1891}</Project>
+      <Name>SNG-MTT-Nano-Tracker</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

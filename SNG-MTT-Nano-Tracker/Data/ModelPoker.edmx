@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="DatabasePokerModel.Store" Alias="Self" Provider="System.Data.SqlServerCe.4.0" ProviderManifestToken="4.0" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="DatabasePokerModelStoreContainer">
+          <EntitySet Name="Configuracao" EntityType="DatabasePokerModel.Store.Configuracao" store:Type="Tables" />
+          <EntitySet Name="Mesas" EntityType="DatabasePokerModel.Store.Mesas" store:Type="Tables" />
+          <EntitySet Name="Resultados" EntityType="DatabasePokerModel.Store.Resultados" store:Type="Tables" />
+        </EntityContainer>
+        <EntityType Name="Configuracao">
+          <Key>
+            <PropertyRef Name="ConfiguracaoID" />
+          </Key>
+          <Property Name="Chave" Type="nvarchar" MaxLength="100" />
+          <Property Name="Valor" Type="nvarchar" />
+          <Property Name="ConfiguracaoID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+        </EntityType>
+        <EntityType Name="Mesas">
+          <Key>
+            <PropertyRef Name="MesaID" />
+          </Key>
+          <Property Name="Table" Type="nvarchar" MaxLength="200" />
+          <Property Name="NomeAmigavel" Type="nvarchar" MaxLength="200" />
+          <Property Name="Players" Type="nvarchar" MaxLength="100" />
+          <Property Name="MesaID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+        </EntityType>
+        <EntityType Name="Resultados">
+          <Key>
+            <PropertyRef Name="ResultadoID" />
+          </Key>
+          <Property Name="Inicio" Type="datetime" Nullable="false" />
+          <Property Name="Fim" Type="datetime" Nullable="false" />
+          <Property Name="Mesa" Type="nvarchar" Nullable="false" MaxLength="300" />
+          <Property Name="BuyInRake" Type="numeric" Nullable="false" Scale="2" />
+          <Property Name="Posicao" Type="int" Nullable="false" />
+          <Property Name="Winning" Type="numeric" Nullable="false" Scale="2" />
+          <Property Name="TorneioID" Type="int" Nullable="false" />
+          <Property Name="Jogadores" Type="nvarchar" MaxLength="100" />
+          <Property Name="Rebuy" Type="numeric" Scale="2" />
+          <Property Name="AddOn" Type="numeric" Scale="2" />
+          <Property Name="Knockout" Type="numeric" Scale="2" />
+          <Property Name="ResultadoID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+        </EntityType>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DatabasePokerModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="DatabasePokerEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Configuracao" EntityType="DatabasePokerModel.Configuracao" />
+          <EntitySet Name="Mesas" EntityType="DatabasePokerModel.Mesas" />
+          <EntitySet Name="Resultados" EntityType="DatabasePokerModel.Resultados" />
+        </EntityContainer>
+        <EntityType Name="Configuracao">
+          <Key>
+            <PropertyRef Name="ConfiguracaoID" />
+          </Key>
+          <Property Name="Chave" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="Valor" Type="String" MaxLength="4000" Unicode="true" FixedLength="false" />
+          <Property Name="ConfiguracaoID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+        </EntityType>
+        <EntityType Name="Mesas">
+          <Key>
+            <PropertyRef Name="MesaID" />
+          </Key>
+          <Property Name="Table" Type="String" MaxLength="200" Unicode="true" FixedLength="false" />
+          <Property Name="NomeAmigavel" Type="String" MaxLength="200" Unicode="true" FixedLength="false" />
+          <Property Name="Players" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="MesaID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+        </EntityType>
+        <EntityType Name="Resultados">
+          <Key>
+            <PropertyRef Name="ResultadoID" />
+          </Key>
+          <Property Name="ResultadoID" Type="Int32" Nullable="false" />
+          <Property Name="Inicio" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="Fim" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="Mesa" Type="String" Nullable="false" MaxLength="300" Unicode="true" FixedLength="false" />
+          <Property Name="BuyInRake" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+          <Property Name="Posicao" Type="Int32" Nullable="false" />
+          <Property Name="Winning" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+          <Property Name="TorneioID" Type="Int32" Nullable="false" />
+          <Property Name="Jogadores" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="Rebuy" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="AddOn" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="Knockout" Type="Decimal" Precision="18" Scale="2" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DatabasePokerModelStoreContainer" CdmEntityContainer="DatabasePokerEntities">
+          <EntitySetMapping Name="Configuracao">
+            <EntityTypeMapping TypeName="DatabasePokerModel.Configuracao">
+              <MappingFragment StoreEntitySet="Configuracao">
+                <ScalarProperty Name="Chave" ColumnName="Chave" />
+                <ScalarProperty Name="Valor" ColumnName="Valor" />
+                <ScalarProperty Name="ConfiguracaoID" ColumnName="ConfiguracaoID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Mesas">
+            <EntityTypeMapping TypeName="DatabasePokerModel.Mesas">
+              <MappingFragment StoreEntitySet="Mesas">
+                <ScalarProperty Name="Table" ColumnName="Table" />
+                <ScalarProperty Name="NomeAmigavel" ColumnName="NomeAmigavel" />
+                <ScalarProperty Name="Players" ColumnName="Players" />
+                <ScalarProperty Name="MesaID" ColumnName="MesaID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Resultados">
+            <EntityTypeMapping TypeName="DatabasePokerModel.Resultados">
+              <MappingFragment StoreEntitySet="Resultados">
+                <ScalarProperty Name="ResultadoID" ColumnName="ResultadoID" />
+                <ScalarProperty Name="Inicio" ColumnName="Inicio" />
+                <ScalarProperty Name="Fim" ColumnName="Fim" />
+                <ScalarProperty Name="Mesa" ColumnName="Mesa" />
+                <ScalarProperty Name="BuyInRake" ColumnName="BuyInRake" />
+                <ScalarProperty Name="Posicao" ColumnName="Posicao" />
+                <ScalarProperty Name="Winning" ColumnName="Winning" />
+                <ScalarProperty Name="TorneioID" ColumnName="TorneioID" />
+                <ScalarProperty Name="Jogadores" ColumnName="Jogadores" />
+                <ScalarProperty Name="Rebuy" ColumnName="Rebuy" />
+                <ScalarProperty Name="AddOn" ColumnName="AddOn" />
+                <ScalarProperty Name="Knockout" ColumnName="Knockout" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

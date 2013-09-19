@@ -1,0 +1,91 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{C832437C-4471-4D4A-9BB5-C60E9EF855D1}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNG-MTT-Nano-Tracker.Testes", "SNG-MTT-Nano-Tracker.Testes\SNG-MTT-Nano-Tracker.Testes.csproj", "{F70BE964-1348-4E64-A155-D56766FC916C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuladorDeMaos", "SimuladorDeMaos\SimuladorDeMaos.csproj", "{81BBA9E1-04B3-4594-9567-CFE53B88D0EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowScrape", "WindowScrape\WindowScrape.csproj", "{D9716550-921D-44E8-A289-C297950DB1F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNG-MTT-Nano-Tracker", "SNG-MTT-Nano-Tracker\SNG-MTT-Nano-Tracker.csproj", "{74563031-B12F-4E79-875C-4652775B1891}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "SNG-MTT-Nano-Tracker.Setup", "SNG-MTT-Nano-Tracker.Setup\SNG-MTT-Nano-Tracker.Setup.isproj", "{7826C391-5D3A-4470-B205-33DECFE5C17D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F5ABAE2A-5A48-4B4B-86BF-5A701AE42A5B}"
+	ProjectSection(SolutionItems) = preProject
+		Helps.txt = Helps.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F70BE964-1348-4E64-A155-D56766FC916C}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{F70BE964-1348-4E64-A155-D56766FC916C}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{F70BE964-1348-4E64-A155-D56766FC916C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70BE964-1348-4E64-A155-D56766FC916C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70BE964-1348-4E64-A155-D56766FC916C}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70BE964-1348-4E64-A155-D56766FC916C}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{F70BE964-1348-4E64-A155-D56766FC916C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70BE964-1348-4E64-A155-D56766FC916C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F70BE964-1348-4E64-A155-D56766FC916C}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{F70BE964-1348-4E64-A155-D56766FC916C}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{81BBA9E1-04B3-4594-9567-CFE53B88D0EA}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{81BBA9E1-04B3-4594-9567-CFE53B88D0EA}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{81BBA9E1-04B3-4594-9567-CFE53B88D0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BBA9E1-04B3-4594-9567-CFE53B88D0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81BBA9E1-04B3-4594-9567-CFE53B88D0EA}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BBA9E1-04B3-4594-9567-CFE53B88D0EA}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{81BBA9E1-04B3-4594-9567-CFE53B88D0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81BBA9E1-04B3-4594-9567-CFE53B88D0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81BBA9E1-04B3-4594-9567-CFE53B88D0EA}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{81BBA9E1-04B3-4594-9567-CFE53B88D0EA}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{D9716550-921D-44E8-A289-C297950DB1F7}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{D9716550-921D-44E8-A289-C297950DB1F7}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{D9716550-921D-44E8-A289-C297950DB1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9716550-921D-44E8-A289-C297950DB1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9716550-921D-44E8-A289-C297950DB1F7}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9716550-921D-44E8-A289-C297950DB1F7}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{D9716550-921D-44E8-A289-C297950DB1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9716550-921D-44E8-A289-C297950DB1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9716550-921D-44E8-A289-C297950DB1F7}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{D9716550-921D-44E8-A289-C297950DB1F7}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{74563031-B12F-4E79-875C-4652775B1891}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{74563031-B12F-4E79-875C-4652775B1891}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{74563031-B12F-4E79-875C-4652775B1891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74563031-B12F-4E79-875C-4652775B1891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74563031-B12F-4E79-875C-4652775B1891}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{74563031-B12F-4E79-875C-4652775B1891}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{74563031-B12F-4E79-875C-4652775B1891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74563031-B12F-4E79-875C-4652775B1891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74563031-B12F-4E79-875C-4652775B1891}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{74563031-B12F-4E79-875C-4652775B1891}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{7826C391-5D3A-4470-B205-33DECFE5C17D}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{7826C391-5D3A-4470-B205-33DECFE5C17D}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{7826C391-5D3A-4470-B205-33DECFE5C17D}.Debug|Any CPU.ActiveCfg = DVD-5
+		{7826C391-5D3A-4470-B205-33DECFE5C17D}.Debug|Any CPU.Build.0 = DVD-5
+		{7826C391-5D3A-4470-B205-33DECFE5C17D}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{7826C391-5D3A-4470-B205-33DECFE5C17D}.DVD-5|Any CPU.Build.0 = DVD-5
+		{7826C391-5D3A-4470-B205-33DECFE5C17D}.Release|Any CPU.ActiveCfg = SingleImage
+		{7826C391-5D3A-4470-B205-33DECFE5C17D}.Release|Any CPU.Build.0 = SingleImage
+		{7826C391-5D3A-4470-B205-33DECFE5C17D}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{7826C391-5D3A-4470-B205-33DECFE5C17D}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

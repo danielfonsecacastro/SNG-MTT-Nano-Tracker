@@ -1,0 +1,5709 @@
+﻿PokerStars Hand #100297668670: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level I (10/20) - 2013/06/19 21:32:04 BRT [2013/06/19 20:32:04 ET]
+Table '749571403 9' 9-max Seat #1 is the button
+Seat 1: Hot69Tamale (1500 in chips) 
+Seat 2: dfcastro.net (1500 in chips) 
+Seat 3: rustybennett (1500 in chips) 
+Seat 4: laurita53 (1500 in chips) 
+Seat 5: Quintari (1500 in chips) 
+Seat 6: ASRExtreme (1500 in chips) 
+Seat 7: zuantewith80 (1500 in chips) 
+Seat 8: BYR-ROMAN (1500 in chips) 
+Seat 9: Baron0412 (1500 in chips) 
+dfcastro.net: posts small blind 10
+rustybennett: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Th 4h]
+laurita53: calls 20
+Quintari: folds 
+ASRExtreme: folds 
+zuantewith80: calls 20
+BYR-ROMAN: folds 
+Baron0412: calls 20
+Hot69Tamale: raises 60 to 80
+dfcastro.net: folds 
+rustybennett: calls 60
+laurita53: calls 60
+zuantewith80: calls 60
+Baron0412: calls 60
+*** FLOP *** [3d Ac 9c]
+rustybennett: checks 
+laurita53: checks 
+zuantewith80: checks 
+Baron0412: checks 
+Hot69Tamale: bets 60
+rustybennett: calls 60
+laurita53: folds 
+zuantewith80: calls 60
+Baron0412: calls 60
+*** TURN *** [3d Ac 9c] [Ks]
+rustybennett: checks 
+zuantewith80: checks 
+Baron0412: checks 
+Hot69Tamale: bets 180
+rustybennett: calls 180
+zuantewith80: folds 
+Baron0412: calls 180
+*** RIVER *** [3d Ac 9c Ks] [6h]
+rustybennett: checks 
+Baron0412: checks 
+Hot69Tamale: bets 480
+rustybennett: raises 700 to 1180 and is all-in
+Baron0412: folds 
+Hot69Tamale: calls 700 and is all-in
+*** SHOW DOWN ***
+rustybennett: shows [As 6d] (two pair, Aces and Sixes)
+Hot69Tamale: shows [Kh Ah] (two pair, Aces and Kings)
+Hot69Tamale collected 3550 from pot
+Hot69Tamale wins the $0.27 bounty for eliminating rustybennett
+rustybennett finished the tournament in 86th place
+*** SUMMARY ***
+Total pot 3550 | Rake 0 
+Board [3d Ac 9c Ks 6h]
+Seat 1: Hot69Tamale (button) showed [Kh Ah] and won (3550) with two pair, Aces and Kings
+Seat 2: dfcastro.net (small blind) folded before Flop
+Seat 3: rustybennett (big blind) showed [As 6d] and lost with two pair, Aces and Sixes
+Seat 4: laurita53 folded on the Flop
+Seat 5: Quintari folded before Flop (didn't bet)
+Seat 6: ASRExtreme folded before Flop (didn't bet)
+Seat 7: zuantewith80 folded on the Turn
+Seat 8: BYR-ROMAN folded before Flop (didn't bet)
+Seat 9: Baron0412 folded on the River
+
+
+
+PokerStars Hand #100297736504: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level I (10/20) - 2013/06/19 21:34:23 BRT [2013/06/19 20:34:23 ET]
+Table '749571403 9' 9-max Seat #2 is the button
+Seat 1: Hot69Tamale (3550 in chips) 
+Seat 2: dfcastro.net (1490 in chips) 
+Seat 4: laurita53 (1420 in chips) 
+Seat 5: Quintari (1500 in chips) 
+Seat 6: ASRExtreme (1500 in chips) 
+Seat 7: zuantewith80 (1360 in chips) 
+Seat 8: BYR-ROMAN (1500 in chips) 
+Seat 9: Baron0412 (1180 in chips) 
+laurita53: posts small blind 10
+Quintari: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [9s Ad]
+ASRExtreme: calls 20
+zuantewith80: folds 
+BYR-ROMAN: folds 
+Baron0412: calls 20
+Hot69Tamale: folds 
+dfcastro.net: raises 70 to 90
+laurita53: folds 
+Quintari: calls 70
+ASRExtreme: calls 70
+Baron0412: calls 70
+*** FLOP *** [Ac Js 6c]
+Quintari: checks 
+ASRExtreme: checks 
+Baron0412: checks 
+dfcastro.net: bets 120
+Quintari: folds 
+ASRExtreme: folds 
+Baron0412: folds 
+Uncalled bet (120) returned to dfcastro.net
+dfcastro.net collected 370 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Board [Ac Js 6c]
+Seat 1: Hot69Tamale folded before Flop (didn't bet)
+Seat 2: dfcastro.net (button) collected (370)
+Seat 4: laurita53 (small blind) folded before Flop
+Seat 5: Quintari (big blind) folded on the Flop
+Seat 6: ASRExtreme folded on the Flop
+Seat 7: zuantewith80 folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN folded before Flop (didn't bet)
+Seat 9: Baron0412 folded on the Flop
+
+
+
+PokerStars Hand #100297762878: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level I (10/20) - 2013/06/19 21:35:18 BRT [2013/06/19 20:35:18 ET]
+Table '749571403 9' 9-max Seat #4 is the button
+Seat 1: Hot69Tamale (3550 in chips) 
+Seat 2: dfcastro.net (1770 in chips) 
+Seat 4: laurita53 (1410 in chips) 
+Seat 5: Quintari (1410 in chips) 
+Seat 6: ASRExtreme (1410 in chips) 
+Seat 7: zuantewith80 (1360 in chips) 
+Seat 8: BYR-ROMAN (1500 in chips) 
+Seat 9: Baron0412 (1090 in chips) 
+Quintari: posts small blind 10
+ASRExtreme: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8h Qd]
+zuantewith80: folds 
+BYR-ROMAN: folds 
+Baron0412: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+laurita53 has timed out
+laurita53: folds 
+laurita53 is sitting out
+Quintari: calls 10
+ASRExtreme: checks 
+*** FLOP *** [5c 5d 6c]
+Quintari: checks 
+ASRExtreme: bets 40
+Quintari: folds 
+Uncalled bet (40) returned to ASRExtreme
+ASRExtreme collected 40 from pot
+ASRExtreme: doesn't show hand 
+laurita53 has returned
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5c 5d 6c]
+Seat 1: Hot69Tamale folded before Flop (didn't bet)
+Seat 2: dfcastro.net folded before Flop (didn't bet)
+Seat 4: laurita53 (button) folded before Flop (didn't bet)
+Seat 5: Quintari (small blind) folded on the Flop
+Seat 6: ASRExtreme (big blind) collected (40)
+Seat 7: zuantewith80 folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN folded before Flop (didn't bet)
+Seat 9: Baron0412 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100297783289: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level I (10/20) - 2013/06/19 21:36:00 BRT [2013/06/19 20:36:00 ET]
+Table '749571403 9' 9-max Seat #5 is the button
+Seat 1: Hot69Tamale (3550 in chips) 
+Seat 2: dfcastro.net (1770 in chips) 
+Seat 4: laurita53 (1410 in chips) 
+Seat 5: Quintari (1390 in chips) 
+Seat 6: ASRExtreme (1430 in chips) 
+Seat 7: zuantewith80 (1360 in chips) 
+Seat 8: BYR-ROMAN (1500 in chips) 
+Seat 9: Baron0412 (1090 in chips) 
+ASRExtreme: posts small blind 10
+zuantewith80: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4c 9c]
+BYR-ROMAN: raises 1480 to 1500 and is all-in
+Baron0412: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+laurita53: folds 
+Quintari: folds 
+ASRExtreme: folds 
+zuantewith80: folds 
+Uncalled bet (1480) returned to BYR-ROMAN
+BYR-ROMAN collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Hot69Tamale folded before Flop (didn't bet)
+Seat 2: dfcastro.net folded before Flop (didn't bet)
+Seat 4: laurita53 folded before Flop (didn't bet)
+Seat 5: Quintari (button) folded before Flop (didn't bet)
+Seat 6: ASRExtreme (small blind) folded before Flop
+Seat 7: zuantewith80 (big blind) folded before Flop
+Seat 8: BYR-ROMAN collected (50)
+Seat 9: Baron0412 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100297797018: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level I (10/20) - 2013/06/19 21:36:29 BRT [2013/06/19 20:36:29 ET]
+Table '749571403 9' 9-max Seat #6 is the button
+Seat 1: Hot69Tamale (3550 in chips) 
+Seat 2: dfcastro.net (1770 in chips) 
+Seat 4: laurita53 (1410 in chips) 
+Seat 5: Quintari (1390 in chips) 
+Seat 6: ASRExtreme (1420 in chips) 
+Seat 7: zuantewith80 (1340 in chips) 
+Seat 8: BYR-ROMAN (1530 in chips) 
+Seat 9: Baron0412 (1090 in chips) 
+zuantewith80: posts small blind 10
+BYR-ROMAN: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ah Th]
+Baron0412: calls 20
+Hot69Tamale: folds 
+dfcastro.net: raises 70 to 90
+laurita53: folds 
+Quintari: folds 
+ASRExtreme: folds 
+zuantewith80: folds 
+BYR-ROMAN: folds 
+Baron0412: calls 70
+*** FLOP *** [Kh 3s 3d]
+Baron0412: checks 
+dfcastro.net: checks 
+*** TURN *** [Kh 3s 3d] [7s]
+Baron0412: checks 
+dfcastro.net: checks 
+*** RIVER *** [Kh 3s 3d 7s] [Jc]
+Baron0412: checks 
+dfcastro.net: bets 120
+Baron0412: calls 120
+*** SHOW DOWN ***
+dfcastro.net: shows [Ah Th] (a pair of Threes)
+Baron0412: shows [6d 6s] (two pair, Sixes and Threes)
+Baron0412 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [Kh 3s 3d 7s Jc]
+Seat 1: Hot69Tamale folded before Flop (didn't bet)
+Seat 2: dfcastro.net showed [Ah Th] and lost with a pair of Threes
+Seat 4: laurita53 folded before Flop (didn't bet)
+Seat 5: Quintari folded before Flop (didn't bet)
+Seat 6: ASRExtreme (button) folded before Flop (didn't bet)
+Seat 7: zuantewith80 (small blind) folded before Flop
+Seat 8: BYR-ROMAN (big blind) folded before Flop
+Seat 9: Baron0412 showed [6d 6s] and won (450) with two pair, Sixes and Threes
+
+
+
+PokerStars Hand #100297817807: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level I (10/20) - 2013/06/19 21:37:13 BRT [2013/06/19 20:37:13 ET]
+Table '749571403 9' 9-max Seat #7 is the button
+Seat 1: Hot69Tamale (3550 in chips) 
+Seat 2: dfcastro.net (1560 in chips) 
+Seat 4: laurita53 (1410 in chips) 
+Seat 5: Quintari (1390 in chips) 
+Seat 6: ASRExtreme (1420 in chips) 
+Seat 7: zuantewith80 (1330 in chips) 
+Seat 8: BYR-ROMAN (1510 in chips) 
+Seat 9: Baron0412 (1330 in chips) 
+BYR-ROMAN: posts small blind 10
+Baron0412: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8d 4d]
+Hot69Tamale: folds 
+dfcastro.net: folds 
+laurita53: folds 
+Quintari: folds 
+ASRExtreme: calls 20
+zuantewith80: folds 
+BYR-ROMAN: calls 10
+Baron0412: checks 
+*** FLOP *** [4s Ks Kc]
+BYR-ROMAN: checks 
+Baron0412: checks 
+ASRExtreme: checks 
+*** TURN *** [4s Ks Kc] [Ah]
+BYR-ROMAN: checks 
+Baron0412: checks 
+ASRExtreme: bets 60
+BYR-ROMAN: folds 
+Baron0412: folds 
+Uncalled bet (60) returned to ASRExtreme
+ASRExtreme collected 60 from pot
+ASRExtreme: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4s Ks Kc Ah]
+Seat 1: Hot69Tamale folded before Flop (didn't bet)
+Seat 2: dfcastro.net folded before Flop (didn't bet)
+Seat 4: laurita53 folded before Flop (didn't bet)
+Seat 5: Quintari folded before Flop (didn't bet)
+Seat 6: ASRExtreme collected (60)
+Seat 7: zuantewith80 (button) folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN (small blind) folded on the Turn
+Seat 9: Baron0412 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #100297838291: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level I (10/20) - 2013/06/19 21:37:57 BRT [2013/06/19 20:37:57 ET]
+Table '749571403 9' 9-max Seat #8 is the button
+Seat 1: Hot69Tamale (3550 in chips) 
+Seat 2: dfcastro.net (1560 in chips) 
+Seat 3: tia sira (1500 in chips) 
+Seat 4: laurita53 (1410 in chips) 
+Seat 5: Quintari (1390 in chips) 
+Seat 6: ASRExtreme (1460 in chips) 
+Seat 7: zuantewith80 (1330 in chips) 
+Seat 8: BYR-ROMAN (1490 in chips) 
+Seat 9: Baron0412 (1310 in chips) 
+Baron0412: posts small blind 10
+Hot69Tamale: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kc Kd]
+dfcastro.net: raises 70 to 90
+tia sira: calls 90
+laurita53: folds 
+Quintari: calls 90
+ASRExtreme: calls 90
+zuantewith80: folds 
+BYR-ROMAN: folds 
+Baron0412: calls 80
+Hot69Tamale: folds 
+*** FLOP *** [Ah Jd 2c]
+Baron0412: checks 
+dfcastro.net: checks 
+tia sira: checks 
+Quintari: bets 200
+ASRExtreme: calls 200
+Baron0412: folds 
+dfcastro.net: folds 
+tia sira: folds 
+*** TURN *** [Ah Jd 2c] [6d]
+Quintari: bets 1100 and is all-in
+ASRExtreme: calls 1100
+*** RIVER *** [Ah Jd 2c 6d] [4s]
+*** SHOW DOWN ***
+Quintari: shows [Jh Ad] (two pair, Aces and Jacks)
+ASRExtreme: shows [5s Ac] (a pair of Aces)
+Quintari collected 3070 from pot
+*** SUMMARY ***
+Total pot 3070 | Rake 0 
+Board [Ah Jd 2c 6d 4s]
+Seat 1: Hot69Tamale (big blind) folded before Flop
+Seat 2: dfcastro.net folded on the Flop
+Seat 3: tia sira folded on the Flop
+Seat 4: laurita53 folded before Flop (didn't bet)
+Seat 5: Quintari showed [Jh Ad] and won (3070) with two pair, Aces and Jacks
+Seat 6: ASRExtreme showed [5s Ac] and lost with a pair of Aces
+Seat 7: zuantewith80 folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN (button) folded before Flop (didn't bet)
+Seat 9: Baron0412 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #100297872343: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level I (10/20) - 2013/06/19 21:39:09 BRT [2013/06/19 20:39:09 ET]
+Table '749571403 9' 9-max Seat #9 is the button
+Seat 1: Hot69Tamale (3530 in chips) 
+Seat 2: dfcastro.net (1470 in chips) 
+Seat 3: tia sira (1410 in chips) 
+Seat 4: laurita53 (1410 in chips) 
+Seat 5: Quintari (3070 in chips) 
+Seat 6: ASRExtreme (70 in chips) 
+Seat 7: zuantewith80 (1330 in chips) 
+Seat 8: BYR-ROMAN (1490 in chips) 
+Seat 9: Baron0412 (1220 in chips) 
+Hot69Tamale: posts small blind 10
+dfcastro.net: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qd 2s]
+tia sira: calls 20
+laurita53: folds 
+Quintari: calls 20
+ASRExtreme: folds 
+zuantewith80: folds 
+BYR-ROMAN: folds 
+Baron0412: calls 20
+Hot69Tamale: calls 10
+dfcastro.net: checks 
+*** FLOP *** [Jh 2h Qs]
+Hot69Tamale: checks 
+dfcastro.net: bets 100
+tia sira: folds 
+Quintari: folds 
+Baron0412: folds 
+Hot69Tamale: folds 
+Uncalled bet (100) returned to dfcastro.net
+dfcastro.net collected 100 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Jh 2h Qs]
+Seat 1: Hot69Tamale (small blind) folded on the Flop
+Seat 2: dfcastro.net (big blind) collected (100)
+Seat 3: tia sira folded on the Flop
+Seat 4: laurita53 folded before Flop (didn't bet)
+Seat 5: Quintari folded on the Flop
+Seat 6: ASRExtreme folded before Flop (didn't bet)
+Seat 7: zuantewith80 folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN folded before Flop (didn't bet)
+Seat 9: Baron0412 (button) folded on the Flop
+
+
+
+PokerStars Hand #100297901544: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level I (10/20) - 2013/06/19 21:40:11 BRT [2013/06/19 20:40:11 ET]
+Table '749571403 9' 9-max Seat #1 is the button
+Seat 1: Hot69Tamale (3510 in chips) 
+Seat 2: dfcastro.net (1550 in chips) 
+Seat 3: tia sira (1390 in chips) 
+Seat 4: laurita53 (1410 in chips) 
+Seat 5: Quintari (3050 in chips) 
+Seat 6: ASRExtreme (70 in chips) 
+Seat 7: zuantewith80 (1330 in chips) 
+Seat 8: BYR-ROMAN (1490 in chips) 
+Seat 9: Baron0412 (1200 in chips) 
+dfcastro.net: posts small blind 10
+tia sira: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3c 7s]
+laurita53: raises 1390 to 1410 and is all-in
+Quintari: folds 
+ASRExtreme: calls 70 and is all-in
+zuantewith80: folds 
+BYR-ROMAN: folds 
+Baron0412: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+tia sira: folds 
+Uncalled bet (1340) returned to laurita53
+*** FLOP *** [9d 3s 7h]
+*** TURN *** [9d 3s 7h] [9c]
+*** RIVER *** [9d 3s 7h 9c] [2h]
+*** SHOW DOWN ***
+laurita53: shows [Jc Ac] (a pair of Nines)
+ASRExtreme: shows [6h Td] (a pair of Nines - lower kicker)
+laurita53 collected 170 from pot
+laurita53 wins the $0.27 bounty for eliminating ASRExtreme
+ASRExtreme finished the tournament in 78th place
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [9d 3s 7h 9c 2h]
+Seat 1: Hot69Tamale (button) folded before Flop (didn't bet)
+Seat 2: dfcastro.net (small blind) folded before Flop
+Seat 3: tia sira (big blind) folded before Flop
+Seat 4: laurita53 showed [Jc Ac] and won (170) with a pair of Nines
+Seat 5: Quintari folded before Flop (didn't bet)
+Seat 6: ASRExtreme showed [6h Td] and lost with a pair of Nines
+Seat 7: zuantewith80 folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN folded before Flop (didn't bet)
+Seat 9: Baron0412 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100297914175: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level I (10/20) - 2013/06/19 21:40:38 BRT [2013/06/19 20:40:38 ET]
+Table '749571403 9' 9-max Seat #2 is the button
+Seat 1: Hot69Tamale (3510 in chips) 
+Seat 2: dfcastro.net (1540 in chips) 
+Seat 3: tia sira (1370 in chips) 
+Seat 4: laurita53 (1510 in chips) 
+Seat 5: Quintari (3050 in chips) 
+Seat 7: zuantewith80 (1330 in chips) 
+Seat 8: BYR-ROMAN (1490 in chips) 
+Seat 9: Baron0412 (1200 in chips) 
+tia sira: posts small blind 10
+laurita53: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2h 3s]
+Quintari: folds 
+zuantewith80: folds 
+BYR-ROMAN: folds 
+Baron0412: calls 20
+Hot69Tamale: folds 
+dfcastro.net: folds 
+tia sira: calls 10
+laurita53: checks 
+*** FLOP *** [Ah 7d 4c]
+tia sira: checks 
+laurita53: checks 
+Baron0412: bets 20
+tia sira: folds 
+laurita53: calls 20
+*** TURN *** [Ah 7d 4c] [8d]
+laurita53: checks 
+Baron0412: bets 120
+laurita53: calls 120
+*** RIVER *** [Ah 7d 4c 8d] [Qd]
+laurita53: checks 
+Baron0412: bets 20
+laurita53: calls 20
+*** SHOW DOWN ***
+Baron0412: shows [8s Ad] (two pair, Aces and Eights)
+laurita53: mucks hand 
+Baron0412 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [Ah 7d 4c 8d Qd]
+Seat 1: Hot69Tamale folded before Flop (didn't bet)
+Seat 2: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 3: tia sira (small blind) folded on the Flop
+Seat 4: laurita53 (big blind) mucked [2c 2d]
+Seat 5: Quintari folded before Flop (didn't bet)
+Seat 7: zuantewith80 folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN folded before Flop (didn't bet)
+Seat 9: Baron0412 showed [8s Ad] and won (380) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #100297934703: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level I (10/20) - 2013/06/19 21:41:23 BRT [2013/06/19 20:41:23 ET]
+Table '749571403 9' 9-max Seat #3 is the button
+Seat 1: Hot69Tamale (3510 in chips) 
+Seat 2: dfcastro.net (1540 in chips) 
+Seat 3: tia sira (1350 in chips) 
+Seat 4: laurita53 (1330 in chips) 
+Seat 5: Quintari (3050 in chips) 
+Seat 7: zuantewith80 (1330 in chips) 
+Seat 8: BYR-ROMAN (1490 in chips) 
+Seat 9: Baron0412 (1400 in chips) 
+laurita53: posts small blind 10
+Quintari: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7c Kc]
+zuantewith80: folds 
+BYR-ROMAN: folds 
+Baron0412: folds 
+Hot69Tamale: calls 20
+dfcastro.net: folds 
+tia sira: calls 20
+laurita53: folds 
+Quintari: checks 
+*** FLOP *** [Ac 8d Ts]
+Quintari: checks 
+Hot69Tamale: bets 20
+tia sira: raises 40 to 60
+Quintari: folds 
+Hot69Tamale: folds 
+Uncalled bet (40) returned to tia sira
+tia sira collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | Rake 0 
+Board [Ac 8d Ts]
+Seat 1: Hot69Tamale folded on the Flop
+Seat 2: dfcastro.net folded before Flop (didn't bet)
+Seat 3: tia sira (button) collected (110)
+Seat 4: laurita53 (small blind) folded before Flop
+Seat 5: Quintari (big blind) folded on the Flop
+Seat 7: zuantewith80 folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN folded before Flop (didn't bet)
+Seat 9: Baron0412 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100297954305: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level I (10/20) - 2013/06/19 21:42:05 BRT [2013/06/19 20:42:05 ET]
+Table '749571403 9' 9-max Seat #4 is the button
+Seat 1: Hot69Tamale (3470 in chips) 
+Seat 2: dfcastro.net (1540 in chips) 
+Seat 3: tia sira (1420 in chips) 
+Seat 4: laurita53 (1320 in chips) 
+Seat 5: Quintari (3030 in chips) 
+Seat 6: rudi12508 (2294 in chips) 
+Seat 7: zuantewith80 (1330 in chips) 
+Seat 8: BYR-ROMAN (1490 in chips) 
+Seat 9: Baron0412 (1400 in chips) 
+Quintari: posts small blind 10
+rudi12508: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ac Th]
+zuantewith80: folds 
+BYR-ROMAN: folds 
+Baron0412: calls 20
+Hot69Tamale: folds 
+dfcastro.net: raises 70 to 90
+tia sira: folds 
+laurita53: folds 
+Quintari: folds 
+rudi12508: calls 70
+Baron0412: calls 70
+*** FLOP *** [Ad 6c 8h]
+rudi12508: bets 80
+Baron0412: folds 
+dfcastro.net: raises 160 to 240
+rudi12508: folds 
+Uncalled bet (160) returned to dfcastro.net
+dfcastro.net collected 440 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [Ad 6c 8h]
+Seat 1: Hot69Tamale folded before Flop (didn't bet)
+Seat 2: dfcastro.net collected (440)
+Seat 3: tia sira folded before Flop (didn't bet)
+Seat 4: laurita53 (button) folded before Flop (didn't bet)
+Seat 5: Quintari (small blind) folded before Flop
+Seat 6: rudi12508 (big blind) folded on the Flop
+Seat 7: zuantewith80 folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN folded before Flop (didn't bet)
+Seat 9: Baron0412 folded on the Flop
+
+
+
+PokerStars Hand #100297980682: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level I (10/20) - 2013/06/19 21:43:02 BRT [2013/06/19 20:43:02 ET]
+Table '749571403 9' 9-max Seat #5 is the button
+Seat 1: Hot69Tamale (3470 in chips) 
+Seat 2: dfcastro.net (1810 in chips) 
+Seat 3: tia sira (1420 in chips) 
+Seat 4: laurita53 (1320 in chips) 
+Seat 5: Quintari (3020 in chips) 
+Seat 6: rudi12508 (2124 in chips) 
+Seat 7: zuantewith80 (1330 in chips) 
+Seat 8: BYR-ROMAN (1490 in chips) 
+Seat 9: Baron0412 (1310 in chips) 
+rudi12508: posts small blind 10
+zuantewith80: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4s Ts]
+BYR-ROMAN: folds 
+Baron0412: calls 20
+Hot69Tamale: folds 
+dfcastro.net: folds 
+tia sira: folds 
+laurita53: folds 
+Quintari: folds 
+rudi12508: folds 
+zuantewith80: checks 
+*** FLOP *** [Kc 6d 4h]
+zuantewith80: bets 40
+Baron0412 is connected 
+Baron0412: calls 40
+*** TURN *** [Kc 6d 4h] [7c]
+zuantewith80: bets 70
+Baron0412: calls 70
+*** RIVER *** [Kc 6d 4h 7c] [Qs]
+zuantewith80: bets 190
+Baron0412: folds 
+Uncalled bet (190) returned to zuantewith80
+zuantewith80 collected 270 from pot
+zuantewith80: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Kc 6d 4h 7c Qs]
+Seat 1: Hot69Tamale folded before Flop (didn't bet)
+Seat 2: dfcastro.net folded before Flop (didn't bet)
+Seat 3: tia sira folded before Flop (didn't bet)
+Seat 4: laurita53 folded before Flop (didn't bet)
+Seat 5: Quintari (button) folded before Flop (didn't bet)
+Seat 6: rudi12508 (small blind) folded before Flop
+Seat 7: zuantewith80 (big blind) collected (270)
+Seat 8: BYR-ROMAN folded before Flop (didn't bet)
+Seat 9: Baron0412 folded on the River
+
+
+
+PokerStars Hand #100298018460: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level I (10/20) - 2013/06/19 21:44:25 BRT [2013/06/19 20:44:25 ET]
+Table '749571403 9' 9-max Seat #6 is the button
+Seat 1: Hot69Tamale (3470 in chips) 
+Seat 2: dfcastro.net (1810 in chips) 
+Seat 3: tia sira (1420 in chips) 
+Seat 4: laurita53 (1320 in chips) 
+Seat 5: Quintari (3020 in chips) 
+Seat 6: rudi12508 (2114 in chips) 
+Seat 7: zuantewith80 (1470 in chips) 
+Seat 8: BYR-ROMAN (1490 in chips) 
+Seat 9: Baron0412 (1180 in chips) 
+zuantewith80: posts small blind 10
+BYR-ROMAN: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kh 7h]
+Baron0412: calls 20
+Hot69Tamale: calls 20
+dfcastro.net: folds 
+tia sira: folds 
+laurita53: calls 20
+Quintari: raises 60 to 80
+rudi12508: folds 
+zuantewith80: folds 
+BYR-ROMAN: calls 60
+Baron0412: calls 60
+Hot69Tamale: raises 60 to 140
+laurita53: calls 120
+Quintari: raises 2880 to 3020 and is all-in
+BYR-ROMAN: folds 
+Baron0412: folds 
+Hot69Tamale: folds 
+laurita53: calls 1180 and is all-in
+Uncalled bet (1700) returned to Quintari
+*** FLOP *** [3d Qs 2s]
+*** TURN *** [3d Qs 2s] [5c]
+*** RIVER *** [3d Qs 2s 5c] [Th]
+*** SHOW DOWN ***
+laurita53: shows [Ks Qc] (a pair of Queens)
+Quintari: shows [Kc Kd] (a pair of Kings)
+Quintari collected 2950 from pot
+Quintari wins the $0.27 bounty for eliminating laurita53
+laurita53 finished the tournament in 69th place
+*** SUMMARY ***
+Total pot 2950 | Rake 0 
+Board [3d Qs 2s 5c Th]
+Seat 1: Hot69Tamale folded before Flop
+Seat 2: dfcastro.net folded before Flop (didn't bet)
+Seat 3: tia sira folded before Flop (didn't bet)
+Seat 4: laurita53 showed [Ks Qc] and lost with a pair of Queens
+Seat 5: Quintari showed [Kc Kd] and won (2950) with a pair of Kings
+Seat 6: rudi12508 (button) folded before Flop (didn't bet)
+Seat 7: zuantewith80 (small blind) folded before Flop
+Seat 8: BYR-ROMAN (big blind) folded before Flop
+Seat 9: Baron0412 folded before Flop
+
+
+
+PokerStars Hand #100298058534: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level I (10/20) - 2013/06/19 21:45:53 BRT [2013/06/19 20:45:53 ET]
+Table '749571403 9' 9-max Seat #7 is the button
+Seat 1: Hot69Tamale (3330 in chips) 
+Seat 2: dfcastro.net (1810 in chips) 
+Seat 3: tia sira (1420 in chips) 
+Seat 5: Quintari (4650 in chips) 
+Seat 6: rudi12508 (2114 in chips) 
+Seat 7: zuantewith80 (1460 in chips) 
+Seat 8: BYR-ROMAN (1410 in chips) 
+Seat 9: Baron0412 (1100 in chips) 
+BYR-ROMAN: posts small blind 10
+Baron0412: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Js 9s]
+Hot69Tamale: folds 
+dfcastro.net: folds 
+tia sira: calls 20
+Quintari: folds 
+rudi12508: calls 20
+zuantewith80: folds 
+BYR-ROMAN: calls 10
+Baron0412: checks 
+*** FLOP *** [Qc Jh 9h]
+BYR-ROMAN: checks 
+Baron0412: checks 
+tia sira: checks 
+rudi12508: bets 100
+BYR-ROMAN: calls 100
+Baron0412: calls 100
+tia sira: raises 420 to 520
+rudi12508: calls 420
+BYR-ROMAN: raises 870 to 1390 and is all-in
+Baron0412: calls 980 and is all-in
+tia sira: raises 10 to 1400 and is all-in
+rudi12508: calls 880
+*** TURN *** [Qc Jh 9h] [Ts]
+*** RIVER *** [Qc Jh 9h Ts] [Th]
+*** SHOW DOWN ***
+tia sira: shows [Qs 9c] (two pair, Queens and Tens)
+rudi12508: shows [9d 7h] (two pair, Tens and Nines)
+tia sira collected 20 from side pot-2 
+BYR-ROMAN: shows [6h Ah] (a flush, Ace high)
+BYR-ROMAN collected 930 from side pot-1 
+Baron0412: shows [Ad Kh] (a straight, Ten to Ace)
+BYR-ROMAN collected 4400 from main pot
+BYR-ROMAN wins the $0.27 bounty for eliminating Baron0412
+Baron0412 finished the tournament in 65th place
+*** SUMMARY ***
+Total pot 5350 Main pot 4400. Side pot-1 930. Side pot-2 20. | Rake 0 
+Board [Qc Jh 9h Ts Th]
+Seat 1: Hot69Tamale folded before Flop (didn't bet)
+Seat 2: dfcastro.net folded before Flop (didn't bet)
+Seat 3: tia sira showed [Qs 9c] and won (20) with two pair, Queens and Tens
+Seat 5: Quintari folded before Flop (didn't bet)
+Seat 6: rudi12508 showed [9d 7h] and lost with two pair, Tens and Nines
+Seat 7: zuantewith80 (button) folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN (small blind) showed [6h Ah] and won (5330) with a flush, Ace high
+Seat 9: Baron0412 (big blind) showed [Ad Kh] and lost with a straight, Ten to Ace
+
+
+
+PokerStars Hand #100298096896: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level II (15/30) - 2013/06/19 21:47:16 BRT [2013/06/19 20:47:16 ET]
+Table '749571403 9' 9-max Seat #8 is the button
+Seat 1: Hot69Tamale (3330 in chips) 
+Seat 2: dfcastro.net (1810 in chips) 
+Seat 3: tia sira (20 in chips) 
+Seat 5: Quintari (4650 in chips) 
+Seat 6: rudi12508 (694 in chips) 
+Seat 7: zuantewith80 (1460 in chips) 
+Seat 8: BYR-ROMAN (5330 in chips) 
+Hot69Tamale: posts small blind 15
+dfcastro.net: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8c Qc]
+tia sira: calls 20 and is all-in
+Quintari: folds 
+rudi12508: folds 
+zuantewith80: folds 
+BYR-ROMAN: folds 
+Hot69Tamale: calls 15
+dfcastro.net: checks 
+*** FLOP *** [Tc 4c Kh]
+Hot69Tamale: bets 45
+dfcastro.net: calls 45
+*** TURN *** [Tc 4c Kh] [2c]
+Hot69Tamale: bets 45
+dfcastro.net: calls 45
+*** RIVER *** [Tc 4c Kh 2c] [3s]
+Hot69Tamale: bets 75
+dfcastro.net: raises 275 to 350
+Hot69Tamale: calls 275
+*** SHOW DOWN ***
+dfcastro.net: shows [8c Qc] (a flush, Queen high)
+Hot69Tamale: mucks hand 
+dfcastro.net collected 900 from side pot
+tia sira: mucks hand 
+tia sira is sitting out
+dfcastro.net collected 60 from main pot
+dfcastro.net wins the $0.27 bounty for eliminating tia sira
+tia sira finished the tournament in 62nd place
+*** SUMMARY ***
+Total pot 960 Main pot 60. Side pot 900. | Rake 0 
+Board [Tc 4c Kh 2c 3s]
+Seat 1: Hot69Tamale (small blind) mucked [Td 4d]
+Seat 2: dfcastro.net (big blind) showed [8c Qc] and won (960) with a flush, Queen high
+Seat 3: tia sira mucked [As 9c]
+Seat 5: Quintari folded before Flop (didn't bet)
+Seat 6: rudi12508 folded before Flop (didn't bet)
+Seat 7: zuantewith80 folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100298131514: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level II (15/30) - 2013/06/19 21:48:32 BRT [2013/06/19 20:48:32 ET]
+Table '749571403 9' 9-max Seat #1 is the button
+Seat 1: Hot69Tamale (2860 in chips) 
+Seat 2: dfcastro.net (2300 in chips) 
+Seat 4: alinstefan18 (4060 in chips) 
+Seat 5: Quintari (4650 in chips) 
+Seat 6: rudi12508 (694 in chips) 
+Seat 7: zuantewith80 (1460 in chips) 
+Seat 8: BYR-ROMAN (5330 in chips) 
+Seat 9: ronanskw (7520 in chips) 
+dfcastro.net: posts small blind 15
+alinstefan18: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4c Tc]
+Quintari: folds 
+rudi12508: calls 30
+zuantewith80: folds 
+BYR-ROMAN: folds 
+ronanskw: raises 7490 to 7520 and is all-in
+Hot69Tamale: folds 
+dfcastro.net: folds 
+alinstefan18: folds 
+rudi12508: folds 
+Uncalled bet (7490) returned to ronanskw
+ronanskw collected 105 from pot
+ronanskw: doesn't show hand 
+*** SUMMARY ***
+Total pot 105 | Rake 0 
+Seat 1: Hot69Tamale (button) folded before Flop (didn't bet)
+Seat 2: dfcastro.net (small blind) folded before Flop
+Seat 4: alinstefan18 (big blind) folded before Flop
+Seat 5: Quintari folded before Flop (didn't bet)
+Seat 6: rudi12508 folded before Flop
+Seat 7: zuantewith80 folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN folded before Flop (didn't bet)
+Seat 9: ronanskw collected (105)
+
+
+
+PokerStars Hand #100298145752: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level II (15/30) - 2013/06/19 21:49:03 BRT [2013/06/19 20:49:03 ET]
+Table '749571403 9' 9-max Seat #2 is the button
+Seat 1: Hot69Tamale (2860 in chips) 
+Seat 2: dfcastro.net (2285 in chips) 
+Seat 4: alinstefan18 (4030 in chips) 
+Seat 5: Quintari (4650 in chips) 
+Seat 6: rudi12508 (664 in chips) 
+Seat 7: zuantewith80 (1460 in chips) 
+Seat 8: BYR-ROMAN (5330 in chips) 
+Seat 9: ronanskw (7595 in chips) 
+alinstefan18: posts small blind 15
+Quintari: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2d 4s]
+rudi12508: raises 90 to 120
+zuantewith80: folds 
+BYR-ROMAN: folds 
+ronanskw: raises 7475 to 7595 and is all-in
+Hot69Tamale: folds 
+dfcastro.net: folds 
+alinstefan18: folds 
+Quintari: folds 
+rudi12508: calls 544 and is all-in
+Uncalled bet (6931) returned to ronanskw
+*** FLOP *** [Ks 8s Kd]
+*** TURN *** [Ks 8s Kd] [8d]
+*** RIVER *** [Ks 8s Kd 8d] [Qc]
+*** SHOW DOWN ***
+rudi12508: shows [Qh 8h] (a full house, Eights full of Kings)
+ronanskw: shows [Td Jd] (two pair, Kings and Eights)
+rudi12508 collected 1373 from pot
+*** SUMMARY ***
+Total pot 1373 | Rake 0 
+Board [Ks 8s Kd 8d Qc]
+Seat 1: Hot69Tamale folded before Flop (didn't bet)
+Seat 2: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 4: alinstefan18 (small blind) folded before Flop
+Seat 5: Quintari (big blind) folded before Flop
+Seat 6: rudi12508 showed [Qh 8h] and won (1373) with a full house, Eights full of Kings
+Seat 7: zuantewith80 folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN folded before Flop (didn't bet)
+Seat 9: ronanskw showed [Td Jd] and lost with two pair, Kings and Eights
+
+
+
+PokerStars Hand #100298161325: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level II (15/30) - 2013/06/19 21:49:37 BRT [2013/06/19 20:49:37 ET]
+Table '749571403 9' 9-max Seat #4 is the button
+Seat 1: Hot69Tamale (2860 in chips) 
+Seat 2: dfcastro.net (2285 in chips) 
+Seat 4: alinstefan18 (4015 in chips) 
+Seat 5: Quintari (4620 in chips) 
+Seat 6: rudi12508 (1373 in chips) 
+Seat 7: zuantewith80 (1460 in chips) 
+Seat 8: BYR-ROMAN (5330 in chips) 
+Seat 9: ronanskw (6931 in chips) 
+Quintari: posts small blind 15
+rudi12508: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2h 6h]
+zuantewith80: folds 
+rudi12508 said, "F U RONNAN"
+BYR-ROMAN: calls 30
+ronanskw: raises 6901 to 6931 and is all-in
+Hot69Tamale: folds 
+dfcastro.net: folds 
+alinstefan18: folds 
+Quintari: folds 
+rudi12508: folds 
+BYR-ROMAN: folds 
+Uncalled bet (6901) returned to ronanskw
+ronanskw collected 105 from pot
+ronanskw: doesn't show hand 
+*** SUMMARY ***
+Total pot 105 | Rake 0 
+Seat 1: Hot69Tamale folded before Flop (didn't bet)
+Seat 2: dfcastro.net folded before Flop (didn't bet)
+Seat 4: alinstefan18 (button) folded before Flop (didn't bet)
+Seat 5: Quintari (small blind) folded before Flop
+Seat 6: rudi12508 (big blind) folded before Flop
+Seat 7: zuantewith80 folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN folded before Flop
+Seat 9: ronanskw collected (105)
+
+
+
+PokerStars Hand #100298179767: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level II (15/30) - 2013/06/19 21:50:18 BRT [2013/06/19 20:50:18 ET]
+Table '749571403 9' 9-max Seat #5 is the button
+Seat 1: Hot69Tamale (2860 in chips) 
+Seat 2: dfcastro.net (2285 in chips) 
+Seat 4: alinstefan18 (4015 in chips) 
+Seat 5: Quintari (4605 in chips) 
+Seat 6: rudi12508 (1343 in chips) 
+Seat 7: zuantewith80 (1460 in chips) 
+Seat 8: BYR-ROMAN (5300 in chips) 
+Seat 9: ronanskw (7006 in chips) 
+rudi12508: posts small blind 15
+zuantewith80: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qh Th]
+BYR-ROMAN: folds 
+ronanskw: raises 6976 to 7006 and is all-in
+Hot69Tamale: folds 
+dfcastro.net: folds 
+alinstefan18: folds 
+Quintari: folds 
+rudi12508: folds 
+zuantewith80: folds 
+Uncalled bet (6976) returned to ronanskw
+ronanskw collected 75 from pot
+ronanskw: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Hot69Tamale folded before Flop (didn't bet)
+Seat 2: dfcastro.net folded before Flop (didn't bet)
+Seat 4: alinstefan18 folded before Flop (didn't bet)
+Seat 5: Quintari (button) folded before Flop (didn't bet)
+Seat 6: rudi12508 (small blind) folded before Flop
+Seat 7: zuantewith80 (big blind) folded before Flop
+Seat 8: BYR-ROMAN folded before Flop (didn't bet)
+Seat 9: ronanskw collected (75)
+
+
+
+PokerStars Hand #100298191143: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level II (15/30) - 2013/06/19 21:50:43 BRT [2013/06/19 20:50:43 ET]
+Table '749571403 9' 9-max Seat #6 is the button
+Seat 1: Hot69Tamale (2860 in chips) 
+Seat 2: dfcastro.net (2285 in chips) 
+Seat 4: alinstefan18 (4015 in chips) 
+Seat 5: Quintari (4605 in chips) 
+Seat 6: rudi12508 (1328 in chips) 
+Seat 7: zuantewith80 (1430 in chips) 
+Seat 8: BYR-ROMAN (5300 in chips) 
+Seat 9: ronanskw (7051 in chips) 
+zuantewith80: posts small blind 15
+BYR-ROMAN: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2s Jc]
+ronanskw: raises 7021 to 7051 and is all-in
+Hot69Tamale: folds 
+dfcastro.net: folds 
+alinstefan18: folds 
+Quintari: folds 
+rudi12508: folds 
+zuantewith80: folds 
+BYR-ROMAN: folds 
+Uncalled bet (7021) returned to ronanskw
+ronanskw collected 75 from pot
+ronanskw: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Hot69Tamale folded before Flop (didn't bet)
+Seat 2: dfcastro.net folded before Flop (didn't bet)
+Seat 4: alinstefan18 folded before Flop (didn't bet)
+Seat 5: Quintari folded before Flop (didn't bet)
+Seat 6: rudi12508 (button) folded before Flop (didn't bet)
+Seat 7: zuantewith80 (small blind) folded before Flop
+Seat 8: BYR-ROMAN (big blind) folded before Flop
+Seat 9: ronanskw collected (75)
+
+
+
+PokerStars Hand #100298201569: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level II (15/30) - 2013/06/19 21:51:06 BRT [2013/06/19 20:51:06 ET]
+Table '749571403 9' 9-max Seat #7 is the button
+Seat 1: Hot69Tamale (2860 in chips) 
+Seat 2: dfcastro.net (2285 in chips) 
+Seat 4: alinstefan18 (4015 in chips) 
+Seat 5: Quintari (4605 in chips) 
+Seat 6: rudi12508 (1328 in chips) 
+Seat 7: zuantewith80 (1415 in chips) 
+Seat 8: BYR-ROMAN (5270 in chips) 
+Seat 9: ronanskw (7096 in chips) 
+BYR-ROMAN: posts small blind 15
+ronanskw: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7c 7h]
+Hot69Tamale: folds 
+dfcastro.net: calls 30
+alinstefan18: folds 
+Quintari: calls 30
+rudi12508: folds 
+zuantewith80: folds 
+BYR-ROMAN: folds 
+ronanskw: raises 7066 to 7096 and is all-in
+dfcastro.net: calls 2255 and is all-in
+Quintari: calls 4575 and is all-in
+Uncalled bet (2491) returned to ronanskw
+rudi12508 said, "f u ronnan"
+*** FLOP *** [8d Td 2s]
+*** TURN *** [8d Td 2s] [5s]
+*** RIVER *** [8d Td 2s 5s] [Jh]
+*** SHOW DOWN ***
+ronanskw: shows [Ad 9s] (high card Ace)
+Quintari: shows [As Kc] (high card Ace - King kicker)
+Quintari collected 4640 from side pot
+dfcastro.net: shows [7c 7h] (a pair of Sevens)
+dfcastro.net collected 6870 from main pot
+*** SUMMARY ***
+Total pot 11510 Main pot 6870. Side pot 4640. | Rake 0 
+Board [8d Td 2s 5s Jh]
+Seat 1: Hot69Tamale folded before Flop (didn't bet)
+Seat 2: dfcastro.net showed [7c 7h] and won (6870) with a pair of Sevens
+Seat 4: alinstefan18 folded before Flop (didn't bet)
+Seat 5: Quintari showed [As Kc] and won (4640) with high card Ace
+Seat 6: rudi12508 folded before Flop (didn't bet)
+Seat 7: zuantewith80 (button) folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN (small blind) folded before Flop
+Seat 9: ronanskw (big blind) showed [Ad 9s] and lost with high card Ace
+
+
+
+PokerStars Hand #100298218201: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level II (15/30) - 2013/06/19 21:51:43 BRT [2013/06/19 20:51:43 ET]
+Table '749571403 9' 9-max Seat #8 is the button
+Seat 1: Hot69Tamale (2860 in chips) 
+Seat 2: dfcastro.net (6870 in chips) 
+Seat 4: alinstefan18 (4015 in chips) 
+Seat 5: Quintari (4640 in chips) 
+Seat 6: rudi12508 (1328 in chips) 
+Seat 7: zuantewith80 (1415 in chips) 
+Seat 8: BYR-ROMAN (5255 in chips) 
+Seat 9: ronanskw (2491 in chips) 
+ronanskw: posts small blind 15
+Hot69Tamale: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [As Ts]
+rudi12508 said, "hahahahha"
+rudi12508 said, "loser"
+dfcastro.net: calls 30
+alinstefan18: folds 
+Quintari: folds 
+rudi12508: folds 
+zuantewith80: folds 
+BYR-ROMAN: calls 30
+rudi12508 said, "all in"
+rudi12508 said, "loser"
+ronanskw: raises 2461 to 2491 and is all-in
+Hot69Tamale: folds 
+dfcastro.net: raises 4379 to 6870 and is all-in
+BYR-ROMAN: folds [Ah 7h]
+Uncalled bet (4379) returned to dfcastro.net
+rudi12508 said, "bye bbye.3"
+*** FLOP *** [6s Ad 9s]
+*** TURN *** [6s Ad 9s] [5s]
+*** RIVER *** [6s Ad 9s 5s] [Qd]
+*** SHOW DOWN ***
+ronanskw: shows [3c Qs] (a pair of Queens)
+dfcastro.net: shows [As Ts] (a flush, Ace high)
+rudi12508 said, "hahahaha"
+dfcastro.net collected 5042 from pot
+dfcastro.net wins the $0.27 bounty for eliminating ronanskw
+ronanskw finished the tournament in 59th place
+*** SUMMARY ***
+Total pot 5042 | Rake 0 
+Board [6s Ad 9s 5s Qd]
+Seat 1: Hot69Tamale (big blind) folded before Flop
+Seat 2: dfcastro.net showed [As Ts] and won (5042) with a flush, Ace high
+Seat 4: alinstefan18 folded before Flop (didn't bet)
+Seat 5: Quintari folded before Flop (didn't bet)
+Seat 6: rudi12508 folded before Flop (didn't bet)
+Seat 7: zuantewith80 folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN (button) folded before Flop
+Seat 9: ronanskw (small blind) showed [3c Qs] and lost with a pair of Queens
+
+
+
+PokerStars Hand #100298242207: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level II (15/30) - 2013/06/19 21:52:38 BRT [2013/06/19 20:52:38 ET]
+Table '749571403 9' 9-max Seat #1 is the button
+Seat 1: Hot69Tamale (2830 in chips) 
+Seat 2: dfcastro.net (9421 in chips) 
+Seat 4: alinstefan18 (4015 in chips) 
+Seat 5: Quintari (4640 in chips) 
+Seat 6: rudi12508 (1328 in chips) 
+Seat 7: zuantewith80 (1415 in chips) 
+Seat 8: BYR-ROMAN (5225 in chips) 
+dfcastro.net: posts small blind 15
+alinstefan18: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qc 2d]
+rudi12508 said, "loser"
+Quintari: raises 30 to 60
+rudi12508: calls 60
+zuantewith80: folds 
+BYR-ROMAN: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+alinstefan18: folds 
+*** FLOP *** [5s As 9s]
+Quintari: checks 
+rudi12508: bets 60
+Quintari: folds 
+Uncalled bet (60) returned to rudi12508
+rudi12508 collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Board [5s As 9s]
+Seat 1: Hot69Tamale (button) folded before Flop (didn't bet)
+Seat 2: dfcastro.net (small blind) folded before Flop
+Seat 4: alinstefan18 (big blind) folded before Flop
+Seat 5: Quintari folded on the Flop
+Seat 6: rudi12508 collected (165)
+Seat 7: zuantewith80 folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100298253857: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level II (15/30) - 2013/06/19 21:53:04 BRT [2013/06/19 20:53:04 ET]
+Table '749571403 9' 9-max Seat #2 is the button
+Seat 1: Hot69Tamale (2830 in chips) 
+Seat 2: dfcastro.net (9406 in chips) 
+Seat 3: FirstRider11 (1535 in chips) out of hand (moved from another table into small blind)
+Seat 4: alinstefan18 (3985 in chips) 
+Seat 5: Quintari (4580 in chips) 
+Seat 6: rudi12508 (1433 in chips) 
+Seat 7: zuantewith80 (1415 in chips) 
+Seat 8: BYR-ROMAN (5225 in chips) 
+alinstefan18: posts small blind 15
+Quintari: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qc 3d]
+rudi12508: calls 30
+zuantewith80: folds 
+BYR-ROMAN: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+alinstefan18: folds 
+Quintari: checks 
+*** FLOP *** [6h 4h Ac]
+Quintari: checks 
+rudi12508: bets 90
+Quintari: folds 
+Uncalled bet (90) returned to rudi12508
+rudi12508 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [6h 4h Ac]
+Seat 1: Hot69Tamale folded before Flop (didn't bet)
+Seat 2: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 4: alinstefan18 (small blind) folded before Flop
+Seat 5: Quintari (big blind) folded on the Flop
+Seat 6: rudi12508 collected (75)
+Seat 7: zuantewith80 folded before Flop (didn't bet)
+Seat 8: BYR-ROMAN folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100298277588: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level II (15/30) - 2013/06/19 21:53:58 BRT [2013/06/19 20:53:58 ET]
+Table '749571403 9' 9-max Seat #4 is the button
+Seat 1: Hot69Tamale (2830 in chips) 
+Seat 2: dfcastro.net (9406 in chips) 
+Seat 3: FirstRider11 (1535 in chips) is sitting out
+Seat 4: alinstefan18 (3970 in chips) 
+Seat 5: Quintari (4550 in chips) 
+Seat 6: rudi12508 (1478 in chips) 
+Seat 7: zuantewith80 (1415 in chips) 
+Seat 8: BYR-ROMAN (5225 in chips) 
+Quintari: posts small blind 15
+rudi12508: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7c 4c]
+zuantewith80: raises 45 to 75
+BYR-ROMAN: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+FirstRider11: folds 
+alinstefan18: folds 
+Quintari: folds 
+rudi12508: calls 45
+*** FLOP *** [7d 3s Jc]
+rudi12508: checks 
+zuantewith80: bets 120
+rudi12508: folds 
+Uncalled bet (120) returned to zuantewith80
+zuantewith80 collected 165 from pot
+zuantewith80: doesn't show hand 
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Board [7d 3s Jc]
+Seat 1: Hot69Tamale folded before Flop (didn't bet)
+Seat 2: dfcastro.net folded before Flop (didn't bet)
+Seat 3: FirstRider11 folded before Flop (didn't bet)
+Seat 4: alinstefan18 (button) folded before Flop (didn't bet)
+Seat 5: Quintari (small blind) folded before Flop
+Seat 6: rudi12508 (big blind) folded on the Flop
+Seat 7: zuantewith80 collected (165)
+Seat 8: BYR-ROMAN folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100298289993: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level II (15/30) - 2013/06/19 21:54:26 BRT [2013/06/19 20:54:26 ET]
+Table '749571403 9' 9-max Seat #5 is the button
+Seat 1: Hot69Tamale (2830 in chips) 
+Seat 2: dfcastro.net (9406 in chips) 
+Seat 3: FirstRider11 (1535 in chips) is sitting out
+Seat 4: alinstefan18 (3970 in chips) 
+Seat 5: Quintari (4535 in chips) 
+Seat 6: rudi12508 (1403 in chips) 
+Seat 7: zuantewith80 (1505 in chips) 
+Seat 8: BYR-ROMAN (5225 in chips) 
+rudi12508: posts small blind 15
+zuantewith80: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Tc Js]
+BYR-ROMAN: calls 30
+Hot69Tamale: calls 30
+dfcastro.net: folds 
+FirstRider11: folds 
+alinstefan18: folds 
+Quintari: folds 
+rudi12508: calls 15
+zuantewith80: checks 
+*** FLOP *** [4c 7s 6h]
+rudi12508: bets 180
+zuantewith80: folds 
+BYR-ROMAN: folds 
+Hot69Tamale: calls 180
+*** TURN *** [4c 7s 6h] [Qs]
+rudi12508: bets 330
+Hot69Tamale: calls 330
+*** RIVER *** [4c 7s 6h Qs] [9c]
+rudi12508: bets 180
+Hot69Tamale: calls 180
+*** SHOW DOWN ***
+rudi12508: shows [8s 7h] (a pair of Sevens)
+Hot69Tamale: shows [8h 9h] (a pair of Nines)
+Hot69Tamale collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [4c 7s 6h Qs 9c]
+Seat 1: Hot69Tamale showed [8h 9h] and won (1500) with a pair of Nines
+Seat 2: dfcastro.net folded before Flop (didn't bet)
+Seat 3: FirstRider11 folded before Flop (didn't bet)
+Seat 4: alinstefan18 folded before Flop (didn't bet)
+Seat 5: Quintari (button) folded before Flop (didn't bet)
+Seat 6: rudi12508 (small blind) showed [8s 7h] and lost with a pair of Sevens
+Seat 7: zuantewith80 (big blind) folded on the Flop
+Seat 8: BYR-ROMAN folded on the Flop
+
+
+
+PokerStars Hand #100298460309: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level II (15/30) - 2013/06/19 22:02:03 BRT [2013/06/19 21:02:03 ET]
+Table '749571403 9' 9-max Seat #6 is the button
+Seat 1: Hot69Tamale (3610 in chips) 
+Seat 2: dfcastro.net (9406 in chips) 
+Seat 3: FirstRider11 (1535 in chips) is sitting out
+Seat 4: alinstefan18 (3970 in chips) 
+Seat 5: Quintari (4535 in chips) 
+Seat 6: rudi12508 (683 in chips) 
+Seat 7: zuantewith80 (1475 in chips) 
+Seat 8: BYR-ROMAN (5195 in chips) 
+zuantewith80: posts small blind 15
+BYR-ROMAN: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8c Qd]
+Hot69Tamale: folds 
+dfcastro.net: folds 
+FirstRider11: folds 
+alinstefan18: folds 
+Quintari: raises 60 to 90
+rudi12508: calls 90
+zuantewith80: folds 
+BYR-ROMAN: calls 60
+*** FLOP *** [8d 8h Ts]
+BYR-ROMAN: checks 
+Quintari: bets 210
+rudi12508: raises 383 to 593 and is all-in
+BYR-ROMAN: calls 593
+Quintari: calls 383
+*** TURN *** [8d 8h Ts] [6c]
+BYR-ROMAN: bets 1080
+Quintari: calls 1080
+*** RIVER *** [8d 8h Ts 6c] [7d]
+BYR-ROMAN: bets 3432 and is all-in
+Quintari: folds 
+Uncalled bet (3432) returned to BYR-ROMAN
+*** SHOW DOWN ***
+BYR-ROMAN: shows [Tc Ad] (two pair, Tens and Eights)
+BYR-ROMAN collected 2160 from side pot
+rudi12508: shows [Th Jd] (two pair, Tens and Eights - lower kicker)
+BYR-ROMAN collected 2064 from main pot
+*** SUMMARY ***
+Total pot 4224 Main pot 2064. Side pot 2160. | Rake 0 
+Board [8d 8h Ts 6c 7d]
+Seat 1: Hot69Tamale folded before Flop (didn't bet)
+Seat 2: dfcastro.net folded before Flop (didn't bet)
+Seat 3: FirstRider11 folded before Flop (didn't bet)
+Seat 4: alinstefan18 folded before Flop (didn't bet)
+Seat 5: Quintari folded on the River
+Seat 6: rudi12508 (button) showed [Th Jd] and lost with two pair, Tens and Eights
+Seat 7: zuantewith80 (small blind) folded before Flop
+Seat 8: BYR-ROMAN (big blind) showed [Tc Ad] and won (4224) with two pair, Tens and Eights
+
+
+
+PokerStars Hand #100298549018: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level II (15/30) - 2013/06/19 22:05:16 BRT [2013/06/19 21:05:16 ET]
+Table '749571403 3' 9-max Seat #7 is the button
+Seat 1: dfcastro.net (9406 in chips) 
+Seat 2: CsOkNaDtOeMr (3615 in chips) 
+Seat 3: mafigua (2542 in chips) 
+Seat 4: marvelcapt (6859 in chips) 
+Seat 5: mathgirl6 (626 in chips) 
+Seat 6: camarov12 (1070 in chips) 
+Seat 7: jonfokler (3560 in chips) 
+Seat 8: blakman_LSD (2177 in chips) 
+Seat 9: Hot69Tamale (3610 in chips) 
+blakman_LSD: posts small blind 15
+Hot69Tamale: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5s 2d]
+dfcastro.net: folds 
+CsOkNaDtOeMr: raises 90 to 120
+mafigua: folds 
+marvelcapt: calls 120
+mathgirl6: folds 
+camarov12: folds 
+jonfokler: folds 
+blakman_LSD has timed out while being disconnected
+blakman_LSD: folds 
+blakman_LSD is sitting out
+Hot69Tamale: folds 
+*** FLOP *** [Ad Qd 7s]
+CsOkNaDtOeMr: bets 180
+marvelcapt: folds 
+Uncalled bet (180) returned to CsOkNaDtOeMr
+CsOkNaDtOeMr collected 285 from pot
+CsOkNaDtOeMr: doesn't show hand 
+blakman_LSD is disconnected 
+*** SUMMARY ***
+Total pot 285 | Rake 0 
+Board [Ad Qd 7s]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr collected (285)
+Seat 3: mafigua folded before Flop (didn't bet)
+Seat 4: marvelcapt folded on the Flop
+Seat 5: mathgirl6 folded before Flop (didn't bet)
+Seat 6: camarov12 folded before Flop (didn't bet)
+Seat 7: jonfokler (button) folded before Flop (didn't bet)
+Seat 8: blakman_LSD (small blind) folded before Flop
+Seat 9: Hot69Tamale (big blind) folded before Flop
+
+
+
+PokerStars Hand #100298585910: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level II (15/30) - 2013/06/19 22:06:35 BRT [2013/06/19 21:06:35 ET]
+Table '749571403 3' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (9406 in chips) 
+Seat 2: CsOkNaDtOeMr (3780 in chips) 
+Seat 3: mafigua (2542 in chips) 
+Seat 4: marvelcapt (6739 in chips) 
+Seat 5: mathgirl6 (626 in chips) 
+Seat 6: camarov12 (1070 in chips) 
+Seat 7: jonfokler (3560 in chips) 
+Seat 8: blakman_LSD (2162 in chips) is sitting out
+Seat 9: Hot69Tamale (3580 in chips) 
+Hot69Tamale: posts small blind 15
+dfcastro.net: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Th 6s]
+CsOkNaDtOeMr: folds 
+mafigua: raises 60 to 90
+marvelcapt: folds 
+mathgirl6: calls 90
+camarov12: folds 
+blakman_LSD has returned
+jonfokler: folds 
+blakman_LSD: folds 
+Hot69Tamale: calls 75
+dfcastro.net: folds 
+*** FLOP *** [8c Kh 6c]
+Hot69Tamale: checks 
+mafigua: checks 
+mathgirl6: checks 
+*** TURN *** [8c Kh 6c] [4h]
+Hot69Tamale: checks 
+mafigua: bets 150
+mathgirl6: folds 
+Hot69Tamale: folds 
+Uncalled bet (150) returned to mafigua
+mafigua collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [8c Kh 6c 4h]
+Seat 1: dfcastro.net (big blind) folded before Flop
+Seat 2: CsOkNaDtOeMr folded before Flop (didn't bet)
+Seat 3: mafigua collected (300)
+Seat 4: marvelcapt folded before Flop (didn't bet)
+Seat 5: mathgirl6 folded on the Turn
+Seat 6: camarov12 folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: blakman_LSD (button) folded before Flop (didn't bet)
+Seat 9: Hot69Tamale (small blind) folded on the Turn
+
+
+
+PokerStars Hand #100298614911: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level II (15/30) - 2013/06/19 22:07:38 BRT [2013/06/19 21:07:38 ET]
+Table '749571403 3' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (9376 in chips) 
+Seat 2: CsOkNaDtOeMr (3780 in chips) 
+Seat 3: mafigua (2752 in chips) 
+Seat 4: marvelcapt (6739 in chips) 
+Seat 5: mathgirl6 (536 in chips) 
+Seat 6: camarov12 (1070 in chips) 
+Seat 7: jonfokler (3560 in chips) 
+Seat 8: blakman_LSD (2162 in chips) 
+Seat 9: Hot69Tamale (3490 in chips) 
+dfcastro.net: posts small blind 15
+CsOkNaDtOeMr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6d Ac]
+mafigua: folds 
+marvelcapt: calls 30
+mathgirl6: folds 
+camarov12: folds 
+jonfokler: folds 
+blakman_LSD: raises 81 to 111
+Hot69Tamale: folds 
+dfcastro.net: folds 
+CsOkNaDtOeMr: folds 
+marvelcapt: calls 81
+*** FLOP *** [7c 8h 9d]
+marvelcapt: checks 
+blakman_LSD: bets 120
+marvelcapt: calls 120
+*** TURN *** [7c 8h 9d] [2h]
+marvelcapt: checks 
+blakman_LSD: bets 330
+marvelcapt: calls 330
+*** RIVER *** [7c 8h 9d 2h] [Jd]
+marvelcapt: checks 
+blakman_LSD: bets 750
+marvelcapt: folds 
+Uncalled bet (750) returned to blakman_LSD
+blakman_LSD collected 1167 from pot
+blakman_LSD: doesn't show hand 
+*** SUMMARY ***
+Total pot 1167 | Rake 0 
+Board [7c 8h 9d 2h Jd]
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 2: CsOkNaDtOeMr (big blind) folded before Flop
+Seat 3: mafigua folded before Flop (didn't bet)
+Seat 4: marvelcapt folded on the River
+Seat 5: mathgirl6 folded before Flop (didn't bet)
+Seat 6: camarov12 folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: blakman_LSD collected (1167)
+Seat 9: Hot69Tamale (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100298659277: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level III (25/50) - 2013/06/19 22:09:14 BRT [2013/06/19 21:09:14 ET]
+Table '749571403 3' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (9361 in chips) 
+Seat 2: CsOkNaDtOeMr (3750 in chips) 
+Seat 3: mafigua (2752 in chips) 
+Seat 4: marvelcapt (6178 in chips) 
+Seat 5: mathgirl6 (536 in chips) 
+Seat 6: camarov12 (1070 in chips) 
+Seat 7: jonfokler (3560 in chips) 
+Seat 8: blakman_LSD (2768 in chips) 
+Seat 9: Hot69Tamale (3490 in chips) 
+CsOkNaDtOeMr: posts small blind 25
+mafigua: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [9h 6c]
+marvelcapt: raises 100 to 150
+mathgirl6: raises 386 to 536 and is all-in
+camarov12 has timed out
+camarov12: folds 
+camarov12 is sitting out
+jonfokler: folds 
+blakman_LSD: folds 
+Hot69Tamale: calls 536
+dfcastro.net: folds 
+CsOkNaDtOeMr: folds 
+mafigua: folds 
+marvelcapt: raises 1314 to 1850
+Hot69Tamale: folds 
+Uncalled bet (1314) returned to marvelcapt
+*** FLOP *** [3d Qh 2c]
+*** TURN *** [3d Qh 2c] [Ac]
+*** RIVER *** [3d Qh 2c Ac] [Qd]
+*** SHOW DOWN ***
+marvelcapt: shows [Ah As] (a full house, Aces full of Queens)
+mathgirl6: shows [4d 4h] (two pair, Queens and Fours)
+marvelcapt collected 1683 from pot
+marvelcapt wins the $0.27 bounty for eliminating mathgirl6
+mathgirl6 finished the tournament in 51st place
+*** SUMMARY ***
+Total pot 1683 | Rake 0 
+Board [3d Qh 2c Ac Qd]
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr (small blind) folded before Flop
+Seat 3: mafigua (big blind) folded before Flop
+Seat 4: marvelcapt showed [Ah As] and won (1683) with a full house, Aces full of Queens
+Seat 5: mathgirl6 showed [4d 4h] and lost with two pair, Queens and Fours
+Seat 6: camarov12 folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: blakman_LSD folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop
+
+
+
+PokerStars Hand #100298689931: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level III (25/50) - 2013/06/19 22:10:23 BRT [2013/06/19 21:10:23 ET]
+Table '749571403 3' 9-max Seat #2 is the button
+Seat 1: dfcastro.net (9361 in chips) 
+Seat 2: CsOkNaDtOeMr (3725 in chips) 
+Seat 3: mafigua (2702 in chips) 
+Seat 4: marvelcapt (7325 in chips) 
+Seat 6: camarov12 (1070 in chips) is sitting out
+Seat 7: jonfokler (3560 in chips) 
+Seat 8: blakman_LSD (2768 in chips) 
+Seat 9: Hot69Tamale (2954 in chips) 
+mafigua: posts small blind 25
+marvelcapt: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2h 8c]
+camarov12: folds 
+camarov12 has returned
+jonfokler: folds 
+blakman_LSD: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+CsOkNaDtOeMr: raises 100 to 150
+mafigua: folds 
+marvelcapt: calls 100
+*** FLOP *** [8s Kc 4s]
+marvelcapt: bets 150
+CsOkNaDtOeMr: raises 350 to 500
+marvelcapt: calls 350
+*** TURN *** [8s Kc 4s] [9h]
+marvelcapt: bets 650
+CsOkNaDtOeMr: raises 2425 to 3075 and is all-in
+marvelcapt: calls 2425
+*** RIVER *** [8s Kc 4s 9h] [Jh]
+*** SHOW DOWN ***
+marvelcapt: shows [6s Ks] (a pair of Kings)
+CsOkNaDtOeMr: shows [4d Kd] (two pair, Kings and Fours)
+CsOkNaDtOeMr collected 7475 from pot
+*** SUMMARY ***
+Total pot 7475 | Rake 0 
+Board [8s Kc 4s 9h Jh]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr (button) showed [4d Kd] and won (7475) with two pair, Kings and Fours
+Seat 3: mafigua (small blind) folded before Flop
+Seat 4: marvelcapt (big blind) showed [6s Ks] and lost with a pair of Kings
+Seat 6: camarov12 folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: blakman_LSD folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100298722950: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level III (25/50) - 2013/06/19 22:11:36 BRT [2013/06/19 21:11:36 ET]
+Table '749571403 3' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (9361 in chips) 
+Seat 2: CsOkNaDtOeMr (7475 in chips) 
+Seat 3: mafigua (2677 in chips) 
+Seat 4: marvelcapt (3600 in chips) 
+Seat 6: camarov12 (1070 in chips) 
+Seat 7: jonfokler (3560 in chips) 
+Seat 8: blakman_LSD (2768 in chips) 
+Seat 9: Hot69Tamale (2954 in chips) 
+marvelcapt: posts small blind 25
+camarov12: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qh Kd]
+jonfokler: folds 
+blakman_LSD: folds 
+Hot69Tamale: calls 50
+dfcastro.net: raises 60 to 110
+CsOkNaDtOeMr: folds 
+mafigua: folds 
+marvelcapt: calls 85
+camarov12: calls 60
+Hot69Tamale: calls 60
+*** FLOP *** [Th 4d 6s]
+marvelcapt: checks 
+camarov12: checks 
+Hot69Tamale: bets 50
+dfcastro.net: calls 50
+marvelcapt: calls 50
+camarov12: folds 
+*** TURN *** [Th 4d 6s] [Js]
+marvelcapt: checks 
+Hot69Tamale: bets 75
+dfcastro.net: calls 75
+marvelcapt: calls 75
+*** RIVER *** [Th 4d 6s Js] [5d]
+marvelcapt: checks 
+Hot69Tamale: bets 100
+dfcastro.net: folds 
+marvelcapt: folds 
+Uncalled bet (100) returned to Hot69Tamale
+Hot69Tamale collected 815 from pot
+*** SUMMARY ***
+Total pot 815 | Rake 0 
+Board [Th 4d 6s Js 5d]
+Seat 1: dfcastro.net folded on the River
+Seat 2: CsOkNaDtOeMr folded before Flop (didn't bet)
+Seat 3: mafigua (button) folded before Flop (didn't bet)
+Seat 4: marvelcapt (small blind) folded on the River
+Seat 6: camarov12 (big blind) folded on the Flop
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: blakman_LSD folded before Flop (didn't bet)
+Seat 9: Hot69Tamale collected (815)
+
+
+
+PokerStars Hand #100298774664: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level III (25/50) - 2013/06/19 22:13:32 BRT [2013/06/19 21:13:32 ET]
+Table '749571403 3' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (9126 in chips) 
+Seat 2: CsOkNaDtOeMr (7475 in chips) 
+Seat 3: mafigua (2677 in chips) 
+Seat 4: marvelcapt (3365 in chips) 
+Seat 6: camarov12 (960 in chips) 
+Seat 7: jonfokler (3560 in chips) 
+Seat 8: blakman_LSD (2768 in chips) 
+Seat 9: Hot69Tamale (3534 in chips) 
+camarov12: posts small blind 25
+jonfokler: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Tc 6d]
+blakman_LSD: folds 
+Hot69Tamale: calls 50
+dfcastro.net: folds 
+CsOkNaDtOeMr: raises 100 to 150
+mafigua: calls 150
+marvelcapt: folds 
+camarov12: calls 125
+jonfokler: calls 100
+Hot69Tamale: calls 100
+*** FLOP *** [Ac 9c 3h]
+camarov12: checks 
+jonfokler: checks 
+Hot69Tamale: bets 75
+CsOkNaDtOeMr: folds 
+mafigua: calls 75
+camarov12: calls 75
+jonfokler: raises 475 to 550
+Hot69Tamale: calls 475
+mafigua: folds 
+camarov12: folds 
+*** TURN *** [Ac 9c 3h] [Td]
+jonfokler: bets 1100
+Hot69Tamale: folds 
+Uncalled bet (1100) returned to jonfokler
+jonfokler collected 2000 from pot
+jonfokler: doesn't show hand 
+*** SUMMARY ***
+Total pot 2000 | Rake 0 
+Board [Ac 9c 3h Td]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr folded on the Flop
+Seat 3: mafigua folded on the Flop
+Seat 4: marvelcapt (button) folded before Flop (didn't bet)
+Seat 6: camarov12 (small blind) folded on the Flop
+Seat 7: jonfokler (big blind) collected (2000)
+Seat 8: blakman_LSD folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded on the Turn
+
+
+
+PokerStars Hand #100298845553: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level III (25/50) - 2013/06/19 22:16:12 BRT [2013/06/19 21:16:12 ET]
+Table '749571403 3' 9-max Seat #6 is the button
+Seat 1: dfcastro.net (9126 in chips) 
+Seat 2: CsOkNaDtOeMr (7325 in chips) 
+Seat 3: mafigua (2452 in chips) 
+Seat 4: marvelcapt (3365 in chips) 
+Seat 6: camarov12 (735 in chips) 
+Seat 7: jonfokler (4860 in chips) 
+Seat 8: blakman_LSD (2768 in chips) 
+Seat 9: Hot69Tamale (2834 in chips) 
+jonfokler: posts small blind 25
+blakman_LSD: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7s Kd]
+Hot69Tamale: folds 
+dfcastro.net: folds 
+CsOkNaDtOeMr: calls 50
+mafigua has timed out
+mafigua: folds 
+mafigua is sitting out
+marvelcapt: calls 50
+camarov12: raises 685 to 735 and is all-in
+jonfokler: folds 
+blakman_LSD: folds 
+CsOkNaDtOeMr: calls 685
+marvelcapt: calls 685
+*** FLOP *** [Ah Jh 9h]
+CsOkNaDtOeMr: checks 
+marvelcapt: bets 150
+mafigua has returned
+CsOkNaDtOeMr: calls 150
+*** TURN *** [Ah Jh 9h] [Qc]
+CsOkNaDtOeMr: checks 
+marvelcapt: checks 
+*** RIVER *** [Ah Jh 9h Qc] [Ac]
+CsOkNaDtOeMr: checks 
+marvelcapt: bets 1300
+CsOkNaDtOeMr: folds 
+Uncalled bet (1300) returned to marvelcapt
+*** SHOW DOWN ***
+marvelcapt: shows [8h Js] (two pair, Aces and Jacks)
+marvelcapt collected 300 from side pot
+camarov12: shows [6d Ks] (a pair of Aces)
+marvelcapt collected 2280 from main pot
+marvelcapt wins the $0.27 bounty for eliminating camarov12
+camarov12 finished the tournament in 47th place
+*** SUMMARY ***
+Total pot 2580 Main pot 2280. Side pot 300. | Rake 0 
+Board [Ah Jh 9h Qc Ac]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr folded on the River
+Seat 3: mafigua folded before Flop (didn't bet)
+Seat 4: marvelcapt showed [8h Js] and won (2580) with two pair, Aces and Jacks
+Seat 6: camarov12 (button) showed [6d Ks] and lost with a pair of Aces
+Seat 7: jonfokler (small blind) folded before Flop
+Seat 8: blakman_LSD (big blind) folded before Flop
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100298884410: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level III (25/50) - 2013/06/19 22:17:41 BRT [2013/06/19 21:17:41 ET]
+Table '749571403 3' 9-max Seat #7 is the button
+Seat 1: dfcastro.net (9126 in chips) 
+Seat 2: CsOkNaDtOeMr (6440 in chips) 
+Seat 3: mafigua (2452 in chips) 
+Seat 4: marvelcapt (5060 in chips) 
+Seat 7: jonfokler (4835 in chips) 
+Seat 8: blakman_LSD (2718 in chips) 
+Seat 9: Hot69Tamale (2834 in chips) 
+blakman_LSD: posts small blind 25
+Hot69Tamale: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7d 4s]
+dfcastro.net: folds 
+CsOkNaDtOeMr: folds 
+mafigua: folds 
+marvelcapt: raises 100 to 150
+jonfokler: folds 
+blakman_LSD: calls 125
+Hot69Tamale: folds 
+*** FLOP *** [3d Qh 8c]
+blakman_LSD: checks 
+marvelcapt: bets 150
+blakman_LSD: calls 150
+*** TURN *** [3d Qh 8c] [Ks]
+blakman_LSD: checks 
+marvelcapt: checks 
+*** RIVER *** [3d Qh 8c Ks] [3s]
+blakman_LSD: bets 300
+marvelcapt: folds 
+Uncalled bet (300) returned to blakman_LSD
+blakman_LSD collected 650 from pot
+blakman_LSD: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [3d Qh 8c Ks 3s]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr folded before Flop (didn't bet)
+Seat 3: mafigua folded before Flop (didn't bet)
+Seat 4: marvelcapt folded on the River
+Seat 7: jonfokler (button) folded before Flop (didn't bet)
+Seat 8: blakman_LSD (small blind) collected (650)
+Seat 9: Hot69Tamale (big blind) folded before Flop
+
+
+
+PokerStars Hand #100298914627: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level III (25/50) - 2013/06/19 22:18:50 BRT [2013/06/19 21:18:50 ET]
+Table '749571403 3' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (9126 in chips) 
+Seat 2: CsOkNaDtOeMr (6440 in chips) 
+Seat 3: mafigua (2452 in chips) 
+Seat 4: marvelcapt (4760 in chips) 
+Seat 7: jonfokler (4835 in chips) 
+Seat 8: blakman_LSD (3068 in chips) 
+Seat 9: Hot69Tamale (2784 in chips) 
+Hot69Tamale: posts small blind 25
+dfcastro.net: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Jc 5s]
+CsOkNaDtOeMr: raises 100 to 150
+mafigua: folds 
+marvelcapt: folds 
+jonfokler: calls 150
+blakman_LSD: folds 
+Hot69Tamale: calls 125
+dfcastro.net: folds 
+*** FLOP *** [3h 4h Qh]
+Hot69Tamale: checks 
+CsOkNaDtOeMr: bets 350
+jonfokler: folds 
+Hot69Tamale: calls 350
+*** TURN *** [3h 4h Qh] [Ah]
+Hot69Tamale: bets 300
+CsOkNaDtOeMr: folds 
+Uncalled bet (300) returned to Hot69Tamale
+Hot69Tamale collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [3h 4h Qh Ah]
+Seat 1: dfcastro.net (big blind) folded before Flop
+Seat 2: CsOkNaDtOeMr folded on the Turn
+Seat 3: mafigua folded before Flop (didn't bet)
+Seat 4: marvelcapt folded before Flop (didn't bet)
+Seat 7: jonfokler folded on the Flop
+Seat 8: blakman_LSD (button) folded before Flop (didn't bet)
+Seat 9: Hot69Tamale (small blind) collected (1200)
+
+
+
+PokerStars Hand #100298957642: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level III (25/50) - 2013/06/19 22:20:29 BRT [2013/06/19 21:20:29 ET]
+Table '749571403 3' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (9076 in chips) 
+Seat 2: CsOkNaDtOeMr (5940 in chips) 
+Seat 3: mafigua (2452 in chips) 
+Seat 4: marvelcapt (4760 in chips) 
+Seat 5: BoxRok89 (1298 in chips) 
+Seat 6: 2beornot2be (5730 in chips) 
+Seat 7: jonfokler (4685 in chips) 
+Seat 8: blakman_LSD (3068 in chips) 
+Seat 9: Hot69Tamale (3484 in chips) 
+dfcastro.net: posts small blind 25
+CsOkNaDtOeMr: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3d 9s]
+mafigua: calls 50
+marvelcapt: raises 125 to 175
+BoxRok89: folds 
+2beornot2be: calls 175
+jonfokler: calls 175
+blakman_LSD: calls 175
+Hot69Tamale: calls 175
+dfcastro.net: folds 
+CsOkNaDtOeMr: calls 125
+mafigua: calls 125
+*** FLOP *** [7c 2s 5h]
+CsOkNaDtOeMr: checks 
+mafigua: checks 
+marvelcapt: checks 
+2beornot2be: checks 
+jonfokler: bets 256
+blakman_LSD: folds 
+Hot69Tamale: calls 256
+CsOkNaDtOeMr: folds 
+mafigua: calls 256
+marvelcapt: calls 256
+2beornot2be: folds 
+*** TURN *** [7c 2s 5h] [Jh]
+mafigua: bets 2021 and is all-in
+marvelcapt: folds 
+jonfokler: folds 
+Hot69Tamale: folds 
+Uncalled bet (2021) returned to mafigua
+mafigua collected 2274 from pot
+*** SUMMARY ***
+Total pot 2274 | Rake 0 
+Board [7c 2s 5h Jh]
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 2: CsOkNaDtOeMr (big blind) folded on the Flop
+Seat 3: mafigua collected (2274)
+Seat 4: marvelcapt folded on the Turn
+Seat 5: BoxRok89 folded before Flop (didn't bet)
+Seat 6: 2beornot2be folded on the Flop
+Seat 7: jonfokler folded on the Turn
+Seat 8: blakman_LSD folded on the Flop
+Seat 9: Hot69Tamale (button) folded on the Turn
+
+
+
+PokerStars Hand #100299018449: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level III (25/50) - 2013/06/19 22:22:47 BRT [2013/06/19 21:22:47 ET]
+Table '749571403 3' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (9051 in chips) 
+Seat 2: CsOkNaDtOeMr (5765 in chips) 
+Seat 3: mafigua (4295 in chips) 
+Seat 4: marvelcapt (4329 in chips) 
+Seat 5: BoxRok89 (1298 in chips) 
+Seat 6: 2beornot2be (5555 in chips) 
+Seat 7: jonfokler (4254 in chips) 
+Seat 8: blakman_LSD (2893 in chips) 
+Seat 9: Hot69Tamale (3053 in chips) 
+CsOkNaDtOeMr: posts small blind 25
+mafigua: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7c 9h]
+marvelcapt: raises 50 to 100
+blakman_LSD is disconnected 
+BoxRok89: folds 
+2beornot2be: folds 
+jonfokler: calls 100
+blakman_LSD has timed out while disconnected
+blakman_LSD: folds 
+blakman_LSD is sitting out
+Hot69Tamale: folds 
+dfcastro.net: calls 100
+CsOkNaDtOeMr: folds 
+mafigua: calls 50
+*** FLOP *** [Jc Jh Ks]
+mafigua: bets 200
+marvelcapt: raises 200 to 400
+jonfokler: folds 
+dfcastro.net: folds 
+mafigua: folds 
+Uncalled bet (200) returned to marvelcapt
+marvelcapt collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Board [Jc Jh Ks]
+Seat 1: dfcastro.net (button) folded on the Flop
+Seat 2: CsOkNaDtOeMr (small blind) folded before Flop
+Seat 3: mafigua (big blind) folded on the Flop
+Seat 4: marvelcapt collected (825)
+Seat 5: BoxRok89 folded before Flop (didn't bet)
+Seat 6: 2beornot2be folded before Flop (didn't bet)
+Seat 7: jonfokler folded on the Flop
+Seat 8: blakman_LSD folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299053254: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level IV (50/100) - 2013/06/19 22:24:07 BRT [2013/06/19 21:24:07 ET]
+Table '749571403 3' 9-max Seat #2 is the button
+Seat 1: dfcastro.net (8951 in chips) 
+Seat 2: CsOkNaDtOeMr (5740 in chips) 
+Seat 3: mafigua (3995 in chips) 
+Seat 4: marvelcapt (4854 in chips) 
+Seat 5: BoxRok89 (1298 in chips) 
+Seat 6: 2beornot2be (5555 in chips) 
+Seat 7: jonfokler (4154 in chips) 
+Seat 8: blakman_LSD (2893 in chips) is sitting out
+Seat 9: Hot69Tamale (3053 in chips) 
+mafigua: posts small blind 50
+marvelcapt: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [As 7h]
+BoxRok89: folds 
+2beornot2be: raises 100 to 200
+jonfokler: folds 
+blakman_LSD: folds 
+Hot69Tamale: calls 200
+dfcastro.net: folds 
+CsOkNaDtOeMr: folds 
+mafigua: folds 
+marvelcapt: calls 100
+*** FLOP *** [Qh 6h Ks]
+marvelcapt: bets 100
+2beornot2be: raises 200 to 300
+Hot69Tamale: folds 
+marvelcapt: calls 200
+*** TURN *** [Qh 6h Ks] [2c]
+marvelcapt: checks 
+2beornot2be: bets 700
+marvelcapt: folds 
+Uncalled bet (700) returned to 2beornot2be
+2beornot2be collected 1250 from pot
+2beornot2be: doesn't show hand 
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Board [Qh 6h Ks 2c]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr (button) folded before Flop (didn't bet)
+Seat 3: mafigua (small blind) folded before Flop
+Seat 4: marvelcapt (big blind) folded on the Turn
+Seat 5: BoxRok89 folded before Flop (didn't bet)
+Seat 6: 2beornot2be collected (1250)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: blakman_LSD folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded on the Flop
+
+
+
+PokerStars Hand #100299081530: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level IV (50/100) - 2013/06/19 22:25:12 BRT [2013/06/19 21:25:12 ET]
+Table '749571403 3' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (8951 in chips) 
+Seat 2: CsOkNaDtOeMr (5740 in chips) 
+Seat 3: mafigua (3945 in chips) 
+Seat 4: marvelcapt (4354 in chips) 
+Seat 5: BoxRok89 (1298 in chips) 
+Seat 6: 2beornot2be (6305 in chips) 
+Seat 7: jonfokler (4154 in chips) 
+Seat 8: blakman_LSD (2893 in chips) is sitting out
+Seat 9: Hot69Tamale (2853 in chips) 
+marvelcapt: posts small blind 50
+BoxRok89: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ks Ad]
+2beornot2be: folds 
+jonfokler: folds 
+blakman_LSD: folds 
+Hot69Tamale: folds 
+dfcastro.net: raises 120 to 220
+CsOkNaDtOeMr: folds 
+mafigua has timed out
+mafigua: folds 
+mafigua is sitting out
+marvelcapt: raises 280 to 500
+BoxRok89: raises 798 to 1298 and is all-in
+dfcastro.net: raises 7653 to 8951 and is all-in
+marvelcapt: calls 3854 and is all-in
+Uncalled bet (4597) returned to dfcastro.net
+blakman_LSD has returned
+*** FLOP *** [7d 2d Ts]
+*** TURN *** [7d 2d Ts] [8c]
+*** RIVER *** [7d 2d Ts 8c] [Jd]
+*** SHOW DOWN ***
+marvelcapt: shows [Kd Kc] (a pair of Kings)
+dfcastro.net: shows [Ks Ad] (high card Ace)
+marvelcapt collected 6112 from side pot
+BoxRok89: shows [As Kh] (high card Ace)
+marvelcapt collected 3894 from main pot
+marvelcapt wins the $0.27 bounty for eliminating BoxRok89
+BoxRok89 finished the tournament in 44th place
+*** SUMMARY ***
+Total pot 10006 Main pot 3894. Side pot 6112. | Rake 0 
+Board [7d 2d Ts 8c Jd]
+Seat 1: dfcastro.net showed [Ks Ad] and lost with high card Ace
+Seat 2: CsOkNaDtOeMr folded before Flop (didn't bet)
+Seat 3: mafigua (button) folded before Flop (didn't bet)
+Seat 4: marvelcapt (small blind) showed [Kd Kc] and won (10006) with a pair of Kings
+Seat 5: BoxRok89 (big blind) showed [As Kh] and lost with high card Ace
+Seat 6: 2beornot2be folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: blakman_LSD folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299108669: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level IV (50/100) - 2013/06/19 22:26:15 BRT [2013/06/19 21:26:15 ET]
+Table '749571403 3' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (4597 in chips) 
+Seat 2: CsOkNaDtOeMr (5740 in chips) 
+Seat 3: mafigua (3945 in chips) is sitting out
+Seat 4: marvelcapt (10006 in chips) 
+Seat 6: 2beornot2be (6305 in chips) 
+Seat 7: jonfokler (4154 in chips) 
+Seat 8: blakman_LSD (2893 in chips) 
+Seat 9: Hot69Tamale (2853 in chips) 
+2beornot2be: posts small blind 50
+jonfokler: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Jh Ah]
+mafigua has returned
+blakman_LSD has timed out while being disconnected
+blakman_LSD: folds 
+blakman_LSD is sitting out
+Hot69Tamale: folds 
+blakman_LSD has returned
+dfcastro.net: raises 120 to 220
+CsOkNaDtOeMr: folds 
+mafigua: calls 220
+marvelcapt: calls 220
+2beornot2be: folds 
+jonfokler: calls 120
+*** FLOP *** [Th 5c 3s]
+jonfokler: bets 300
+dfcastro.net: calls 300
+mafigua: folds 
+marvelcapt: calls 300
+*** TURN *** [Th 5c 3s] [6s]
+jonfokler: bets 500
+dfcastro.net: folds 
+marvelcapt: calls 500
+*** RIVER *** [Th 5c 3s 6s] [9d]
+jonfokler: bets 900
+marvelcapt: folds 
+Uncalled bet (900) returned to jonfokler
+jonfokler collected 2830 from pot
+jonfokler: doesn't show hand 
+*** SUMMARY ***
+Total pot 2830 | Rake 0 
+Board [Th 5c 3s 6s 9d]
+Seat 1: dfcastro.net folded on the Turn
+Seat 2: CsOkNaDtOeMr folded before Flop (didn't bet)
+Seat 3: mafigua folded on the Flop
+Seat 4: marvelcapt (button) folded on the River
+Seat 6: 2beornot2be (small blind) folded before Flop
+Seat 7: jonfokler (big blind) collected (2830)
+Seat 8: blakman_LSD folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299150492: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level IV (50/100) - 2013/06/19 22:27:53 BRT [2013/06/19 21:27:53 ET]
+Table '749571403 3' 9-max Seat #6 is the button
+Seat 1: dfcastro.net (4077 in chips) 
+Seat 2: CsOkNaDtOeMr (5740 in chips) 
+Seat 3: mafigua (3725 in chips) 
+Seat 4: marvelcapt (8986 in chips) 
+Seat 6: 2beornot2be (6255 in chips) 
+Seat 7: jonfokler (5964 in chips) 
+Seat 8: blakman_LSD (2893 in chips) 
+Seat 9: Hot69Tamale (2853 in chips) 
+jonfokler: posts small blind 50
+blakman_LSD: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kc 6h]
+Hot69Tamale: folds 
+dfcastro.net: folds 
+CsOkNaDtOeMr: folds 
+mafigua: raises 165 to 265
+marvelcapt: folds 
+2beornot2be: folds 
+jonfokler: folds 
+blakman_LSD: calls 165
+*** FLOP *** [5c 8d Tc]
+blakman_LSD: bets 200
+mafigua: raises 285 to 485
+blakman_LSD: calls 285
+*** TURN *** [5c 8d Tc] [Qh]
+blakman_LSD: checks 
+mafigua: checks 
+*** RIVER *** [5c 8d Tc Qh] [Td]
+blakman_LSD: bets 700
+mafigua: calls 700
+*** SHOW DOWN ***
+blakman_LSD: shows [As Qd] (two pair, Queens and Tens)
+mafigua: mucks hand 
+blakman_LSD collected 2950 from pot
+*** SUMMARY ***
+Total pot 2950 | Rake 0 
+Board [5c 8d Tc Qh Td]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr folded before Flop (didn't bet)
+Seat 3: mafigua mucked [5s 3s]
+Seat 4: marvelcapt folded before Flop (didn't bet)
+Seat 6: 2beornot2be (button) folded before Flop (didn't bet)
+Seat 7: jonfokler (small blind) folded before Flop
+Seat 8: blakman_LSD (big blind) showed [As Qd] and won (2950) with two pair, Queens and Tens
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299173306: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level IV (50/100) - 2013/06/19 22:28:47 BRT [2013/06/19 21:28:47 ET]
+Table '749571403 3' 9-max Seat #7 is the button
+Seat 1: dfcastro.net (4077 in chips) 
+Seat 2: CsOkNaDtOeMr (5740 in chips) 
+Seat 3: mafigua (2275 in chips) 
+Seat 4: marvelcapt (8986 in chips) 
+Seat 6: 2beornot2be (6255 in chips) 
+Seat 7: jonfokler (5914 in chips) 
+Seat 8: blakman_LSD (4393 in chips) 
+Seat 9: Hot69Tamale (2853 in chips) 
+blakman_LSD: posts small blind 50
+Hot69Tamale: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ts 4h]
+dfcastro.net: folds 
+CsOkNaDtOeMr: folds 
+mafigua: folds 
+marvelcapt: calls 100
+2beornot2be: folds 
+jonfokler: folds 
+blakman_LSD: folds 
+Hot69Tamale: checks 
+*** FLOP *** [Th Qc Ad]
+Hot69Tamale: checks 
+marvelcapt: checks 
+*** TURN *** [Th Qc Ad] [9s]
+Hot69Tamale: checks 
+marvelcapt: checks 
+*** RIVER *** [Th Qc Ad 9s] [4d]
+Hot69Tamale: checks 
+marvelcapt: bets 100
+Hot69Tamale: folds 
+Uncalled bet (100) returned to marvelcapt
+marvelcapt collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [Th Qc Ad 9s 4d]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr folded before Flop (didn't bet)
+Seat 3: mafigua folded before Flop (didn't bet)
+Seat 4: marvelcapt collected (250)
+Seat 6: 2beornot2be folded before Flop (didn't bet)
+Seat 7: jonfokler (button) folded before Flop (didn't bet)
+Seat 8: blakman_LSD (small blind) folded before Flop
+Seat 9: Hot69Tamale (big blind) folded on the River
+
+
+
+PokerStars Hand #100299193508: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level IV (50/100) - 2013/06/19 22:29:35 BRT [2013/06/19 21:29:35 ET]
+Table '749571403 3' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (4077 in chips) 
+Seat 2: CsOkNaDtOeMr (5740 in chips) 
+Seat 3: mafigua (2275 in chips) 
+Seat 4: marvelcapt (9136 in chips) 
+Seat 6: 2beornot2be (6255 in chips) 
+Seat 7: jonfokler (5914 in chips) 
+Seat 8: blakman_LSD (4343 in chips) 
+Seat 9: Hot69Tamale (2753 in chips) 
+Hot69Tamale: posts small blind 50
+dfcastro.net: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Th 5d]
+CsOkNaDtOeMr: folds 
+mafigua: folds 
+marvelcapt: folds 
+2beornot2be: folds 
+jonfokler: folds 
+blakman_LSD: raises 170 to 270
+Hot69Tamale: folds 
+dfcastro.net: folds 
+Uncalled bet (170) returned to blakman_LSD
+blakman_LSD collected 250 from pot
+blakman_LSD: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: dfcastro.net (big blind) folded before Flop
+Seat 2: CsOkNaDtOeMr folded before Flop (didn't bet)
+Seat 3: mafigua folded before Flop (didn't bet)
+Seat 4: marvelcapt folded before Flop (didn't bet)
+Seat 6: 2beornot2be folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: blakman_LSD (button) collected (250)
+Seat 9: Hot69Tamale (small blind) folded before Flop
+
+
+
+PokerStars Hand #100299204710: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level IV (50/100) - 2013/06/19 22:30:01 BRT [2013/06/19 21:30:01 ET]
+Table '749571403 3' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (3977 in chips) 
+Seat 2: CsOkNaDtOeMr (5740 in chips) 
+Seat 3: mafigua (2275 in chips) 
+Seat 4: marvelcapt (9136 in chips) 
+Seat 6: 2beornot2be (6255 in chips) 
+Seat 7: jonfokler (5914 in chips) 
+Seat 8: blakman_LSD (4493 in chips) 
+Seat 9: Hot69Tamale (2703 in chips) 
+dfcastro.net: posts small blind 50
+CsOkNaDtOeMr: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4s Tc]
+mafigua: calls 100
+marvelcapt has timed out
+marvelcapt: folds 
+marvelcapt is sitting out
+2beornot2be: folds 
+marvelcapt has returned
+jonfokler: folds 
+blakman_LSD: calls 100
+Hot69Tamale: folds 
+dfcastro.net: folds 
+CsOkNaDtOeMr: checks 
+*** FLOP *** [Qc Qh 3h]
+CsOkNaDtOeMr: checks 
+mafigua: bets 400
+blakman_LSD: folds 
+CsOkNaDtOeMr: folds 
+Uncalled bet (400) returned to mafigua
+mafigua collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Board [Qc Qh 3h]
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 2: CsOkNaDtOeMr (big blind) folded on the Flop
+Seat 3: mafigua collected (350)
+Seat 4: marvelcapt folded before Flop (didn't bet)
+Seat 6: 2beornot2be folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: blakman_LSD folded on the Flop
+Seat 9: Hot69Tamale (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299229904: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level IV (50/100) - 2013/06/19 22:31:02 BRT [2013/06/19 21:31:02 ET]
+Table '749571403 3' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (3927 in chips) 
+Seat 2: CsOkNaDtOeMr (5640 in chips) 
+Seat 3: mafigua (2525 in chips) 
+Seat 4: marvelcapt (9136 in chips) 
+Seat 6: 2beornot2be (6255 in chips) 
+Seat 7: jonfokler (5914 in chips) 
+Seat 8: blakman_LSD (4393 in chips) 
+Seat 9: Hot69Tamale (2703 in chips) 
+CsOkNaDtOeMr: posts small blind 50
+mafigua: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Th 6c]
+marvelcapt: calls 100
+2beornot2be: calls 100
+jonfokler: folds 
+blakman_LSD: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+CsOkNaDtOeMr: folds 
+mafigua: checks 
+*** FLOP *** [Ac Jh 4h]
+mafigua: bets 100
+marvelcapt: folds 
+2beornot2be: calls 100
+*** TURN *** [Ac Jh 4h] [8d]
+mafigua: bets 300
+2beornot2be: calls 300
+*** RIVER *** [Ac Jh 4h 8d] [Qh]
+mafigua: bets 800
+2beornot2be: calls 800
+*** SHOW DOWN ***
+mafigua: shows [2d 3s] (high card Ace)
+2beornot2be: shows [Qs Jc] (two pair, Queens and Jacks)
+2beornot2be collected 2750 from pot
+*** SUMMARY ***
+Total pot 2750 | Rake 0 
+Board [Ac Jh 4h 8d Qh]
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr (small blind) folded before Flop
+Seat 3: mafigua (big blind) showed [2d 3s] and lost with high card Ace
+Seat 4: marvelcapt folded on the Flop
+Seat 6: 2beornot2be showed [Qs Jc] and won (2750) with two pair, Queens and Jacks
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: blakman_LSD folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299262816: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level IV (50/100) - 2013/06/19 22:32:20 BRT [2013/06/19 21:32:20 ET]
+Table '749571403 3' 9-max Seat #2 is the button
+Seat 1: dfcastro.net (3927 in chips) 
+Seat 2: CsOkNaDtOeMr (5590 in chips) 
+Seat 3: mafigua (1225 in chips) 
+Seat 4: marvelcapt (9036 in chips) 
+Seat 6: 2beornot2be (7705 in chips) 
+Seat 7: jonfokler (5914 in chips) 
+Seat 8: blakman_LSD (4393 in chips) 
+Seat 9: Hot69Tamale (2703 in chips) 
+mafigua: posts small blind 50
+marvelcapt: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3d As]
+2beornot2be: folds 
+jonfokler: calls 100
+blakman_LSD: raises 370 to 470
+Hot69Tamale: folds 
+dfcastro.net: folds 
+CsOkNaDtOeMr: folds 
+mafigua: folds 
+marvelcapt: calls 370
+jonfokler: calls 370
+*** FLOP *** [9d Kh Qh]
+marvelcapt: checks 
+jonfokler: checks 
+blakman_LSD: bets 756
+marvelcapt: calls 756
+jonfokler: folds 
+*** TURN *** [9d Kh Qh] [Js]
+marvelcapt: checks 
+blakman_LSD: bets 1300
+marvelcapt: raises 1300 to 2600
+blakman_LSD: raises 567 to 3167 and is all-in
+marvelcapt: calls 567
+*** RIVER *** [9d Kh Qh Js] [3c]
+*** SHOW DOWN ***
+marvelcapt: shows [Td Ac] (a straight, Ten to Ace)
+blakman_LSD: shows [Kc Qc] (two pair, Kings and Queens)
+marvelcapt collected 9306 from pot
+marvelcapt wins the $0.27 bounty for eliminating blakman_LSD
+blakman_LSD finished the tournament in 38th place
+*** SUMMARY ***
+Total pot 9306 | Rake 0 
+Board [9d Kh Qh Js 3c]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr (button) folded before Flop (didn't bet)
+Seat 3: mafigua (small blind) folded before Flop
+Seat 4: marvelcapt (big blind) showed [Td Ac] and won (9306) with a straight, Ten to Ace
+Seat 6: 2beornot2be folded before Flop (didn't bet)
+Seat 7: jonfokler folded on the Flop
+Seat 8: blakman_LSD showed [Kc Qc] and lost with two pair, Kings and Queens
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299297042: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level IV (50/100) - 2013/06/19 22:33:42 BRT [2013/06/19 21:33:42 ET]
+Table '749571403 3' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (3927 in chips) 
+Seat 2: CsOkNaDtOeMr (5590 in chips) 
+Seat 3: mafigua (1175 in chips) 
+Seat 4: marvelcapt (13949 in chips) 
+Seat 6: 2beornot2be (7705 in chips) 
+Seat 7: jonfokler (5444 in chips) 
+Seat 9: Hot69Tamale (2703 in chips) 
+marvelcapt: posts small blind 50
+2beornot2be: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Td 4h]
+jonfokler: folds 
+Hot69Tamale: raises 200 to 300
+dfcastro.net: folds 
+CsOkNaDtOeMr: folds 
+mafigua: calls 300
+marvelcapt: calls 250
+2beornot2be: calls 200
+*** FLOP *** [Qd 5s 5h]
+marvelcapt: checks 
+2beornot2be: checks 
+Hot69Tamale: bets 550
+mafigua: raises 325 to 875 and is all-in
+marvelcapt: calls 875
+2beornot2be: folds 
+Hot69Tamale: calls 325
+*** TURN *** [Qd 5s 5h] [Kd]
+marvelcapt: bets 1900
+Hot69Tamale: calls 1528 and is all-in
+Uncalled bet (372) returned to marvelcapt
+*** RIVER *** [Qd 5s 5h Kd] [Ac]
+*** SHOW DOWN ***
+marvelcapt: shows [Kh Jc] (two pair, Kings and Fives)
+Hot69Tamale: shows [Ad Kc] (two pair, Aces and Kings)
+Hot69Tamale collected 3056 from side pot
+mafigua: shows [Tc Qc] (two pair, Queens and Fives)
+Hot69Tamale collected 3825 from main pot
+Hot69Tamale wins the $0.27 bounty for eliminating mafigua
+mafigua finished the tournament in 36th place
+*** SUMMARY ***
+Total pot 6881 Main pot 3825. Side pot 3056. | Rake 0 
+Board [Qd 5s 5h Kd Ac]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr folded before Flop (didn't bet)
+Seat 3: mafigua (button) showed [Tc Qc] and lost with two pair, Queens and Fives
+Seat 4: marvelcapt (small blind) showed [Kh Jc] and lost with two pair, Kings and Fives
+Seat 6: 2beornot2be (big blind) folded on the Flop
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 9: Hot69Tamale showed [Ad Kc] and won (6881) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #100299338245: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level IV (50/100) - 2013/06/19 22:35:21 BRT [2013/06/19 21:35:21 ET]
+Table '749571403 3' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (3927 in chips) 
+Seat 2: CsOkNaDtOeMr (5590 in chips) 
+Seat 4: marvelcapt (11246 in chips) 
+Seat 5: jugre_junior (1160 in chips) out of hand (moved from another table into small blind)
+Seat 6: 2beornot2be (7405 in chips) 
+Seat 7: jonfokler (5444 in chips) 
+Seat 8: soy_oso_54 (610 in chips) 
+Seat 9: Hot69Tamale (6881 in chips) 
+2beornot2be: posts small blind 50
+jonfokler: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8h 5h]
+soy_oso_54: folds 
+Hot69Tamale: raises 200 to 300
+dfcastro.net: folds 
+CsOkNaDtOeMr: folds 
+marvelcapt: calls 300
+2beornot2be: calls 250
+jonfokler: calls 200
+*** FLOP *** [Qs Ts 9h]
+2beornot2be: checks 
+jonfokler: bets 200
+Hot69Tamale: raises 200 to 400
+marvelcapt: calls 400
+2beornot2be: calls 400
+jonfokler: calls 200
+*** TURN *** [Qs Ts 9h] [As]
+2beornot2be: checks 
+jonfokler: checks 
+Hot69Tamale: bets 1000
+marvelcapt: raises 3300 to 4300
+2beornot2be: calls 4300
+jonfokler: folds 
+Hot69Tamale: raises 1881 to 6181 and is all-in
+marvelcapt: calls 1881
+2beornot2be: calls 1881
+*** RIVER *** [Qs Ts 9h As] [9c]
+2beornot2be: checks 
+marvelcapt: bets 800
+2beornot2be: folds 
+Uncalled bet (800) returned to marvelcapt
+*** SHOW DOWN ***
+marvelcapt: shows [Ad Td] (two pair, Aces and Tens)
+Hot69Tamale: shows [3s 2s] (a flush, Ace high)
+Hot69Tamale collected 21343 from pot
+*** SUMMARY ***
+Total pot 21343 | Rake 0 
+Board [Qs Ts 9h As 9c]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr folded before Flop (didn't bet)
+Seat 4: marvelcapt (button) showed [Ad Td] and lost with two pair, Aces and Tens
+Seat 6: 2beornot2be (small blind) folded on the River
+Seat 7: jonfokler (big blind) folded on the Turn
+Seat 8: soy_oso_54 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale showed [3s 2s] and won (21343) with a flush, Ace high
+
+
+
+PokerStars Hand #100299381096: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level IV (50/100) - 2013/06/19 22:37:04 BRT [2013/06/19 21:37:04 ET]
+Table '749571403 3' 9-max Seat #6 is the button
+Seat 1: dfcastro.net (3927 in chips) 
+Seat 2: CsOkNaDtOeMr (5590 in chips) 
+Seat 4: marvelcapt (4365 in chips) 
+Seat 5: jugre_junior (1160 in chips) 
+Seat 6: 2beornot2be (524 in chips) 
+Seat 7: jonfokler (4744 in chips) 
+Seat 8: soy_oso_54 (610 in chips) 
+Seat 9: Hot69Tamale (21343 in chips) 
+jonfokler: posts small blind 50
+soy_oso_54: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Td Qh]
+Hot69Tamale: calls 100
+dfcastro.net: folds 
+CsOkNaDtOeMr: folds 
+marvelcapt: raises 100 to 200
+jugre_junior: folds 
+2beornot2be: calls 200
+jonfokler: raises 799 to 999
+soy_oso_54: folds 
+Hot69Tamale: folds 
+marvelcapt: calls 799
+2beornot2be: calls 324 and is all-in
+*** FLOP *** [4c Tc 9d]
+jonfokler: bets 3745 and is all-in
+marvelcapt: folds 
+Uncalled bet (3745) returned to jonfokler
+*** TURN *** [4c Tc 9d] [3d]
+*** RIVER *** [4c Tc 9d 3d] [Qd]
+*** SHOW DOWN ***
+jonfokler: shows [Jd Jc] (a pair of Jacks)
+jonfokler collected 950 from side pot
+2beornot2be: shows [Qs 8d] (a pair of Queens)
+2beornot2be collected 1772 from main pot
+*** SUMMARY ***
+Total pot 2722 Main pot 1772. Side pot 950. | Rake 0 
+Board [4c Tc 9d 3d Qd]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr folded before Flop (didn't bet)
+Seat 4: marvelcapt folded on the Flop
+Seat 5: jugre_junior folded before Flop (didn't bet)
+Seat 6: 2beornot2be (button) showed [Qs 8d] and won (1772) with a pair of Queens
+Seat 7: jonfokler (small blind) showed [Jd Jc] and won (950) with a pair of Jacks
+Seat 8: soy_oso_54 (big blind) folded before Flop
+Seat 9: Hot69Tamale folded before Flop
+
+
+
+PokerStars Hand #100299409671: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level IV (50/100) - 2013/06/19 22:38:14 BRT [2013/06/19 21:38:14 ET]
+Table '749571403 3' 9-max Seat #7 is the button
+Seat 1: dfcastro.net (3927 in chips) 
+Seat 2: CsOkNaDtOeMr (5590 in chips) 
+Seat 4: marvelcapt (3366 in chips) 
+Seat 5: jugre_junior (1160 in chips) 
+Seat 6: 2beornot2be (1772 in chips) 
+Seat 7: jonfokler (4695 in chips) 
+Seat 8: soy_oso_54 (510 in chips) 
+Seat 9: Hot69Tamale (21243 in chips) 
+soy_oso_54: posts small blind 50
+Hot69Tamale: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Td 5d]
+dfcastro.net: folds 
+CsOkNaDtOeMr: folds 
+marvelcapt: folds 
+jugre_junior: calls 100
+2beornot2be: folds 
+jonfokler: raises 566 to 666
+soy_oso_54: folds 
+Hot69Tamale: folds 
+jugre_junior: raises 494 to 1160 and is all-in
+jonfokler: calls 494
+*** FLOP *** [2d 3c 9s]
+*** TURN *** [2d 3c 9s] [Ad]
+*** RIVER *** [2d 3c 9s Ad] [3d]
+*** SHOW DOWN ***
+jugre_junior: shows [Js Ks] (a pair of Threes)
+jonfokler: shows [As Tc] (two pair, Aces and Threes)
+jonfokler collected 2470 from pot
+jonfokler wins the $0.27 bounty for eliminating jugre_junior
+jugre_junior finished the tournament in 34th place
+*** SUMMARY ***
+Total pot 2470 | Rake 0 
+Board [2d 3c 9s Ad 3d]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr folded before Flop (didn't bet)
+Seat 4: marvelcapt folded before Flop (didn't bet)
+Seat 5: jugre_junior showed [Js Ks] and lost with a pair of Threes
+Seat 6: 2beornot2be folded before Flop (didn't bet)
+Seat 7: jonfokler (button) showed [As Tc] and won (2470) with two pair, Aces and Threes
+Seat 8: soy_oso_54 (small blind) folded before Flop
+Seat 9: Hot69Tamale (big blind) folded before Flop
+
+
+
+PokerStars Hand #100299439610: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level V (75/150) - 2013/06/19 22:39:26 BRT [2013/06/19 21:39:26 ET]
+Table '749571403 3' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (3927 in chips) 
+Seat 2: CsOkNaDtOeMr (5590 in chips) 
+Seat 3: qw303 (1590 in chips) 
+Seat 4: marvelcapt (3366 in chips) 
+Seat 6: 2beornot2be (1772 in chips) 
+Seat 7: jonfokler (6005 in chips) 
+Seat 8: soy_oso_54 (460 in chips) 
+Seat 9: Hot69Tamale (21143 in chips) 
+Hot69Tamale: posts small blind 75
+dfcastro.net: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4d 7c]
+CsOkNaDtOeMr: folds 
+qw303: folds 
+marvelcapt: folds 
+2beornot2be: folds 
+jonfokler: calls 150
+soy_oso_54: raises 300 to 450
+Hot69Tamale: calls 375
+dfcastro.net: folds 
+jonfokler: calls 300
+*** FLOP *** [9h As Ts]
+Hot69Tamale: checks 
+jonfokler: checks 
+soy_oso_54: bets 10 and is all-in
+Hot69Tamale: calls 10
+jonfokler: calls 10
+*** TURN *** [9h As Ts] [2h]
+Hot69Tamale: checks 
+jonfokler: checks 
+*** RIVER *** [9h As Ts 2h] [Ks]
+Hot69Tamale: checks 
+jonfokler: checks 
+*** SHOW DOWN ***
+Hot69Tamale: shows [7h Th] (a pair of Tens)
+jonfokler: shows [Kd 7d] (a pair of Kings)
+soy_oso_54: shows [Qd Ad] (a pair of Aces)
+soy_oso_54 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | Rake 0 
+Board [9h As Ts 2h Ks]
+Seat 1: dfcastro.net (big blind) folded before Flop
+Seat 2: CsOkNaDtOeMr folded before Flop (didn't bet)
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: marvelcapt folded before Flop (didn't bet)
+Seat 6: 2beornot2be folded before Flop (didn't bet)
+Seat 7: jonfokler showed [Kd 7d] and lost with a pair of Kings
+Seat 8: soy_oso_54 (button) showed [Qd Ad] and won (1530) with a pair of Aces
+Seat 9: Hot69Tamale (small blind) showed [7h Th] and lost with a pair of Tens
+
+
+
+PokerStars Hand #100299463820: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level V (75/150) - 2013/06/19 22:40:26 BRT [2013/06/19 21:40:26 ET]
+Table '749571403 3' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (3777 in chips) 
+Seat 2: CsOkNaDtOeMr (5590 in chips) 
+Seat 3: qw303 (1590 in chips) 
+Seat 4: marvelcapt (3366 in chips) 
+Seat 6: 2beornot2be (1772 in chips) 
+Seat 7: jonfokler (5545 in chips) 
+Seat 8: soy_oso_54 (1530 in chips) 
+Seat 9: Hot69Tamale (20683 in chips) 
+dfcastro.net: posts small blind 75
+CsOkNaDtOeMr: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5c Ac]
+qw303: folds 
+marvelcapt: raises 150 to 300
+2beornot2be: raises 300 to 600
+jonfokler: folds 
+soy_oso_54: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+CsOkNaDtOeMr: folds 
+marvelcapt: raises 600 to 1200
+2beornot2be: raises 572 to 1772 and is all-in
+marvelcapt: calls 572
+*** FLOP *** [Jh 4s Th]
+*** TURN *** [Jh 4s Th] [Kh]
+*** RIVER *** [Jh 4s Th Kh] [7d]
+*** SHOW DOWN ***
+marvelcapt: shows [Kc Ks] (three of a kind, Kings)
+2beornot2be: shows [Ah Ad] (a pair of Aces)
+marvelcapt collected 3769 from pot
+marvelcapt wins the $0.27 bounty for eliminating 2beornot2be
+2beornot2be finished the tournament in 32nd place
+*** SUMMARY ***
+Total pot 3769 | Rake 0 
+Board [Jh 4s Th Kh 7d]
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 2: CsOkNaDtOeMr (big blind) folded before Flop
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: marvelcapt showed [Kc Ks] and won (3769) with three of a kind, Kings
+Seat 6: 2beornot2be showed [Ah Ad] and lost with a pair of Aces
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: soy_oso_54 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299482558: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level V (75/150) - 2013/06/19 22:41:11 BRT [2013/06/19 21:41:11 ET]
+Table '749571403 3' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (3702 in chips) 
+Seat 2: CsOkNaDtOeMr (5440 in chips) 
+Seat 3: qw303 (1590 in chips) 
+Seat 4: marvelcapt (5363 in chips) 
+Seat 7: jonfokler (5545 in chips) 
+Seat 8: soy_oso_54 (1530 in chips) 
+Seat 9: Hot69Tamale (20683 in chips) 
+CsOkNaDtOeMr: posts small blind 75
+qw303: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7c 5s]
+marvelcapt: folds 
+jonfokler: folds 
+soy_oso_54: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+CsOkNaDtOeMr: folds 
+Uncalled bet (75) returned to qw303
+qw303 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr (small blind) folded before Flop
+Seat 3: qw303 (big blind) collected (150)
+Seat 4: marvelcapt folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: soy_oso_54 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299493136: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level V (75/150) - 2013/06/19 22:41:37 BRT [2013/06/19 21:41:37 ET]
+Table '749571403 3' 9-max Seat #2 is the button
+Seat 1: dfcastro.net (3702 in chips) 
+Seat 2: CsOkNaDtOeMr (5365 in chips) 
+Seat 3: qw303 (1665 in chips) 
+Seat 4: marvelcapt (5363 in chips) 
+Seat 7: jonfokler (5545 in chips) 
+Seat 8: soy_oso_54 (1530 in chips) 
+Seat 9: Hot69Tamale (20683 in chips) 
+qw303: posts small blind 75
+marvelcapt: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [As Jh]
+jonfokler: folds 
+soy_oso_54 is disconnected 
+soy_oso_54 has timed out while disconnected
+soy_oso_54: folds 
+soy_oso_54 is sitting out
+Hot69Tamale: folds 
+soy_oso_54 has returned
+dfcastro.net: raises 180 to 330
+CsOkNaDtOeMr: folds 
+qw303: folds 
+marvelcapt: calls 180
+*** FLOP *** [6h 7c Td]
+marvelcapt: checks 
+dfcastro.net: bets 450
+marvelcapt: calls 450
+*** TURN *** [6h 7c Td] [8d]
+marvelcapt: checks 
+dfcastro.net: bets 2922 and is all-in
+marvelcapt: folds 
+Uncalled bet (2922) returned to dfcastro.net
+dfcastro.net collected 1635 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 1635 | Rake 0 
+Board [6h 7c Td 8d]
+Seat 1: dfcastro.net collected (1635)
+Seat 2: CsOkNaDtOeMr (button) folded before Flop (didn't bet)
+Seat 3: qw303 (small blind) folded before Flop
+Seat 4: marvelcapt (big blind) folded on the Turn
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: soy_oso_54 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299529570: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level V (75/150) - 2013/06/19 22:43:06 BRT [2013/06/19 21:43:06 ET]
+Table '749571403 3' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (4557 in chips) 
+Seat 2: CsOkNaDtOeMr (5365 in chips) 
+Seat 3: qw303 (1590 in chips) 
+Seat 4: marvelcapt (4583 in chips) 
+Seat 7: jonfokler (5545 in chips) 
+Seat 8: soy_oso_54 (1530 in chips) 
+Seat 9: Hot69Tamale (20683 in chips) 
+marvelcapt: posts small blind 75
+jonfokler: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kc 8c]
+soy_oso_54: folds 
+Hot69Tamale: calls 150
+dfcastro.net: calls 150
+CsOkNaDtOeMr: folds 
+qw303: folds 
+marvelcapt: calls 75
+jonfokler: checks 
+*** FLOP *** [Qd Jd 7h]
+marvelcapt: checks 
+jonfokler: bets 150
+Hot69Tamale: folds 
+dfcastro.net: folds 
+marvelcapt: folds 
+Uncalled bet (150) returned to jonfokler
+jonfokler collected 600 from pot
+jonfokler: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Qd Jd 7h]
+Seat 1: dfcastro.net folded on the Flop
+Seat 2: CsOkNaDtOeMr folded before Flop (didn't bet)
+Seat 3: qw303 (button) folded before Flop (didn't bet)
+Seat 4: marvelcapt (small blind) folded on the Flop
+Seat 7: jonfokler (big blind) collected (600)
+Seat 8: soy_oso_54 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded on the Flop
+
+
+
+PokerStars Hand #100299544504: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level V (75/150) - 2013/06/19 22:43:42 BRT [2013/06/19 21:43:42 ET]
+Table '749571403 3' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (4407 in chips) 
+Seat 2: CsOkNaDtOeMr (5365 in chips) 
+Seat 3: qw303 (1590 in chips) 
+Seat 4: marvelcapt (4433 in chips) 
+Seat 7: jonfokler (5995 in chips) 
+Seat 8: soy_oso_54 (1530 in chips) 
+Seat 9: Hot69Tamale (20533 in chips) 
+jonfokler: posts small blind 75
+soy_oso_54: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3c 8c]
+Hot69Tamale: folds 
+dfcastro.net: folds 
+CsOkNaDtOeMr: raises 300 to 450
+qw303: folds 
+marvelcapt: calls 450
+jonfokler: folds 
+soy_oso_54: folds 
+*** FLOP *** [7s 8d 3d]
+CsOkNaDtOeMr: bets 750
+marvelcapt: calls 750
+*** TURN *** [7s 8d 3d] [6s]
+CsOkNaDtOeMr: checks 
+marvelcapt: bets 600
+CsOkNaDtOeMr: calls 600
+*** RIVER *** [7s 8d 3d 6s] [9h]
+CsOkNaDtOeMr: bets 3565 and is all-in
+marvelcapt: calls 2633 and is all-in
+Uncalled bet (932) returned to CsOkNaDtOeMr
+*** SHOW DOWN ***
+CsOkNaDtOeMr: shows [Kh Qc] (high card King)
+marvelcapt: shows [Ad 7c] (a pair of Sevens)
+marvelcapt collected 9091 from pot
+*** SUMMARY ***
+Total pot 9091 | Rake 0 
+Board [7s 8d 3d 6s 9h]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr showed [Kh Qc] and lost with high card King
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: marvelcapt (button) showed [Ad 7c] and won (9091) with a pair of Sevens
+Seat 7: jonfokler (small blind) folded before Flop
+Seat 8: soy_oso_54 (big blind) folded before Flop
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299571716: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level V (75/150) - 2013/06/19 22:44:51 BRT [2013/06/19 21:44:51 ET]
+Table '749571403 3' 9-max Seat #7 is the button
+Seat 1: dfcastro.net (4407 in chips) 
+Seat 2: CsOkNaDtOeMr (932 in chips) 
+Seat 3: qw303 (1590 in chips) 
+Seat 4: marvelcapt (9091 in chips) 
+Seat 7: jonfokler (5920 in chips) 
+Seat 8: soy_oso_54 (1380 in chips) 
+Seat 9: Hot69Tamale (20533 in chips) 
+soy_oso_54: posts small blind 75
+Hot69Tamale: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6d Jc]
+dfcastro.net: folds 
+CsOkNaDtOeMr: raises 782 to 932 and is all-in
+qw303: folds 
+marvelcapt: folds 
+jonfokler: folds 
+soy_oso_54: folds 
+Hot69Tamale: calls 782
+*** FLOP *** [7c Jd Ad]
+*** TURN *** [7c Jd Ad] [Ts]
+*** RIVER *** [7c Jd Ad Ts] [9h]
+*** SHOW DOWN ***
+Hot69Tamale: shows [8d As] (a straight, Seven to Jack)
+CsOkNaDtOeMr: shows [Ks 7d] (a pair of Sevens)
+Hot69Tamale collected 1939 from pot
+Hot69Tamale wins the $0.27 bounty for eliminating CsOkNaDtOeMr
+CsOkNaDtOeMr finished the tournament in 29th place
+*** SUMMARY ***
+Total pot 1939 | Rake 0 
+Board [7c Jd Ad Ts 9h]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: CsOkNaDtOeMr showed [Ks 7d] and lost with a pair of Sevens
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: marvelcapt folded before Flop (didn't bet)
+Seat 7: jonfokler (button) folded before Flop (didn't bet)
+Seat 8: soy_oso_54 (small blind) folded before Flop
+Seat 9: Hot69Tamale (big blind) showed [8d As] and won (1939) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #100299595638: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level V (75/150) - 2013/06/19 22:45:50 BRT [2013/06/19 21:45:50 ET]
+Table '749571403 3' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (4407 in chips) 
+Seat 3: qw303 (1590 in chips) 
+Seat 4: marvelcapt (9091 in chips) 
+Seat 7: jonfokler (5920 in chips) 
+Seat 8: soy_oso_54 (1305 in chips) 
+Seat 9: Hot69Tamale (21540 in chips) 
+Hot69Tamale: posts small blind 75
+dfcastro.net: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4c 3s]
+qw303: folds 
+marvelcapt: folds 
+jonfokler: folds 
+soy_oso_54: calls 150
+Hot69Tamale: calls 75
+dfcastro.net: checks 
+*** FLOP *** [Jc 8h 4d]
+Hot69Tamale: bets 300
+dfcastro.net: folds 
+soy_oso_54: calls 300
+*** TURN *** [Jc 8h 4d] [Qc]
+Hot69Tamale: bets 900
+soy_oso_54: calls 855 and is all-in
+Uncalled bet (45) returned to Hot69Tamale
+*** RIVER *** [Jc 8h 4d Qc] [8s]
+*** SHOW DOWN ***
+Hot69Tamale: shows [Jh 4s] (two pair, Jacks and Eights)
+soy_oso_54: shows [Qd Jd] (two pair, Queens and Jacks)
+soy_oso_54 collected 2760 from pot
+*** SUMMARY ***
+Total pot 2760 | Rake 0 
+Board [Jc 8h 4d Qc 8s]
+Seat 1: dfcastro.net (big blind) folded on the Flop
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: marvelcapt folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: soy_oso_54 (button) showed [Qd Jd] and won (2760) with two pair, Queens and Jacks
+Seat 9: Hot69Tamale (small blind) showed [Jh 4s] and lost with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #100299624145: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level V (75/150) - 2013/06/19 22:47:01 BRT [2013/06/19 21:47:01 ET]
+Table '749571403 3' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (4257 in chips) 
+Seat 2: susan77ca (4390 in chips) 
+Seat 3: qw303 (1590 in chips) 
+Seat 4: marvelcapt (9091 in chips) 
+Seat 5: FirstRider11 (940 in chips) is sitting out
+Seat 6: dreveck (5569 in chips) 
+Seat 7: jonfokler (5920 in chips) 
+Seat 8: soy_oso_54 (2760 in chips) 
+Seat 9: Hot69Tamale (20235 in chips) 
+dfcastro.net: posts small blind 75
+susan77ca: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kd 9h]
+qw303: folds 
+marvelcapt: calls 150
+FirstRider11: folds 
+dreveck: folds 
+jonfokler: raises 549 to 699
+soy_oso_54: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+susan77ca: folds 
+marvelcapt: calls 549
+*** FLOP *** [3s 2d 4c]
+marvelcapt: checks 
+jonfokler: bets 766
+marvelcapt: calls 766
+*** TURN *** [3s 2d 4c] [Th]
+marvelcapt: checks 
+jonfokler: bets 999
+marvelcapt: calls 999
+*** RIVER *** [3s 2d 4c Th] [Tc]
+marvelcapt: checks 
+jonfokler: checks 
+*** SHOW DOWN ***
+marvelcapt: shows [6d Qs] (a pair of Tens)
+jonfokler: shows [Kc Qh] (a pair of Tens - King kicker)
+jonfokler collected 5153 from pot
+*** SUMMARY ***
+Total pot 5153 | Rake 0 
+Board [3s 2d 4c Th Tc]
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 2: susan77ca (big blind) folded before Flop
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: marvelcapt showed [6d Qs] and lost with a pair of Tens
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 6: dreveck folded before Flop (didn't bet)
+Seat 7: jonfokler showed [Kc Qh] and won (5153) with a pair of Tens
+Seat 8: soy_oso_54 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299649060: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level V (75/150) - 2013/06/19 22:48:04 BRT [2013/06/19 21:48:04 ET]
+Table '749571403 3' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (4182 in chips) 
+Seat 2: susan77ca (4240 in chips) 
+Seat 3: qw303 (1590 in chips) 
+Seat 4: marvelcapt (6627 in chips) 
+Seat 5: FirstRider11 (940 in chips) is sitting out
+Seat 6: dreveck (5569 in chips) 
+Seat 7: jonfokler (8609 in chips) 
+Seat 8: soy_oso_54 (2760 in chips) 
+Seat 9: Hot69Tamale (20235 in chips) 
+susan77ca: posts small blind 75
+qw303: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2c Kh]
+marvelcapt: calls 150
+FirstRider11: folds 
+dreveck: raises 300 to 450
+jonfokler: folds 
+soy_oso_54: folds 
+Hot69Tamale: calls 450
+dfcastro.net: folds 
+susan77ca: folds 
+qw303: folds 
+marvelcapt: calls 300
+*** FLOP *** [Qd 5d 5h]
+marvelcapt: checks 
+dreveck: checks 
+Hot69Tamale: bets 300
+marvelcapt: folds 
+dreveck: calls 300
+*** TURN *** [Qd 5d 5h] [9s]
+dreveck: checks 
+Hot69Tamale: checks 
+*** RIVER *** [Qd 5d 5h 9s] [4d]
+dreveck: checks 
+Hot69Tamale: checks 
+*** SHOW DOWN ***
+dreveck: shows [Td Ts] (two pair, Tens and Fives)
+Hot69Tamale: mucks hand 
+dreveck collected 2175 from pot
+*** SUMMARY ***
+Total pot 2175 | Rake 0 
+Board [Qd 5d 5h 9s 4d]
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 2: susan77ca (small blind) folded before Flop
+Seat 3: qw303 (big blind) folded before Flop
+Seat 4: marvelcapt folded on the Flop
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 6: dreveck showed [Td Ts] and won (2175) with two pair, Tens and Fives
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: soy_oso_54 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale mucked [Ah Th]
+
+
+
+PokerStars Hand #100299686696: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level V (75/150) - 2013/06/19 22:49:39 BRT [2013/06/19 21:49:39 ET]
+Table '749571403 3' 9-max Seat #2 is the button
+Seat 1: dfcastro.net (4182 in chips) 
+Seat 2: susan77ca (4165 in chips) 
+Seat 3: qw303 (1440 in chips) 
+Seat 4: marvelcapt (6177 in chips) 
+Seat 5: FirstRider11 (940 in chips) is sitting out
+Seat 6: dreveck (6994 in chips) 
+Seat 7: jonfokler (8609 in chips) 
+Seat 8: soy_oso_54 (2760 in chips) 
+Seat 9: Hot69Tamale (19485 in chips) 
+qw303: posts small blind 75
+marvelcapt: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7s As]
+FirstRider11: folds 
+dreveck: raises 300 to 450
+jonfokler: folds 
+soy_oso_54: folds 
+Hot69Tamale: folds 
+dfcastro.net: calls 450
+susan77ca: folds 
+qw303: folds 
+marvelcapt: folds 
+*** FLOP *** [Tc Kd Ah]
+dreveck: bets 787
+dfcastro.net: calls 787
+*** TURN *** [Tc Kd Ah] [6h]
+dreveck: checks 
+dfcastro.net: checks 
+*** RIVER *** [Tc Kd Ah 6h] [Jd]
+dreveck: bets 3450
+dfcastro.net: folds 
+Uncalled bet (3450) returned to dreveck
+dreveck collected 2699 from pot
+dreveck: doesn't show hand 
+*** SUMMARY ***
+Total pot 2699 | Rake 0 
+Board [Tc Kd Ah 6h Jd]
+Seat 1: dfcastro.net folded on the River
+Seat 2: susan77ca (button) folded before Flop (didn't bet)
+Seat 3: qw303 (small blind) folded before Flop
+Seat 4: marvelcapt (big blind) folded before Flop
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 6: dreveck collected (2699)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: soy_oso_54 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299710295: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level V (75/150) - 2013/06/19 22:50:39 BRT [2013/06/19 21:50:39 ET]
+Table '749571403 3' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (2945 in chips) 
+Seat 2: susan77ca (4165 in chips) 
+Seat 3: qw303 (1365 in chips) 
+Seat 4: marvelcapt (6027 in chips) 
+Seat 5: FirstRider11 (940 in chips) is sitting out
+Seat 6: dreveck (8456 in chips) 
+Seat 7: jonfokler (8609 in chips) 
+Seat 8: soy_oso_54 (2760 in chips) 
+Seat 9: Hot69Tamale (19485 in chips) 
+marvelcapt: posts small blind 75
+FirstRider11: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5c 7s]
+dreveck: folds 
+jonfokler: folds 
+soy_oso_54: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+susan77ca: folds 
+qw303: folds 
+marvelcapt: calls 75
+FirstRider11: folds 
+marvelcapt collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca folded before Flop (didn't bet)
+Seat 3: qw303 (button) folded before Flop (didn't bet)
+Seat 4: marvelcapt (small blind) collected (300)
+Seat 5: FirstRider11 (big blind) folded before Flop
+Seat 6: dreveck folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: soy_oso_54 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299718098: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level V (75/150) - 2013/06/19 22:50:59 BRT [2013/06/19 21:50:59 ET]
+Table '749571403 3' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (2945 in chips) 
+Seat 2: susan77ca (4165 in chips) 
+Seat 3: qw303 (1365 in chips) 
+Seat 4: marvelcapt (6177 in chips) 
+Seat 5: FirstRider11 (790 in chips) is sitting out
+Seat 6: dreveck (8456 in chips) 
+Seat 7: jonfokler (8609 in chips) 
+Seat 8: soy_oso_54 (2760 in chips) 
+Seat 9: Hot69Tamale (19485 in chips) 
+FirstRider11: posts small blind 75
+dreveck: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Js 9c]
+jonfokler: calls 150
+soy_oso_54: folds 
+Hot69Tamale has timed out
+Hot69Tamale: folds 
+Hot69Tamale is sitting out
+dfcastro.net: folds 
+susan77ca: folds 
+qw303: raises 1215 to 1365 and is all-in
+marvelcapt: folds 
+FirstRider11: folds 
+dreveck: folds 
+jonfokler: calls 1215
+*** FLOP *** [3s 5h 8s]
+*** TURN *** [3s 5h 8s] [7h]
+*** RIVER *** [3s 5h 8s 7h] [Ah]
+*** SHOW DOWN ***
+jonfokler: shows [Tc Qc] (high card Ace)
+qw303: shows [Qd Qs] (a pair of Queens)
+qw303 collected 2955 from pot
+*** SUMMARY ***
+Total pot 2955 | Rake 0 
+Board [3s 5h 8s 7h Ah]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca folded before Flop (didn't bet)
+Seat 3: qw303 showed [Qd Qs] and won (2955) with a pair of Queens
+Seat 4: marvelcapt (button) folded before Flop (didn't bet)
+Seat 5: FirstRider11 (small blind) folded before Flop
+Seat 6: dreveck (big blind) folded before Flop
+Seat 7: jonfokler showed [Tc Qc] and lost with high card Ace
+Seat 8: soy_oso_54 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299741398: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level V (75/150) - 2013/06/19 22:51:59 BRT [2013/06/19 21:51:59 ET]
+Table '749571403 3' 9-max Seat #5 is the button
+Seat 1: dfcastro.net (2945 in chips) 
+Seat 2: susan77ca (4165 in chips) 
+Seat 3: qw303 (2955 in chips) 
+Seat 4: marvelcapt (6177 in chips) 
+Seat 5: FirstRider11 (715 in chips) is sitting out
+Seat 6: dreveck (8306 in chips) 
+Seat 7: jonfokler (7244 in chips) 
+Seat 8: soy_oso_54 (2760 in chips) 
+Seat 9: Hot69Tamale (19485 in chips) is sitting out
+dreveck: posts small blind 75
+jonfokler: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3d Tc]
+soy_oso_54: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+susan77ca: folds 
+qw303: calls 150
+marvelcapt: calls 150
+FirstRider11: folds 
+dreveck: calls 75
+Hot69Tamale has returned
+jonfokler: checks 
+*** FLOP *** [9d 7d 2s]
+dreveck: bets 240
+jonfokler: raises 510 to 750
+qw303: folds 
+marvelcapt: folds 
+dreveck: folds 
+Uncalled bet (510) returned to jonfokler
+jonfokler collected 1080 from pot
+jonfokler: doesn't show hand 
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [9d 7d 2s]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca folded before Flop (didn't bet)
+Seat 3: qw303 folded on the Flop
+Seat 4: marvelcapt folded on the Flop
+Seat 5: FirstRider11 (button) folded before Flop (didn't bet)
+Seat 6: dreveck (small blind) folded on the Flop
+Seat 7: jonfokler (big blind) collected (1080)
+Seat 8: soy_oso_54 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299758494: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level V (75/150) - 2013/06/19 22:52:42 BRT [2013/06/19 21:52:42 ET]
+Table '749571403 3' 9-max Seat #6 is the button
+Seat 1: dfcastro.net (2945 in chips) 
+Seat 2: susan77ca (4165 in chips) 
+Seat 3: qw303 (2805 in chips) 
+Seat 4: marvelcapt (6027 in chips) 
+Seat 5: FirstRider11 (715 in chips) is sitting out
+Seat 6: dreveck (7916 in chips) 
+Seat 7: jonfokler (7934 in chips) 
+Seat 8: soy_oso_54 (2760 in chips) 
+Seat 9: Hot69Tamale (19485 in chips) 
+jonfokler: posts small blind 75
+soy_oso_54: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5d 3h]
+Hot69Tamale: calls 150
+dfcastro.net: folds 
+susan77ca: folds 
+qw303: calls 150
+marvelcapt: raises 150 to 300
+FirstRider11: folds 
+dreveck: folds 
+jonfokler: folds 
+soy_oso_54: folds 
+Hot69Tamale: calls 150
+qw303: raises 2505 to 2805 and is all-in
+marvelcapt: calls 2505
+Hot69Tamale: folds 
+*** FLOP *** [Kd 5c Ad]
+*** TURN *** [Kd 5c Ad] [Qs]
+*** RIVER *** [Kd 5c Ad Qs] [Jh]
+*** SHOW DOWN ***
+qw303: shows [Kh Ks] (three of a kind, Kings)
+marvelcapt: shows [4s Ac] (a pair of Aces)
+qw303 collected 6135 from pot
+*** SUMMARY ***
+Total pot 6135 | Rake 0 
+Board [Kd 5c Ad Qs Jh]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca folded before Flop (didn't bet)
+Seat 3: qw303 showed [Kh Ks] and won (6135) with three of a kind, Kings
+Seat 4: marvelcapt showed [4s Ac] and lost with a pair of Aces
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 6: dreveck (button) folded before Flop (didn't bet)
+Seat 7: jonfokler (small blind) folded before Flop
+Seat 8: soy_oso_54 (big blind) folded before Flop
+Seat 9: Hot69Tamale folded before Flop
+
+
+
+PokerStars Hand #100299789140: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VI (100/200) - 2013/06/19 22:54:01 BRT [2013/06/19 21:54:01 ET]
+Table '749571403 3' 9-max Seat #7 is the button
+Seat 1: dfcastro.net (2945 in chips) 
+Seat 2: susan77ca (4165 in chips) 
+Seat 3: qw303 (6135 in chips) 
+Seat 4: marvelcapt (3222 in chips) 
+Seat 5: FirstRider11 (715 in chips) is sitting out
+Seat 6: dreveck (7916 in chips) 
+Seat 7: jonfokler (7859 in chips) 
+Seat 8: soy_oso_54 (2610 in chips) 
+Seat 9: Hot69Tamale (19185 in chips) 
+soy_oso_54: posts small blind 100
+Hot69Tamale: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Tc 9s]
+dfcastro.net: folds 
+susan77ca: folds 
+qw303: folds 
+marvelcapt: calls 200
+FirstRider11: folds 
+dreveck: folds 
+jonfokler: folds 
+soy_oso_54: folds 
+Hot69Tamale: checks 
+*** FLOP *** [As 7d Js]
+Hot69Tamale: checks 
+marvelcapt: bets 400
+Hot69Tamale: folds 
+Uncalled bet (400) returned to marvelcapt
+marvelcapt collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [As 7d Js]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca folded before Flop (didn't bet)
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: marvelcapt collected (500)
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 6: dreveck folded before Flop (didn't bet)
+Seat 7: jonfokler (button) folded before Flop (didn't bet)
+Seat 8: soy_oso_54 (small blind) folded before Flop
+Seat 9: Hot69Tamale (big blind) folded on the Flop
+
+
+
+PokerStars Hand #100299812434: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VI (100/200) - 2013/06/19 22:55:01 BRT [2013/06/19 21:55:01 ET]
+Table '749571403 3' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (2945 in chips) 
+Seat 2: susan77ca (4165 in chips) 
+Seat 3: qw303 (6135 in chips) 
+Seat 4: marvelcapt (3522 in chips) 
+Seat 5: FirstRider11 (715 in chips) is sitting out
+Seat 6: dreveck (7916 in chips) 
+Seat 7: jonfokler (7859 in chips) 
+Seat 8: soy_oso_54 (2510 in chips) 
+Seat 9: Hot69Tamale (18985 in chips) 
+Hot69Tamale: posts small blind 100
+dfcastro.net: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qs 9h]
+susan77ca: folds 
+qw303: calls 200
+marvelcapt: folds 
+FirstRider11: folds 
+dreveck: folds 
+jonfokler: folds 
+soy_oso_54: folds 
+Hot69Tamale: calls 100
+dfcastro.net: checks 
+*** FLOP *** [Qd 6c 3d]
+Hot69Tamale: checks 
+dfcastro.net: checks 
+qw303: checks 
+*** TURN *** [Qd 6c 3d] [Js]
+Hot69Tamale: checks 
+dfcastro.net: checks 
+qw303: bets 200
+Hot69Tamale has timed out
+Hot69Tamale: folds 
+Hot69Tamale is sitting out
+Hot69Tamale has returned
+dfcastro.net: raises 1200 to 1400
+qw303: folds 
+Uncalled bet (1200) returned to dfcastro.net
+dfcastro.net collected 1000 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Qd 6c 3d Js]
+Seat 1: dfcastro.net (big blind) collected (1000)
+Seat 2: susan77ca folded before Flop (didn't bet)
+Seat 3: qw303 folded on the Turn
+Seat 4: marvelcapt folded before Flop (didn't bet)
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 6: dreveck folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: soy_oso_54 (button) folded before Flop (didn't bet)
+Seat 9: Hot69Tamale (small blind) folded on the Turn
+
+
+
+PokerStars Hand #100299935555: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VI (100/200) - 2013/06/19 23:01:34 BRT [2013/06/19 22:01:34 ET]
+Table '749571403 3' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (3545 in chips) 
+Seat 2: susan77ca (4165 in chips) 
+Seat 3: qw303 (5735 in chips) 
+Seat 4: marvelcapt (3522 in chips) 
+Seat 5: FirstRider11 (715 in chips) is sitting out
+Seat 6: dreveck (7916 in chips) 
+Seat 7: jonfokler (7859 in chips) 
+Seat 8: soy_oso_54 (2510 in chips) 
+Seat 9: Hot69Tamale (18785 in chips) 
+dfcastro.net: posts small blind 100
+susan77ca: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7h 9h]
+qw303: folds 
+marvelcapt has timed out
+marvelcapt: folds 
+FirstRider11: folds 
+marvelcapt is sitting out
+dreveck: raises 300 to 500
+jonfokler has timed out
+jonfokler: folds 
+jonfokler is sitting out
+soy_oso_54: folds 
+Hot69Tamale: folds 
+dfcastro.net: calls 400
+susan77ca: folds 
+*** FLOP *** [As 8d 3d]
+dfcastro.net: checks 
+dreveck: bets 1200
+dfcastro.net: folds 
+Uncalled bet (1200) returned to dreveck
+dreveck collected 1200 from pot
+dreveck: doesn't show hand 
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [As 8d 3d]
+Seat 1: dfcastro.net (small blind) folded on the Flop
+Seat 2: susan77ca (big blind) folded before Flop
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: marvelcapt folded before Flop (didn't bet)
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 6: dreveck collected (1200)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: soy_oso_54 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299971387: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VI (100/200) - 2013/06/19 23:03:08 BRT [2013/06/19 22:03:08 ET]
+Table '749571403 3' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (3045 in chips) 
+Seat 2: susan77ca (3965 in chips) 
+Seat 3: qw303 (5735 in chips) 
+Seat 4: marvelcapt (3522 in chips) is sitting out
+Seat 5: FirstRider11 (715 in chips) is sitting out
+Seat 6: dreveck (8616 in chips) 
+Seat 7: jonfokler (7859 in chips) is sitting out
+Seat 8: soy_oso_54 (2510 in chips) 
+Seat 9: Hot69Tamale (18785 in chips) 
+susan77ca: posts small blind 100
+qw303: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5c 7d]
+marvelcapt: folds 
+FirstRider11: folds 
+marvelcapt has returned
+dreveck: folds 
+jonfokler: folds 
+soy_oso_54: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+susan77ca: folds 
+Uncalled bet (100) returned to qw303
+qw303 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 2: susan77ca (small blind) folded before Flop
+Seat 3: qw303 (big blind) collected (200)
+Seat 4: marvelcapt folded before Flop (didn't bet)
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 6: dreveck folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: soy_oso_54 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100299982533: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VI (100/200) - 2013/06/19 23:03:37 BRT [2013/06/19 22:03:37 ET]
+Table '749571403 3' 9-max Seat #2 is the button
+Seat 1: dfcastro.net (3045 in chips) 
+Seat 2: susan77ca (3865 in chips) 
+Seat 3: qw303 (5835 in chips) 
+Seat 4: marvelcapt (3522 in chips) 
+Seat 5: FirstRider11 (715 in chips) is sitting out
+Seat 6: dreveck (8616 in chips) 
+Seat 7: jonfokler (7859 in chips) is sitting out
+Seat 8: soy_oso_54 (2510 in chips) 
+Seat 9: Hot69Tamale (18785 in chips) 
+qw303: posts small blind 100
+marvelcapt: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kh Tc]
+FirstRider11: folds 
+dreveck: raises 300 to 500
+jonfokler: folds 
+soy_oso_54: folds 
+Hot69Tamale: folds 
+dfcastro.net: calls 500
+susan77ca: folds 
+qw303: folds 
+marvelcapt: calls 300
+*** FLOP *** [3d 9s 2h]
+marvelcapt: checks 
+dreveck: checks 
+dfcastro.net: checks 
+*** TURN *** [3d 9s 2h] [2c]
+marvelcapt: checks 
+dreveck: checks 
+dfcastro.net: checks 
+*** RIVER *** [3d 9s 2h 2c] [6h]
+marvelcapt: bets 1200
+dreveck: folds 
+dfcastro.net: folds 
+Uncalled bet (1200) returned to marvelcapt
+marvelcapt collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Board [3d 9s 2h 2c 6h]
+Seat 1: dfcastro.net folded on the River
+Seat 2: susan77ca (button) folded before Flop (didn't bet)
+Seat 3: qw303 (small blind) folded before Flop
+Seat 4: marvelcapt (big blind) collected (1600)
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 6: dreveck folded on the River
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: soy_oso_54 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300010213: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VI (100/200) - 2013/06/19 23:04:47 BRT [2013/06/19 22:04:47 ET]
+Table '749571403 3' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (2545 in chips) 
+Seat 2: susan77ca (3865 in chips) 
+Seat 3: qw303 (5735 in chips) 
+Seat 4: marvelcapt (4622 in chips) 
+Seat 5: FirstRider11 (715 in chips) is sitting out
+Seat 6: dreveck (8116 in chips) 
+Seat 7: jonfokler (7859 in chips) is sitting out
+Seat 8: soy_oso_54 (2510 in chips) 
+Seat 9: Hot69Tamale (18785 in chips) 
+marvelcapt: posts small blind 100
+FirstRider11: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6s Ah]
+dreveck: folds 
+jonfokler: folds 
+soy_oso_54 has timed out
+soy_oso_54: folds 
+soy_oso_54 is sitting out
+Hot69Tamale: folds 
+dfcastro.net: folds 
+susan77ca: folds 
+qw303: folds 
+marvelcapt: calls 100
+FirstRider11: folds 
+marvelcapt collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca folded before Flop (didn't bet)
+Seat 3: qw303 (button) folded before Flop (didn't bet)
+Seat 4: marvelcapt (small blind) collected (400)
+Seat 5: FirstRider11 (big blind) folded before Flop
+Seat 6: dreveck folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: soy_oso_54 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300027176: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VI (100/200) - 2013/06/19 23:05:31 BRT [2013/06/19 22:05:31 ET]
+Table '749571403 3' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (2545 in chips) 
+Seat 2: susan77ca (3865 in chips) 
+Seat 3: qw303 (5735 in chips) 
+Seat 4: marvelcapt (4822 in chips) 
+Seat 5: FirstRider11 (515 in chips) is sitting out
+Seat 6: dreveck (8116 in chips) 
+Seat 7: jonfokler (7859 in chips) is sitting out
+Seat 8: soy_oso_54 (2510 in chips) is sitting out
+Seat 9: Hot69Tamale (18785 in chips) 
+FirstRider11: posts small blind 100
+dreveck: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3d Kh]
+jonfokler: folds 
+soy_oso_54: folds 
+Hot69Tamale has timed out
+Hot69Tamale: folds 
+Hot69Tamale is sitting out
+dfcastro.net: folds 
+susan77ca: folds 
+qw303: calls 200
+marvelcapt: calls 200
+FirstRider11: folds 
+dreveck: checks 
+*** FLOP *** [6s 6h 7h]
+Hot69Tamale has returned
+dreveck: checks 
+qw303: checks 
+marvelcapt: checks 
+*** TURN *** [6s 6h 7h] [Qc]
+dreveck: checks 
+qw303: bets 200
+marvelcapt: raises 200 to 400
+dreveck: folds 
+qw303: calls 200
+*** RIVER *** [6s 6h 7h Qc] [Ad]
+qw303: bets 200
+marvelcapt: calls 200
+*** SHOW DOWN ***
+qw303: shows [Qd Ah] (two pair, Aces and Queens)
+marvelcapt: mucks hand 
+qw303 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | Rake 0 
+Board [6s 6h 7h Qc Ad]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca folded before Flop (didn't bet)
+Seat 3: qw303 showed [Qd Ah] and won (1900) with two pair, Aces and Queens
+Seat 4: marvelcapt (button) mucked [9s Qs]
+Seat 5: FirstRider11 (small blind) folded before Flop
+Seat 6: dreveck (big blind) folded on the Turn
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: soy_oso_54 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300062542: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VI (100/200) - 2013/06/19 23:07:01 BRT [2013/06/19 22:07:01 ET]
+Table '749571403 3' 9-max Seat #5 is the button
+Seat 1: dfcastro.net (2545 in chips) 
+Seat 2: susan77ca (3865 in chips) 
+Seat 3: qw303 (6835 in chips) 
+Seat 4: marvelcapt (4022 in chips) 
+Seat 5: FirstRider11 (415 in chips) is sitting out
+Seat 6: dreveck (7916 in chips) 
+Seat 7: jonfokler (7859 in chips) is sitting out
+Seat 8: soy_oso_54 (2510 in chips) is sitting out
+Seat 9: Hot69Tamale (18785 in chips) 
+dreveck: posts small blind 100
+jonfokler: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3c 9h]
+soy_oso_54: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+susan77ca: folds 
+qw303: folds 
+marvelcapt: folds 
+FirstRider11: folds 
+dreveck: raises 200 to 400
+jonfokler: folds 
+Uncalled bet (200) returned to dreveck
+dreveck collected 400 from pot
+dreveck: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca folded before Flop (didn't bet)
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: marvelcapt folded before Flop (didn't bet)
+Seat 5: FirstRider11 (button) folded before Flop (didn't bet)
+Seat 6: dreveck (small blind) collected (400)
+Seat 7: jonfokler (big blind) folded before Flop
+Seat 8: soy_oso_54 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300071670: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VI (100/200) - 2013/06/19 23:07:25 BRT [2013/06/19 22:07:25 ET]
+Table '749571403 3' 9-max Seat #6 is the button
+Seat 1: dfcastro.net (2545 in chips) 
+Seat 2: susan77ca (3865 in chips) 
+Seat 3: qw303 (6835 in chips) 
+Seat 4: marvelcapt (4022 in chips) 
+Seat 5: FirstRider11 (415 in chips) is sitting out
+Seat 6: dreveck (8116 in chips) 
+Seat 7: jonfokler (7659 in chips) is sitting out
+Seat 8: soy_oso_54 (2510 in chips) is sitting out
+Seat 9: Hot69Tamale (18785 in chips) 
+jonfokler: posts small blind 100
+soy_oso_54: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4s 7s]
+Hot69Tamale has timed out
+Hot69Tamale: folds 
+Hot69Tamale is sitting out
+dfcastro.net: folds 
+susan77ca: folds 
+qw303: folds 
+Hot69Tamale has returned
+marvelcapt: raises 200 to 400
+FirstRider11: folds 
+dreveck: folds 
+jonfokler: folds 
+soy_oso_54: folds 
+Uncalled bet (200) returned to marvelcapt
+marvelcapt collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca folded before Flop (didn't bet)
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: marvelcapt collected (500)
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 6: dreveck (button) folded before Flop (didn't bet)
+Seat 7: jonfokler (small blind) folded before Flop
+Seat 8: soy_oso_54 (big blind) folded before Flop
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300083863: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VI (100/200) - 2013/06/19 23:07:56 BRT [2013/06/19 22:07:56 ET]
+Table '749571403 3' 9-max Seat #7 is the button
+Seat 1: dfcastro.net (2545 in chips) 
+Seat 2: susan77ca (3865 in chips) 
+Seat 3: qw303 (6835 in chips) 
+Seat 4: marvelcapt (4322 in chips) 
+Seat 5: FirstRider11 (415 in chips) is sitting out
+Seat 6: dreveck (8116 in chips) 
+Seat 7: jonfokler (7559 in chips) is sitting out
+Seat 8: soy_oso_54 (2310 in chips) is sitting out
+Seat 9: Hot69Tamale (18785 in chips) 
+soy_oso_54: posts small blind 100
+Hot69Tamale: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3s Jd]
+dfcastro.net: folds 
+susan77ca: calls 200
+qw303: folds 
+marvelcapt: calls 200
+FirstRider11: folds 
+dreveck: folds 
+jonfokler: folds 
+soy_oso_54: folds 
+Hot69Tamale: checks 
+*** FLOP *** [8s 5h Ad]
+Hot69Tamale: bets 200
+jonfokler has returned
+susan77ca: calls 200
+marvelcapt: raises 400 to 600
+Hot69Tamale: calls 400
+susan77ca: folds 
+*** TURN *** [8s 5h Ad] [7h]
+Hot69Tamale: bets 200
+marvelcapt: calls 200
+*** RIVER *** [8s 5h Ad 7h] [2c]
+Hot69Tamale: bets 400
+marvelcapt: raises 1600 to 2000
+Hot69Tamale: folds 
+Uncalled bet (1600) returned to marvelcapt
+marvelcapt collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | Rake 0 
+Board [8s 5h Ad 7h 2c]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca folded on the Flop
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: marvelcapt collected (3300)
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 6: dreveck folded before Flop (didn't bet)
+Seat 7: jonfokler (button) folded before Flop (didn't bet)
+Seat 8: soy_oso_54 (small blind) folded before Flop
+Seat 9: Hot69Tamale (big blind) folded on the River
+
+
+
+PokerStars Hand #100300113054: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VI (100/200) - 2013/06/19 23:09:12 BRT [2013/06/19 22:09:12 ET]
+Table '749571403 3' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (2545 in chips) 
+Seat 2: susan77ca (3465 in chips) 
+Seat 3: qw303 (6835 in chips) 
+Seat 4: marvelcapt (6222 in chips) 
+Seat 5: FirstRider11 (415 in chips) is sitting out
+Seat 6: dreveck (8116 in chips) 
+Seat 7: jonfokler (7559 in chips) 
+Seat 8: soy_oso_54 (2210 in chips) is sitting out
+Seat 9: Hot69Tamale (17385 in chips) 
+Hot69Tamale: posts small blind 100
+dfcastro.net: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ad 7s]
+susan77ca: calls 200
+qw303: calls 200
+marvelcapt: calls 200
+FirstRider11: folds 
+dreveck: raises 1200 to 1400
+jonfokler: folds 
+soy_oso_54: folds 
+Hot69Tamale: folds 
+dfcastro.net: raises 1145 to 2545 and is all-in
+susan77ca: folds 
+qw303: folds 
+marvelcapt: folds 
+dreveck: calls 1145
+*** FLOP *** [2c Kd 7h]
+*** TURN *** [2c Kd 7h] [8s]
+*** RIVER *** [2c Kd 7h 8s] [8h]
+*** SHOW DOWN ***
+dfcastro.net: shows [Ad 7s] (two pair, Eights and Sevens)
+dreveck: shows [Qd As] (a pair of Eights)
+dfcastro.net collected 5790 from pot
+*** SUMMARY ***
+Total pot 5790 | Rake 0 
+Board [2c Kd 7h 8s 8h]
+Seat 1: dfcastro.net (big blind) showed [Ad 7s] and won (5790) with two pair, Eights and Sevens
+Seat 2: susan77ca folded before Flop
+Seat 3: qw303 folded before Flop
+Seat 4: marvelcapt folded before Flop
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 6: dreveck showed [Qd As] and lost with a pair of Eights
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: soy_oso_54 (button) folded before Flop (didn't bet)
+Seat 9: Hot69Tamale (small blind) folded before Flop
+
+
+
+PokerStars Hand #100300134894: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VI (100/200) - 2013/06/19 23:10:09 BRT [2013/06/19 22:10:09 ET]
+Table '749571403 3' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (5790 in chips) 
+Seat 2: susan77ca (3265 in chips) 
+Seat 3: qw303 (6635 in chips) 
+Seat 4: marvelcapt (6022 in chips) 
+Seat 5: FirstRider11 (415 in chips) is sitting out
+Seat 6: dreveck (5571 in chips) 
+Seat 7: jonfokler (7559 in chips) 
+Seat 9: Hot69Tamale (17285 in chips) 
+dfcastro.net: posts small blind 100
+susan77ca: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qs Td]
+qw303: folds 
+marvelcapt: folds 
+FirstRider11: folds 
+dreveck: raises 300 to 500
+jonfokler: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+susan77ca: folds 
+Uncalled bet (300) returned to dreveck
+dreveck collected 500 from pot
+dreveck: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 2: susan77ca (big blind) folded before Flop
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: marvelcapt folded before Flop (didn't bet)
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 6: dreveck collected (500)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 9: Hot69Tamale (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300146046: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VI (100/200) - 2013/06/19 23:10:38 BRT [2013/06/19 22:10:38 ET]
+Table '749571403 3' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (5690 in chips) 
+Seat 2: susan77ca (3065 in chips) 
+Seat 3: qw303 (6635 in chips) 
+Seat 4: marvelcapt (6022 in chips) 
+Seat 5: FirstRider11 (415 in chips) is sitting out
+Seat 6: dreveck (5871 in chips) 
+Seat 7: jonfokler (7559 in chips) 
+Seat 9: Hot69Tamale (17285 in chips) 
+susan77ca: posts small blind 100
+qw303: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4s 9h]
+marvelcapt: folds 
+FirstRider11: folds 
+dreveck: raises 600 to 800
+jonfokler: folds 
+Hot69Tamale: calls 800
+dfcastro.net: folds 
+susan77ca: folds 
+qw303: calls 600
+*** FLOP *** [Jd 3s 8s]
+qw303: checks 
+dreveck: checks 
+Hot69Tamale: bets 600
+qw303: raises 5235 to 5835 and is all-in
+dreveck: folds 
+Hot69Tamale: calls 5235
+*** TURN *** [Jd 3s 8s] [2h]
+*** RIVER *** [Jd 3s 8s 2h] [7s]
+*** SHOW DOWN ***
+qw303: shows [Qs Js] (a flush, Queen high)
+Hot69Tamale: shows [Jh Ad] (a pair of Jacks)
+qw303 collected 14170 from pot
+*** SUMMARY ***
+Total pot 14170 | Rake 0 
+Board [Jd 3s 8s 2h 7s]
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 2: susan77ca (small blind) folded before Flop
+Seat 3: qw303 (big blind) showed [Qs Js] and won (14170) with a flush, Queen high
+Seat 4: marvelcapt folded before Flop (didn't bet)
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 6: dreveck folded on the Flop
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 9: Hot69Tamale showed [Jh Ad] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #100300173015: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VI (100/200) - 2013/06/19 23:11:48 BRT [2013/06/19 22:11:48 ET]
+Table '749571403 3' 9-max Seat #2 is the button
+Seat 1: dfcastro.net (5690 in chips) 
+Seat 2: susan77ca (2965 in chips) 
+Seat 3: qw303 (14170 in chips) 
+Seat 4: marvelcapt (6022 in chips) 
+Seat 5: FirstRider11 (415 in chips) is sitting out
+Seat 6: dreveck (5071 in chips) 
+Seat 7: jonfokler (7559 in chips) 
+Seat 9: Hot69Tamale (10650 in chips) 
+qw303: posts small blind 100
+marvelcapt: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ac 8s]
+FirstRider11: folds 
+dreveck: raises 600 to 800
+jonfokler: folds 
+Hot69Tamale: raises 1200 to 2000
+dfcastro.net: folds 
+susan77ca: folds 
+qw303: folds 
+marvelcapt: folds 
+dreveck: raises 3071 to 5071 and is all-in
+Hot69Tamale: calls 3071
+*** FLOP *** [9s Kd 5c]
+*** TURN *** [9s Kd 5c] [3s]
+*** RIVER *** [9s Kd 5c 3s] [5s]
+*** SHOW DOWN ***
+dreveck: shows [Ks Qh] (two pair, Kings and Fives)
+Hot69Tamale: shows [Kc Ad] (two pair, Kings and Fives - Ace kicker)
+Hot69Tamale collected 10442 from pot
+Hot69Tamale wins the $0.27 bounty for eliminating dreveck
+dreveck finished the tournament in 24th place
+*** SUMMARY ***
+Total pot 10442 | Rake 0 
+Board [9s Kd 5c 3s 5s]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca (button) folded before Flop (didn't bet)
+Seat 3: qw303 (small blind) folded before Flop
+Seat 4: marvelcapt (big blind) folded before Flop
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 6: dreveck showed [Ks Qh] and lost with two pair, Kings and Fives
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 9: Hot69Tamale showed [Kc Ad] and won (10442) with two pair, Kings and Fives
+
+
+
+PokerStars Hand #100300189085: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VI (100/200) - 2013/06/19 23:12:30 BRT [2013/06/19 22:12:30 ET]
+Table '749571403 3' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (5690 in chips) 
+Seat 2: susan77ca (2965 in chips) 
+Seat 3: qw303 (14070 in chips) 
+Seat 4: marvelcapt (5822 in chips) 
+Seat 5: FirstRider11 (415 in chips) is sitting out
+Seat 7: jonfokler (7559 in chips) 
+Seat 9: Hot69Tamale (16021 in chips) 
+marvelcapt: posts small blind 100
+FirstRider11: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3d 5d]
+jonfokler: folds 
+Hot69Tamale: raises 400 to 600
+dfcastro.net: folds 
+susan77ca: folds 
+qw303: folds 
+marvelcapt: calls 500
+FirstRider11: folds 
+*** FLOP *** [8d 5h Kd]
+marvelcapt: checks 
+Hot69Tamale: checks 
+*** TURN *** [8d 5h Kd] [9d]
+marvelcapt: checks 
+Hot69Tamale: checks 
+*** RIVER *** [8d 5h Kd 9d] [8s]
+marvelcapt: checks 
+Hot69Tamale: checks 
+*** SHOW DOWN ***
+marvelcapt: shows [3s Qd] (a pair of Eights)
+Hot69Tamale: shows [9c Jc] (two pair, Nines and Eights)
+Hot69Tamale collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Board [8d 5h Kd 9d 8s]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca folded before Flop (didn't bet)
+Seat 3: qw303 (button) folded before Flop (didn't bet)
+Seat 4: marvelcapt (small blind) showed [3s Qd] and lost with a pair of Eights
+Seat 5: FirstRider11 (big blind) folded before Flop
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 9: Hot69Tamale showed [9c Jc] and won (1400) with two pair, Nines and Eights
+
+
+
+PokerStars Hand #100300210054: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VI (100/200) - 2013/06/19 23:13:26 BRT [2013/06/19 22:13:26 ET]
+Table '749571403 3' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (5690 in chips) 
+Seat 2: susan77ca (2965 in chips) 
+Seat 3: qw303 (14070 in chips) 
+Seat 4: marvelcapt (5222 in chips) 
+Seat 5: FirstRider11 (215 in chips) is sitting out
+Seat 7: jonfokler (7559 in chips) 
+Seat 9: Hot69Tamale (16821 in chips) 
+FirstRider11: posts small blind 100
+jonfokler: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Js Ts]
+Hot69Tamale: folds 
+dfcastro.net: folds 
+susan77ca: folds 
+qw303: folds 
+marvelcapt: calls 200
+FirstRider11: folds 
+jonfokler: checks 
+*** FLOP *** [7s 9c Kh]
+jonfokler: checks 
+marvelcapt: bets 200
+jonfokler: calls 200
+*** TURN *** [7s 9c Kh] [4h]
+jonfokler: checks 
+marvelcapt: checks 
+*** RIVER *** [7s 9c Kh 4h] [2c]
+jonfokler: checks 
+marvelcapt: bets 400
+jonfokler: folds 
+Uncalled bet (400) returned to marvelcapt
+marvelcapt collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [7s 9c Kh 4h 2c]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca folded before Flop (didn't bet)
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: marvelcapt (button) collected (900)
+Seat 5: FirstRider11 (small blind) folded before Flop
+Seat 7: jonfokler (big blind) folded on the River
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300227000: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VI (100/200) - 2013/06/19 23:14:10 BRT [2013/06/19 22:14:10 ET]
+Table '749571403 3' 9-max Seat #5 is the button
+Seat 1: dfcastro.net (5690 in chips) 
+Seat 2: susan77ca (2965 in chips) 
+Seat 3: qw303 (14070 in chips) 
+Seat 4: marvelcapt (5722 in chips) 
+Seat 5: FirstRider11 (115 in chips) is sitting out
+Seat 7: jonfokler (7159 in chips) 
+Seat 9: Hot69Tamale (16821 in chips) 
+jonfokler: posts small blind 100
+Hot69Tamale: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ts Jd]
+dfcastro.net: folds 
+susan77ca: calls 200
+qw303: folds 
+marvelcapt: calls 200
+FirstRider11: folds 
+jonfokler: folds 
+Hot69Tamale has timed out
+Hot69Tamale: checks 
+*** FLOP *** [3d 5d 4h]
+Hot69Tamale: checks 
+susan77ca: checks 
+marvelcapt: checks 
+*** TURN *** [3d 5d 4h] [8h]
+Hot69Tamale: bets 300
+susan77ca: calls 300
+marvelcapt: calls 300
+*** RIVER *** [3d 5d 4h 8h] [Jc]
+Hot69Tamale: bets 300
+susan77ca: folds 
+marvelcapt: calls 300
+*** SHOW DOWN ***
+Hot69Tamale: shows [9s 3h] (a pair of Threes)
+marvelcapt: shows [Kh 8c] (a pair of Eights)
+marvelcapt collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Board [3d 5d 4h 8h Jc]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca folded on the River
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: marvelcapt showed [Kh 8c] and won (2200) with a pair of Eights
+Seat 5: FirstRider11 (button) folded before Flop (didn't bet)
+Seat 7: jonfokler (small blind) folded before Flop
+Seat 9: Hot69Tamale (big blind) showed [9s 3h] and lost with a pair of Threes
+
+
+
+PokerStars Hand #100300266111: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:15:53 BRT [2013/06/19 22:15:53 ET]
+Table '749571403 3' 9-max Seat #7 is the button
+Seat 1: dfcastro.net (5690 in chips) 
+Seat 2: susan77ca (2465 in chips) 
+Seat 3: qw303 (14070 in chips) 
+Seat 4: marvelcapt (7122 in chips) 
+Seat 5: FirstRider11 (115 in chips) is sitting out
+Seat 7: jonfokler (7059 in chips) 
+Seat 9: Hot69Tamale (16021 in chips) 
+dfcastro.net: posts the ante 25
+susan77ca: posts the ante 25
+qw303: posts the ante 25
+marvelcapt: posts the ante 25
+FirstRider11: posts the ante 25
+jonfokler: posts the ante 25
+Hot69Tamale: posts the ante 25
+Hot69Tamale: posts small blind 125
+dfcastro.net: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5c Jc]
+susan77ca: folds 
+qw303: folds 
+marvelcapt: calls 250
+FirstRider11: folds 
+jonfokler: folds 
+Hot69Tamale: folds 
+dfcastro.net: checks 
+*** FLOP *** [Jh Ad Ks]
+dfcastro.net: checks 
+marvelcapt: checks 
+*** TURN *** [Jh Ad Ks] [Ts]
+dfcastro.net: checks 
+marvelcapt: bets 500
+dfcastro.net: raises 500 to 1000
+marvelcapt: raises 1500 to 2500
+dfcastro.net: folds 
+Uncalled bet (1500) returned to marvelcapt
+marvelcapt collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Board [Jh Ad Ks Ts]
+Seat 1: dfcastro.net (big blind) folded on the Turn
+Seat 2: susan77ca folded before Flop (didn't bet)
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: marvelcapt collected (2800)
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 7: jonfokler (button) folded before Flop (didn't bet)
+Seat 9: Hot69Tamale (small blind) folded before Flop
+
+
+
+PokerStars Hand #100300285697: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:16:44 BRT [2013/06/19 22:16:44 ET]
+Table '749571403 3' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (4415 in chips) 
+Seat 2: susan77ca (2440 in chips) 
+Seat 3: qw303 (14045 in chips) 
+Seat 4: marvelcapt (8647 in chips) 
+Seat 5: FirstRider11 (90 in chips) is sitting out
+Seat 7: jonfokler (7034 in chips) 
+Seat 9: Hot69Tamale (15871 in chips) 
+dfcastro.net: posts the ante 25
+susan77ca: posts the ante 25
+qw303: posts the ante 25
+marvelcapt: posts the ante 25
+FirstRider11: posts the ante 25
+jonfokler: posts the ante 25
+Hot69Tamale: posts the ante 25
+dfcastro.net: posts small blind 125
+susan77ca: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3s 4c]
+qw303: folds 
+marvelcapt: calls 250
+FirstRider11: folds 
+jonfokler: calls 250
+Hot69Tamale: folds 
+dfcastro.net: calls 125
+susan77ca: checks 
+*** FLOP *** [Jc 7d 5s]
+dfcastro.net: checks 
+susan77ca: checks 
+marvelcapt: checks 
+jonfokler: bets 455
+dfcastro.net: calls 455
+susan77ca: folds 
+marvelcapt: folds 
+*** TURN *** [Jc 7d 5s] [Kd]
+dfcastro.net: checks 
+jonfokler: checks 
+*** RIVER *** [Jc 7d 5s Kd] [7c]
+dfcastro.net: bets 1000
+jonfokler: folds 
+Uncalled bet (1000) returned to dfcastro.net
+dfcastro.net collected 2085 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 2085 | Rake 0 
+Board [Jc 7d 5s Kd 7c]
+Seat 1: dfcastro.net (small blind) collected (2085)
+Seat 2: susan77ca (big blind) folded on the Flop
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: marvelcapt folded on the Flop
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 7: jonfokler folded on the River
+Seat 9: Hot69Tamale (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300312777: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:17:55 BRT [2013/06/19 22:17:55 ET]
+Table '749571403 3' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (5770 in chips) 
+Seat 2: susan77ca (2165 in chips) 
+Seat 3: qw303 (14020 in chips) 
+Seat 4: marvelcapt (8372 in chips) 
+Seat 5: FirstRider11 (65 in chips) is sitting out
+Seat 7: jonfokler (6304 in chips) 
+Seat 9: Hot69Tamale (15846 in chips) 
+dfcastro.net: posts the ante 25
+susan77ca: posts the ante 25
+qw303: posts the ante 25
+marvelcapt: posts the ante 25
+FirstRider11: posts the ante 25
+jonfokler: posts the ante 25
+Hot69Tamale: posts the ante 25
+susan77ca: posts small blind 125
+qw303: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8h 4s]
+marvelcapt: calls 250
+FirstRider11: folds 
+jonfokler: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+susan77ca: calls 125
+qw303: checks 
+*** FLOP *** [Ad 2s 2h]
+susan77ca: checks 
+qw303: checks 
+marvelcapt: checks 
+*** TURN *** [Ad 2s 2h] [Js]
+susan77ca: bets 250
+qw303: folds 
+marvelcapt: folds 
+Uncalled bet (250) returned to susan77ca
+susan77ca collected 925 from pot
+susan77ca: doesn't show hand 
+*** SUMMARY ***
+Total pot 925 | Rake 0 
+Board [Ad 2s 2h Js]
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 2: susan77ca (small blind) collected (925)
+Seat 3: qw303 (big blind) folded on the Turn
+Seat 4: marvelcapt folded on the Turn
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300323756: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:18:24 BRT [2013/06/19 22:18:24 ET]
+Table '749571403 3' 9-max Seat #2 is the button
+Seat 1: dfcastro.net (5745 in chips) 
+Seat 2: susan77ca (2815 in chips) 
+Seat 3: qw303 (13745 in chips) 
+Seat 4: marvelcapt (8097 in chips) 
+Seat 5: FirstRider11 (40 in chips) is sitting out
+Seat 7: jonfokler (6279 in chips) 
+Seat 9: Hot69Tamale (15821 in chips) 
+dfcastro.net: posts the ante 25
+susan77ca: posts the ante 25
+qw303: posts the ante 25
+marvelcapt: posts the ante 25
+FirstRider11: posts the ante 25
+jonfokler: posts the ante 25
+Hot69Tamale: posts the ante 25
+qw303: posts small blind 125
+marvelcapt: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Th 8s]
+FirstRider11: folds 
+jonfokler: folds 
+Hot69Tamale: folds 
+dfcastro.net: raises 300 to 550
+susan77ca: folds 
+qw303: folds 
+marvelcapt: calls 300
+*** FLOP *** [7s 5h 9s]
+marvelcapt: checks 
+dfcastro.net: checks 
+*** TURN *** [7s 5h 9s] [Ks]
+marvelcapt: bets 750
+dfcastro.net: calls 750
+*** RIVER *** [7s 5h 9s Ks] [Ac]
+marvelcapt: checks 
+dfcastro.net: bets 1250
+marvelcapt: folds 
+Uncalled bet (1250) returned to dfcastro.net
+dfcastro.net collected 2900 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 2900 | Rake 0 
+Board [7s 5h 9s Ks Ac]
+Seat 1: dfcastro.net collected (2900)
+Seat 2: susan77ca (button) folded before Flop (didn't bet)
+Seat 3: qw303 (small blind) folded before Flop
+Seat 4: marvelcapt (big blind) folded on the River
+Seat 5: FirstRider11 folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300342676: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:19:14 BRT [2013/06/19 22:19:14 ET]
+Table '749571403 3' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (7320 in chips) 
+Seat 2: susan77ca (2790 in chips) 
+Seat 3: qw303 (13595 in chips) 
+Seat 4: marvelcapt (6772 in chips) 
+Seat 5: FirstRider11 (15 in chips) is sitting out
+Seat 7: jonfokler (6254 in chips) 
+Seat 9: Hot69Tamale (15796 in chips) 
+dfcastro.net: posts the ante 25
+susan77ca: posts the ante 25
+qw303: posts the ante 25
+marvelcapt: posts the ante 25
+FirstRider11: posts the ante 15 and is all-in
+jonfokler: posts the ante 25
+Hot69Tamale: posts the ante 25
+marvelcapt: posts small blind 125
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3c 5s]
+jonfokler: folds 
+Hot69Tamale: calls 250
+dfcastro.net: calls 250
+susan77ca: folds 
+qw303: folds 
+marvelcapt: calls 125
+FirstRider11: folds 
+*** FLOP *** [2c Kc Js]
+marvelcapt: bets 250
+Hot69Tamale: calls 250
+dfcastro.net: folds 
+*** TURN *** [2c Kc Js] [9d]
+marvelcapt: bets 750
+Hot69Tamale: raises 750 to 1500
+marvelcapt: calls 750
+*** RIVER *** [2c Kc Js 9d] [4s]
+marvelcapt: bets 3000
+Hot69Tamale: raises 3000 to 6000
+marvelcapt: calls 1747 and is all-in
+Uncalled bet (1253) returned to Hot69Tamale
+*** SHOW DOWN ***
+Hot69Tamale: shows [Th Qc] (a straight, Nine to King)
+marvelcapt: shows [Qd Ks] (a pair of Kings)
+Hot69Tamale collected 13804 from side pot
+Hot69Tamale collected 105 from main pot
+Hot69Tamale wins the $0.27 bounty for eliminating marvelcapt
+Hot69Tamale wins the $0.27 bounty for eliminating FirstRider11
+marvelcapt finished the tournament in 21st place
+FirstRider11 finished the tournament in 22nd place
+*** SUMMARY ***
+Total pot 13909 Main pot 105. Side pot 13804. | Rake 0 
+Board [2c Kc Js 9d 4s]
+Seat 1: dfcastro.net folded on the Flop
+Seat 2: susan77ca folded before Flop (didn't bet)
+Seat 3: qw303 (button) folded before Flop (didn't bet)
+Seat 4: marvelcapt (small blind) showed [Qd Ks] and lost with a pair of Kings
+Seat 5: FirstRider11 (big blind) folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 9: Hot69Tamale showed [Th Qc] and won (13909) with a straight, Nine to King
+
+
+
+PokerStars Hand #100300369660: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:20:25 BRT [2013/06/19 22:20:25 ET]
+Table '749571403 3' 9-max Seat #7 is the button
+Seat 1: dfcastro.net (7045 in chips) 
+Seat 2: susan77ca (2765 in chips) 
+Seat 3: qw303 (13570 in chips) 
+Seat 7: jonfokler (6229 in chips) 
+Seat 9: Hot69Tamale (22933 in chips) 
+dfcastro.net: posts the ante 25
+susan77ca: posts the ante 25
+qw303: posts the ante 25
+jonfokler: posts the ante 25
+Hot69Tamale: posts the ante 25
+Hot69Tamale: posts small blind 125
+dfcastro.net: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8c Tc]
+susan77ca: folds 
+qw303: folds 
+jonfokler: folds 
+Hot69Tamale: raises 250 to 500
+dfcastro.net: calls 250
+*** FLOP *** [7h 3d 9h]
+Hot69Tamale: bets 1250
+dfcastro.net: calls 1250
+*** TURN *** [7h 3d 9h] [4c]
+Hot69Tamale: bets 2250
+dfcastro.net: folds 
+Uncalled bet (2250) returned to Hot69Tamale
+Hot69Tamale collected 3625 from pot
+*** SUMMARY ***
+Total pot 3625 | Rake 0 
+Board [7h 3d 9h 4c]
+Seat 1: dfcastro.net (big blind) folded on the Turn
+Seat 2: susan77ca folded before Flop (didn't bet)
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 7: jonfokler (button) folded before Flop (didn't bet)
+Seat 9: Hot69Tamale (small blind) collected (3625)
+
+
+
+PokerStars Hand #100300389482: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:21:18 BRT [2013/06/19 22:21:18 ET]
+Table '749571403 3' 9-max Seat #9 is the button
+Seat 1: dfcastro.net (5270 in chips) 
+Seat 2: susan77ca (2740 in chips) 
+Seat 3: qw303 (13545 in chips) 
+Seat 4: Quintari (4934 in chips) is sitting out
+Seat 7: jonfokler (6204 in chips) 
+Seat 8: pola1717 (2073 in chips) 
+Seat 9: Hot69Tamale (24783 in chips) 
+dfcastro.net: posts the ante 25
+susan77ca: posts the ante 25
+qw303: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+pola1717: posts the ante 25
+Hot69Tamale: posts the ante 25
+dfcastro.net: posts small blind 125
+susan77ca: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7s 4h]
+qw303: folds 
+Quintari: folds 
+jonfokler: folds 
+Quintari is disconnected 
+pola1717: folds 
+Hot69Tamale: raises 250 to 500
+dfcastro.net: folds 
+susan77ca: calls 250
+*** FLOP *** [Kc Qs 4c]
+susan77ca: bets 500
+Hot69Tamale: raises 500 to 1000
+susan77ca: folds 
+Uncalled bet (500) returned to Hot69Tamale
+Hot69Tamale collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | Rake 0 
+Board [Kc Qs 4c]
+Seat 1: dfcastro.net (small blind) folded before Flop
+Seat 2: susan77ca (big blind) folded on the Flop
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: Quintari folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: pola1717 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale (button) collected (2300)
+
+
+
+PokerStars Hand #100300400585: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:21:47 BRT [2013/06/19 22:21:47 ET]
+Table '749571403 3' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (5120 in chips) 
+Seat 2: susan77ca (1715 in chips) 
+Seat 3: qw303 (13520 in chips) 
+Seat 4: Quintari (4909 in chips) is sitting out
+Seat 7: jonfokler (6179 in chips) 
+Seat 8: pola1717 (2048 in chips) 
+Seat 9: Hot69Tamale (26058 in chips) 
+dfcastro.net: posts the ante 25
+susan77ca: posts the ante 25
+qw303: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+pola1717: posts the ante 25
+Hot69Tamale: posts the ante 25
+susan77ca: posts small blind 125
+qw303: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ks 4c]
+Quintari: folds 
+jonfokler: folds 
+pola1717: folds 
+Hot69Tamale: raises 250 to 500
+dfcastro.net: folds 
+susan77ca: folds 
+qw303: folds 
+Uncalled bet (250) returned to Hot69Tamale
+Hot69Tamale collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 2: susan77ca (small blind) folded before Flop
+Seat 3: qw303 (big blind) folded before Flop
+Seat 4: Quintari folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: pola1717 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale collected (800)
+
+
+
+PokerStars Hand #100300410218: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:22:13 BRT [2013/06/19 22:22:13 ET]
+Table '749571403 3' 9-max Seat #2 is the button
+Seat 1: dfcastro.net (5095 in chips) 
+Seat 2: susan77ca (1565 in chips) 
+Seat 3: qw303 (13245 in chips) 
+Seat 4: Quintari (4884 in chips) is sitting out
+Seat 7: jonfokler (6154 in chips) 
+Seat 8: pola1717 (2023 in chips) 
+Seat 9: Hot69Tamale (26583 in chips) 
+dfcastro.net: posts the ante 25
+susan77ca: posts the ante 25
+qw303: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+pola1717: posts the ante 25
+Hot69Tamale: posts the ante 25
+qw303: posts small blind 125
+Quintari: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3s 2d]
+jonfokler: folds 
+pola1717: folds 
+Hot69Tamale: folds 
+dfcastro.net: folds 
+susan77ca: calls 250
+qw303: folds 
+Quintari: folds 
+susan77ca collected 800 from pot
+susan77ca: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca (button) collected (800)
+Seat 3: qw303 (small blind) folded before Flop
+Seat 4: Quintari (big blind) folded before Flop
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: pola1717 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300418007: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:22:34 BRT [2013/06/19 22:22:34 ET]
+Table '749571403 3' 9-max Seat #3 is the button
+Seat 1: dfcastro.net (5070 in chips) 
+Seat 2: susan77ca (2090 in chips) 
+Seat 3: qw303 (13095 in chips) 
+Seat 4: Quintari (4609 in chips) is sitting out
+Seat 7: jonfokler (6129 in chips) 
+Seat 8: pola1717 (1998 in chips) 
+Seat 9: Hot69Tamale (26558 in chips) 
+dfcastro.net: posts the ante 25
+susan77ca: posts the ante 25
+qw303: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+pola1717: posts the ante 25
+Hot69Tamale: posts the ante 25
+Quintari: posts small blind 125
+jonfokler: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5s 2s]
+pola1717: folds 
+Hot69Tamale has timed out while being disconnected
+Hot69Tamale: folds 
+Hot69Tamale is sitting out
+dfcastro.net: folds 
+susan77ca: calls 250
+qw303: folds 
+Quintari: folds 
+Hot69Tamale has returned
+jonfokler: checks 
+*** FLOP *** [8s 2h 6d]
+jonfokler: bets 500
+susan77ca: raises 1315 to 1815 and is all-in
+jonfokler: calls 1315
+*** TURN *** [8s 2h 6d] [6h]
+*** RIVER *** [8s 2h 6d 6h] [9h]
+*** SHOW DOWN ***
+jonfokler: shows [Kh 8c] (two pair, Eights and Sixes)
+susan77ca: shows [8d Ad] (two pair, Eights and Sixes - Ace kicker)
+susan77ca collected 4430 from pot
+*** SUMMARY ***
+Total pot 4430 | Rake 0 
+Board [8s 2h 6d 6h 9h]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca showed [8d Ad] and won (4430) with two pair, Eights and Sixes
+Seat 3: qw303 (button) folded before Flop (didn't bet)
+Seat 4: Quintari (small blind) folded before Flop
+Seat 7: jonfokler (big blind) showed [Kh 8c] and lost with two pair, Eights and Sixes
+Seat 8: pola1717 folded before Flop (didn't bet)
+Seat 9: Hot69Tamale folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300442596: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:23:40 BRT [2013/06/19 22:23:40 ET]
+Table '749571403 3' 9-max Seat #4 is the button
+Seat 1: dfcastro.net (5045 in chips) 
+Seat 2: susan77ca (4430 in chips) 
+Seat 3: qw303 (13070 in chips) 
+Seat 4: Quintari (4459 in chips) is sitting out
+Seat 7: jonfokler (4039 in chips) 
+Seat 8: pola1717 (1973 in chips) 
+Seat 9: Hot69Tamale (26533 in chips) 
+dfcastro.net: posts the ante 25
+susan77ca: posts the ante 25
+qw303: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+pola1717: posts the ante 25
+Hot69Tamale: posts the ante 25
+jonfokler: posts small blind 125
+pola1717: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7h Th]
+Hot69Tamale: calls 250
+dfcastro.net: folds 
+susan77ca: folds 
+qw303: folds 
+Quintari: folds 
+jonfokler: calls 125
+pola1717: checks 
+*** FLOP *** [4c 4s Tc]
+jonfokler: bets 500
+pola1717: folds 
+Hot69Tamale: folds 
+Uncalled bet (500) returned to jonfokler
+jonfokler collected 925 from pot
+jonfokler: doesn't show hand 
+*** SUMMARY ***
+Total pot 925 | Rake 0 
+Board [4c 4s Tc]
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca folded before Flop (didn't bet)
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 4: Quintari (button) folded before Flop (didn't bet)
+Seat 7: jonfokler (small blind) collected (925)
+Seat 8: pola1717 (big blind) folded on the Flop
+Seat 9: Hot69Tamale folded on the Flop
+
+
+
+PokerStars Hand #100300457271: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:24:20 BRT [2013/06/19 22:24:20 ET]
+Table '749571403 3' 9-max Seat #7 is the button
+Seat 1: dfcastro.net (5020 in chips) 
+Seat 2: susan77ca (4405 in chips) 
+Seat 3: qw303 (13045 in chips) 
+Seat 7: jonfokler (4689 in chips) 
+Seat 8: pola1717 (1698 in chips) 
+Seat 9: Hot69Tamale (26258 in chips) 
+dfcastro.net: posts the ante 25
+susan77ca: posts the ante 25
+qw303: posts the ante 25
+jonfokler: posts the ante 25
+pola1717: posts the ante 25
+Hot69Tamale: posts the ante 25
+pola1717: posts small blind 125
+Hot69Tamale: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [9d Jc]
+dfcastro.net: folds 
+susan77ca: calls 250
+qw303: folds 
+jonfokler: raises 4414 to 4664 and is all-in
+pola1717: folds 
+Hot69Tamale: folds 
+susan77ca: folds 
+Uncalled bet (4414) returned to jonfokler
+jonfokler collected 1025 from pot
+*** SUMMARY ***
+Total pot 1025 | Rake 0 
+Seat 1: dfcastro.net folded before Flop (didn't bet)
+Seat 2: susan77ca folded before Flop
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 7: jonfokler (button) collected (1025)
+Seat 8: pola1717 (small blind) folded before Flop
+Seat 9: Hot69Tamale (big blind) folded before Flop
+
+
+
+PokerStars Hand #100300467193: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:24:47 BRT [2013/06/19 22:24:47 ET]
+Table '749571403 3' 9-max Seat #8 is the button
+Seat 1: dfcastro.net (4995 in chips) 
+Seat 2: susan77ca (4130 in chips) 
+Seat 3: qw303 (13020 in chips) 
+Seat 7: jonfokler (5439 in chips) 
+Seat 8: pola1717 (1548 in chips) 
+Seat 9: Hot69Tamale (25983 in chips) 
+dfcastro.net: posts the ante 25
+susan77ca: posts the ante 25
+qw303: posts the ante 25
+jonfokler: posts the ante 25
+pola1717: posts the ante 25
+Hot69Tamale: posts the ante 25
+Hot69Tamale: posts small blind 125
+dfcastro.net: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Js Jd]
+susan77ca: calls 250
+qw303: folds 
+jonfokler: folds 
+pola1717: folds 
+Hot69Tamale: raises 250 to 500
+dfcastro.net: raises 4470 to 4970 and is all-in
+susan77ca: calls 3855 and is all-in
+Hot69Tamale: folds 
+Uncalled bet (865) returned to dfcastro.net
+*** FLOP *** [5d Ks Jh]
+*** TURN *** [5d Ks Jh] [4s]
+*** RIVER *** [5d Ks Jh 4s] [6h]
+*** SHOW DOWN ***
+dfcastro.net: shows [Js Jd] (three of a kind, Jacks)
+susan77ca: shows [Ts Tc] (a pair of Tens)
+dfcastro.net collected 8860 from pot
+*** SUMMARY ***
+Total pot 8860 | Rake 0 
+Board [5d Ks Jh 4s 6h]
+Seat 1: dfcastro.net (big blind) showed [Js Jd] and won (8860) with three of a kind, Jacks
+Seat 2: susan77ca showed [Ts Tc] and lost with a pair of Tens
+Seat 3: qw303 folded before Flop (didn't bet)
+Seat 7: jonfokler folded before Flop (didn't bet)
+Seat 8: pola1717 (button) folded before Flop (didn't bet)
+Seat 9: Hot69Tamale (small blind) folded before Flop
+
+
+
+PokerStars Hand #100300482722: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:25:30 BRT [2013/06/19 22:25:30 ET]
+Table '749571403 7' 9-max Seat #1 is the button
+Seat 1: JPEDRO .A.P (6945 in chips) 
+Seat 2: RedGrenade (8348 in chips) 
+Seat 3: juanzitokid (6715 in chips) 
+Seat 4: Quintari (4384 in chips) is sitting out
+Seat 5: jonfokler (5414 in chips) 
+Seat 6: qw303 (12995 in chips) 
+Seat 7: jessaclov (3137 in chips) 
+Seat 8: dfcastro.net (9725 in chips) 
+Seat 9: d3n!ska (2706 in chips) 
+JPEDRO .A.P: posts the ante 25
+RedGrenade: posts the ante 25
+juanzitokid: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+qw303: posts the ante 25
+jessaclov: posts the ante 25
+dfcastro.net: posts the ante 25
+d3n!ska: posts the ante 25
+RedGrenade: posts small blind 125
+juanzitokid: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8s 8h]
+Quintari: folds 
+jonfokler: folds 
+qw303: folds 
+jessaclov: folds 
+dfcastro.net: raises 300 to 550
+d3n!ska: folds 
+JPEDRO .A.P: folds 
+RedGrenade: calls 425
+juanzitokid: raises 1128 to 1678
+dfcastro.net: calls 1128
+RedGrenade: folds 
+*** FLOP *** [Ah Qc 9s]
+juanzitokid: checks 
+dfcastro.net: checks 
+*** TURN *** [Ah Qc 9s] [As]
+juanzitokid: checks 
+dfcastro.net: checks 
+*** RIVER *** [Ah Qc 9s As] [Qh]
+juanzitokid: checks 
+dfcastro.net: checks 
+*** SHOW DOWN ***
+juanzitokid: shows [Kh Kd] (two pair, Aces and Kings)
+dfcastro.net: mucks hand 
+juanzitokid collected 4131 from pot
+*** SUMMARY ***
+Total pot 4131 | Rake 0 
+Board [Ah Qc 9s As Qh]
+Seat 1: JPEDRO .A.P (button) folded before Flop (didn't bet)
+Seat 2: RedGrenade (small blind) folded before Flop
+Seat 3: juanzitokid (big blind) showed [Kh Kd] and won (4131) with two pair, Aces and Kings
+Seat 4: Quintari folded before Flop (didn't bet)
+Seat 5: jonfokler folded before Flop (didn't bet)
+Seat 6: qw303 folded before Flop (didn't bet)
+Seat 7: jessaclov folded before Flop (didn't bet)
+Seat 8: dfcastro.net mucked [8s 8h]
+Seat 9: d3n!ska folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300509392: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:26:42 BRT [2013/06/19 22:26:42 ET]
+Table '749571403 7' 9-max Seat #2 is the button
+Seat 1: JPEDRO .A.P (6920 in chips) 
+Seat 2: RedGrenade (7773 in chips) 
+Seat 3: juanzitokid (9143 in chips) 
+Seat 4: Quintari (4359 in chips) is sitting out
+Seat 5: jonfokler (5389 in chips) 
+Seat 6: qw303 (12970 in chips) 
+Seat 7: jessaclov (3112 in chips) 
+Seat 8: dfcastro.net (8022 in chips) 
+Seat 9: d3n!ska (2681 in chips) 
+JPEDRO .A.P: posts the ante 25
+RedGrenade: posts the ante 25
+juanzitokid: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+qw303: posts the ante 25
+jessaclov: posts the ante 25
+dfcastro.net: posts the ante 25
+d3n!ska: posts the ante 25
+juanzitokid: posts small blind 125
+Quintari: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kd 4s]
+jonfokler: folds 
+qw303: folds 
+jessaclov: folds 
+dfcastro.net: folds 
+d3n!ska: folds 
+JPEDRO .A.P: folds 
+RedGrenade: folds 
+juanzitokid: calls 125
+Quintari: folds 
+juanzitokid collected 725 from pot
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Seat 1: JPEDRO .A.P folded before Flop (didn't bet)
+Seat 2: RedGrenade (button) folded before Flop (didn't bet)
+Seat 3: juanzitokid (small blind) collected (725)
+Seat 4: Quintari (big blind) folded before Flop
+Seat 5: jonfokler folded before Flop (didn't bet)
+Seat 6: qw303 folded before Flop (didn't bet)
+Seat 7: jessaclov folded before Flop (didn't bet)
+Seat 8: dfcastro.net folded before Flop (didn't bet)
+Seat 9: d3n!ska folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300518981: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:27:09 BRT [2013/06/19 22:27:09 ET]
+Table '749571403 7' 9-max Seat #3 is the button
+Seat 1: JPEDRO .A.P (6895 in chips) 
+Seat 2: RedGrenade (7748 in chips) 
+Seat 3: juanzitokid (9593 in chips) 
+Seat 4: Quintari (4084 in chips) is sitting out
+Seat 5: jonfokler (5364 in chips) 
+Seat 6: qw303 (12945 in chips) 
+Seat 7: jessaclov (3087 in chips) 
+Seat 8: dfcastro.net (7997 in chips) 
+Seat 9: d3n!ska (2656 in chips) 
+JPEDRO .A.P: posts the ante 25
+RedGrenade: posts the ante 25
+juanzitokid: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+qw303: posts the ante 25
+jessaclov: posts the ante 25
+dfcastro.net: posts the ante 25
+d3n!ska: posts the ante 25
+Quintari: posts small blind 125
+jonfokler: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2s Qs]
+qw303: folds 
+jessaclov: folds 
+dfcastro.net: folds 
+d3n!ska: raises 2381 to 2631 and is all-in
+JPEDRO .A.P: folds 
+RedGrenade: folds 
+juanzitokid: folds 
+Quintari: folds 
+jonfokler: folds 
+Uncalled bet (2381) returned to d3n!ska
+d3n!ska collected 850 from pot
+d3n!ska: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: JPEDRO .A.P folded before Flop (didn't bet)
+Seat 2: RedGrenade folded before Flop (didn't bet)
+Seat 3: juanzitokid (button) folded before Flop (didn't bet)
+Seat 4: Quintari (small blind) folded before Flop
+Seat 5: jonfokler (big blind) folded before Flop
+Seat 6: qw303 folded before Flop (didn't bet)
+Seat 7: jessaclov folded before Flop (didn't bet)
+Seat 8: dfcastro.net folded before Flop (didn't bet)
+Seat 9: d3n!ska collected (850)
+
+
+
+PokerStars Hand #100300529032: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:27:36 BRT [2013/06/19 22:27:36 ET]
+Table '749571403 7' 9-max Seat #4 is the button
+Seat 1: JPEDRO .A.P (6870 in chips) 
+Seat 2: RedGrenade (7723 in chips) 
+Seat 3: juanzitokid (9568 in chips) 
+Seat 4: Quintari (3934 in chips) is sitting out
+Seat 5: jonfokler (5089 in chips) 
+Seat 6: qw303 (12920 in chips) 
+Seat 7: jessaclov (3062 in chips) 
+Seat 8: dfcastro.net (7972 in chips) 
+Seat 9: d3n!ska (3231 in chips) 
+JPEDRO .A.P: posts the ante 25
+RedGrenade: posts the ante 25
+juanzitokid: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+qw303: posts the ante 25
+jessaclov: posts the ante 25
+dfcastro.net: posts the ante 25
+d3n!ska: posts the ante 25
+jonfokler: posts small blind 125
+qw303: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5s 8d]
+jessaclov: calls 250
+dfcastro.net: folds 
+d3n!ska: folds 
+JPEDRO .A.P: folds 
+RedGrenade: folds 
+juanzitokid: folds 
+Quintari: folds 
+jonfokler: calls 125
+qw303: checks 
+*** FLOP *** [2d 6c 4d]
+jonfokler: checks 
+qw303: checks 
+jessaclov: checks 
+*** TURN *** [2d 6c 4d] [3h]
+jonfokler: checks 
+qw303: checks 
+jessaclov: checks 
+*** RIVER *** [2d 6c 4d 3h] [Jh]
+jonfokler: bets 500
+qw303: folds 
+jessaclov: raises 500 to 1000
+jonfokler: folds 
+Uncalled bet (500) returned to jessaclov
+jessaclov collected 1975 from pot
+*** SUMMARY ***
+Total pot 1975 | Rake 0 
+Board [2d 6c 4d 3h Jh]
+Seat 1: JPEDRO .A.P folded before Flop (didn't bet)
+Seat 2: RedGrenade folded before Flop (didn't bet)
+Seat 3: juanzitokid folded before Flop (didn't bet)
+Seat 4: Quintari (button) folded before Flop (didn't bet)
+Seat 5: jonfokler (small blind) folded on the River
+Seat 6: qw303 (big blind) folded on the River
+Seat 7: jessaclov collected (1975)
+Seat 8: dfcastro.net folded before Flop (didn't bet)
+Seat 9: d3n!ska folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300553663: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:28:45 BRT [2013/06/19 22:28:45 ET]
+Table '749571403 7' 9-max Seat #5 is the button
+Seat 1: JPEDRO .A.P (6845 in chips) 
+Seat 2: RedGrenade (7698 in chips) 
+Seat 3: juanzitokid (9543 in chips) 
+Seat 4: Quintari (3909 in chips) is sitting out
+Seat 5: jonfokler (4314 in chips) 
+Seat 6: qw303 (12645 in chips) 
+Seat 7: jessaclov (4262 in chips) 
+Seat 8: dfcastro.net (7947 in chips) 
+Seat 9: d3n!ska (3206 in chips) 
+JPEDRO .A.P: posts the ante 25
+RedGrenade: posts the ante 25
+juanzitokid: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+qw303: posts the ante 25
+jessaclov: posts the ante 25
+dfcastro.net: posts the ante 25
+d3n!ska: posts the ante 25
+qw303: posts small blind 125
+jessaclov: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7s Jd]
+dfcastro.net: folds 
+d3n!ska: folds 
+JPEDRO .A.P: folds 
+RedGrenade: folds 
+juanzitokid: folds 
+Quintari: folds 
+jonfokler: folds 
+qw303: folds 
+Uncalled bet (125) returned to jessaclov
+jessaclov collected 475 from pot
+*** SUMMARY ***
+Total pot 475 | Rake 0 
+Seat 1: JPEDRO .A.P folded before Flop (didn't bet)
+Seat 2: RedGrenade folded before Flop (didn't bet)
+Seat 3: juanzitokid folded before Flop (didn't bet)
+Seat 4: Quintari folded before Flop (didn't bet)
+Seat 5: jonfokler (button) folded before Flop (didn't bet)
+Seat 6: qw303 (small blind) folded before Flop
+Seat 7: jessaclov (big blind) collected (475)
+Seat 8: dfcastro.net folded before Flop (didn't bet)
+Seat 9: d3n!ska folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300561333: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:29:06 BRT [2013/06/19 22:29:06 ET]
+Table '749571403 7' 9-max Seat #6 is the button
+Seat 1: JPEDRO .A.P (6820 in chips) 
+Seat 2: RedGrenade (7673 in chips) 
+Seat 3: juanzitokid (9518 in chips) 
+Seat 4: Quintari (3884 in chips) is sitting out
+Seat 5: jonfokler (4289 in chips) 
+Seat 6: qw303 (12495 in chips) 
+Seat 7: jessaclov (4587 in chips) 
+Seat 8: dfcastro.net (7922 in chips) 
+Seat 9: d3n!ska (3181 in chips) 
+JPEDRO .A.P: posts the ante 25
+RedGrenade: posts the ante 25
+juanzitokid: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+qw303: posts the ante 25
+jessaclov: posts the ante 25
+dfcastro.net: posts the ante 25
+d3n!ska: posts the ante 25
+jessaclov: posts small blind 125
+dfcastro.net: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6s 2h]
+d3n!ska: folds 
+JPEDRO .A.P: folds 
+RedGrenade: folds 
+juanzitokid: folds 
+Quintari: folds 
+jonfokler: calls 250
+qw303: folds 
+jessaclov: calls 125
+dfcastro.net: checks 
+*** FLOP *** [Ts Jh Qh]
+jessaclov: bets 250
+dfcastro.net: folds 
+jonfokler: folds 
+Uncalled bet (250) returned to jessaclov
+jessaclov collected 975 from pot
+*** SUMMARY ***
+Total pot 975 | Rake 0 
+Board [Ts Jh Qh]
+Seat 1: JPEDRO .A.P folded before Flop (didn't bet)
+Seat 2: RedGrenade folded before Flop (didn't bet)
+Seat 3: juanzitokid folded before Flop (didn't bet)
+Seat 4: Quintari folded before Flop (didn't bet)
+Seat 5: jonfokler folded on the Flop
+Seat 6: qw303 (button) folded before Flop (didn't bet)
+Seat 7: jessaclov (small blind) collected (975)
+Seat 8: dfcastro.net (big blind) folded on the Flop
+Seat 9: d3n!ska folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300574044: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VII (125/250) - 2013/06/19 23:29:42 BRT [2013/06/19 22:29:42 ET]
+Table '749571403 7' 9-max Seat #7 is the button
+Seat 1: JPEDRO .A.P (6795 in chips) 
+Seat 2: RedGrenade (7648 in chips) 
+Seat 3: juanzitokid (9493 in chips) 
+Seat 4: Quintari (3859 in chips) is sitting out
+Seat 5: jonfokler (4014 in chips) 
+Seat 6: qw303 (12470 in chips) 
+Seat 7: jessaclov (5287 in chips) 
+Seat 8: dfcastro.net (7647 in chips) 
+Seat 9: d3n!ska (3156 in chips) 
+JPEDRO .A.P: posts the ante 25
+RedGrenade: posts the ante 25
+juanzitokid: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+qw303: posts the ante 25
+jessaclov: posts the ante 25
+dfcastro.net: posts the ante 25
+d3n!ska: posts the ante 25
+dfcastro.net: posts small blind 125
+d3n!ska: posts big blind 250
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ad As]
+JPEDRO .A.P: folds 
+RedGrenade: folds 
+juanzitokid: folds 
+Quintari: folds 
+jonfokler: folds 
+qw303: folds 
+jessaclov: calls 250
+dfcastro.net: calls 125
+d3n!ska: checks 
+*** FLOP *** [3s 9c 6d]
+dfcastro.net: checks 
+d3n!ska: bets 643
+jessaclov: raises 643 to 1286
+dfcastro.net: raises 6086 to 7372 and is all-in
+d3n!ska: folds 
+jessaclov: calls 3726 and is all-in
+Uncalled bet (2360) returned to dfcastro.net
+*** TURN *** [3s 9c 6d] [2s]
+*** RIVER *** [3s 9c 6d 2s] [Qd]
+*** SHOW DOWN ***
+dfcastro.net: shows [Ad As] (a pair of Aces)
+jessaclov: shows [3c 3h] (three of a kind, Threes)
+jessaclov collected 11642 from pot
+*** SUMMARY ***
+Total pot 11642 | Rake 0 
+Board [3s 9c 6d 2s Qd]
+Seat 1: JPEDRO .A.P folded before Flop (didn't bet)
+Seat 2: RedGrenade folded before Flop (didn't bet)
+Seat 3: juanzitokid folded before Flop (didn't bet)
+Seat 4: Quintari folded before Flop (didn't bet)
+Seat 5: jonfokler folded before Flop (didn't bet)
+Seat 6: qw303 folded before Flop (didn't bet)
+Seat 7: jessaclov (button) showed [3c 3h] and won (11642) with three of a kind, Threes
+Seat 8: dfcastro.net (small blind) showed [Ad As] and lost with a pair of Aces
+Seat 9: d3n!ska (big blind) folded on the Flop
+
+
+
+PokerStars Hand #100300596558: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/19 23:30:44 BRT [2013/06/19 22:30:44 ET]
+Table '749571403 7' 9-max Seat #8 is the button
+Seat 1: JPEDRO .A.P (6770 in chips) 
+Seat 2: RedGrenade (7623 in chips) 
+Seat 3: juanzitokid (9468 in chips) 
+Seat 4: Quintari (3834 in chips) is sitting out
+Seat 5: jonfokler (3989 in chips) 
+Seat 6: qw303 (12445 in chips) 
+Seat 7: jessaclov (11642 in chips) 
+Seat 8: dfcastro.net (2360 in chips) 
+Seat 9: d3n!ska (2238 in chips) 
+JPEDRO .A.P: posts the ante 25
+RedGrenade: posts the ante 25
+juanzitokid: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+qw303: posts the ante 25
+jessaclov: posts the ante 25
+dfcastro.net: posts the ante 25
+d3n!ska: posts the ante 25
+d3n!ska: posts small blind 150
+JPEDRO .A.P: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qh 6s]
+RedGrenade: folds 
+juanzitokid: folds 
+Quintari: folds 
+jonfokler: calls 300
+qw303: folds 
+jessaclov: calls 300
+dfcastro.net: calls 300
+d3n!ska: folds 
+JPEDRO .A.P: checks 
+*** FLOP *** [2s Js 5d]
+JPEDRO .A.P: checks 
+jonfokler: checks 
+jessaclov: bets 300
+dfcastro.net: folds 
+JPEDRO .A.P: folds 
+jonfokler: folds 
+Uncalled bet (300) returned to jessaclov
+jessaclov collected 1575 from pot
+*** SUMMARY ***
+Total pot 1575 | Rake 0 
+Board [2s Js 5d]
+Seat 1: JPEDRO .A.P (big blind) folded on the Flop
+Seat 2: RedGrenade folded before Flop (didn't bet)
+Seat 3: juanzitokid folded before Flop (didn't bet)
+Seat 4: Quintari folded before Flop (didn't bet)
+Seat 5: jonfokler folded on the Flop
+Seat 6: qw303 folded before Flop (didn't bet)
+Seat 7: jessaclov collected (1575)
+Seat 8: dfcastro.net (button) folded on the Flop
+Seat 9: d3n!ska (small blind) folded before Flop
+
+
+
+PokerStars Hand #100300612037: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/19 23:31:28 BRT [2013/06/19 22:31:28 ET]
+Table '749571403 7' 9-max Seat #9 is the button
+Seat 1: JPEDRO .A.P (6445 in chips) 
+Seat 2: RedGrenade (7598 in chips) 
+Seat 3: juanzitokid (9443 in chips) 
+Seat 4: Quintari (3809 in chips) is sitting out
+Seat 5: jonfokler (3664 in chips) 
+Seat 6: qw303 (12420 in chips) 
+Seat 7: jessaclov (12892 in chips) 
+Seat 8: dfcastro.net (2035 in chips) 
+Seat 9: d3n!ska (2063 in chips) 
+JPEDRO .A.P: posts the ante 25
+RedGrenade: posts the ante 25
+juanzitokid: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+qw303: posts the ante 25
+jessaclov: posts the ante 25
+dfcastro.net: posts the ante 25
+d3n!ska: posts the ante 25
+JPEDRO .A.P: posts small blind 150
+RedGrenade: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8s 9s]
+juanzitokid: folds 
+Quintari: folds 
+jonfokler: folds 
+qw303: calls 300
+jessaclov: folds 
+dfcastro.net: folds 
+d3n!ska: folds 
+JPEDRO .A.P: calls 150
+RedGrenade: checks 
+*** FLOP *** [7s 8d Ac]
+JPEDRO .A.P: checks 
+RedGrenade: checks 
+qw303: bets 300
+JPEDRO .A.P: folds 
+RedGrenade: calls 300
+*** TURN *** [7s 8d Ac] [Kh]
+RedGrenade: checks 
+qw303: checks 
+*** RIVER *** [7s 8d Ac Kh] [5d]
+RedGrenade: checks 
+qw303: checks 
+*** SHOW DOWN ***
+RedGrenade: shows [5c 4h] (a pair of Fives)
+qw303: mucks hand 
+RedGrenade collected 1725 from pot
+*** SUMMARY ***
+Total pot 1725 | Rake 0 
+Board [7s 8d Ac Kh 5d]
+Seat 1: JPEDRO .A.P (small blind) folded on the Flop
+Seat 2: RedGrenade (big blind) showed [5c 4h] and won (1725) with a pair of Fives
+Seat 3: juanzitokid folded before Flop (didn't bet)
+Seat 4: Quintari folded before Flop (didn't bet)
+Seat 5: jonfokler folded before Flop (didn't bet)
+Seat 6: qw303 mucked [2d 2h]
+Seat 7: jessaclov folded before Flop (didn't bet)
+Seat 8: dfcastro.net folded before Flop (didn't bet)
+Seat 9: d3n!ska (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300636379: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/19 23:32:36 BRT [2013/06/19 22:32:36 ET]
+Table '749571403 7' 9-max Seat #1 is the button
+Seat 1: JPEDRO .A.P (6120 in chips) 
+Seat 2: RedGrenade (8698 in chips) 
+Seat 3: juanzitokid (9418 in chips) 
+Seat 4: Quintari (3784 in chips) is sitting out
+Seat 5: jonfokler (3639 in chips) 
+Seat 6: qw303 (11795 in chips) 
+Seat 7: jessaclov (12867 in chips) 
+Seat 8: dfcastro.net (2010 in chips) 
+Seat 9: d3n!ska (2038 in chips) 
+JPEDRO .A.P: posts the ante 25
+RedGrenade: posts the ante 25
+juanzitokid: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+qw303: posts the ante 25
+jessaclov: posts the ante 25
+dfcastro.net: posts the ante 25
+d3n!ska: posts the ante 25
+RedGrenade: posts small blind 150
+juanzitokid: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4h Kc]
+Quintari: folds 
+jonfokler: folds 
+qw303: folds 
+jessaclov: calls 300
+dfcastro.net: folds 
+d3n!ska: folds 
+JPEDRO .A.P: raises 300 to 600
+RedGrenade: folds 
+juanzitokid: folds 
+jessaclov: calls 300
+*** FLOP *** [8c Ad 7c]
+jessaclov: bets 300
+JPEDRO .A.P: raises 300 to 600
+jessaclov: calls 300
+*** TURN *** [8c Ad 7c] [Kd]
+jessaclov: checks 
+JPEDRO .A.P: checks 
+*** RIVER *** [8c Ad 7c Kd] [3d]
+jessaclov: bets 300
+JPEDRO .A.P: calls 300
+*** SHOW DOWN ***
+jessaclov: shows [Qs Ac] (a pair of Aces)
+JPEDRO .A.P: mucks hand 
+jessaclov collected 3675 from pot
+*** SUMMARY ***
+Total pot 3675 | Rake 0 
+Board [8c Ad 7c Kd 3d]
+Seat 1: JPEDRO .A.P (button) mucked [Js Ks]
+Seat 2: RedGrenade (small blind) folded before Flop
+Seat 3: juanzitokid (big blind) folded before Flop
+Seat 4: Quintari folded before Flop (didn't bet)
+Seat 5: jonfokler folded before Flop (didn't bet)
+Seat 6: qw303 folded before Flop (didn't bet)
+Seat 7: jessaclov showed [Qs Ac] and won (3675) with a pair of Aces
+Seat 8: dfcastro.net folded before Flop (didn't bet)
+Seat 9: d3n!ska folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300669230: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/19 23:34:08 BRT [2013/06/19 22:34:08 ET]
+Table '749571403 7' 9-max Seat #2 is the button
+Seat 1: JPEDRO .A.P (4595 in chips) 
+Seat 2: RedGrenade (8523 in chips) 
+Seat 3: juanzitokid (9093 in chips) 
+Seat 4: Quintari (3759 in chips) is sitting out
+Seat 5: jonfokler (3614 in chips) 
+Seat 6: qw303 (11770 in chips) 
+Seat 7: jessaclov (15017 in chips) 
+Seat 8: dfcastro.net (1985 in chips) 
+Seat 9: d3n!ska (2013 in chips) 
+JPEDRO .A.P: posts the ante 25
+RedGrenade: posts the ante 25
+juanzitokid: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+qw303: posts the ante 25
+jessaclov: posts the ante 25
+dfcastro.net: posts the ante 25
+d3n!ska: posts the ante 25
+juanzitokid: posts small blind 150
+Quintari: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3c 9c]
+jonfokler: folds 
+qw303: folds 
+jessaclov: calls 300
+dfcastro.net: folds 
+d3n!ska: folds 
+JPEDRO .A.P: folds 
+RedGrenade: calls 300
+juanzitokid: calls 150
+Quintari: folds 
+*** FLOP *** [9d Ac Kd]
+juanzitokid: bets 300
+jessaclov: calls 300
+RedGrenade: calls 300
+*** TURN *** [9d Ac Kd] [Ad]
+juanzitokid: checks 
+jessaclov: bets 300
+RedGrenade: calls 300
+juanzitokid: calls 300
+*** RIVER *** [9d Ac Kd Ad] [Td]
+juanzitokid: bets 600
+jessaclov: folds 
+RedGrenade: folds 
+Uncalled bet (600) returned to juanzitokid
+juanzitokid collected 3225 from pot
+juanzitokid: shows [Jd]
+*** SUMMARY ***
+Total pot 3225 | Rake 0 
+Board [9d Ac Kd Ad Td]
+Seat 1: JPEDRO .A.P folded before Flop (didn't bet)
+Seat 2: RedGrenade (button) folded on the River
+Seat 3: juanzitokid (small blind) collected (3225)
+Seat 4: Quintari (big blind) folded before Flop
+Seat 5: jonfokler folded before Flop (didn't bet)
+Seat 6: qw303 folded before Flop (didn't bet)
+Seat 7: jessaclov folded on the River
+Seat 8: dfcastro.net folded before Flop (didn't bet)
+Seat 9: d3n!ska folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300697324: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/19 23:35:28 BRT [2013/06/19 22:35:28 ET]
+Table '749571403 7' 9-max Seat #3 is the button
+Seat 1: JPEDRO .A.P (4570 in chips) 
+Seat 2: RedGrenade (7598 in chips) 
+Seat 3: juanzitokid (11393 in chips) 
+Seat 4: Quintari (3434 in chips) is sitting out
+Seat 5: jonfokler (3589 in chips) 
+Seat 6: qw303 (11745 in chips) 
+Seat 7: jessaclov (14092 in chips) 
+Seat 8: dfcastro.net (1960 in chips) 
+Seat 9: d3n!ska (1988 in chips) 
+JPEDRO .A.P: posts the ante 25
+RedGrenade: posts the ante 25
+juanzitokid: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+qw303: posts the ante 25
+jessaclov: posts the ante 25
+dfcastro.net: posts the ante 25
+d3n!ska: posts the ante 25
+Quintari: posts small blind 150
+jonfokler: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6h 3h]
+qw303: calls 300
+jessaclov: calls 300
+dfcastro.net: folds 
+d3n!ska: folds 
+JPEDRO .A.P: folds 
+RedGrenade: calls 300
+juanzitokid: folds 
+Quintari: folds 
+jonfokler: checks 
+*** FLOP *** [Th Td 3d]
+jonfokler: checks 
+qw303: checks 
+jessaclov: bets 300
+RedGrenade: calls 300
+jonfokler: calls 300
+qw303: folds 
+*** TURN *** [Th Td 3d] [7h]
+jonfokler: bets 2964 and is all-in
+jessaclov has timed out
+jessaclov: folds 
+jessaclov is sitting out
+RedGrenade: folds 
+Uncalled bet (2964) returned to jonfokler
+jonfokler collected 2475 from pot
+jessaclov has returned
+jonfokler: doesn't show hand 
+*** SUMMARY ***
+Total pot 2475 | Rake 0 
+Board [Th Td 3d 7h]
+Seat 1: JPEDRO .A.P folded before Flop (didn't bet)
+Seat 2: RedGrenade folded on the Turn
+Seat 3: juanzitokid (button) folded before Flop (didn't bet)
+Seat 4: Quintari (small blind) folded before Flop
+Seat 5: jonfokler (big blind) collected (2475)
+Seat 6: qw303 folded on the Flop
+Seat 7: jessaclov folded on the Turn
+Seat 8: dfcastro.net folded before Flop (didn't bet)
+Seat 9: d3n!ska folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300726166: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/19 23:36:49 BRT [2013/06/19 22:36:49 ET]
+Table '749571403 7' 9-max Seat #4 is the button
+Seat 1: JPEDRO .A.P (4545 in chips) 
+Seat 2: RedGrenade (6973 in chips) 
+Seat 3: juanzitokid (11368 in chips) 
+Seat 4: Quintari (3259 in chips) is sitting out
+Seat 5: jonfokler (5439 in chips) 
+Seat 6: qw303 (11420 in chips) 
+Seat 7: jessaclov (13467 in chips) 
+Seat 8: dfcastro.net (1935 in chips) 
+Seat 9: d3n!ska (1963 in chips) 
+JPEDRO .A.P: posts the ante 25
+RedGrenade: posts the ante 25
+juanzitokid: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+qw303: posts the ante 25
+jessaclov: posts the ante 25
+dfcastro.net: posts the ante 25
+d3n!ska: posts the ante 25
+jonfokler: posts small blind 150
+qw303: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4c Td]
+jessaclov: calls 300
+dfcastro.net: folds 
+d3n!ska: folds 
+JPEDRO .A.P: folds 
+RedGrenade: calls 300
+juanzitokid: folds 
+Quintari: folds 
+jonfokler: folds 
+qw303: checks 
+*** FLOP *** [4s 6d 8c]
+qw303: checks 
+jessaclov: checks 
+RedGrenade: bets 600
+qw303: folds 
+jessaclov: folds 
+Uncalled bet (600) returned to RedGrenade
+RedGrenade collected 1275 from pot
+RedGrenade: doesn't show hand 
+*** SUMMARY ***
+Total pot 1275 | Rake 0 
+Board [4s 6d 8c]
+Seat 1: JPEDRO .A.P folded before Flop (didn't bet)
+Seat 2: RedGrenade collected (1275)
+Seat 3: juanzitokid folded before Flop (didn't bet)
+Seat 4: Quintari (button) folded before Flop (didn't bet)
+Seat 5: jonfokler (small blind) folded before Flop
+Seat 6: qw303 (big blind) folded on the Flop
+Seat 7: jessaclov folded on the Flop
+Seat 8: dfcastro.net folded before Flop (didn't bet)
+Seat 9: d3n!ska folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300743207: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/19 23:37:37 BRT [2013/06/19 22:37:37 ET]
+Table '749571403 7' 9-max Seat #5 is the button
+Seat 1: JPEDRO .A.P (4520 in chips) 
+Seat 2: RedGrenade (7923 in chips) 
+Seat 3: juanzitokid (11343 in chips) 
+Seat 4: Quintari (3234 in chips) is sitting out
+Seat 5: jonfokler (5264 in chips) 
+Seat 6: qw303 (11095 in chips) 
+Seat 7: jessaclov (13142 in chips) 
+Seat 8: dfcastro.net (1910 in chips) 
+Seat 9: d3n!ska (1938 in chips) 
+JPEDRO .A.P: posts the ante 25
+RedGrenade: posts the ante 25
+juanzitokid: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+qw303: posts the ante 25
+jessaclov: posts the ante 25
+dfcastro.net: posts the ante 25
+d3n!ska: posts the ante 25
+qw303: posts small blind 150
+jessaclov: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qh Tc]
+dfcastro.net: raises 1585 to 1885 and is all-in
+d3n!ska: folds 
+JPEDRO .A.P: folds 
+RedGrenade: folds 
+juanzitokid: folds 
+Quintari: folds 
+jonfokler: folds 
+qw303: folds 
+jessaclov: folds 
+Uncalled bet (1585) returned to dfcastro.net
+dfcastro.net collected 975 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 975 | Rake 0 
+Seat 1: JPEDRO .A.P folded before Flop (didn't bet)
+Seat 2: RedGrenade folded before Flop (didn't bet)
+Seat 3: juanzitokid folded before Flop (didn't bet)
+Seat 4: Quintari folded before Flop (didn't bet)
+Seat 5: jonfokler (button) folded before Flop (didn't bet)
+Seat 6: qw303 (small blind) folded before Flop
+Seat 7: jessaclov (big blind) folded before Flop
+Seat 8: dfcastro.net collected (975)
+Seat 9: d3n!ska folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100300753324: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/19 23:38:06 BRT [2013/06/19 22:38:06 ET]
+Table '749571403 7' 9-max Seat #6 is the button
+Seat 1: JPEDRO .A.P (4495 in chips) 
+Seat 2: RedGrenade (7898 in chips) 
+Seat 3: juanzitokid (11318 in chips) 
+Seat 4: Quintari (3209 in chips) is sitting out
+Seat 5: jonfokler (5239 in chips) 
+Seat 6: qw303 (10920 in chips) 
+Seat 7: jessaclov (12817 in chips) 
+Seat 8: dfcastro.net (2560 in chips) 
+Seat 9: d3n!ska (1913 in chips) 
+JPEDRO .A.P: posts the ante 25
+RedGrenade: posts the ante 25
+juanzitokid: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+qw303: posts the ante 25
+jessaclov: posts the ante 25
+dfcastro.net: posts the ante 25
+d3n!ska: posts the ante 25
+jessaclov: posts small blind 150
+dfcastro.net: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2d 8c]
+d3n!ska: raises 1588 to 1888 and is all-in
+JPEDRO .A.P: folds 
+RedGrenade: folds 
+juanzitokid: folds 
+Quintari: folds 
+jonfokler: folds 
+qw303: calls 1888
+jessaclov: folds 
+dfcastro.net: folds 
+*** FLOP *** [6h 5h 3s]
+*** TURN *** [6h 5h 3s] [8d]
+*** RIVER *** [6h 5h 3s 8d] [7h]
+*** SHOW DOWN ***
+d3n!ska: shows [As 8h] (a pair of Eights)
+qw303: shows [Jc Jd] (a pair of Jacks)
+qw303 collected 4451 from pot
+qw303 wins the $0.27 bounty for eliminating d3n!ska
+d3n!ska finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 4451 | Rake 0 
+Board [6h 5h 3s 8d 7h]
+Seat 1: JPEDRO .A.P folded before Flop (didn't bet)
+Seat 2: RedGrenade folded before Flop (didn't bet)
+Seat 3: juanzitokid folded before Flop (didn't bet)
+Seat 4: Quintari folded before Flop (didn't bet)
+Seat 5: jonfokler folded before Flop (didn't bet)
+Seat 6: qw303 (button) showed [Jc Jd] and won (4451) with a pair of Jacks
+Seat 7: jessaclov (small blind) folded before Flop
+Seat 8: dfcastro.net (big blind) folded before Flop
+Seat 9: d3n!ska showed [As 8h] and lost with a pair of Eights
+
+
+
+PokerStars Hand #100300766685: Tournament #749571403, $1.08+$0.27+$0.15 USD Hold'em No Limit - Level VIII (150/300) - 2013/06/19 23:38:45 BRT [2013/06/19 22:38:45 ET]
+Table '749571403 7' 9-max Seat #7 is the button
+Seat 1: JPEDRO .A.P (4470 in chips) 
+Seat 2: RedGrenade (7873 in chips) 
+Seat 3: juanzitokid (11293 in chips) 
+Seat 4: Quintari (3184 in chips) is sitting out
+Seat 5: jonfokler (5214 in chips) 
+Seat 6: qw303 (13458 in chips) 
+Seat 7: jessaclov (12642 in chips) 
+Seat 8: dfcastro.net (2235 in chips) 
+JPEDRO .A.P: posts the ante 25
+RedGrenade: posts the ante 25
+juanzitokid: posts the ante 25
+Quintari: posts the ante 25
+jonfokler: posts the ante 25
+qw303: posts the ante 25
+jessaclov: posts the ante 25
+dfcastro.net: posts the ante 25
+dfcastro.net: posts small blind 150
+JPEDRO .A.P: posts big blind 300
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3c 3h]
+jessaclov is disconnected 
+RedGrenade: folds 
+juanzitokid: folds 
+Quintari: folds 
+jonfokler: folds 
+qw303: folds 
+jessaclov: calls 300
+dfcastro.net: calls 150
+JPEDRO .A.P: raises 600 to 900
+jessaclov: calls 600
+dfcastro.net: raises 1310 to 2210 and is all-in
+JPEDRO .A.P: calls 1310
+jessaclov: folds 
+*** FLOP *** [2d 4d Ac]
+*** TURN *** [2d 4d Ac] [Th]
+*** RIVER *** [2d 4d Ac Th] [6h]
+*** SHOW DOWN ***
+dfcastro.net: shows [3c 3h] (a pair of Threes)
+JPEDRO .A.P: shows [Td Tc] (three of a kind, Tens)
+JPEDRO .A.P collected 5520 from pot
+JPEDRO .A.P wins the $0.27 bounty for eliminating dfcastro.net
+dfcastro.net finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 5520 | Rake 0 
+Board [2d 4d Ac Th 6h]
+Seat 1: JPEDRO .A.P (big blind) showed [Td Tc] and won (5520) with three of a kind, Tens
+Seat 2: RedGrenade folded before Flop (didn't bet)
+Seat 3: juanzitokid folded before Flop (didn't bet)
+Seat 4: Quintari folded before Flop (didn't bet)
+Seat 5: jonfokler folded before Flop (didn't bet)
+Seat 6: qw303 folded before Flop (didn't bet)
+Seat 7: jessaclov (button) folded before Flop
+Seat 8: dfcastro.net (small blind) showed [3c 3h] and lost with a pair of Threes
+
+
+

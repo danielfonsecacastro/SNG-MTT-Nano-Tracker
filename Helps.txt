@@ -1,0 +1,9 @@
+https://www.microsoft.com/pt-br/download/details.aspx?id=30653
+http://msdn.microsoft.com/en-us/library/aa983326.aspx
+
+
+
+http://www.codeproject.com/Articles/180807/Using-the-Microsoft-Desktop-Stack-Part-2-Using-Ent
+
+Deploy Sql Server CE
+http://www.ttkalec.com/blog/deploying-net-apps-that-use-ef-and-sql-ce-4-0/

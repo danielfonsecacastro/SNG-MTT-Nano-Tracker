@@ -1,0 +1,3223 @@
+﻿PokerStars Hand #100739105360: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2013/06/29 15:36:44 BRT [2013/06/29 14:36:44 ET]
+Table '754035897 5' 9-max Seat #1 is the button
+Seat 1: 44HighBa$3L (1500 in chips) 
+Seat 2: chimano365 (1500 in chips) 
+Seat 3: IKirya (1500 in chips) 
+Seat 4: SanB4 (1500 in chips) 
+Seat 5: Coulant (1500 in chips) 
+Seat 6: gaffel1905 (1500 in chips) 
+Seat 7: dfcastro.net (1500 in chips) 
+Seat 8: Kras87 (1500 in chips) 
+Seat 9: vasya268 (1500 in chips) 
+chimano365: posts small blind 10
+IKirya: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [As Kc]
+SanB4: calls 20
+Coulant: folds 
+gaffel1905: calls 20
+dfcastro.net: raises 70 to 90
+Kras87: folds 
+vasya268 has timed out
+vasya268: folds 
+vasya268 is sitting out
+44HighBa$3L: calls 90
+chimano365: calls 80
+IKirya: raises 1410 to 1500 and is all-in
+SanB4: folds 
+gaffel1905: folds 
+dfcastro.net: calls 1410 and is all-in
+44HighBa$3L: folds 
+chimano365: folds 
+vasya268 has returned
+*** FLOP *** [Kh 6s Qh]
+*** TURN *** [Kh 6s Qh] [5h]
+*** RIVER *** [Kh 6s Qh 5h] [2s]
+*** SHOW DOWN ***
+IKirya: shows [Js Jc] (a pair of Jacks)
+dfcastro.net: shows [As Kc] (a pair of Kings)
+dfcastro.net collected 3220 from pot
+IKirya finished the tournament in 85th place
+*** SUMMARY ***
+Total pot 3220 | Rake 0 
+Board [Kh 6s Qh 5h 2s]
+Seat 1: 44HighBa$3L (button) folded before Flop
+Seat 2: chimano365 (small blind) folded before Flop
+Seat 3: IKirya (big blind) showed [Js Jc] and lost with a pair of Jacks
+Seat 4: SanB4 folded before Flop
+Seat 5: Coulant folded before Flop (didn't bet)
+Seat 6: gaffel1905 folded before Flop
+Seat 7: dfcastro.net showed [As Kc] and won (3220) with a pair of Kings
+Seat 8: Kras87 folded before Flop (didn't bet)
+Seat 9: vasya268 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100739183094: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2013/06/29 15:38:22 BRT [2013/06/29 14:38:22 ET]
+Table '754035897 5' 9-max Seat #2 is the button
+Seat 1: 44HighBa$3L (1410 in chips) 
+Seat 2: chimano365 (1410 in chips) 
+Seat 3: pivmaj (1590 in chips) out of hand (moved from another table into small blind)
+Seat 5: Coulant (1500 in chips) 
+Seat 6: gaffel1905 (1480 in chips) 
+Seat 7: dfcastro.net (3220 in chips) 
+Seat 8: Kras87 (1500 in chips) 
+Seat 9: vasya268 (1500 in chips) 
+Coulant: posts small blind 10
+gaffel1905: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3d 2h]
+dfcastro.net: folds 
+Kras87: folds 
+vasya268: calls 20
+44HighBa$3L: folds 
+chimano365: calls 20
+Coulant: folds 
+gaffel1905: checks 
+*** FLOP *** [9c 5h 5d]
+gaffel1905: checks 
+vasya268: checks 
+chimano365: checks 
+*** TURN *** [9c 5h 5d] [Js]
+gaffel1905: checks 
+vasya268: checks 
+chimano365: bets 40
+gaffel1905: calls 40
+vasya268: calls 40
+*** RIVER *** [9c 5h 5d Js] [2s]
+gaffel1905: checks 
+vasya268: checks 
+chimano365: bets 40
+gaffel1905: calls 40
+vasya268 has timed out
+vasya268: folds 
+vasya268 is sitting out
+*** SHOW DOWN ***
+chimano365: shows [6c Jc] (two pair, Jacks and Fives)
+gaffel1905: shows [Qs Jh] (two pair, Jacks and Fives - Queen kicker)
+gaffel1905 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [9c 5h 5d Js 2s]
+Seat 1: 44HighBa$3L folded before Flop (didn't bet)
+Seat 2: chimano365 (button) showed [6c Jc] and lost with two pair, Jacks and Fives
+Seat 5: Coulant (small blind) folded before Flop
+Seat 6: gaffel1905 (big blind) showed [Qs Jh] and won (270) with two pair, Jacks and Fives
+Seat 7: dfcastro.net folded before Flop (didn't bet)
+Seat 8: Kras87 folded before Flop (didn't bet)
+Seat 9: vasya268 folded on the River
+
+
+
+PokerStars Hand #100739315850: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2013/06/29 15:41:11 BRT [2013/06/29 14:41:11 ET]
+Table '754035897 5' 9-max Seat #5 is the button
+Seat 1: 44HighBa$3L (1410 in chips) 
+Seat 2: chimano365 (1310 in chips) 
+Seat 3: pivmaj (1590 in chips) 
+Seat 5: Coulant (1490 in chips) 
+Seat 6: gaffel1905 (1650 in chips) 
+Seat 7: dfcastro.net (3220 in chips) 
+Seat 8: Kras87 (1500 in chips) 
+Seat 9: vasya268 (1440 in chips) is sitting out
+gaffel1905: posts small blind 10
+dfcastro.net: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qd 7c]
+vasya268 has returned
+Kras87: folds 
+vasya268: raises 1420 to 1440 and is all-in
+44HighBa$3L: folds 
+chimano365: folds 
+pivmaj: folds 
+Coulant: folds 
+gaffel1905: folds 
+dfcastro.net: folds 
+Uncalled bet (1420) returned to vasya268
+vasya268 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: 44HighBa$3L folded before Flop (didn't bet)
+Seat 2: chimano365 folded before Flop (didn't bet)
+Seat 3: pivmaj folded before Flop (didn't bet)
+Seat 5: Coulant (button) folded before Flop (didn't bet)
+Seat 6: gaffel1905 (small blind) folded before Flop
+Seat 7: dfcastro.net (big blind) folded before Flop
+Seat 8: Kras87 folded before Flop (didn't bet)
+Seat 9: vasya268 collected (50)
+
+
+
+PokerStars Hand #100739350898: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2013/06/29 15:41:55 BRT [2013/06/29 14:41:55 ET]
+Table '754035897 5' 9-max Seat #6 is the button
+Seat 1: 44HighBa$3L (1410 in chips) 
+Seat 2: chimano365 (1310 in chips) 
+Seat 3: pivmaj (1590 in chips) 
+Seat 5: Coulant (1490 in chips) 
+Seat 6: gaffel1905 (1640 in chips) 
+Seat 7: dfcastro.net (3200 in chips) 
+Seat 8: Kras87 (1500 in chips) 
+Seat 9: vasya268 (1470 in chips) 
+dfcastro.net: posts small blind 10
+Kras87: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Th 5d]
+vasya268: folds 
+44HighBa$3L: calls 20
+chimano365: calls 20
+pivmaj: calls 20
+Coulant: folds 
+gaffel1905: folds 
+dfcastro.net: folds 
+Kras87: checks 
+*** FLOP *** [9c Ac 2h]
+Kras87: checks 
+44HighBa$3L: checks 
+chimano365: bets 40
+pivmaj: folds 
+Kras87: folds 
+44HighBa$3L: folds 
+Uncalled bet (40) returned to chimano365
+chimano365 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [9c Ac 2h]
+Seat 1: 44HighBa$3L folded on the Flop
+Seat 2: chimano365 collected (90)
+Seat 3: pivmaj folded on the Flop
+Seat 5: Coulant folded before Flop (didn't bet)
+Seat 6: gaffel1905 (button) folded before Flop (didn't bet)
+Seat 7: dfcastro.net (small blind) folded before Flop
+Seat 8: Kras87 (big blind) folded on the Flop
+Seat 9: vasya268 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100739406855: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2013/06/29 15:43:05 BRT [2013/06/29 14:43:05 ET]
+Table '754035897 5' 9-max Seat #7 is the button
+Seat 1: 44HighBa$3L (1390 in chips) 
+Seat 2: chimano365 (1380 in chips) 
+Seat 3: pivmaj (1570 in chips) 
+Seat 4: Senan1983 (3040 in chips) 
+Seat 5: Coulant (1490 in chips) 
+Seat 6: gaffel1905 (1640 in chips) 
+Seat 7: dfcastro.net (3190 in chips) 
+Seat 8: Kras87 (1480 in chips) 
+Seat 9: vasya268 (1470 in chips) 
+Kras87: posts small blind 10
+vasya268: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8h Kd]
+44HighBa$3L: folds 
+chimano365: calls 20
+pivmaj: calls 20
+Senan1983: folds 
+Coulant: folds 
+gaffel1905: calls 20
+dfcastro.net: calls 20
+Kras87: folds 
+vasya268: checks 
+*** FLOP *** [6h Kc 4c]
+vasya268 has timed out
+vasya268: checks 
+chimano365: checks 
+pivmaj: checks 
+gaffel1905: checks 
+dfcastro.net: bets 100
+vasya268 has timed out
+vasya268: folds 
+vasya268 is sitting out
+chimano365: calls 100
+pivmaj: calls 100
+gaffel1905: folds 
+*** TURN *** [6h Kc 4c] [5s]
+chimano365: checks 
+pivmaj: checks 
+dfcastro.net: bets 400
+chimano365: folds 
+pivmaj: calls 400
+*** RIVER *** [6h Kc 4c 5s] [7c]
+pivmaj: bets 100
+dfcastro.net: calls 100
+*** SHOW DOWN ***
+pivmaj: shows [Ac 2c] (a flush, Ace high)
+dfcastro.net: mucks hand 
+pivmaj collected 1410 from pot
+*** SUMMARY ***
+Total pot 1410 | Rake 0 
+Board [6h Kc 4c 5s 7c]
+Seat 1: 44HighBa$3L folded before Flop (didn't bet)
+Seat 2: chimano365 folded on the Turn
+Seat 3: pivmaj showed [Ac 2c] and won (1410) with a flush, Ace high
+Seat 4: Senan1983 folded before Flop (didn't bet)
+Seat 5: Coulant folded before Flop (didn't bet)
+Seat 6: gaffel1905 folded on the Flop
+Seat 7: dfcastro.net (button) mucked [8h Kd]
+Seat 8: Kras87 (small blind) folded before Flop
+Seat 9: vasya268 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #100739536117: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2013/06/29 15:45:48 BRT [2013/06/29 14:45:48 ET]
+Table '754035897 5' 9-max Seat #8 is the button
+Seat 1: 44HighBa$3L (1390 in chips) 
+Seat 2: chimano365 (1260 in chips) 
+Seat 3: pivmaj (2360 in chips) 
+Seat 4: Senan1983 (3040 in chips) 
+Seat 5: Coulant (1490 in chips) 
+Seat 6: gaffel1905 (1620 in chips) 
+Seat 7: dfcastro.net (2570 in chips) 
+Seat 8: Kras87 (1470 in chips) 
+Seat 9: vasya268 (1450 in chips) is sitting out
+vasya268: posts small blind 10
+44HighBa$3L: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [9h 3c]
+chimano365: calls 20
+pivmaj: folds 
+Senan1983: folds 
+Coulant: folds 
+gaffel1905: calls 20
+dfcastro.net: folds 
+Kras87: folds 
+vasya268: folds 
+44HighBa$3L: checks 
+*** FLOP *** [Td 5h 3d]
+44HighBa$3L: checks 
+chimano365: checks 
+gaffel1905: checks 
+*** TURN *** [Td 5h 3d] [8h]
+vasya268 has returned
+44HighBa$3L: checks 
+chimano365: checks 
+gaffel1905: bets 20
+44HighBa$3L: folds 
+chimano365: calls 20
+*** RIVER *** [Td 5h 3d 8h] [7s]
+chimano365: checks 
+gaffel1905: checks 
+*** SHOW DOWN ***
+chimano365: shows [3s 4h] (a pair of Threes)
+gaffel1905: shows [Jc 8c] (a pair of Eights)
+gaffel1905 collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | Rake 0 
+Board [Td 5h 3d 8h 7s]
+Seat 1: 44HighBa$3L (big blind) folded on the Turn
+Seat 2: chimano365 showed [3s 4h] and lost with a pair of Threes
+Seat 3: pivmaj folded before Flop (didn't bet)
+Seat 4: Senan1983 folded before Flop (didn't bet)
+Seat 5: Coulant folded before Flop (didn't bet)
+Seat 6: gaffel1905 showed [Jc 8c] and won (110) with a pair of Eights
+Seat 7: dfcastro.net folded before Flop (didn't bet)
+Seat 8: Kras87 (button) folded before Flop (didn't bet)
+Seat 9: vasya268 (small blind) folded before Flop
+
+
+
+PokerStars Hand #100739669251: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2013/06/29 15:48:36 BRT [2013/06/29 14:48:36 ET]
+Table '754035897 8' 9-max Seat #6 is the button
+Seat 1: rigo_zs (3550 in chips) 
+Seat 2: disturbiored (2610 in chips) 
+Seat 3: Renato.Mauro (1530 in chips) 
+Seat 4: dfcastro.net (2570 in chips) 
+Seat 6: junior sb111 (1990 in chips) 
+Seat 7: Fishka69 (3490 in chips) 
+Seat 8: barto112 (1780 in chips) 
+Seat 9: Looptechno (1230 in chips) 
+Fishka69: posts small blind 10
+barto112: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2s 5c]
+Looptechno: calls 20
+rigo_zs: raises 40 to 60
+disturbiored: folds 
+Renato.Mauro: calls 60
+dfcastro.net: folds 
+junior sb111: calls 60
+Fishka69: folds 
+barto112: calls 40
+Looptechno: calls 40
+*** FLOP *** [8d Td Jh]
+barto112: folds 
+Looptechno: checks 
+rigo_zs: checks 
+Renato.Mauro: bets 60
+junior sb111: calls 60
+Looptechno: calls 60
+rigo_zs: calls 60
+*** TURN *** [8d Td Jh] [8h]
+Looptechno: checks 
+rigo_zs: checks 
+Renato.Mauro: bets 100
+junior sb111: calls 100
+Looptechno: calls 100
+rigo_zs: folds 
+*** RIVER *** [8d Td Jh 8h] [2h]
+Looptechno: checks 
+Renato.Mauro: bets 100
+junior sb111: folds 
+Looptechno: calls 100
+*** SHOW DOWN ***
+Renato.Mauro: shows [7h 7d] (two pair, Eights and Sevens)
+Looptechno: mucks hand 
+Renato.Mauro collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [8d Td Jh 8h 2h]
+Seat 1: rigo_zs folded on the Turn
+Seat 2: disturbiored folded before Flop (didn't bet)
+Seat 3: Renato.Mauro showed [7h 7d] and won (1050) with two pair, Eights and Sevens
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 6: junior sb111 (button) folded on the River
+Seat 7: Fishka69 (small blind) folded before Flop
+Seat 8: barto112 (big blind) folded on the Flop
+Seat 9: Looptechno mucked [Ad Kh]
+
+
+
+PokerStars Hand #100739745848: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2013/06/29 15:50:14 BRT [2013/06/29 14:50:14 ET]
+Table '754035897 8' 9-max Seat #7 is the button
+Seat 1: rigo_zs (3430 in chips) 
+Seat 2: disturbiored (2610 in chips) 
+Seat 3: Renato.Mauro (2260 in chips) 
+Seat 4: dfcastro.net (2570 in chips) 
+Seat 5: maximusvm (1460 in chips) 
+Seat 6: junior sb111 (1770 in chips) 
+Seat 7: Fishka69 (3480 in chips) 
+Seat 8: barto112 (1720 in chips) 
+Seat 9: Looptechno (910 in chips) 
+barto112: posts small blind 10
+Looptechno: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qd 5d]
+rigo_zs: calls 20
+disturbiored: folds 
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: folds 
+Fishka69: folds 
+barto112: calls 10
+Looptechno: checks 
+*** FLOP *** [3c 8c 5s]
+barto112: checks 
+Looptechno: checks 
+rigo_zs: bets 60
+barto112: folds 
+Looptechno: calls 60
+*** TURN *** [3c 8c 5s] [Kc]
+Looptechno: checks 
+rigo_zs: checks 
+*** RIVER *** [3c 8c 5s Kc] [8d]
+Looptechno: bets 20
+rigo_zs: raises 80 to 100
+Looptechno: calls 80
+*** SHOW DOWN ***
+rigo_zs: shows [Qh 8h] (three of a kind, Eights)
+Looptechno: mucks hand 
+rigo_zs collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [3c 8c 5s Kc 8d]
+Seat 1: rigo_zs showed [Qh 8h] and won (380) with three of a kind, Eights
+Seat 2: disturbiored folded before Flop (didn't bet)
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: Fishka69 (button) folded before Flop (didn't bet)
+Seat 8: barto112 (small blind) folded on the Flop
+Seat 9: Looptechno (big blind) mucked [Qs Kd]
+
+
+
+PokerStars Hand #100739776400: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2013/06/29 15:50:53 BRT [2013/06/29 14:50:53 ET]
+Table '754035897 8' 9-max Seat #8 is the button
+Seat 1: rigo_zs (3630 in chips) 
+Seat 2: disturbiored (2610 in chips) 
+Seat 3: Renato.Mauro (2260 in chips) 
+Seat 4: dfcastro.net (2570 in chips) 
+Seat 5: maximusvm (1460 in chips) 
+Seat 6: junior sb111 (1770 in chips) 
+Seat 7: Fishka69 (3480 in chips) 
+Seat 8: barto112 (1700 in chips) 
+Seat 9: Looptechno (730 in chips) 
+Looptechno: posts small blind 10
+rigo_zs: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [9h Qd]
+disturbiored: folds 
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: raises 40 to 60
+junior sb111: calls 60
+Fishka69: calls 60
+barto112: folds 
+Looptechno: calls 50
+rigo_zs: folds 
+*** FLOP *** [6h 7s 6c]
+Looptechno: checks 
+maximusvm: bets 80
+junior sb111: folds 
+Fishka69: calls 80
+Looptechno: calls 80
+*** TURN *** [6h 7s 6c] [9s]
+Looptechno: checks 
+maximusvm: bets 160
+Fishka69: calls 160
+Looptechno: calls 160
+*** RIVER *** [6h 7s 6c 9s] [3s]
+Looptechno: checks 
+maximusvm: bets 1160 and is all-in
+Fishka69: calls 1160
+Looptechno: calls 430 and is all-in
+*** SHOW DOWN ***
+maximusvm: shows [7d 7h] (a full house, Sevens full of Sixes)
+Fishka69: shows [Th Tc] (two pair, Tens and Sixes)
+maximusvm collected 1460 from side pot
+Looptechno: shows [4d 9d] (two pair, Nines and Sixes)
+maximusvm collected 2270 from main pot
+Looptechno finished the tournament in 70th place
+*** SUMMARY ***
+Total pot 3730 Main pot 2270. Side pot 1460. | Rake 0 
+Board [6h 7s 6c 9s 3s]
+Seat 1: rigo_zs (big blind) folded before Flop
+Seat 2: disturbiored folded before Flop (didn't bet)
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm showed [7d 7h] and won (3730) with a full house, Sevens full of Sixes
+Seat 6: junior sb111 folded on the Flop
+Seat 7: Fishka69 showed [Th Tc] and lost with two pair, Tens and Sixes
+Seat 8: barto112 (button) folded before Flop (didn't bet)
+Seat 9: Looptechno (small blind) showed [4d 9d] and lost with two pair, Nines and Sixes
+
+
+
+PokerStars Hand #100739842426: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2013/06/29 15:52:17 BRT [2013/06/29 14:52:17 ET]
+Table '754035897 8' 9-max Seat #1 is the button
+Seat 1: rigo_zs (3610 in chips) 
+Seat 2: disturbiored (2610 in chips) 
+Seat 3: Renato.Mauro (2260 in chips) 
+Seat 4: dfcastro.net (2570 in chips) 
+Seat 5: maximusvm (3730 in chips) 
+Seat 6: junior sb111 (1710 in chips) 
+Seat 7: Fishka69 (2020 in chips) 
+Seat 8: barto112 (1700 in chips) 
+disturbiored: posts small blind 15
+Renato.Mauro: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6s 2d]
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: folds 
+Fishka69: folds 
+barto112: folds 
+rigo_zs: calls 30
+disturbiored: folds 
+Renato.Mauro: checks 
+*** FLOP *** [4h Ts 2h]
+Renato.Mauro: checks 
+rigo_zs: bets 60
+Renato.Mauro: folds 
+Uncalled bet (60) returned to rigo_zs
+rigo_zs collected 75 from pot
+rigo_zs: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [4h Ts 2h]
+Seat 1: rigo_zs (button) collected (75)
+Seat 2: disturbiored (small blind) folded before Flop
+Seat 3: Renato.Mauro (big blind) folded on the Flop
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: Fishka69 folded before Flop (didn't bet)
+Seat 8: barto112 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100739877964: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2013/06/29 15:53:03 BRT [2013/06/29 14:53:03 ET]
+Table '754035897 8' 9-max Seat #2 is the button
+Seat 1: rigo_zs (3655 in chips) 
+Seat 2: disturbiored (2595 in chips) 
+Seat 3: Renato.Mauro (2230 in chips) 
+Seat 4: dfcastro.net (2570 in chips) 
+Seat 5: maximusvm (3730 in chips) 
+Seat 6: junior sb111 (1710 in chips) 
+Seat 7: Fishka69 (2020 in chips) 
+Seat 8: barto112 (1700 in chips) 
+Renato.Mauro: posts small blind 15
+dfcastro.net: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5h Jc]
+maximusvm: folds 
+junior sb111: folds 
+Fishka69: folds 
+barto112: folds 
+rigo_zs: folds 
+disturbiored: folds 
+Renato.Mauro: calls 15
+dfcastro.net: checks 
+*** FLOP *** [7s 5d Ac]
+Renato.Mauro: bets 30
+dfcastro.net: folds 
+Uncalled bet (30) returned to Renato.Mauro
+Renato.Mauro collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7s 5d Ac]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: disturbiored (button) folded before Flop (didn't bet)
+Seat 3: Renato.Mauro (small blind) collected (60)
+Seat 4: dfcastro.net (big blind) folded on the Flop
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: Fishka69 folded before Flop (didn't bet)
+Seat 8: barto112 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100739914445: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2013/06/29 15:53:50 BRT [2013/06/29 14:53:50 ET]
+Table '754035897 8' 9-max Seat #3 is the button
+Seat 1: rigo_zs (3655 in chips) 
+Seat 2: disturbiored (2595 in chips) 
+Seat 3: Renato.Mauro (2260 in chips) 
+Seat 4: dfcastro.net (2540 in chips) 
+Seat 5: maximusvm (3730 in chips) 
+Seat 6: junior sb111 (1710 in chips) 
+Seat 7: Fishka69 (2020 in chips) 
+Seat 8: barto112 (1700 in chips) 
+dfcastro.net: posts small blind 15
+maximusvm: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8s As]
+junior sb111: raises 30 to 60
+Fishka69: raises 30 to 90
+barto112: folds 
+rigo_zs: folds 
+disturbiored: folds 
+Renato.Mauro: calls 90
+dfcastro.net: calls 75
+maximusvm: folds 
+junior sb111: calls 30
+*** FLOP *** [9c Qc Jd]
+dfcastro.net: checks 
+junior sb111: bets 60
+Fishka69: raises 60 to 120
+Renato.Mauro: calls 120
+dfcastro.net: folds 
+junior sb111: calls 60
+*** TURN *** [9c Qc Jd] [9h]
+junior sb111: bets 30
+Fishka69: raises 1780 to 1810 and is all-in
+Renato.Mauro: raises 240 to 2050 and is all-in
+junior sb111: folds [Qs]
+Uncalled bet (240) returned to Renato.Mauro
+*** RIVER *** [9c Qc Jd 9h] [2d]
+*** SHOW DOWN ***
+Fishka69: shows [Ad Ah] (two pair, Aces and Nines)
+Renato.Mauro: shows [8h Th] (a straight, Eight to Queen)
+Renato.Mauro collected 4400 from pot
+Fishka69 finished the tournament in 67th place
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Board [9c Qc Jd 9h 2d]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: disturbiored folded before Flop (didn't bet)
+Seat 3: Renato.Mauro (button) showed [8h Th] and won (4400) with a straight, Eight to Queen
+Seat 4: dfcastro.net (small blind) folded on the Flop
+Seat 5: maximusvm (big blind) folded before Flop
+Seat 6: junior sb111 folded on the Turn
+Seat 7: Fishka69 showed [Ad Ah] and lost with two pair, Aces and Nines
+Seat 8: barto112 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100739979907: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2013/06/29 15:55:14 BRT [2013/06/29 14:55:14 ET]
+Table '754035897 8' 9-max Seat #4 is the button
+Seat 1: rigo_zs (3655 in chips) 
+Seat 2: disturbiored (2595 in chips) 
+Seat 3: Renato.Mauro (4640 in chips) 
+Seat 4: dfcastro.net (2450 in chips) 
+Seat 5: maximusvm (3700 in chips) 
+Seat 6: junior sb111 (1470 in chips) 
+Seat 8: barto112 (1700 in chips) 
+maximusvm: posts small blind 15
+junior sb111: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6h 6c]
+barto112: folds 
+rigo_zs: calls 30
+disturbiored: folds 
+Renato.Mauro: folds 
+dfcastro.net: calls 30
+maximusvm: folds 
+junior sb111: checks 
+*** FLOP *** [Js Ac 2s]
+junior sb111: bets 30
+rigo_zs: folds 
+dfcastro.net: folds 
+Uncalled bet (30) returned to junior sb111
+junior sb111 collected 105 from pot
+junior sb111: shows [2d]
+*** SUMMARY ***
+Total pot 105 | Rake 0 
+Board [Js Ac 2s]
+Seat 1: rigo_zs folded on the Flop
+Seat 2: disturbiored folded before Flop (didn't bet)
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net (button) folded on the Flop
+Seat 5: maximusvm (small blind) folded before Flop
+Seat 6: junior sb111 (big blind) collected (105)
+Seat 8: barto112 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100740234975: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2013/06/29 16:02:17 BRT [2013/06/29 15:02:17 ET]
+Table '754035897 8' 9-max Seat #5 is the button
+Seat 1: rigo_zs (3625 in chips) 
+Seat 2: disturbiored (2595 in chips) 
+Seat 3: Renato.Mauro (4640 in chips) 
+Seat 4: dfcastro.net (2420 in chips) 
+Seat 5: maximusvm (3685 in chips) 
+Seat 6: junior sb111 (1545 in chips) 
+Seat 8: barto112 (1700 in chips) 
+Seat 9: maravikefrei (3150 in chips) 
+junior sb111: posts small blind 15
+barto112: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7h 5c]
+maravikefrei: folds 
+rigo_zs has timed out
+rigo_zs: folds 
+rigo_zs is sitting out
+rigo_zs has returned
+disturbiored: folds 
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: calls 15
+barto112: checks 
+*** FLOP *** [4h Kc Kd]
+junior sb111: bets 30
+barto112: raises 60 to 90
+junior sb111: calls 60
+*** TURN *** [4h Kc Kd] [2c]
+junior sb111: bets 30
+barto112: calls 30
+*** RIVER *** [4h Kc Kd 2c] [Js]
+junior sb111: bets 30
+barto112: calls 30
+*** SHOW DOWN ***
+junior sb111: shows [4c 3c] (two pair, Kings and Fours)
+barto112: shows [4d 2s] (two pair, Kings and Fours)
+junior sb111 collected 180 from pot
+barto112 collected 180 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [4h Kc Kd 2c Js]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: disturbiored folded before Flop (didn't bet)
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm (button) folded before Flop (didn't bet)
+Seat 6: junior sb111 (small blind) showed [4c 3c] and won (180) with two pair, Kings and Fours
+Seat 8: barto112 (big blind) showed [4d 2s] and won (180) with two pair, Kings and Fours
+Seat 9: maravikefrei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100740310587: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2013/06/29 16:03:45 BRT [2013/06/29 15:03:45 ET]
+Table '754035897 8' 9-max Seat #6 is the button
+Seat 1: rigo_zs (3625 in chips) 
+Seat 2: disturbiored (2595 in chips) 
+Seat 3: Renato.Mauro (4640 in chips) 
+Seat 4: dfcastro.net (2420 in chips) 
+Seat 5: maximusvm (3685 in chips) 
+Seat 6: junior sb111 (1545 in chips) 
+Seat 7: ELMORE GIBB (1055 in chips) out of hand (moved from another table into small blind)
+Seat 8: barto112 (1700 in chips) 
+Seat 9: maravikefrei (3150 in chips) 
+barto112: posts small blind 15
+maravikefrei: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5c 4s]
+rigo_zs: folds 
+disturbiored: folds 
+Renato.Mauro: calls 30
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: folds 
+barto112: raises 90 to 120
+maravikefrei: calls 90
+Renato.Mauro: calls 90
+*** FLOP *** [Kc 5s Ad]
+barto112: bets 120
+maravikefrei: folds 
+Renato.Mauro: calls 120
+*** TURN *** [Kc 5s Ad] [6c]
+barto112: bets 210
+Renato.Mauro: calls 210
+*** RIVER *** [Kc 5s Ad 6c] [9c]
+barto112: bets 300
+Renato.Mauro: folds 
+Uncalled bet (300) returned to barto112
+barto112 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Kc 5s Ad 6c 9c]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: disturbiored folded before Flop (didn't bet)
+Seat 3: Renato.Mauro folded on the River
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 (button) folded before Flop (didn't bet)
+Seat 8: barto112 (small blind) collected (1020)
+Seat 9: maravikefrei (big blind) folded on the Flop
+
+
+
+PokerStars Hand #100740392050: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2013/06/29 16:05:16 BRT [2013/06/29 15:05:16 ET]
+Table '754035897 8' 9-max Seat #8 is the button
+Seat 1: rigo_zs (3625 in chips) 
+Seat 2: disturbiored (2595 in chips) 
+Seat 3: Renato.Mauro (4190 in chips) 
+Seat 4: dfcastro.net (2420 in chips) 
+Seat 5: maximusvm (3685 in chips) 
+Seat 6: junior sb111 (1545 in chips) 
+Seat 7: ELMORE GIBB (1055 in chips) 
+Seat 8: barto112 (2270 in chips) 
+Seat 9: maravikefrei (3030 in chips) 
+maravikefrei: posts small blind 15
+rigo_zs: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kh Qc]
+disturbiored: raises 90 to 120
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: folds 
+ELMORE GIBB: folds 
+barto112: folds 
+maravikefrei: folds 
+rigo_zs: folds 
+Uncalled bet (90) returned to disturbiored
+disturbiored collected 75 from pot
+disturbiored: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: rigo_zs (big blind) folded before Flop
+Seat 2: disturbiored collected (75)
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB folded before Flop (didn't bet)
+Seat 8: barto112 (button) folded before Flop (didn't bet)
+Seat 9: maravikefrei (small blind) folded before Flop
+
+
+
+PokerStars Hand #100740414027: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2013/06/29 16:05:40 BRT [2013/06/29 15:05:40 ET]
+Table '754035897 8' 9-max Seat #9 is the button
+Seat 1: rigo_zs (3595 in chips) 
+Seat 2: disturbiored (2640 in chips) 
+Seat 3: Renato.Mauro (4190 in chips) 
+Seat 4: dfcastro.net (2420 in chips) 
+Seat 5: maximusvm (3685 in chips) 
+Seat 6: junior sb111 (1545 in chips) 
+Seat 7: ELMORE GIBB (1055 in chips) 
+Seat 8: barto112 (2270 in chips) 
+Seat 9: maravikefrei (3015 in chips) 
+rigo_zs: posts small blind 15
+disturbiored: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [9c 6d]
+Renato.Mauro: calls 30
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: folds 
+ELMORE GIBB: calls 30
+barto112: calls 30
+maravikefrei: folds 
+rigo_zs: calls 15
+disturbiored: checks 
+*** FLOP *** [9s 2h Ah]
+rigo_zs: bets 120
+disturbiored: folds 
+Renato.Mauro: folds 
+ELMORE GIBB: calls 120
+barto112: folds 
+*** TURN *** [9s 2h Ah] [4s]
+rigo_zs: checks 
+ELMORE GIBB: checks 
+*** RIVER *** [9s 2h Ah 4s] [Ad]
+rigo_zs: bets 150
+ELMORE GIBB: folds 
+Uncalled bet (150) returned to rigo_zs
+rigo_zs collected 390 from pot
+rigo_zs: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Board [9s 2h Ah 4s Ad]
+Seat 1: rigo_zs (small blind) collected (390)
+Seat 2: disturbiored (big blind) folded on the Flop
+Seat 3: Renato.Mauro folded on the Flop
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB folded on the River
+Seat 8: barto112 folded on the Flop
+Seat 9: maravikefrei (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100740490750: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2013/06/29 16:07:06 BRT [2013/06/29 15:07:06 ET]
+Table '754035897 8' 9-max Seat #1 is the button
+Seat 1: rigo_zs (3835 in chips) 
+Seat 2: disturbiored (2610 in chips) 
+Seat 3: Renato.Mauro (4160 in chips) 
+Seat 4: dfcastro.net (2420 in chips) 
+Seat 5: maximusvm (3685 in chips) 
+Seat 6: junior sb111 (1545 in chips) 
+Seat 7: ELMORE GIBB (905 in chips) 
+Seat 8: barto112 (2240 in chips) 
+Seat 9: maravikefrei (3015 in chips) 
+disturbiored: posts small blind 15
+Renato.Mauro: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Th 2d]
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: folds 
+ELMORE GIBB: calls 30
+barto112: raises 60 to 90
+maravikefrei: calls 90
+rigo_zs: folds 
+disturbiored: folds 
+Renato.Mauro: folds 
+ELMORE GIBB: calls 60
+*** FLOP *** [Js 7s 3s]
+ELMORE GIBB: bets 30
+barto112: raises 120 to 150
+maravikefrei: folds 
+ELMORE GIBB: raises 665 to 815 and is all-in
+barto112: calls 665
+*** TURN *** [Js 7s 3s] [Jd]
+*** RIVER *** [Js 7s 3s Jd] [Kd]
+*** SHOW DOWN ***
+ELMORE GIBB: shows [6s 8s] (a flush, Jack high)
+barto112: shows [Ad As] (two pair, Aces and Jacks)
+ELMORE GIBB collected 1945 from pot
+*** SUMMARY ***
+Total pot 1945 | Rake 0 
+Board [Js 7s 3s Jd Kd]
+Seat 1: rigo_zs (button) folded before Flop (didn't bet)
+Seat 2: disturbiored (small blind) folded before Flop
+Seat 3: Renato.Mauro (big blind) folded before Flop
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB showed [6s 8s] and won (1945) with a flush, Jack high
+Seat 8: barto112 showed [Ad As] and lost with two pair, Aces and Jacks
+Seat 9: maravikefrei folded on the Flop
+
+
+
+PokerStars Hand #100740572076: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2013/06/29 16:08:37 BRT [2013/06/29 15:08:37 ET]
+Table '754035897 8' 9-max Seat #2 is the button
+Seat 1: rigo_zs (3835 in chips) 
+Seat 2: disturbiored (2595 in chips) 
+Seat 3: Renato.Mauro (4130 in chips) 
+Seat 4: dfcastro.net (2420 in chips) 
+Seat 5: maximusvm (3685 in chips) 
+Seat 6: junior sb111 (1545 in chips) 
+Seat 7: ELMORE GIBB (1945 in chips) 
+Seat 8: barto112 (1335 in chips) 
+Seat 9: maravikefrei (2925 in chips) 
+Renato.Mauro: posts small blind 15
+dfcastro.net: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ts Qh]
+maximusvm: folds 
+junior sb111: folds 
+ELMORE GIBB: calls 30
+barto112: calls 30
+maravikefrei: calls 30
+rigo_zs: folds 
+disturbiored: folds 
+Renato.Mauro: raises 30 to 60
+dfcastro.net: folds 
+ELMORE GIBB: calls 30
+barto112: calls 30
+maravikefrei: calls 30
+*** FLOP *** [Ah 5d 2h]
+Renato.Mauro: checks 
+ELMORE GIBB: bets 30
+barto112: raises 60 to 90
+maravikefrei: folds 
+Renato.Mauro: calls 90
+ELMORE GIBB: raises 60 to 150
+barto112: raises 150 to 300
+Renato.Mauro: folds 
+ELMORE GIBB: calls 150
+*** TURN *** [Ah 5d 2h] [Jd]
+ELMORE GIBB: checks 
+barto112: bets 660
+ELMORE GIBB: calls 660
+*** RIVER *** [Ah 5d 2h Jd] [Jh]
+ELMORE GIBB: checks 
+barto112: bets 315 and is all-in
+ELMORE GIBB: calls 315
+*** SHOW DOWN ***
+barto112: shows [2c 2s] (a full house, Deuces full of Jacks)
+ELMORE GIBB: shows [Ac 6d] (two pair, Aces and Jacks)
+barto112 collected 2910 from pot
+*** SUMMARY ***
+Total pot 2910 | Rake 0 
+Board [Ah 5d 2h Jd Jh]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: disturbiored (button) folded before Flop (didn't bet)
+Seat 3: Renato.Mauro (small blind) folded on the Flop
+Seat 4: dfcastro.net (big blind) folded before Flop
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB showed [Ac 6d] and lost with two pair, Aces and Jacks
+Seat 8: barto112 showed [2c 2s] and won (2910) with a full house, Deuces full of Jacks
+Seat 9: maravikefrei folded on the Flop
+
+
+
+PokerStars Hand #100740706060: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2013/06/29 16:11:08 BRT [2013/06/29 15:11:08 ET]
+Table '754035897 8' 9-max Seat #3 is the button
+Seat 1: rigo_zs (3835 in chips) 
+Seat 3: Renato.Mauro (3980 in chips) 
+Seat 4: dfcastro.net (2390 in chips) 
+Seat 5: maximusvm (3685 in chips) 
+Seat 6: junior sb111 (1545 in chips) 
+Seat 7: ELMORE GIBB (610 in chips) 
+Seat 8: barto112 (2910 in chips) 
+Seat 9: maravikefrei (2865 in chips) 
+dfcastro.net: posts small blind 15
+maximusvm: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8d 4s]
+junior sb111: folds 
+ELMORE GIBB: raises 30 to 60
+barto112: folds 
+maravikefrei: calls 60
+rigo_zs: folds 
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: folds 
+*** FLOP *** [9s Qc 2h]
+ELMORE GIBB: checks 
+maravikefrei: checks 
+*** TURN *** [9s Qc 2h] [Kh]
+ELMORE GIBB: bets 30
+maravikefrei: folds 
+Uncalled bet (30) returned to ELMORE GIBB
+ELMORE GIBB collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Board [9s Qc 2h Kh]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 3: Renato.Mauro (button) folded before Flop (didn't bet)
+Seat 4: dfcastro.net (small blind) folded before Flop
+Seat 5: maximusvm (big blind) folded before Flop
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB collected (165)
+Seat 8: barto112 folded before Flop (didn't bet)
+Seat 9: maravikefrei folded on the Turn
+
+
+
+PokerStars Hand #100740768306: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2013/06/29 16:12:18 BRT [2013/06/29 15:12:18 ET]
+Table '754035897 8' 9-max Seat #4 is the button
+Seat 1: rigo_zs (3835 in chips) 
+Seat 3: Renato.Mauro (3980 in chips) 
+Seat 4: dfcastro.net (2375 in chips) 
+Seat 5: maximusvm (3655 in chips) 
+Seat 6: junior sb111 (1545 in chips) 
+Seat 7: ELMORE GIBB (715 in chips) 
+Seat 8: barto112 (2910 in chips) 
+Seat 9: maravikefrei (2805 in chips) 
+maximusvm: posts small blind 15
+junior sb111: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3d 6d]
+ELMORE GIBB: calls 30
+barto112: folds 
+maravikefrei: folds 
+rigo_zs: folds 
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: checks 
+*** FLOP *** [As Qh 2c]
+junior sb111: bets 30
+ELMORE GIBB: calls 30
+*** TURN *** [As Qh 2c] [Js]
+junior sb111: bets 30
+ELMORE GIBB: calls 30
+*** RIVER *** [As Qh 2c Js] [5d]
+junior sb111: checks 
+ELMORE GIBB: bets 60
+junior sb111: folds 
+Uncalled bet (60) returned to ELMORE GIBB
+ELMORE GIBB collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [As Qh 2c Js 5d]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 5: maximusvm (small blind) folded before Flop
+Seat 6: junior sb111 (big blind) folded on the River
+Seat 7: ELMORE GIBB collected (195)
+Seat 8: barto112 folded before Flop (didn't bet)
+Seat 9: maravikefrei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100740834464: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2013/06/29 16:13:32 BRT [2013/06/29 15:13:32 ET]
+Table '754035897 8' 9-max Seat #5 is the button
+Seat 1: rigo_zs (3835 in chips) 
+Seat 3: Renato.Mauro (3980 in chips) 
+Seat 4: dfcastro.net (2375 in chips) 
+Seat 5: maximusvm (3640 in chips) 
+Seat 6: junior sb111 (1455 in chips) 
+Seat 7: ELMORE GIBB (820 in chips) 
+Seat 8: barto112 (2910 in chips) 
+Seat 9: maravikefrei (2805 in chips) 
+junior sb111: posts small blind 15
+ELMORE GIBB: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Jd 7d]
+barto112: folds 
+maravikefrei: calls 30
+rigo_zs: folds 
+Renato.Mauro: calls 30
+dfcastro.net: folds 
+maximusvm: raises 75 to 105
+junior sb111: calls 90
+ELMORE GIBB: folds 
+maravikefrei: calls 75
+Renato.Mauro: calls 75
+*** FLOP *** [3c 2c 5c]
+junior sb111: checks 
+maravikefrei: checks 
+Renato.Mauro: bets 90
+maximusvm: folds 
+junior sb111: folds 
+maravikefrei: folds 
+Uncalled bet (90) returned to Renato.Mauro
+Renato.Mauro collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [3c 2c 5c]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 3: Renato.Mauro collected (450)
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm (button) folded on the Flop
+Seat 6: junior sb111 (small blind) folded on the Flop
+Seat 7: ELMORE GIBB (big blind) folded before Flop
+Seat 8: barto112 folded before Flop (didn't bet)
+Seat 9: maravikefrei folded on the Flop
+
+
+
+PokerStars Hand #100740891360: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2013/06/29 16:14:37 BRT [2013/06/29 15:14:37 ET]
+Table '754035897 8' 9-max Seat #6 is the button
+Seat 1: rigo_zs (3835 in chips) 
+Seat 3: Renato.Mauro (4325 in chips) 
+Seat 4: dfcastro.net (2375 in chips) 
+Seat 5: maximusvm (3535 in chips) 
+Seat 6: junior sb111 (1350 in chips) 
+Seat 7: ELMORE GIBB (790 in chips) 
+Seat 8: barto112 (2910 in chips) 
+Seat 9: maravikefrei (2700 in chips) 
+ELMORE GIBB: posts small blind 25
+barto112: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6c Qs]
+maravikefrei: folds 
+rigo_zs: calls 50
+Renato.Mauro: calls 50
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: folds 
+ELMORE GIBB: calls 25
+barto112: checks 
+*** FLOP *** [9s Qd 3c]
+ELMORE GIBB: checks 
+barto112: checks 
+rigo_zs: checks 
+Renato.Mauro: checks 
+*** TURN *** [9s Qd 3c] [Kh]
+ELMORE GIBB: checks 
+barto112: checks 
+rigo_zs: checks 
+Renato.Mauro: bets 150
+ELMORE GIBB: folds 
+barto112: folds 
+rigo_zs: folds 
+Uncalled bet (150) returned to Renato.Mauro
+Renato.Mauro collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [9s Qd 3c Kh]
+Seat 1: rigo_zs folded on the Turn
+Seat 3: Renato.Mauro collected (200)
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 (button) folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB (small blind) folded on the Turn
+Seat 8: barto112 (big blind) folded on the Turn
+Seat 9: maravikefrei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100740949751: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2013/06/29 16:15:42 BRT [2013/06/29 15:15:42 ET]
+Table '754035897 8' 9-max Seat #7 is the button
+Seat 1: rigo_zs (3785 in chips) 
+Seat 3: Renato.Mauro (4475 in chips) 
+Seat 4: dfcastro.net (2375 in chips) 
+Seat 5: maximusvm (3535 in chips) 
+Seat 6: junior sb111 (1350 in chips) 
+Seat 7: ELMORE GIBB (740 in chips) 
+Seat 8: barto112 (2860 in chips) 
+Seat 9: maravikefrei (2700 in chips) 
+barto112: posts small blind 25
+maravikefrei: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Td 3s]
+rigo_zs: folds 
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: folds 
+ELMORE GIBB: calls 50
+barto112: calls 25
+maravikefrei: checks 
+*** FLOP *** [5s Qc Jc]
+barto112: checks 
+maravikefrei: bets 250
+ELMORE GIBB: calls 250
+barto112: folds 
+*** TURN *** [5s Qc Jc] [Ks]
+maravikefrei: bets 350
+ELMORE GIBB: calls 350
+*** RIVER *** [5s Qc Jc Ks] [9d]
+maravikefrei: bets 150
+ELMORE GIBB: calls 90 and is all-in
+Uncalled bet (60) returned to maravikefrei
+*** SHOW DOWN ***
+maravikefrei: shows [6s Js] (a pair of Jacks)
+ELMORE GIBB: shows [Kh Ad] (a pair of Kings)
+ELMORE GIBB collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | Rake 0 
+Board [5s Qc Jc Ks 9d]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB (button) showed [Kh Ad] and won (1530) with a pair of Kings
+Seat 8: barto112 (small blind) folded on the Flop
+Seat 9: maravikefrei (big blind) showed [6s Js] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #100741002204: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2013/06/29 16:16:41 BRT [2013/06/29 15:16:41 ET]
+Table '754035897 8' 9-max Seat #8 is the button
+Seat 1: rigo_zs (3785 in chips) 
+Seat 3: Renato.Mauro (4475 in chips) 
+Seat 4: dfcastro.net (2375 in chips) 
+Seat 5: maximusvm (3535 in chips) 
+Seat 6: junior sb111 (1350 in chips) 
+Seat 7: ELMORE GIBB (1530 in chips) 
+Seat 8: barto112 (2810 in chips) 
+Seat 9: maravikefrei (1960 in chips) 
+maravikefrei: posts small blind 25
+rigo_zs: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Jh 6s]
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: raises 75 to 125
+junior sb111: folds 
+ELMORE GIBB: folds 
+barto112: folds 
+maravikefrei: folds 
+rigo_zs: folds 
+Uncalled bet (75) returned to maximusvm
+maximusvm collected 125 from pot
+maximusvm: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: rigo_zs (big blind) folded before Flop
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm collected (125)
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB folded before Flop (didn't bet)
+Seat 8: barto112 (button) folded before Flop (didn't bet)
+Seat 9: maravikefrei (small blind) folded before Flop
+
+
+
+PokerStars Hand #100741035648: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2013/06/29 16:17:19 BRT [2013/06/29 15:17:19 ET]
+Table '754035897 8' 9-max Seat #9 is the button
+Seat 1: rigo_zs (3735 in chips) 
+Seat 3: Renato.Mauro (4475 in chips) 
+Seat 4: dfcastro.net (2375 in chips) 
+Seat 5: maximusvm (3610 in chips) 
+Seat 6: junior sb111 (1350 in chips) 
+Seat 7: ELMORE GIBB (1530 in chips) 
+Seat 8: barto112 (2810 in chips) 
+Seat 9: maravikefrei (1935 in chips) 
+rigo_zs: posts small blind 25
+Renato.Mauro: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6s 5d]
+dfcastro.net: folds 
+maximusvm: raises 75 to 125
+junior sb111: calls 125
+ELMORE GIBB: folds 
+barto112: folds 
+maravikefrei: raises 1810 to 1935 and is all-in
+rigo_zs: folds 
+Renato.Mauro: folds 
+maximusvm: folds 
+junior sb111: folds 
+Uncalled bet (1810) returned to maravikefrei
+maravikefrei collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 1: rigo_zs (small blind) folded before Flop
+Seat 3: Renato.Mauro (big blind) folded before Flop
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop
+Seat 6: junior sb111 folded before Flop
+Seat 7: ELMORE GIBB folded before Flop (didn't bet)
+Seat 8: barto112 folded before Flop (didn't bet)
+Seat 9: maravikefrei (button) collected (450)
+
+
+
+PokerStars Hand #100741071754: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2013/06/29 16:18:00 BRT [2013/06/29 15:18:00 ET]
+Table '754035897 8' 9-max Seat #1 is the button
+Seat 1: rigo_zs (3710 in chips) 
+Seat 2: genevaboy23 (5610 in chips) out of hand (moved from another table into small blind)
+Seat 3: Renato.Mauro (4425 in chips) 
+Seat 4: dfcastro.net (2375 in chips) 
+Seat 5: maximusvm (3485 in chips) 
+Seat 6: junior sb111 (1225 in chips) 
+Seat 7: ELMORE GIBB (1530 in chips) 
+Seat 8: barto112 (2810 in chips) 
+Seat 9: maravikefrei (2260 in chips) 
+Renato.Mauro: posts small blind 25
+dfcastro.net: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [As 7s]
+maximusvm: folds 
+junior sb111: folds 
+ELMORE GIBB: calls 50
+barto112: folds 
+maravikefrei: folds 
+rigo_zs: calls 50
+Renato.Mauro: folds 
+dfcastro.net: checks 
+*** FLOP *** [Th Jh 8h]
+dfcastro.net: checks 
+ELMORE GIBB: checks 
+rigo_zs: checks 
+*** TURN *** [Th Jh 8h] [6c]
+dfcastro.net: checks 
+ELMORE GIBB: checks 
+rigo_zs: bets 100
+dfcastro.net: folds 
+ELMORE GIBB: calls 100
+*** RIVER *** [Th Jh 8h 6c] [Qh]
+ELMORE GIBB: checks 
+rigo_zs: checks 
+*** SHOW DOWN ***
+ELMORE GIBB: shows [9s Jc] (a straight, Eight to Queen)
+rigo_zs: mucks hand 
+ELMORE GIBB collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [Th Jh 8h 6c Qh]
+Seat 1: rigo_zs (button) mucked [Jd Qc]
+Seat 3: Renato.Mauro (small blind) folded before Flop
+Seat 4: dfcastro.net (big blind) folded on the Turn
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB showed [9s Jc] and won (375) with a straight, Eight to Queen
+Seat 8: barto112 folded before Flop (didn't bet)
+Seat 9: maravikefrei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100741126830: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2013/06/29 16:19:03 BRT [2013/06/29 15:19:03 ET]
+Table '754035897 8' 9-max Seat #3 is the button
+Seat 1: rigo_zs (3560 in chips) 
+Seat 2: genevaboy23 (5610 in chips) 
+Seat 3: Renato.Mauro (4400 in chips) 
+Seat 4: dfcastro.net (2325 in chips) 
+Seat 5: maximusvm (3485 in chips) 
+Seat 6: junior sb111 (1225 in chips) 
+Seat 7: ELMORE GIBB (1755 in chips) 
+Seat 8: barto112 (2810 in chips) 
+Seat 9: maravikefrei (2260 in chips) 
+dfcastro.net: posts small blind 25
+maximusvm: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ac 6s]
+junior sb111: folds 
+ELMORE GIBB: calls 50
+barto112: folds 
+maravikefrei: folds 
+rigo_zs: folds 
+genevaboy23: folds 
+Renato.Mauro: calls 50
+dfcastro.net: folds 
+maximusvm: checks 
+*** FLOP *** [Jh Qh Td]
+maximusvm: checks 
+ELMORE GIBB: checks 
+Renato.Mauro: bets 100
+maximusvm: folds 
+ELMORE GIBB: calls 100
+*** TURN *** [Jh Qh Td] [9h]
+ELMORE GIBB: checks 
+Renato.Mauro: bets 100
+ELMORE GIBB: calls 100
+*** RIVER *** [Jh Qh Td 9h] [7h]
+ELMORE GIBB: bets 1505 and is all-in
+Renato.Mauro: folds 
+Uncalled bet (1505) returned to ELMORE GIBB
+ELMORE GIBB collected 575 from pot
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Board [Jh Qh Td 9h 7h]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: genevaboy23 folded before Flop (didn't bet)
+Seat 3: Renato.Mauro (button) folded on the River
+Seat 4: dfcastro.net (small blind) folded before Flop
+Seat 5: maximusvm (big blind) folded on the Flop
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB collected (575)
+Seat 8: barto112 folded before Flop (didn't bet)
+Seat 9: maravikefrei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100741221865: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2013/06/29 16:20:51 BRT [2013/06/29 15:20:51 ET]
+Table '754035897 8' 9-max Seat #4 is the button
+Seat 1: rigo_zs (3560 in chips) 
+Seat 2: genevaboy23 (5610 in chips) 
+Seat 3: Renato.Mauro (4150 in chips) 
+Seat 4: dfcastro.net (2300 in chips) 
+Seat 5: maximusvm (3435 in chips) 
+Seat 6: junior sb111 (1225 in chips) 
+Seat 7: ELMORE GIBB (2080 in chips) 
+Seat 8: barto112 (2810 in chips) 
+Seat 9: maravikefrei (2260 in chips) 
+maximusvm: posts small blind 25
+junior sb111: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kd 4s]
+ELMORE GIBB: calls 50
+barto112: folds 
+maravikefrei: folds 
+rigo_zs: folds 
+genevaboy23: folds 
+Renato.Mauro: calls 50
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: raises 1175 to 1225 and is all-in
+ELMORE GIBB: folds 
+Renato.Mauro: folds 
+Uncalled bet (1175) returned to junior sb111
+junior sb111 collected 175 from pot
+*** SUMMARY ***
+Total pot 175 | Rake 0 
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: genevaboy23 folded before Flop (didn't bet)
+Seat 3: Renato.Mauro folded before Flop
+Seat 4: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 5: maximusvm (small blind) folded before Flop
+Seat 6: junior sb111 (big blind) collected (175)
+Seat 7: ELMORE GIBB folded before Flop
+Seat 8: barto112 folded before Flop (didn't bet)
+Seat 9: maravikefrei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100741272121: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2013/06/29 16:21:49 BRT [2013/06/29 15:21:49 ET]
+Table '754035897 8' 9-max Seat #5 is the button
+Seat 1: rigo_zs (3560 in chips) 
+Seat 2: genevaboy23 (5610 in chips) 
+Seat 3: Renato.Mauro (4100 in chips) 
+Seat 4: dfcastro.net (2300 in chips) 
+Seat 5: maximusvm (3410 in chips) 
+Seat 6: junior sb111 (1350 in chips) 
+Seat 7: ELMORE GIBB (2030 in chips) 
+Seat 8: barto112 (2810 in chips) 
+Seat 9: maravikefrei (2260 in chips) 
+junior sb111: posts small blind 25
+ELMORE GIBB: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [9c 3h]
+barto112: calls 50
+maravikefrei: raises 100 to 150
+rigo_zs: folds 
+genevaboy23: calls 150
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: folds 
+ELMORE GIBB: calls 100
+barto112: calls 100
+*** FLOP *** [6c Qd 4h]
+ELMORE GIBB: checks 
+barto112: checks 
+maravikefrei: checks 
+genevaboy23: checks 
+*** TURN *** [6c Qd 4h] [Qs]
+ELMORE GIBB: checks 
+barto112: checks 
+maravikefrei: checks 
+genevaboy23: checks 
+*** RIVER *** [6c Qd 4h Qs] [9s]
+ELMORE GIBB: checks 
+barto112: checks 
+maravikefrei: checks 
+genevaboy23: checks 
+*** SHOW DOWN ***
+ELMORE GIBB: shows [Ks 2h] (a pair of Queens)
+barto112: shows [Tc Th] (two pair, Queens and Tens)
+maravikefrei: mucks hand 
+genevaboy23: mucks hand 
+barto112 collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | Rake 0 
+Board [6c Qd 4h Qs 9s]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: genevaboy23 mucked [2c 2d]
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm (button) folded before Flop (didn't bet)
+Seat 6: junior sb111 (small blind) folded before Flop
+Seat 7: ELMORE GIBB (big blind) showed [Ks 2h] and lost with a pair of Queens
+Seat 8: barto112 showed [Tc Th] and won (625) with two pair, Queens and Tens
+Seat 9: maravikefrei mucked [7s As]
+
+
+
+PokerStars Hand #100741380231: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2013/06/29 16:23:53 BRT [2013/06/29 15:23:53 ET]
+Table '754035897 8' 9-max Seat #6 is the button
+Seat 1: rigo_zs (3560 in chips) 
+Seat 2: genevaboy23 (5460 in chips) 
+Seat 3: Renato.Mauro (4100 in chips) 
+Seat 4: dfcastro.net (2300 in chips) 
+Seat 5: maximusvm (3410 in chips) 
+Seat 6: junior sb111 (1325 in chips) 
+Seat 7: ELMORE GIBB (1880 in chips) 
+Seat 8: barto112 (3285 in chips) 
+Seat 9: maravikefrei (2110 in chips) 
+ELMORE GIBB: posts small blind 25
+barto112: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Kd Js]
+maravikefrei: raises 300 to 350
+rigo_zs: folds 
+genevaboy23: folds 
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: folds 
+ELMORE GIBB: folds 
+barto112: folds 
+Uncalled bet (300) returned to maravikefrei
+maravikefrei collected 125 from pot
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: genevaboy23 folded before Flop (didn't bet)
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 (button) folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB (small blind) folded before Flop
+Seat 8: barto112 (big blind) folded before Flop
+Seat 9: maravikefrei collected (125)
+
+
+
+PokerStars Hand #100741409971: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2013/06/29 16:24:28 BRT [2013/06/29 15:24:28 ET]
+Table '754035897 8' 9-max Seat #7 is the button
+Seat 1: rigo_zs (3560 in chips) 
+Seat 2: genevaboy23 (5460 in chips) 
+Seat 3: Renato.Mauro (4100 in chips) 
+Seat 4: dfcastro.net (2300 in chips) 
+Seat 5: maximusvm (3410 in chips) 
+Seat 6: junior sb111 (1325 in chips) 
+Seat 7: ELMORE GIBB (1855 in chips) 
+Seat 8: barto112 (3235 in chips) 
+Seat 9: maravikefrei (2185 in chips) 
+barto112: posts small blind 25
+maravikefrei: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5s 9c]
+rigo_zs: folds 
+genevaboy23: raises 100 to 150
+Renato.Mauro: calls 150
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: folds 
+ELMORE GIBB: folds 
+barto112: folds 
+maravikefrei: calls 100
+*** FLOP *** [Qc 4d 2c]
+maravikefrei: checks 
+genevaboy23: bets 250
+Renato.Mauro: folds 
+maravikefrei: folds 
+Uncalled bet (250) returned to genevaboy23
+genevaboy23 collected 475 from pot
+*** SUMMARY ***
+Total pot 475 | Rake 0 
+Board [Qc 4d 2c]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: genevaboy23 collected (475)
+Seat 3: Renato.Mauro folded on the Flop
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB (button) folded before Flop (didn't bet)
+Seat 8: barto112 (small blind) folded before Flop
+Seat 9: maravikefrei (big blind) folded on the Flop
+
+
+
+PokerStars Hand #100741465547: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2013/06/29 16:25:32 BRT [2013/06/29 15:25:32 ET]
+Table '754035897 8' 9-max Seat #8 is the button
+Seat 1: rigo_zs (3560 in chips) 
+Seat 2: genevaboy23 (5785 in chips) 
+Seat 3: Renato.Mauro (3950 in chips) 
+Seat 4: dfcastro.net (2300 in chips) 
+Seat 5: maximusvm (3410 in chips) 
+Seat 6: junior sb111 (1325 in chips) 
+Seat 7: ELMORE GIBB (1855 in chips) 
+Seat 8: barto112 (3210 in chips) 
+Seat 9: maravikefrei (2035 in chips) 
+maravikefrei: posts small blind 25
+rigo_zs: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4c 9c]
+genevaboy23: raises 50 to 100
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: folds 
+ELMORE GIBB: calls 100
+barto112: folds 
+maravikefrei: folds 
+rigo_zs: folds 
+*** FLOP *** [3h 9s 9d]
+genevaboy23: bets 150
+ELMORE GIBB: folds 
+Uncalled bet (150) returned to genevaboy23
+genevaboy23 collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | Rake 0 
+Board [3h 9s 9d]
+Seat 1: rigo_zs (big blind) folded before Flop
+Seat 2: genevaboy23 collected (275)
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB folded on the Flop
+Seat 8: barto112 (button) folded before Flop (didn't bet)
+Seat 9: maravikefrei (small blind) folded before Flop
+
+
+
+PokerStars Hand #100741510851: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2013/06/29 16:26:24 BRT [2013/06/29 15:26:24 ET]
+Table '754035897 8' 9-max Seat #9 is the button
+Seat 1: rigo_zs (3510 in chips) 
+Seat 2: genevaboy23 (5960 in chips) 
+Seat 3: Renato.Mauro (3950 in chips) 
+Seat 4: dfcastro.net (2300 in chips) 
+Seat 5: maximusvm (3410 in chips) 
+Seat 6: junior sb111 (1325 in chips) 
+Seat 7: ELMORE GIBB (1755 in chips) 
+Seat 8: barto112 (3210 in chips) 
+Seat 9: maravikefrei (2010 in chips) 
+rigo_zs: posts small blind 25
+genevaboy23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6c Ts]
+Renato.Mauro: calls 50
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: folds 
+ELMORE GIBB: calls 50
+barto112: calls 50
+maravikefrei: calls 50
+rigo_zs: folds 
+genevaboy23: checks 
+*** FLOP *** [Qd Ac 9d]
+genevaboy23: checks 
+Renato.Mauro: bets 150
+ELMORE GIBB: raises 150 to 300
+barto112: folds 
+maravikefrei: folds 
+genevaboy23: folds 
+Renato.Mauro: calls 150
+*** TURN *** [Qd Ac 9d] [Qs]
+Renato.Mauro: bets 150
+ELMORE GIBB: calls 150
+*** RIVER *** [Qd Ac 9d Qs] [2c]
+Renato.Mauro: bets 150
+ELMORE GIBB: calls 150
+*** SHOW DOWN ***
+Renato.Mauro: shows [Js Kd] (a pair of Queens)
+ELMORE GIBB: shows [Ad 4d] (two pair, Aces and Queens)
+ELMORE GIBB collected 1475 from pot
+*** SUMMARY ***
+Total pot 1475 | Rake 0 
+Board [Qd Ac 9d Qs 2c]
+Seat 1: rigo_zs (small blind) folded before Flop
+Seat 2: genevaboy23 (big blind) folded on the Flop
+Seat 3: Renato.Mauro showed [Js Kd] and lost with a pair of Queens
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB showed [Ad 4d] and won (1475) with two pair, Aces and Queens
+Seat 8: barto112 folded on the Flop
+Seat 9: maravikefrei (button) folded on the Flop
+
+
+
+PokerStars Hand #100741618985: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2013/06/29 16:28:30 BRT [2013/06/29 15:28:30 ET]
+Table '754035897 8' 9-max Seat #1 is the button
+Seat 1: rigo_zs (3485 in chips) 
+Seat 2: genevaboy23 (5910 in chips) 
+Seat 3: Renato.Mauro (3300 in chips) 
+Seat 4: dfcastro.net (2300 in chips) 
+Seat 5: maximusvm (3410 in chips) 
+Seat 6: junior sb111 (1325 in chips) 
+Seat 7: ELMORE GIBB (2580 in chips) 
+Seat 9: maravikefrei (1960 in chips) 
+genevaboy23: posts small blind 25
+Renato.Mauro: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dfcastro.net [7c 5h]
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: folds 
+ELMORE GIBB: calls 50
+maravikefrei: folds 
+rigo_zs: calls 50
+genevaboy23: calls 25
+Renato.Mauro: raises 50 to 100
+ELMORE GIBB: calls 50
+rigo_zs: calls 50
+genevaboy23: calls 50
+*** FLOP *** [9h 5d 5s]
+genevaboy23: bets 200
+Renato.Mauro: folds 
+ELMORE GIBB: folds 
+rigo_zs: folds 
+Uncalled bet (200) returned to genevaboy23
+genevaboy23 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [9h 5d 5s]
+Seat 1: rigo_zs (button) folded on the Flop
+Seat 2: genevaboy23 (small blind) collected (400)
+Seat 3: Renato.Mauro (big blind) folded on the Flop
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB folded on the Flop
+Seat 9: maravikefrei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100741689684: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level IV (50/100) - 2013/06/29 16:29:51 BRT [2013/06/29 15:29:51 ET]
+Table '754035897 8' 9-max Seat #2 is the button
+Seat 1: rigo_zs (3385 in chips) 
+Seat 2: genevaboy23 (6210 in chips) 
+Seat 3: Renato.Mauro (3200 in chips) 
+Seat 4: dfcastro.net (2300 in chips) 
+Seat 5: maximusvm (3410 in chips) 
+Seat 6: junior sb111 (1325 in chips) 
+Seat 7: ELMORE GIBB (2480 in chips) 
+Seat 9: maravikefrei (1960 in chips) 
+Renato.Mauro: posts small blind 50
+dfcastro.net: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ac 9h]
+maximusvm: folds 
+junior sb111: folds 
+ELMORE GIBB: folds 
+maravikefrei: raises 200 to 300
+rigo_zs: folds 
+genevaboy23: folds 
+Renato.Mauro: folds 
+dfcastro.net: calls 200
+*** FLOP *** [6h 6c 4h]
+dfcastro.net: checks 
+maravikefrei: bets 1660 and is all-in
+dfcastro.net: folds 
+Uncalled bet (1660) returned to maravikefrei
+maravikefrei collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [6h 6c 4h]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: genevaboy23 (button) folded before Flop (didn't bet)
+Seat 3: Renato.Mauro (small blind) folded before Flop
+Seat 4: dfcastro.net (big blind) folded on the Flop
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB folded before Flop (didn't bet)
+Seat 9: maravikefrei collected (650)
+
+
+
+PokerStars Hand #100741745974: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level IV (50/100) - 2013/06/29 16:30:50 BRT [2013/06/29 15:30:50 ET]
+Table '754035897 8' 9-max Seat #3 is the button
+Seat 1: rigo_zs (3385 in chips) 
+Seat 2: genevaboy23 (6210 in chips) 
+Seat 3: Renato.Mauro (3150 in chips) 
+Seat 4: dfcastro.net (2000 in chips) 
+Seat 5: maximusvm (3410 in chips) 
+Seat 6: junior sb111 (1325 in chips) 
+Seat 7: ELMORE GIBB (2480 in chips) 
+Seat 9: maravikefrei (2310 in chips) 
+dfcastro.net: posts small blind 50
+maximusvm: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4c 5d]
+junior sb111: folds 
+ELMORE GIBB: folds 
+maravikefrei: folds 
+rigo_zs has timed out
+rigo_zs: folds 
+rigo_zs is sitting out
+genevaboy23: raises 100 to 200
+Renato.Mauro: calls 200
+dfcastro.net: folds 
+maximusvm: calls 100
+*** FLOP *** [7d Ac 8s]
+rigo_zs has returned
+maximusvm: checks 
+genevaboy23: checks 
+Renato.Mauro: bets 100
+maximusvm: folds 
+genevaboy23: calls 100
+*** TURN *** [7d Ac 8s] [4d]
+genevaboy23: checks 
+Renato.Mauro: bets 200
+genevaboy23: calls 200
+*** RIVER *** [7d Ac 8s 4d] [8d]
+genevaboy23: checks 
+Renato.Mauro: bets 700
+genevaboy23: folds 
+Uncalled bet (700) returned to Renato.Mauro
+Renato.Mauro collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Board [7d Ac 8s 4d 8d]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: genevaboy23 folded on the River
+Seat 3: Renato.Mauro (button) collected (1250)
+Seat 4: dfcastro.net (small blind) folded before Flop
+Seat 5: maximusvm (big blind) folded on the Flop
+Seat 6: junior sb111 folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB folded before Flop (didn't bet)
+Seat 9: maravikefrei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100741824731: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level IV (50/100) - 2013/06/29 16:32:12 BRT [2013/06/29 15:32:12 ET]
+Table '754035897 8' 9-max Seat #4 is the button
+Seat 1: rigo_zs (3385 in chips) 
+Seat 2: genevaboy23 (5710 in chips) 
+Seat 3: Renato.Mauro (3900 in chips) 
+Seat 4: dfcastro.net (1950 in chips) 
+Seat 5: maximusvm (3210 in chips) 
+Seat 6: junior sb111 (1325 in chips) 
+Seat 7: ELMORE GIBB (2480 in chips) 
+Seat 9: maravikefrei (2310 in chips) 
+maximusvm: posts small blind 50
+junior sb111: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4s 3d]
+ELMORE GIBB: calls 100
+maravikefrei: raises 100 to 200
+rigo_zs: folds 
+genevaboy23 has timed out
+genevaboy23: folds 
+genevaboy23 is sitting out
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: calls 100
+ELMORE GIBB: calls 100
+*** FLOP *** [Ts Qc 2c]
+junior sb111: checks 
+ELMORE GIBB: bets 100
+maravikefrei: calls 100
+junior sb111: folds 
+*** TURN *** [Ts Qc 2c] [3c]
+ELMORE GIBB: bets 100
+maravikefrei: calls 100
+*** RIVER *** [Ts Qc 2c 3c] [2s]
+genevaboy23 has returned
+ELMORE GIBB: bets 100
+maravikefrei: folds 
+Uncalled bet (100) returned to ELMORE GIBB
+ELMORE GIBB collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [Ts Qc 2c 3c 2s]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: genevaboy23 folded before Flop (didn't bet)
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 5: maximusvm (small blind) folded before Flop
+Seat 6: junior sb111 (big blind) folded on the Flop
+Seat 7: ELMORE GIBB collected (1050)
+Seat 9: maravikefrei folded on the River
+
+
+
+PokerStars Hand #100741890644: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level IV (50/100) - 2013/06/29 16:33:22 BRT [2013/06/29 15:33:22 ET]
+Table '754035897 8' 9-max Seat #5 is the button
+Seat 1: rigo_zs (3385 in chips) 
+Seat 2: genevaboy23 (5710 in chips) 
+Seat 3: Renato.Mauro (3900 in chips) 
+Seat 4: dfcastro.net (1950 in chips) 
+Seat 5: maximusvm (3160 in chips) 
+Seat 6: junior sb111 (1125 in chips) 
+Seat 7: ELMORE GIBB (3130 in chips) 
+Seat 9: maravikefrei (1910 in chips) 
+junior sb111: posts small blind 50
+ELMORE GIBB: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6s Jc]
+maravikefrei: raises 200 to 300
+rigo_zs: folds 
+genevaboy23: calls 300
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: folds 
+ELMORE GIBB: calls 200
+*** FLOP *** [Jd Ad 2h]
+ELMORE GIBB: checks 
+maravikefrei: bets 1610 and is all-in
+genevaboy23: folds 
+ELMORE GIBB: folds 
+Uncalled bet (1610) returned to maravikefrei
+maravikefrei collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [Jd Ad 2h]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: genevaboy23 folded on the Flop
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm (button) folded before Flop (didn't bet)
+Seat 6: junior sb111 (small blind) folded before Flop
+Seat 7: ELMORE GIBB (big blind) folded on the Flop
+Seat 9: maravikefrei collected (950)
+
+
+
+PokerStars Hand #100741962216: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level IV (50/100) - 2013/06/29 16:34:37 BRT [2013/06/29 15:34:37 ET]
+Table '754035897 8' 9-max Seat #6 is the button
+Seat 1: rigo_zs (3385 in chips) 
+Seat 2: genevaboy23 (5410 in chips) 
+Seat 3: Renato.Mauro (3900 in chips) 
+Seat 4: dfcastro.net (1950 in chips) 
+Seat 5: maximusvm (3160 in chips) 
+Seat 6: junior sb111 (1075 in chips) 
+Seat 7: ELMORE GIBB (2830 in chips) 
+Seat 8: Scorp_pl (905 in chips) 
+Seat 9: maravikefrei (2560 in chips) 
+ELMORE GIBB: posts small blind 50
+Scorp_pl: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qc 5c]
+maravikefrei: folds 
+rigo_zs: folds 
+genevaboy23: folds 
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: raises 975 to 1075 and is all-in
+ELMORE GIBB: folds 
+Scorp_pl: folds 
+Uncalled bet (975) returned to junior sb111
+junior sb111 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: genevaboy23 folded before Flop (didn't bet)
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 (button) collected (250)
+Seat 7: ELMORE GIBB (small blind) folded before Flop
+Seat 8: Scorp_pl (big blind) folded before Flop
+Seat 9: maravikefrei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100741993735: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level IV (50/100) - 2013/06/29 16:35:10 BRT [2013/06/29 15:35:10 ET]
+Table '754035897 8' 9-max Seat #7 is the button
+Seat 1: rigo_zs (3385 in chips) 
+Seat 2: genevaboy23 (5410 in chips) 
+Seat 3: Renato.Mauro (3900 in chips) 
+Seat 4: dfcastro.net (1950 in chips) 
+Seat 5: maximusvm (3160 in chips) 
+Seat 6: junior sb111 (1225 in chips) 
+Seat 7: ELMORE GIBB (2780 in chips) 
+Seat 8: Scorp_pl (805 in chips) 
+Seat 9: maravikefrei (2560 in chips) 
+Scorp_pl: posts small blind 50
+maravikefrei: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6h Qs]
+rigo_zs: folds 
+genevaboy23: folds 
+Renato.Mauro: calls 100
+dfcastro.net: folds 
+maximusvm: folds 
+junior sb111: raises 1125 to 1225 and is all-in
+ELMORE GIBB: folds 
+Scorp_pl: folds 
+maravikefrei: folds 
+Renato.Mauro: calls 1125
+*** FLOP *** [Tc 6c 7h]
+*** TURN *** [Tc 6c 7h] [3h]
+*** RIVER *** [Tc 6c 7h 3h] [Th]
+*** SHOW DOWN ***
+Renato.Mauro: shows [Ts Ad] (three of a kind, Tens)
+junior sb111: shows [9s As] (a pair of Tens)
+Renato.Mauro collected 2600 from pot
+junior sb111 finished the tournament in 45th place
+*** SUMMARY ***
+Total pot 2600 | Rake 0 
+Board [Tc 6c 7h 3h Th]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: genevaboy23 folded before Flop (didn't bet)
+Seat 3: Renato.Mauro showed [Ts Ad] and won (2600) with three of a kind, Tens
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 6: junior sb111 showed [9s As] and lost with a pair of Tens
+Seat 7: ELMORE GIBB (button) folded before Flop (didn't bet)
+Seat 8: Scorp_pl (small blind) folded before Flop
+Seat 9: maravikefrei (big blind) folded before Flop
+
+
+
+PokerStars Hand #100742052639: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level IV (50/100) - 2013/06/29 16:36:13 BRT [2013/06/29 15:36:13 ET]
+Table '754035897 8' 9-max Seat #8 is the button
+Seat 1: rigo_zs (3385 in chips) 
+Seat 2: genevaboy23 (5410 in chips) 
+Seat 3: Renato.Mauro (5275 in chips) 
+Seat 4: dfcastro.net (1950 in chips) 
+Seat 5: maximusvm (3160 in chips) 
+Seat 7: ELMORE GIBB (2780 in chips) 
+Seat 8: Scorp_pl (755 in chips) 
+Seat 9: maravikefrei (2460 in chips) 
+maravikefrei: posts small blind 50
+rigo_zs: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [8c 2h]
+genevaboy23: raises 200 to 300
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: folds 
+ELMORE GIBB: folds 
+Scorp_pl: folds 
+maravikefrei: folds 
+rigo_zs: folds 
+Uncalled bet (200) returned to genevaboy23
+genevaboy23 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: rigo_zs (big blind) folded before Flop
+Seat 2: genevaboy23 collected (250)
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB folded before Flop (didn't bet)
+Seat 8: Scorp_pl (button) folded before Flop (didn't bet)
+Seat 9: maravikefrei (small blind) folded before Flop
+
+
+
+PokerStars Hand #100742087070: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level IV (50/100) - 2013/06/29 16:36:49 BRT [2013/06/29 15:36:49 ET]
+Table '754035897 8' 9-max Seat #9 is the button
+Seat 1: rigo_zs (3285 in chips) 
+Seat 2: genevaboy23 (5560 in chips) 
+Seat 3: Renato.Mauro (5275 in chips) 
+Seat 4: dfcastro.net (1950 in chips) 
+Seat 5: maximusvm (3160 in chips) 
+Seat 7: ELMORE GIBB (2780 in chips) 
+Seat 8: Scorp_pl (755 in chips) 
+Seat 9: maravikefrei (2410 in chips) 
+rigo_zs: posts small blind 50
+genevaboy23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5c 3d]
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: folds 
+ELMORE GIBB has timed out
+ELMORE GIBB: folds 
+ELMORE GIBB is sitting out
+Scorp_pl: folds 
+maravikefrei: folds 
+rigo_zs: calls 50
+ELMORE GIBB has returned
+genevaboy23: checks 
+*** FLOP *** [Jh 8d 7d]
+rigo_zs: bets 200
+genevaboy23: folds 
+Uncalled bet (200) returned to rigo_zs
+rigo_zs collected 200 from pot
+rigo_zs: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Jh 8d 7d]
+Seat 1: rigo_zs (small blind) collected (200)
+Seat 2: genevaboy23 (big blind) folded on the Flop
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB folded before Flop (didn't bet)
+Seat 8: Scorp_pl folded before Flop (didn't bet)
+Seat 9: maravikefrei (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100742141040: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level IV (50/100) - 2013/06/29 16:37:47 BRT [2013/06/29 15:37:47 ET]
+Table '754035897 8' 9-max Seat #1 is the button
+Seat 1: rigo_zs (3385 in chips) 
+Seat 2: genevaboy23 (5460 in chips) 
+Seat 3: Renato.Mauro (5275 in chips) 
+Seat 4: dfcastro.net (1950 in chips) 
+Seat 5: maximusvm (3160 in chips) 
+Seat 7: ELMORE GIBB (2780 in chips) 
+Seat 8: Scorp_pl (755 in chips) 
+Seat 9: maravikefrei (2410 in chips) 
+genevaboy23: posts small blind 50
+Renato.Mauro: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ks 8c]
+dfcastro.net: folds 
+maximusvm: folds 
+ELMORE GIBB has timed out
+ELMORE GIBB: folds 
+ELMORE GIBB is sitting out
+Scorp_pl: folds 
+maravikefrei: folds 
+rigo_zs: calls 100
+genevaboy23: raises 200 to 300
+Renato.Mauro: folds 
+rigo_zs: calls 200
+*** FLOP *** [Ah Qs 5c]
+ELMORE GIBB has returned
+genevaboy23: bets 100
+rigo_zs: calls 100
+*** TURN *** [Ah Qs 5c] [Js]
+genevaboy23: bets 100
+rigo_zs: calls 100
+*** RIVER *** [Ah Qs 5c Js] [7h]
+genevaboy23: bets 200
+rigo_zs: calls 200
+*** SHOW DOWN ***
+genevaboy23: shows [Ac As] (three of a kind, Aces)
+rigo_zs: mucks hand 
+genevaboy23 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [Ah Qs 5c Js 7h]
+Seat 1: rigo_zs (button) mucked [Kc 9h]
+Seat 2: genevaboy23 (small blind) showed [Ac As] and won (1500) with three of a kind, Aces
+Seat 3: Renato.Mauro (big blind) folded before Flop
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB folded before Flop (didn't bet)
+Seat 8: Scorp_pl folded before Flop (didn't bet)
+Seat 9: maravikefrei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100742201926: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level IV (50/100) - 2013/06/29 16:38:53 BRT [2013/06/29 15:38:53 ET]
+Table '754035897 8' 9-max Seat #2 is the button
+Seat 1: rigo_zs (2685 in chips) 
+Seat 2: genevaboy23 (6260 in chips) 
+Seat 3: Renato.Mauro (5175 in chips) 
+Seat 4: dfcastro.net (1950 in chips) 
+Seat 5: maximusvm (3160 in chips) 
+Seat 7: ELMORE GIBB (2780 in chips) 
+Seat 8: Scorp_pl (755 in chips) 
+Seat 9: maravikefrei (2410 in chips) 
+Renato.Mauro: posts small blind 50
+dfcastro.net: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5s 7h]
+maximusvm: folds 
+ELMORE GIBB: calls 100
+Scorp_pl: folds 
+maravikefrei: folds 
+rigo_zs: calls 100
+genevaboy23: folds 
+Renato.Mauro: calls 50
+dfcastro.net: checks 
+*** FLOP *** [8h 3h 4h]
+Renato.Mauro: checks 
+dfcastro.net: checks 
+ELMORE GIBB: checks 
+rigo_zs: checks 
+*** TURN *** [8h 3h 4h] [Qc]
+Renato.Mauro: checks 
+dfcastro.net: checks 
+ELMORE GIBB: checks 
+rigo_zs: checks 
+*** RIVER *** [8h 3h 4h Qc] [8s]
+Renato.Mauro: bets 100
+dfcastro.net: folds 
+ELMORE GIBB: calls 100
+rigo_zs: folds 
+*** SHOW DOWN ***
+Renato.Mauro: shows [Ts 9s] (a pair of Eights)
+ELMORE GIBB: shows [Jd Qd] (two pair, Queens and Eights)
+ELMORE GIBB collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [8h 3h 4h Qc 8s]
+Seat 1: rigo_zs folded on the River
+Seat 2: genevaboy23 (button) folded before Flop (didn't bet)
+Seat 3: Renato.Mauro (small blind) showed [Ts 9s] and lost with a pair of Eights
+Seat 4: dfcastro.net (big blind) folded on the River
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB showed [Jd Qd] and won (600) with two pair, Queens and Eights
+Seat 8: Scorp_pl folded before Flop (didn't bet)
+Seat 9: maravikefrei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100742280885: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level IV (50/100) - 2013/06/29 16:40:20 BRT [2013/06/29 15:40:20 ET]
+Table '754035897 8' 9-max Seat #3 is the button
+Seat 1: rigo_zs (2585 in chips) 
+Seat 2: genevaboy23 (6260 in chips) 
+Seat 3: Renato.Mauro (4975 in chips) 
+Seat 4: dfcastro.net (1850 in chips) 
+Seat 5: maximusvm (3160 in chips) 
+Seat 7: ELMORE GIBB (3180 in chips) 
+Seat 8: Scorp_pl (755 in chips) 
+Seat 9: maravikefrei (2410 in chips) 
+dfcastro.net: posts small blind 50
+maximusvm: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Qc 9d]
+ELMORE GIBB: calls 100
+Scorp_pl: folds 
+maravikefrei: raises 2310 to 2410 and is all-in
+rigo_zs: folds 
+genevaboy23: calls 2410
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: folds 
+ELMORE GIBB: folds 
+*** FLOP *** [7d Jh Kc]
+*** TURN *** [7d Jh Kc] [8s]
+*** RIVER *** [7d Jh Kc 8s] [Td]
+*** SHOW DOWN ***
+maravikefrei: shows [As Qh] (a straight, Ten to Ace)
+genevaboy23: shows [Ad Ac] (a pair of Aces)
+maravikefrei collected 5070 from pot
+*** SUMMARY ***
+Total pot 5070 | Rake 0 
+Board [7d Jh Kc 8s Td]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: genevaboy23 showed [Ad Ac] and lost with a pair of Aces
+Seat 3: Renato.Mauro (button) folded before Flop (didn't bet)
+Seat 4: dfcastro.net (small blind) folded before Flop
+Seat 5: maximusvm (big blind) folded before Flop
+Seat 7: ELMORE GIBB folded before Flop
+Seat 8: Scorp_pl folded before Flop (didn't bet)
+Seat 9: maravikefrei showed [As Qh] and won (5070) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #100742325069: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level IV (50/100) - 2013/06/29 16:41:09 BRT [2013/06/29 15:41:09 ET]
+Table '754035897 8' 9-max Seat #4 is the button
+Seat 1: rigo_zs (2585 in chips) 
+Seat 2: genevaboy23 (3850 in chips) 
+Seat 3: Renato.Mauro (4975 in chips) 
+Seat 4: dfcastro.net (1800 in chips) 
+Seat 5: maximusvm (3060 in chips) 
+Seat 7: ELMORE GIBB (3080 in chips) 
+Seat 8: Scorp_pl (755 in chips) 
+Seat 9: maravikefrei (5070 in chips) 
+maximusvm: posts small blind 50
+ELMORE GIBB: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Tc 7d]
+Scorp_pl: folds 
+maravikefrei: folds 
+rigo_zs: calls 100
+genevaboy23: calls 100
+Renato.Mauro: calls 100
+dfcastro.net: folds 
+maximusvm: folds 
+ELMORE GIBB: checks 
+*** FLOP *** [9c Jc Js]
+ELMORE GIBB: checks 
+rigo_zs: checks 
+genevaboy23: checks 
+Renato.Mauro: bets 100
+ELMORE GIBB: calls 100
+rigo_zs: folds 
+genevaboy23: folds 
+*** TURN *** [9c Jc Js] [9s]
+ELMORE GIBB: checks 
+Renato.Mauro: bets 200
+ELMORE GIBB: calls 200
+*** RIVER *** [9c Jc Js 9s] [Jd]
+ELMORE GIBB: checks 
+Renato.Mauro: bets 300
+ELMORE GIBB: calls 300
+*** SHOW DOWN ***
+Renato.Mauro: shows [3h Jh] (four of a kind, Jacks)
+ELMORE GIBB: mucks hand 
+Renato.Mauro collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [9c Jc Js 9s Jd]
+Seat 1: rigo_zs folded on the Flop
+Seat 2: genevaboy23 folded on the Flop
+Seat 3: Renato.Mauro showed [3h Jh] and won (1650) with four of a kind, Jacks
+Seat 4: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 5: maximusvm (small blind) folded before Flop
+Seat 7: ELMORE GIBB (big blind) mucked [Ac 3d]
+Seat 8: Scorp_pl folded before Flop (didn't bet)
+Seat 9: maravikefrei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100742410818: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level IV (50/100) - 2013/06/29 16:42:45 BRT [2013/06/29 15:42:45 ET]
+Table '754035897 8' 9-max Seat #5 is the button
+Seat 1: rigo_zs (2485 in chips) 
+Seat 2: genevaboy23 (3750 in chips) 
+Seat 3: Renato.Mauro (5925 in chips) 
+Seat 4: dfcastro.net (1800 in chips) 
+Seat 5: maximusvm (3010 in chips) 
+Seat 7: ELMORE GIBB (2380 in chips) 
+Seat 8: Scorp_pl (755 in chips) 
+Seat 9: maravikefrei (5070 in chips) 
+ELMORE GIBB: posts small blind 50
+Scorp_pl: posts big blind 100
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ad 7s]
+maravikefrei: folds 
+rigo_zs: folds 
+genevaboy23: folds 
+Renato.Mauro: calls 100
+dfcastro.net: raises 120 to 220
+maximusvm: folds 
+ELMORE GIBB: calls 170
+Scorp_pl: folds 
+Renato.Mauro: calls 120
+*** FLOP *** [Qc 9h 7d]
+ELMORE GIBB: checks 
+Renato.Mauro: checks 
+dfcastro.net: checks 
+*** TURN *** [Qc 9h 7d] [6d]
+ELMORE GIBB: checks 
+Renato.Mauro: bets 100
+dfcastro.net: raises 300 to 400
+ELMORE GIBB: folds 
+Renato.Mauro: folds 
+Uncalled bet (300) returned to dfcastro.net
+dfcastro.net collected 960 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Qc 9h 7d 6d]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: genevaboy23 folded before Flop (didn't bet)
+Seat 3: Renato.Mauro folded on the Turn
+Seat 4: dfcastro.net collected (960)
+Seat 5: maximusvm (button) folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB (small blind) folded on the Turn
+Seat 8: Scorp_pl (big blind) folded before Flop
+Seat 9: maravikefrei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100742499857: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 16:44:26 BRT [2013/06/29 15:44:26 ET]
+Table '754035897 8' 9-max Seat #7 is the button
+Seat 1: rigo_zs (2485 in chips) 
+Seat 2: genevaboy23 (3750 in chips) 
+Seat 3: Renato.Mauro (5605 in chips) 
+Seat 4: dfcastro.net (2440 in chips) 
+Seat 5: maximusvm (3010 in chips) 
+Seat 7: ELMORE GIBB (2160 in chips) 
+Seat 8: Scorp_pl (655 in chips) 
+Seat 9: maravikefrei (5070 in chips) 
+Scorp_pl: posts small blind 75
+maravikefrei: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5d 5s]
+rigo_zs: calls 150
+genevaboy23: folds 
+Renato.Mauro: folds 
+dfcastro.net: raises 180 to 330
+maximusvm: folds 
+ELMORE GIBB: calls 330
+Scorp_pl: folds 
+maravikefrei: calls 180
+rigo_zs: calls 180
+*** FLOP *** [3s Qs Ks]
+maravikefrei: checks 
+rigo_zs: bets 2155 and is all-in
+dfcastro.net: folds 
+ELMORE GIBB: folds 
+maravikefrei: folds 
+Uncalled bet (2155) returned to rigo_zs
+rigo_zs collected 1395 from pot
+rigo_zs: doesn't show hand 
+*** SUMMARY ***
+Total pot 1395 | Rake 0 
+Board [3s Qs Ks]
+Seat 1: rigo_zs collected (1395)
+Seat 2: genevaboy23 folded before Flop (didn't bet)
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net folded on the Flop
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB (button) folded on the Flop
+Seat 8: Scorp_pl (small blind) folded before Flop
+Seat 9: maravikefrei (big blind) folded on the Flop
+
+
+
+PokerStars Hand #100742564019: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 16:45:38 BRT [2013/06/29 15:45:38 ET]
+Table '754035897 8' 9-max Seat #8 is the button
+Seat 1: rigo_zs (3550 in chips) 
+Seat 2: genevaboy23 (3750 in chips) 
+Seat 3: Renato.Mauro (5605 in chips) 
+Seat 4: dfcastro.net (2110 in chips) 
+Seat 5: maximusvm (3010 in chips) 
+Seat 7: ELMORE GIBB (1830 in chips) 
+Seat 8: Scorp_pl (580 in chips) 
+Seat 9: maravikefrei (4740 in chips) 
+maravikefrei: posts small blind 75
+rigo_zs: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [6h 2d]
+genevaboy23: folds 
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: folds 
+ELMORE GIBB: folds 
+Scorp_pl: raises 430 to 580 and is all-in
+maravikefrei: folds 
+rigo_zs: folds 
+Uncalled bet (430) returned to Scorp_pl
+Scorp_pl collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: rigo_zs (big blind) folded before Flop
+Seat 2: genevaboy23 folded before Flop (didn't bet)
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB folded before Flop (didn't bet)
+Seat 8: Scorp_pl (button) collected (375)
+Seat 9: maravikefrei (small blind) folded before Flop
+
+
+
+PokerStars Hand #100742609267: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 16:46:29 BRT [2013/06/29 15:46:29 ET]
+Table '754035897 8' 9-max Seat #9 is the button
+Seat 1: rigo_zs (3400 in chips) 
+Seat 2: genevaboy23 (3750 in chips) 
+Seat 3: Renato.Mauro (5605 in chips) 
+Seat 4: dfcastro.net (2110 in chips) 
+Seat 5: maximusvm (3010 in chips) 
+Seat 7: ELMORE GIBB (1830 in chips) 
+Seat 8: Scorp_pl (805 in chips) 
+Seat 9: maravikefrei (4665 in chips) 
+rigo_zs: posts small blind 75
+genevaboy23: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [9s 6c]
+Renato.Mauro: calls 150
+dfcastro.net: folds 
+maximusvm: folds 
+ELMORE GIBB: folds 
+Scorp_pl: folds 
+maravikefrei: folds 
+rigo_zs: folds 
+genevaboy23: checks 
+*** FLOP *** [8h Js Tc]
+genevaboy23: checks 
+Renato.Mauro: bets 150
+genevaboy23: folds 
+Uncalled bet (150) returned to Renato.Mauro
+Renato.Mauro collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [8h Js Tc]
+Seat 1: rigo_zs (small blind) folded before Flop
+Seat 2: genevaboy23 (big blind) folded on the Flop
+Seat 3: Renato.Mauro collected (375)
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB folded before Flop (didn't bet)
+Seat 8: Scorp_pl folded before Flop (didn't bet)
+Seat 9: maravikefrei (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100742650572: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 16:47:16 BRT [2013/06/29 15:47:16 ET]
+Table '754035897 8' 9-max Seat #1 is the button
+Seat 1: rigo_zs (3325 in chips) 
+Seat 2: genevaboy23 (3600 in chips) 
+Seat 3: Renato.Mauro (5830 in chips) 
+Seat 4: dfcastro.net (2110 in chips) 
+Seat 5: maximusvm (3010 in chips) 
+Seat 7: ELMORE GIBB (1830 in chips) 
+Seat 8: Scorp_pl (805 in chips) 
+Seat 9: maravikefrei (4665 in chips) 
+genevaboy23: posts small blind 75
+Renato.Mauro: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2c Qd]
+dfcastro.net: folds 
+maximusvm: folds 
+ELMORE GIBB: folds 
+Scorp_pl: raises 300 to 450
+maravikefrei: folds 
+rigo_zs: folds 
+genevaboy23: folds 
+Renato.Mauro: folds 
+Uncalled bet (300) returned to Scorp_pl
+Scorp_pl collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: rigo_zs (button) folded before Flop (didn't bet)
+Seat 2: genevaboy23 (small blind) folded before Flop
+Seat 3: Renato.Mauro (big blind) folded before Flop
+Seat 4: dfcastro.net folded before Flop (didn't bet)
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB folded before Flop (didn't bet)
+Seat 8: Scorp_pl collected (375)
+Seat 9: maravikefrei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100742676364: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 16:47:45 BRT [2013/06/29 15:47:45 ET]
+Table '754035897 8' 9-max Seat #2 is the button
+Seat 1: rigo_zs (3325 in chips) 
+Seat 2: genevaboy23 (3525 in chips) 
+Seat 3: Renato.Mauro (5680 in chips) 
+Seat 4: dfcastro.net (2110 in chips) 
+Seat 5: maximusvm (3010 in chips) 
+Seat 7: ELMORE GIBB (1830 in chips) 
+Seat 8: Scorp_pl (1030 in chips) 
+Seat 9: maravikefrei (4665 in chips) 
+Renato.Mauro: posts small blind 75
+dfcastro.net: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [9h Kc]
+maximusvm: folds 
+ELMORE GIBB: folds 
+Scorp_pl: folds 
+maravikefrei: calls 150
+rigo_zs: folds 
+genevaboy23: folds 
+Renato.Mauro: calls 75
+dfcastro.net: checks 
+*** FLOP *** [Th 3d 5h]
+Renato.Mauro: checks 
+dfcastro.net: checks 
+maravikefrei: bets 600
+Renato.Mauro: folds 
+dfcastro.net: folds 
+Uncalled bet (600) returned to maravikefrei
+maravikefrei collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [Th 3d 5h]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: genevaboy23 (button) folded before Flop (didn't bet)
+Seat 3: Renato.Mauro (small blind) folded on the Flop
+Seat 4: dfcastro.net (big blind) folded on the Flop
+Seat 5: maximusvm folded before Flop (didn't bet)
+Seat 7: ELMORE GIBB folded before Flop (didn't bet)
+Seat 8: Scorp_pl folded before Flop (didn't bet)
+Seat 9: maravikefrei collected (450)
+
+
+
+PokerStars Hand #100742728752: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 16:48:44 BRT [2013/06/29 15:48:44 ET]
+Table '754035897 8' 9-max Seat #3 is the button
+Seat 1: rigo_zs (3325 in chips) 
+Seat 2: genevaboy23 (3525 in chips) 
+Seat 3: Renato.Mauro (5530 in chips) 
+Seat 4: dfcastro.net (1960 in chips) 
+Seat 5: maximusvm (3010 in chips) 
+Seat 7: ELMORE GIBB (1830 in chips) 
+Seat 8: Scorp_pl (1030 in chips) 
+Seat 9: maravikefrei (4965 in chips) 
+dfcastro.net: posts small blind 75
+maximusvm: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5d 7d]
+ELMORE GIBB: calls 150
+Scorp_pl: folds 
+maravikefrei: folds 
+rigo_zs: folds 
+genevaboy23: calls 150
+Renato.Mauro: folds 
+dfcastro.net: calls 75
+maximusvm: checks 
+*** FLOP *** [Tc 8s 8d]
+dfcastro.net: checks 
+maximusvm: checks 
+ELMORE GIBB: checks 
+genevaboy23: bets 600
+dfcastro.net: folds 
+maximusvm: folds 
+ELMORE GIBB: folds 
+Uncalled bet (600) returned to genevaboy23
+genevaboy23 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Tc 8s 8d]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: genevaboy23 collected (600)
+Seat 3: Renato.Mauro (button) folded before Flop (didn't bet)
+Seat 4: dfcastro.net (small blind) folded on the Flop
+Seat 5: maximusvm (big blind) folded on the Flop
+Seat 7: ELMORE GIBB folded on the Flop
+Seat 8: Scorp_pl folded before Flop (didn't bet)
+Seat 9: maravikefrei folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100742786121: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 16:49:49 BRT [2013/06/29 15:49:49 ET]
+Table '754035897 8' 9-max Seat #4 is the button
+Seat 1: rigo_zs (3325 in chips) 
+Seat 2: genevaboy23 (3975 in chips) 
+Seat 3: Renato.Mauro (5530 in chips) 
+Seat 4: dfcastro.net (1810 in chips) 
+Seat 5: maximusvm (2860 in chips) 
+Seat 7: ELMORE GIBB (1680 in chips) 
+Seat 8: Scorp_pl (1030 in chips) 
+Seat 9: maravikefrei (4965 in chips) 
+maximusvm: posts small blind 75
+ELMORE GIBB: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5s Jd]
+Scorp_pl: raises 880 to 1030 and is all-in
+maravikefrei: raises 3935 to 4965 and is all-in
+rigo_zs: folds 
+genevaboy23: folds 
+Renato.Mauro: folds 
+dfcastro.net: folds 
+maximusvm: folds 
+ELMORE GIBB: calls 1530 and is all-in
+Uncalled bet (3285) returned to maravikefrei
+*** FLOP *** [9c 2c Jh]
+*** TURN *** [9c 2c Jh] [8d]
+*** RIVER *** [9c 2c Jh 8d] [9h]
+*** SHOW DOWN ***
+ELMORE GIBB: shows [Qc Ah] (a pair of Nines)
+maravikefrei: shows [Td Ts] (two pair, Tens and Nines)
+maravikefrei collected 1300 from side pot
+Scorp_pl: shows [Kh Ad] (a pair of Nines)
+maravikefrei collected 3165 from main pot
+*** SUMMARY ***
+Total pot 4465 Main pot 3165. Side pot 1300. | Rake 0 
+Board [9c 2c Jh 8d 9h]
+Seat 1: rigo_zs folded before Flop (didn't bet)
+Seat 2: genevaboy23 folded before Flop (didn't bet)
+Seat 3: Renato.Mauro folded before Flop (didn't bet)
+Seat 4: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 5: maximusvm (small blind) folded before Flop
+Seat 7: ELMORE GIBB (big blind) showed [Qc Ah] and lost with a pair of Nines
+Seat 8: Scorp_pl showed [Kh Ad] and lost with a pair of Nines
+Seat 9: maravikefrei showed [Td Ts] and won (4465) with two pair, Tens and Nines
+
+
+
+PokerStars Hand #100742834858: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 16:50:45 BRT [2013/06/29 15:50:45 ET]
+Table '754035897 1' 9-max Seat #1 is the button
+Seat 1: manolis000 (3375 in chips) 
+Seat 2: disturbiored (4422 in chips) 
+Seat 3: snorkis (1685 in chips) is sitting out
+Seat 4: venus333 (3435 in chips) 
+Seat 5: dfcastro.net (1810 in chips) 
+Seat 6: chvojkajiri (5510 in chips) 
+Seat 7: maiklessM (2821 in chips) 
+Seat 8: Frässi (5741 in chips) 
+Seat 9: PrAndY161RUS (2135 in chips) 
+disturbiored: posts small blind 75
+snorkis: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4s 7d]
+venus333: calls 150
+dfcastro.net: folds 
+chvojkajiri: folds 
+maiklessM: folds 
+Frässi: folds 
+PrAndY161RUS: calls 150
+manolis000: calls 150
+disturbiored: folds 
+snorkis: folds 
+*** FLOP *** [7c 4d 5c]
+venus333: checks 
+PrAndY161RUS: checks 
+manolis000: checks 
+*** TURN *** [7c 4d 5c] [Ad]
+venus333: checks 
+PrAndY161RUS: bets 450
+manolis000: calls 450
+venus333: folds 
+*** RIVER *** [7c 4d 5c Ad] [3c]
+PrAndY161RUS: checks 
+manolis000: checks 
+*** SHOW DOWN ***
+PrAndY161RUS: shows [Js Ac] (a pair of Aces)
+manolis000: mucks hand 
+PrAndY161RUS collected 1575 from pot
+*** SUMMARY ***
+Total pot 1575 | Rake 0 
+Board [7c 4d 5c Ad 3c]
+Seat 1: manolis000 (button) mucked [9s 7s]
+Seat 2: disturbiored (small blind) folded before Flop
+Seat 3: snorkis (big blind) folded before Flop
+Seat 4: venus333 folded on the Turn
+Seat 5: dfcastro.net folded before Flop (didn't bet)
+Seat 6: chvojkajiri folded before Flop (didn't bet)
+Seat 7: maiklessM folded before Flop (didn't bet)
+Seat 8: Frässi folded before Flop (didn't bet)
+Seat 9: PrAndY161RUS showed [Js Ac] and won (1575) with a pair of Aces
+
+
+
+PokerStars Hand #100742899530: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 16:52:00 BRT [2013/06/29 15:52:00 ET]
+Table '754035897 1' 9-max Seat #2 is the button
+Seat 1: manolis000 (2775 in chips) 
+Seat 2: disturbiored (4347 in chips) 
+Seat 3: snorkis (1535 in chips) is sitting out
+Seat 4: venus333 (3285 in chips) 
+Seat 5: dfcastro.net (1810 in chips) 
+Seat 6: chvojkajiri (5510 in chips) 
+Seat 7: maiklessM (2821 in chips) 
+Seat 8: Frässi (5741 in chips) 
+Seat 9: PrAndY161RUS (3110 in chips) 
+snorkis: posts small blind 75
+venus333: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [9c Qh]
+dfcastro.net: folds 
+chvojkajiri: folds 
+maiklessM: folds 
+Frässi: folds 
+PrAndY161RUS: folds 
+manolis000: folds 
+disturbiored: folds 
+snorkis: folds 
+Uncalled bet (75) returned to venus333
+venus333 collected 150 from pot
+venus333: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: manolis000 folded before Flop (didn't bet)
+Seat 2: disturbiored (button) folded before Flop (didn't bet)
+Seat 3: snorkis (small blind) folded before Flop
+Seat 4: venus333 (big blind) collected (150)
+Seat 5: dfcastro.net folded before Flop (didn't bet)
+Seat 6: chvojkajiri folded before Flop (didn't bet)
+Seat 7: maiklessM folded before Flop (didn't bet)
+Seat 8: Frässi folded before Flop (didn't bet)
+Seat 9: PrAndY161RUS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100742917777: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 16:52:20 BRT [2013/06/29 15:52:20 ET]
+Table '754035897 1' 9-max Seat #3 is the button
+Seat 1: manolis000 (2775 in chips) 
+Seat 2: disturbiored (4347 in chips) 
+Seat 3: snorkis (1460 in chips) is sitting out
+Seat 4: venus333 (3360 in chips) 
+Seat 5: dfcastro.net (1810 in chips) 
+Seat 6: chvojkajiri (5510 in chips) 
+Seat 7: maiklessM (2821 in chips) 
+Seat 8: Frässi (5741 in chips) 
+Seat 9: PrAndY161RUS (3110 in chips) 
+venus333: posts small blind 75
+dfcastro.net: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5d Td]
+chvojkajiri: folds 
+maiklessM: folds 
+Frässi: folds 
+PrAndY161RUS: folds 
+manolis000: calls 150
+disturbiored: folds 
+snorkis: folds 
+venus333: raises 3210 to 3360 and is all-in
+dfcastro.net: folds 
+manolis000: folds 
+Uncalled bet (3210) returned to venus333
+venus333 collected 450 from pot
+venus333: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 1: manolis000 folded before Flop
+Seat 2: disturbiored folded before Flop (didn't bet)
+Seat 3: snorkis (button) folded before Flop (didn't bet)
+Seat 4: venus333 (small blind) collected (450)
+Seat 5: dfcastro.net (big blind) folded before Flop
+Seat 6: chvojkajiri folded before Flop (didn't bet)
+Seat 7: maiklessM folded before Flop (didn't bet)
+Seat 8: Frässi folded before Flop (didn't bet)
+Seat 9: PrAndY161RUS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100742940086: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 16:52:46 BRT [2013/06/29 15:52:46 ET]
+Table '754035897 1' 9-max Seat #4 is the button
+Seat 1: manolis000 (2625 in chips) 
+Seat 2: disturbiored (4347 in chips) 
+Seat 3: snorkis (1460 in chips) is sitting out
+Seat 4: venus333 (3660 in chips) 
+Seat 5: dfcastro.net (1660 in chips) 
+Seat 6: chvojkajiri (5510 in chips) 
+Seat 7: maiklessM (2821 in chips) 
+Seat 8: Frässi (5741 in chips) 
+Seat 9: PrAndY161RUS (3110 in chips) 
+dfcastro.net: posts small blind 75
+chvojkajiri: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [4s Jd]
+maiklessM: folds 
+Frässi: calls 150
+PrAndY161RUS: folds 
+manolis000: folds 
+disturbiored: folds 
+snorkis: folds 
+venus333: folds 
+dfcastro.net: folds 
+chvojkajiri: checks 
+*** FLOP *** [Kc Jc Qc]
+chvojkajiri: checks 
+Frässi: bets 150
+chvojkajiri: folds 
+Uncalled bet (150) returned to Frässi
+Frässi collected 375 from pot
+Frässi: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [Kc Jc Qc]
+Seat 1: manolis000 folded before Flop (didn't bet)
+Seat 2: disturbiored folded before Flop (didn't bet)
+Seat 3: snorkis folded before Flop (didn't bet)
+Seat 4: venus333 (button) folded before Flop (didn't bet)
+Seat 5: dfcastro.net (small blind) folded before Flop
+Seat 6: chvojkajiri (big blind) folded on the Flop
+Seat 7: maiklessM folded before Flop (didn't bet)
+Seat 8: Frässi collected (375)
+Seat 9: PrAndY161RUS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100742970628: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 16:53:23 BRT [2013/06/29 15:53:23 ET]
+Table '754035897 1' 9-max Seat #5 is the button
+Seat 1: manolis000 (2625 in chips) 
+Seat 2: disturbiored (4347 in chips) 
+Seat 3: snorkis (1460 in chips) is sitting out
+Seat 4: venus333 (3660 in chips) 
+Seat 5: dfcastro.net (1585 in chips) 
+Seat 6: chvojkajiri (5360 in chips) 
+Seat 7: maiklessM (2821 in chips) 
+Seat 8: Frässi (5966 in chips) 
+Seat 9: PrAndY161RUS (3110 in chips) 
+chvojkajiri: posts small blind 75
+maiklessM: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3h 4h]
+Frässi: calls 150
+PrAndY161RUS: folds 
+manolis000: folds 
+disturbiored: calls 150
+snorkis: folds 
+venus333: calls 150
+dfcastro.net: folds 
+chvojkajiri: calls 75
+maiklessM: checks 
+*** FLOP *** [8h 8c 6d]
+chvojkajiri: bets 150
+maiklessM: folds 
+Frässi: calls 150
+disturbiored: folds 
+venus333: calls 150
+*** TURN *** [8h 8c 6d] [6h]
+chvojkajiri: bets 150
+Frässi: calls 150
+venus333: calls 150
+*** RIVER *** [8h 8c 6d 6h] [7h]
+chvojkajiri: bets 150
+Frässi: calls 150
+venus333: raises 600 to 750
+chvojkajiri: folds 
+Frässi: folds 
+Uncalled bet (600) returned to venus333
+venus333 collected 2100 from pot
+venus333: doesn't show hand 
+*** SUMMARY ***
+Total pot 2100 | Rake 0 
+Board [8h 8c 6d 6h 7h]
+Seat 1: manolis000 folded before Flop (didn't bet)
+Seat 2: disturbiored folded on the Flop
+Seat 3: snorkis folded before Flop (didn't bet)
+Seat 4: venus333 collected (2100)
+Seat 5: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 6: chvojkajiri (small blind) folded on the River
+Seat 7: maiklessM (big blind) folded on the Flop
+Seat 8: Frässi folded on the River
+Seat 9: PrAndY161RUS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100743043172: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 16:54:49 BRT [2013/06/29 15:54:49 ET]
+Table '754035897 1' 9-max Seat #6 is the button
+Seat 1: manolis000 (2625 in chips) 
+Seat 2: disturbiored (4197 in chips) 
+Seat 3: snorkis (1460 in chips) is sitting out
+Seat 4: venus333 (5160 in chips) 
+Seat 5: dfcastro.net (1585 in chips) 
+Seat 6: chvojkajiri (4760 in chips) 
+Seat 7: maiklessM (2671 in chips) 
+Seat 8: Frässi (5366 in chips) 
+Seat 9: PrAndY161RUS (3110 in chips) 
+maiklessM: posts small blind 75
+Frässi: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2d 7c]
+PrAndY161RUS: folds 
+manolis000: folds 
+disturbiored: folds 
+snorkis: folds 
+venus333: raises 600 to 750
+dfcastro.net: folds 
+chvojkajiri: folds 
+maiklessM: folds 
+Frässi: folds 
+Uncalled bet (600) returned to venus333
+venus333 collected 375 from pot
+venus333: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: manolis000 folded before Flop (didn't bet)
+Seat 2: disturbiored folded before Flop (didn't bet)
+Seat 3: snorkis folded before Flop (didn't bet)
+Seat 4: venus333 collected (375)
+Seat 5: dfcastro.net folded before Flop (didn't bet)
+Seat 6: chvojkajiri (button) folded before Flop (didn't bet)
+Seat 7: maiklessM (small blind) folded before Flop
+Seat 8: Frässi (big blind) folded before Flop
+Seat 9: PrAndY161RUS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100743278846: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 17:01:32 BRT [2013/06/29 16:01:32 ET]
+Table '754035897 1' 9-max Seat #7 is the button
+Seat 1: manolis000 (2625 in chips) 
+Seat 2: disturbiored (4197 in chips) 
+Seat 3: snorkis (1460 in chips) is sitting out
+Seat 4: venus333 (5385 in chips) 
+Seat 5: dfcastro.net (1585 in chips) 
+Seat 6: chvojkajiri (4760 in chips) 
+Seat 7: maiklessM (2596 in chips) 
+Seat 8: Frässi (5216 in chips) 
+Seat 9: PrAndY161RUS (3110 in chips) 
+Frässi: posts small blind 75
+PrAndY161RUS: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [3c 9d]
+manolis000 has timed out
+manolis000: folds 
+manolis000 is sitting out
+manolis000 has returned
+disturbiored has timed out
+disturbiored: folds 
+snorkis: folds 
+disturbiored is sitting out
+venus333: raises 150 to 300
+dfcastro.net: folds 
+chvojkajiri: folds 
+maiklessM: folds 
+Frässi: folds 
+PrAndY161RUS: folds 
+Uncalled bet (150) returned to venus333
+venus333 collected 375 from pot
+venus333: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: manolis000 folded before Flop (didn't bet)
+Seat 2: disturbiored folded before Flop (didn't bet)
+Seat 3: snorkis folded before Flop (didn't bet)
+Seat 4: venus333 collected (375)
+Seat 5: dfcastro.net folded before Flop (didn't bet)
+Seat 6: chvojkajiri folded before Flop (didn't bet)
+Seat 7: maiklessM (button) folded before Flop (didn't bet)
+Seat 8: Frässi (small blind) folded before Flop
+Seat 9: PrAndY161RUS (big blind) folded before Flop
+
+
+
+PokerStars Hand #100743320199: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 17:02:24 BRT [2013/06/29 16:02:24 ET]
+Table '754035897 1' 9-max Seat #8 is the button
+Seat 1: manolis000 (2625 in chips) 
+Seat 2: disturbiored (4197 in chips) is sitting out
+Seat 3: snorkis (1460 in chips) is sitting out
+Seat 4: venus333 (5610 in chips) 
+Seat 5: dfcastro.net (1585 in chips) 
+Seat 6: chvojkajiri (4760 in chips) 
+Seat 7: maiklessM (2596 in chips) 
+Seat 8: Frässi (5141 in chips) 
+Seat 9: PrAndY161RUS (2960 in chips) 
+PrAndY161RUS: posts small blind 75
+manolis000: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [9c Kh]
+disturbiored: folds 
+snorkis: folds 
+venus333: folds 
+dfcastro.net: folds 
+chvojkajiri: folds 
+maiklessM: folds 
+Frässi: calls 150
+PrAndY161RUS: folds 
+manolis000: checks 
+*** FLOP *** [7s 4d 8s]
+manolis000: checks 
+Frässi: bets 150
+manolis000: folds 
+Uncalled bet (150) returned to Frässi
+Frässi collected 375 from pot
+Frässi: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [7s 4d 8s]
+Seat 1: manolis000 (big blind) folded on the Flop
+Seat 2: disturbiored folded before Flop (didn't bet)
+Seat 3: snorkis folded before Flop (didn't bet)
+Seat 4: venus333 folded before Flop (didn't bet)
+Seat 5: dfcastro.net folded before Flop (didn't bet)
+Seat 6: chvojkajiri folded before Flop (didn't bet)
+Seat 7: maiklessM folded before Flop (didn't bet)
+Seat 8: Frässi (button) collected (375)
+Seat 9: PrAndY161RUS (small blind) folded before Flop
+
+
+
+PokerStars Hand #100743347249: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 17:02:56 BRT [2013/06/29 16:02:56 ET]
+Table '754035897 1' 9-max Seat #9 is the button
+Seat 1: manolis000 (2475 in chips) 
+Seat 2: disturbiored (4197 in chips) is sitting out
+Seat 3: snorkis (1460 in chips) is sitting out
+Seat 4: venus333 (5610 in chips) 
+Seat 5: dfcastro.net (1585 in chips) 
+Seat 6: chvojkajiri (4760 in chips) 
+Seat 7: maiklessM (2596 in chips) 
+Seat 8: Frässi (5366 in chips) 
+Seat 9: PrAndY161RUS (2885 in chips) 
+manolis000: posts small blind 75
+disturbiored: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ac 7c]
+snorkis: folds 
+venus333: folds 
+dfcastro.net: raises 180 to 330
+chvojkajiri: folds 
+maiklessM: folds 
+Frässi: folds 
+PrAndY161RUS: folds 
+manolis000: folds 
+disturbiored: folds 
+Uncalled bet (180) returned to dfcastro.net
+dfcastro.net collected 375 from pot
+dfcastro.net: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: manolis000 (small blind) folded before Flop
+Seat 2: disturbiored (big blind) folded before Flop
+Seat 3: snorkis folded before Flop (didn't bet)
+Seat 4: venus333 folded before Flop (didn't bet)
+Seat 5: dfcastro.net collected (375)
+Seat 6: chvojkajiri folded before Flop (didn't bet)
+Seat 7: maiklessM folded before Flop (didn't bet)
+Seat 8: Frässi folded before Flop (didn't bet)
+Seat 9: PrAndY161RUS (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100743370169: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 17:03:23 BRT [2013/06/29 16:03:23 ET]
+Table '754035897 1' 9-max Seat #1 is the button
+Seat 1: manolis000 (2400 in chips) 
+Seat 2: disturbiored (4047 in chips) is sitting out
+Seat 3: snorkis (1460 in chips) is sitting out
+Seat 4: venus333 (5610 in chips) 
+Seat 5: dfcastro.net (1810 in chips) 
+Seat 6: chvojkajiri (4760 in chips) 
+Seat 7: maiklessM (2596 in chips) 
+Seat 8: Frässi (5366 in chips) 
+Seat 9: PrAndY161RUS (2885 in chips) 
+disturbiored: posts small blind 75
+snorkis: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ks 5s]
+venus333: folds 
+dfcastro.net: folds 
+chvojkajiri: folds 
+maiklessM: folds 
+Frässi: calls 150
+PrAndY161RUS: folds 
+manolis000: folds 
+disturbiored: folds 
+snorkis: folds 
+Frässi collected 375 from pot
+Frässi: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: manolis000 (button) folded before Flop (didn't bet)
+Seat 2: disturbiored (small blind) folded before Flop
+Seat 3: snorkis (big blind) folded before Flop
+Seat 4: venus333 folded before Flop (didn't bet)
+Seat 5: dfcastro.net folded before Flop (didn't bet)
+Seat 6: chvojkajiri folded before Flop (didn't bet)
+Seat 7: maiklessM folded before Flop (didn't bet)
+Seat 8: Frässi collected (375)
+Seat 9: PrAndY161RUS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #100743383625: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 17:03:37 BRT [2013/06/29 16:03:37 ET]
+Table '754035897 1' 9-max Seat #2 is the button
+Seat 1: manolis000 (2400 in chips) 
+Seat 2: disturbiored (3972 in chips) is sitting out
+Seat 3: snorkis (1310 in chips) is sitting out
+Seat 4: venus333 (5610 in chips) 
+Seat 5: dfcastro.net (1810 in chips) 
+Seat 6: chvojkajiri (4760 in chips) 
+Seat 7: maiklessM (2596 in chips) 
+Seat 8: Frässi (5591 in chips) 
+Seat 9: PrAndY161RUS (2885 in chips) 
+snorkis: posts small blind 75
+venus333: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [5h Tc]
+dfcastro.net: folds 
+chvojkajiri: folds 
+maiklessM: calls 150
+Frässi: folds 
+PrAndY161RUS: raises 450 to 600
+manolis000: folds 
+disturbiored: folds 
+snorkis: folds 
+venus333: raises 5010 to 5610 and is all-in
+maiklessM: calls 2446 and is all-in
+PrAndY161RUS: folds 
+Uncalled bet (3014) returned to venus333
+*** FLOP *** [8h 6h Qs]
+*** TURN *** [8h 6h Qs] [2h]
+*** RIVER *** [8h 6h Qs 2h] [Kd]
+*** SHOW DOWN ***
+venus333: shows [9h 9s] (a pair of Nines)
+maiklessM: shows [Ad Jd] (high card Ace)
+venus333 collected 5867 from pot
+maiklessM finished the tournament in 33rd place
+*** SUMMARY ***
+Total pot 5867 | Rake 0 
+Board [8h 6h Qs 2h Kd]
+Seat 1: manolis000 folded before Flop (didn't bet)
+Seat 2: disturbiored (button) folded before Flop (didn't bet)
+Seat 3: snorkis (small blind) folded before Flop
+Seat 4: venus333 (big blind) showed [9h 9s] and won (5867) with a pair of Nines
+Seat 5: dfcastro.net folded before Flop (didn't bet)
+Seat 6: chvojkajiri folded before Flop (didn't bet)
+Seat 7: maiklessM showed [Ad Jd] and lost with high card Ace
+Seat 8: Frässi folded before Flop (didn't bet)
+Seat 9: PrAndY161RUS folded before Flop
+
+
+
+PokerStars Hand #100743423476: Tournament #754035897, $0.23+$0.02 USD Hold'em No Limit - Level V (75/150) - 2013/06/29 17:04:23 BRT [2013/06/29 16:04:23 ET]
+Table '754035897 1' 9-max Seat #3 is the button
+Seat 1: manolis000 (2400 in chips) 
+Seat 2: disturbiored (3972 in chips) is sitting out
+Seat 3: snorkis (1235 in chips) is sitting out
+Seat 4: venus333 (8881 in chips) 
+Seat 5: dfcastro.net (1810 in chips) 
+Seat 6: chvojkajiri (4760 in chips) 
+Seat 8: Frässi (5591 in chips) 
+Seat 9: PrAndY161RUS (2285 in chips) 
+venus333: posts small blind 75
+dfcastro.net: posts big blind 150
+*** HOLE CARDS ***
+Dealt to dfcastro.net [Ks Th]
+chvojkajiri: folds 
+Frässi: folds 
+PrAndY161RUS: folds 
+manolis000: calls 150
+disturbiored: folds 
+snorkis: folds 
+venus333: raises 8731 to 8881 and is all-in
+dfcastro.net: calls 1660 and is all-in
+manolis000: folds 
+Uncalled bet (7071) returned to venus333
+*** FLOP *** [2d 3d 5h]
+*** TURN *** [2d 3d 5h] [4h]
+*** RIVER *** [2d 3d 5h 4h] [4d]
+*** SHOW DOWN ***
+venus333: shows [6d As] (a straight, Deuce to Six)
+dfcastro.net: shows [Ks Th] (a pair of Fours)
+venus333 collected 3770 from pot
+dfcastro.net finished the tournament in 32nd place
+*** SUMMARY ***
+Total pot 3770 | Rake 0 
+Board [2d 3d 5h 4h 4d]
+Seat 1: manolis000 folded before Flop
+Seat 2: disturbiored folded before Flop (didn't bet)
+Seat 3: snorkis (button) folded before Flop (didn't bet)
+Seat 4: venus333 (small blind) showed [6d As] and won (3770) with a straight, Deuce to Six
+Seat 5: dfcastro.net (big blind) showed [Ks Th] and lost with a pair of Fours
+Seat 6: chvojkajiri folded before Flop (didn't bet)
+Seat 8: Frässi folded before Flop (didn't bet)
+Seat 9: PrAndY161RUS folded before Flop (didn't bet)
+
+
+
