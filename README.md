@@ -8,7 +8,7 @@ Projeto open source para auxiliar jogadores de poker iniciantes!
 Download instalação Manual<br />
 https://dl.dropboxusercontent.com/u/103981855/SNG-MTT-Nano-Tracker/SNG-MTT-Nano-Tracker-V1.zip
 
-Pré-Requisitos:
+<strong>Pré-Requisitos:</strong>
 
 Windows Vista 32bit
 2 GB RAM
