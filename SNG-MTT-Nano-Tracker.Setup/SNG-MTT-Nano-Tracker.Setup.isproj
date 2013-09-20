@@ -29,4 +29,6 @@
 	<Import Project="$(MSBuildExtensionsPath32)\InstallShield\2012SpringLimited\InstallShield.targets"/>
 	<ItemGroup>
 	</ItemGroup>
+	<ItemGroup>
+	</ItemGroup>
 </Project>
