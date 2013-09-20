@@ -13,5 +13,5 @@ Pré-Requisitos:
 Windows Vista 32bit
 2 GB RAM
 
-.NET Framework 4.0
+.NET Framework 4.0<br />
 https://www.microsoft.com/pt-br/download/details.aspx?id=17851
