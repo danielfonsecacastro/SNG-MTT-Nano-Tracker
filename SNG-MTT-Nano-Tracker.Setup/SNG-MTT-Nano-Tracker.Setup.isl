@@ -52,7 +52,7 @@
 	<summary>
 		<codepage>1252</codepage>
 		<title>Installation Database</title>
-		<subject></subject>
+		<subject>SNG &amp; MTT Nano Tracker</subject>
 		<author>##ID_STRING3##</author>
 		<keywords>Installer,MSI,Database</keywords>
 		<comments>Contact:  Your local administrator</comments>
@@ -225,7 +225,7 @@
 	<table name="AppSearch">
 		<col key="yes" def="s72">Property</col>
 		<col key="yes" def="s72">Signature_</col>
-		<row><td>DOTNETVERSION45FULL</td><td>DotNet45Full</td></row>
+		<row><td>DOTNETVERSION40CLIENT</td><td>DotNet40Client</td></row>
 	</table>
 
 	<table name="BBControl">
@@ -340,14 +340,30 @@
 		<col def="S0">ISDotNetInstallerArgsCommit</col>
 		<col def="S0">ISDotNetInstallerArgsUninstall</col>
 		<col def="S0">ISDotNetInstallerArgsRollback</col>
-		<row><td>EntityFramework.dll</td><td>{6DFDFB3E-8EDA-4068-996B-13FF389AFA9D}</td><td>INSTALLDIR</td><td>2</td><td/><td>entityframework.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>EntityFramework.dll</td><td>{C5BC9C6C-BCC5-4706-B3D7-AC17743F6AE9}</td><td>INSTALLDIR</td><td>2</td><td/><td>entityframework.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT</td><td>{AD1AEA07-2109-4969-B66F-0E561FD89219}</td><td>INSTALLDIR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Microsoft.WindowsAPICodePack.Shell.dll</td><td>{507A28A0-C862-4A3F-9A11-9903D8845FDF}</td><td>INSTALLDIR</td><td>2</td><td/><td>microsoft.windowsapicodepack2</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Microsoft.WindowsAPICodePack.dll</td><td>{DBECC9EC-76A2-4001-8AEF-D19C6B14395A}</td><td>INSTALLDIR</td><td>2</td><td/><td>microsoft.windowsapicodepack</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Poker.exe</td><td>{852F7074-2BA1-451B-93C3-9360FF323100}</td><td>INSTALLDIR</td><td>2</td><td/><td>poker.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Poker.vshost.exe</td><td>{220C235B-C51E-461F-827C-B4D650281E6F}</td><td>INSTALLDIR</td><td>2</td><td/><td>poker.vshost.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>System.Data.SqlServerCe.dll</td><td>{E6190DC0-E64D-4F7A-9F0B-F71DA60F4742}</td><td>INSTALLDIR</td><td>2</td><td/><td>system.data.sqlserverce.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>WindowScrape.dll</td><td>{CA49DBF8-5A67-4505-A13F-62AFB903E386}</td><td>INSTALLDIR</td><td>2</td><td/><td>windowscrape.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT1</td><td>{D2A99F35-29AC-411D-95EC-BB387C7EF29E}</td><td>AMD64</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT2</td><td>{90902035-AC78-466D-B808-87E2FB630FA7}</td><td>X86</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Microsoft.WindowsAPICodePack.Shell.dll</td><td>{3E882B54-7545-49F8-8F64-B5F3B45B7082}</td><td>INSTALLDIR</td><td>2</td><td/><td>microsoft.windowsapicodepack2</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Microsoft.WindowsAPICodePack.dll</td><td>{EDBDFC54-F9EC-4147-8157-C535967AF8ED}</td><td>INSTALLDIR</td><td>2</td><td/><td>microsoft.windowsapicodepack</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>SNG_MTT_Nano_Tracker.exe</td><td>{D1AC6BC5-5393-4BCF-8244-AF5B75D3E2EB}</td><td>INSTALLDIR</td><td>2</td><td/><td>sng_mtt_nano_tracker.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>SNG_MTT_Nano_Tracker.vshost.exe</td><td>{9BCD1409-58C9-43DF-A0E3-8B53A640A919}</td><td>INSTALLDIR</td><td>2</td><td/><td>sng_mtt_nano_tracker.vshost.</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>System.Data.Entity.dll</td><td>{D8318632-35DB-4A8C-AE90-8FB5857FAB5E}</td><td>INSTALLDIR</td><td>2</td><td/><td>system.data.entity.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>System.Data.SqlServerCe.Entity.dll</td><td>{165C97EF-C1CA-422B-86C4-F1FD5E609194}</td><td>INSTALLDIR</td><td>2</td><td/><td>system.data.sqlserverce.enti</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>System.Data.SqlServerCe.dll</td><td>{A3681822-44FC-4782-A0ED-9AB11FA00298}</td><td>INSTALLDIR</td><td>2</td><td/><td>system.data.sqlserverce.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>WindowScrape.dll</td><td>{C5655396-516F-432F-B90B-597F2E43F583}</td><td>INSTALLDIR</td><td>2</td><td/><td>windowscrape.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>sqlceca40.dll</td><td>{17532C46-A90A-4E95-89B3-65096EF8CCFC}</td><td>AMD64</td><td>2</td><td/><td>sqlceca40.dll</td><td>20</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>sqlceca40.dll1</td><td>{4539C0FD-820D-4F4E-8CAC-4CC801AD8E7B}</td><td>X86</td><td>2</td><td/><td>sqlceca40.dll1</td><td>20</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>sqlcecompact40.dll</td><td>{D2BDFE4C-FA36-4DA7-A568-166BDD42E36E}</td><td>AMD64</td><td>2</td><td/><td>sqlcecompact40.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>sqlcecompact40.dll1</td><td>{2D5277FA-96D8-47F1-BCF3-B9593773CD33}</td><td>X86</td><td>2</td><td/><td>sqlcecompact40.dll1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>sqlceer40EN.dll</td><td>{18E372FF-09D9-408D-A583-ED5A40E9D995}</td><td>AMD64</td><td>2</td><td/><td>sqlceer40en.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>sqlceer40EN.dll1</td><td>{1F698127-AA09-4C26-9F1F-C98C6C0E4398}</td><td>X86</td><td>2</td><td/><td>sqlceer40en.dll1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>sqlceme40.dll</td><td>{6D80B9C5-7BB9-47C9-96B4-702E4BE98413}</td><td>AMD64</td><td>2</td><td/><td>sqlceme40.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>sqlceme40.dll1</td><td>{5F164BD4-7F54-469D-998B-10C4944F92BD}</td><td>X86</td><td>2</td><td/><td>sqlceme40.dll1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>sqlceqp40.dll</td><td>{FDF26D91-FAEB-4EA0-8C6F-4824046EA3C8}</td><td>AMD64</td><td>2</td><td/><td>sqlceqp40.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>sqlceqp40.dll1</td><td>{A0D36E09-E95E-4D98-B97C-58F43CD295CF}</td><td>X86</td><td>2</td><td/><td>sqlceqp40.dll1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>sqlcese40.dll</td><td>{B8BA4820-9E8D-4870-81B0-D10932F87531}</td><td>AMD64</td><td>2</td><td/><td>sqlcese40.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>sqlcese40.dll1</td><td>{A3EC7F10-3199-4F89-840C-F18F184969FD}</td><td>X86</td><td>2</td><td/><td>sqlcese40.dll1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 	</table>
 
 	<table name="Condition">
@@ -1056,6 +1072,8 @@
 	<table name="CreateFolder">
 		<col key="yes" def="s72">Directory_</col>
 		<col key="yes" def="s72">Component_</col>
+		<row><td>AMD64</td><td>ISX_DEFAULTCOMPONENT1</td></row>
+		<row><td>X86</td><td>ISX_DEFAULTCOMPONENT2</td></row>
 	</table>
 
 	<table name="CustomAction">
@@ -1135,6 +1153,7 @@
 		<col def="I4">ISAttributes</col>
 		<col def="S255">ISFolderName</col>
 		<row><td>ALLUSERSPROFILE</td><td>TARGETDIR</td><td>.:ALLUSE~1|All Users</td><td/><td>0</td><td/></row>
+		<row><td>AMD64</td><td>INSTALLDIR</td><td>AMD64</td><td/><td>0</td><td/></row>
 		<row><td>AdminToolsFolder</td><td>TARGETDIR</td><td>.:Admint~1|AdminTools</td><td/><td>0</td><td/></row>
 		<row><td>AppDataFolder</td><td>TARGETDIR</td><td>.:APPLIC~1|Application Data</td><td/><td>0</td><td/></row>
 		<row><td>CommonAppDataFolder</td><td>TARGETDIR</td><td>.:Common~1|CommonAppData</td><td/><td>0</td><td/></row>
@@ -1144,13 +1163,13 @@
 		<row><td>FavoritesFolder</td><td>TARGETDIR</td><td>.:FAVORI~1|Favorites</td><td/><td>0</td><td/></row>
 		<row><td>FontsFolder</td><td>TARGETDIR</td><td>.:Fonts</td><td/><td>0</td><td/></row>
 		<row><td>GlobalAssemblyCache</td><td>TARGETDIR</td><td>.:Global~1|GlobalAssemblyCache</td><td/><td>0</td><td/></row>
-		<row><td>INSTALLDIR</td><td>MY_PRODUCT_NAME</td><td>.</td><td/><td>0</td><td/></row>
+		<row><td>INSTALLDIR</td><td>SNG_MTT_NANO_TRACKER1</td><td>.</td><td/><td>0</td><td/></row>
 		<row><td>ISCommonFilesFolder</td><td>CommonFilesFolder</td><td>Instal~1|InstallShield</td><td/><td>0</td><td/></row>
 		<row><td>ISMyCompanyDir</td><td>ProgramFilesFolder</td><td>MYCOMP~1|My Company Name</td><td/><td>0</td><td/></row>
 		<row><td>ISMyProductDir</td><td>ISMyCompanyDir</td><td>MYPROD~1|My Product Name</td><td/><td>0</td><td/></row>
 		<row><td>ISYourDataBaseDir</td><td>INSTALLDIR</td><td>Database</td><td/><td>0</td><td/></row>
 		<row><td>LocalAppDataFolder</td><td>TARGETDIR</td><td>.:LocalA~1|LocalAppData</td><td/><td>0</td><td/></row>
-		<row><td>MY_PRODUCT_NAME</td><td>YOUR_COMPANY_NAME</td><td>MYPROD~1|My Product Name</td><td/><td>0</td><td/></row>
+		<row><td>MY_PRODUCT_NAME</td><td>SNG_MTT_NANO_TRACKER</td><td>SNG-MT~1|SNG-MTT-Nano-Tracker</td><td/><td>0</td><td/></row>
 		<row><td>MyPicturesFolder</td><td>TARGETDIR</td><td>.:MyPict~1|MyPictures</td><td/><td>0</td><td/></row>
 		<row><td>NetHoodFolder</td><td>TARGETDIR</td><td>.:NetHood</td><td/><td>0</td><td/></row>
 		<row><td>PersonalFolder</td><td>TARGETDIR</td><td>.:Personal</td><td/><td>0</td><td/></row>
@@ -1159,6 +1178,9 @@
 		<row><td>ProgramFilesFolder</td><td>TARGETDIR</td><td>.:PROGRA~1|program files</td><td/><td>0</td><td/></row>
 		<row><td>ProgramMenuFolder</td><td>TARGETDIR</td><td>.:Programs</td><td/><td>3</td><td/></row>
 		<row><td>RecentFolder</td><td>TARGETDIR</td><td>.:Recent</td><td/><td>0</td><td/></row>
+		<row><td>SNG_MTT_NANO_TRACKER</td><td>ProgramFilesFolder</td><td>SNG-MT~1|SNG-MTT-Nano-Tracker</td><td/><td>0</td><td/></row>
+		<row><td>SNG_MTT_NANO_TRACKER1</td><td>SNG___MTT_NANO_TRACKERSNG_MTT_NANO_TRACKER</td><td>SNG-MT~1|SNG-MTT-Nano-Tracker</td><td/><td>0</td><td/></row>
+		<row><td>SNG___MTT_NANO_TRACKERSNG_MTT_NANO_TRACKER</td><td>ProgramFilesFolder</td><td>SNG_MT~1|SNG &amp; MTT Nano TrackerSNG-MTT-Nano-Tracker</td><td/><td>0</td><td/></row>
 		<row><td>SendToFolder</td><td>TARGETDIR</td><td>.:SendTo</td><td/><td>3</td><td/></row>
 		<row><td>StartMenuFolder</td><td>TARGETDIR</td><td>.:STARTM~1|Start Menu</td><td/><td>3</td><td/></row>
 		<row><td>StartupFolder</td><td>TARGETDIR</td><td>.:StartUp</td><td/><td>3</td><td/></row>
@@ -1170,8 +1192,10 @@
 		<row><td>USERPROFILE</td><td>TARGETDIR</td><td>.:USERPR~1|UserProfile</td><td/><td>0</td><td/></row>
 		<row><td>WindowsFolder</td><td>TARGETDIR</td><td>.:Windows</td><td/><td>0</td><td/></row>
 		<row><td>WindowsVolume</td><td>TARGETDIR</td><td>.:WinRoot</td><td/><td>0</td><td/></row>
-		<row><td>YOUR_COMPANY_NAME</td><td>ProgramFilesFolder</td><td>YOURCO~1|Your Company Name</td><td/><td>0</td><td/></row>
+		<row><td>X86</td><td>INSTALLDIR</td><td>X86</td><td/><td>0</td><td/></row>
 		<row><td>poker_1.set_poker.setup</td><td>yourco_1_your_company_name</td><td>POKER~1.SET|Poker.Setup</td><td/><td>1</td><td/></row>
+		<row><td>sng_mt_1_sng___mtt_nano_tracker</td><td>ProgramMenuFolder</td><td>SNG&amp;MT~1|SNG &amp; MTT Nano Tracker</td><td/><td>1</td><td/></row>
+		<row><td>sng_mt_1_sng___mtt_nano_tracker1</td><td>sng_mt_1_sng___mtt_nano_tracker</td><td>SNG&amp;MT~1|SNG &amp; MTT Nano Tracker</td><td/><td>1</td><td/></row>
 		<row><td>yourco_1_your_company_name</td><td>ProgramMenuFolder</td><td>YOURCO~1|Your Company Name</td><td/><td>1</td><td/></row>
 	</table>
 
@@ -1866,12 +1890,28 @@
 		<col key="yes" def="s72">Component_</col>
 		<row><td>AlwaysInstall</td><td>EntityFramework.dll</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT1</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT2</td></row>
 		<row><td>AlwaysInstall</td><td>Microsoft.WindowsAPICodePack.Shell.dll</td></row>
 		<row><td>AlwaysInstall</td><td>Microsoft.WindowsAPICodePack.dll</td></row>
-		<row><td>AlwaysInstall</td><td>Poker.exe</td></row>
-		<row><td>AlwaysInstall</td><td>Poker.vshost.exe</td></row>
+		<row><td>AlwaysInstall</td><td>SNG_MTT_Nano_Tracker.exe</td></row>
+		<row><td>AlwaysInstall</td><td>SNG_MTT_Nano_Tracker.vshost.exe</td></row>
+		<row><td>AlwaysInstall</td><td>System.Data.Entity.dll</td></row>
+		<row><td>AlwaysInstall</td><td>System.Data.SqlServerCe.Entity.dll</td></row>
 		<row><td>AlwaysInstall</td><td>System.Data.SqlServerCe.dll</td></row>
 		<row><td>AlwaysInstall</td><td>WindowScrape.dll</td></row>
+		<row><td>AlwaysInstall</td><td>sqlceca40.dll</td></row>
+		<row><td>AlwaysInstall</td><td>sqlceca40.dll1</td></row>
+		<row><td>AlwaysInstall</td><td>sqlcecompact40.dll</td></row>
+		<row><td>AlwaysInstall</td><td>sqlcecompact40.dll1</td></row>
+		<row><td>AlwaysInstall</td><td>sqlceer40EN.dll</td></row>
+		<row><td>AlwaysInstall</td><td>sqlceer40EN.dll1</td></row>
+		<row><td>AlwaysInstall</td><td>sqlceme40.dll</td></row>
+		<row><td>AlwaysInstall</td><td>sqlceme40.dll1</td></row>
+		<row><td>AlwaysInstall</td><td>sqlceqp40.dll</td></row>
+		<row><td>AlwaysInstall</td><td>sqlceqp40.dll1</td></row>
+		<row><td>AlwaysInstall</td><td>sqlcese40.dll</td></row>
+		<row><td>AlwaysInstall</td><td>sqlcese40.dll1</td></row>
 	</table>
 
 	<table name="File">
@@ -1886,21 +1926,36 @@
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I4">ISAttributes</col>
 		<col def="S72">ISComponentSubFolder_</col>
-		<row><td>databasepoker.sdf</td><td>ISX_DEFAULTCOMPONENT</td><td>DATABA~1.SDF|DatabasePoker.sdf</td><td>0</td><td/><td/><td/><td>1</td><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\DatabasePoker.sdf</td><td>1</td><td/></row>
-		<row><td>entityframework.dll</td><td>EntityFramework.dll</td><td>ENTITY~1.DLL|EntityFramework.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\EntityFramework.dll</td><td>1</td><td/></row>
-		<row><td>entityframework.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>ENTITY~1.XML|EntityFramework.xml</td><td>0</td><td/><td/><td/><td>1</td><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\EntityFramework.xml</td><td>1</td><td/></row>
-		<row><td>microsoft.windowsapicodepack</td><td>Microsoft.WindowsAPICodePack.dll</td><td>MICROS~1.DLL|Microsoft.WindowsAPICodePack.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\Microsoft.WindowsAPICodePack.dll</td><td>1</td><td/></row>
-		<row><td>microsoft.windowsapicodepack1</td><td>ISX_DEFAULTCOMPONENT</td><td>MICROS~1.PDB|Microsoft.WindowsAPICodePack.pdb</td><td>0</td><td/><td/><td/><td>1</td><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\Microsoft.WindowsAPICodePack.pdb</td><td>1</td><td/></row>
-		<row><td>microsoft.windowsapicodepack2</td><td>Microsoft.WindowsAPICodePack.Shell.dll</td><td>MICROS~1.DLL|Microsoft.WindowsAPICodePack.Shell.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll</td><td>1</td><td/></row>
-		<row><td>microsoft.windowsapicodepack3</td><td>ISX_DEFAULTCOMPONENT</td><td>MICROS~1.PDB|Microsoft.WindowsAPICodePack.Shell.pdb</td><td>0</td><td/><td/><td/><td>1</td><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb</td><td>1</td><td/></row>
-		<row><td>poker.exe</td><td>Poker.exe</td><td>Poker.exe</td><td>0</td><td/><td/><td/><td>1</td><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\Poker.exe</td><td>1</td><td/></row>
-		<row><td>poker.exe.config</td><td>ISX_DEFAULTCOMPONENT</td><td>POKERE~1.CON|Poker.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\Poker.exe.config</td><td>1</td><td/></row>
-		<row><td>poker.pdb</td><td>ISX_DEFAULTCOMPONENT</td><td>Poker.pdb</td><td>0</td><td/><td/><td/><td>1</td><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\Poker.pdb</td><td>1</td><td/></row>
-		<row><td>poker.vshost.exe</td><td>Poker.vshost.exe</td><td>POKERV~1.EXE|Poker.vshost.exe</td><td>0</td><td/><td/><td/><td>1</td><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\Poker.vshost.exe</td><td>1</td><td/></row>
-		<row><td>poker.vshost.exe.config</td><td>ISX_DEFAULTCOMPONENT</td><td>POKERV~1.CON|Poker.vshost.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\Poker.vshost.exe.config</td><td>1</td><td/></row>
-		<row><td>system.data.sqlserverce.dll</td><td>System.Data.SqlServerCe.dll</td><td>SYSTEM~1.DLL|System.Data.SqlServerCe.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\System.Data.SqlServerCe.dll</td><td>1</td><td/></row>
-		<row><td>windowscrape.dll</td><td>WindowScrape.dll</td><td>WINDOW~1.DLL|WindowScrape.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\WindowScrape.dll</td><td>1</td><td/></row>
-		<row><td>windowscrape.pdb</td><td>ISX_DEFAULTCOMPONENT</td><td>WINDOW~1.PDB|WindowScrape.pdb</td><td>0</td><td/><td/><td/><td>1</td><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\WindowScrape.pdb</td><td>1</td><td/></row>
+		<row><td>databasepoker.sdf</td><td>ISX_DEFAULTCOMPONENT</td><td>DATABA~1.SDF|DatabasePoker.sdf</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\DatabasePoker.sdf</td><td>1</td><td/></row>
+		<row><td>entityframework.dll</td><td>EntityFramework.dll</td><td>ENTITY~1.DLL|EntityFramework.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\EntityFramework.dll</td><td>1</td><td/></row>
+		<row><td>entityframework.xml</td><td>ISX_DEFAULTCOMPONENT</td><td>ENTITY~1.XML|EntityFramework.xml</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\EntityFramework.xml</td><td>1</td><td/></row>
+		<row><td>microsoft.windowsapicodepack</td><td>Microsoft.WindowsAPICodePack.dll</td><td>MICROS~1.DLL|Microsoft.WindowsAPICodePack.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\Microsoft.WindowsAPICodePack.dll</td><td>1</td><td/></row>
+		<row><td>microsoft.windowsapicodepack1</td><td>ISX_DEFAULTCOMPONENT</td><td>MICROS~1.PDB|Microsoft.WindowsAPICodePack.pdb</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\Microsoft.WindowsAPICodePack.pdb</td><td>1</td><td/></row>
+		<row><td>microsoft.windowsapicodepack2</td><td>Microsoft.WindowsAPICodePack.Shell.dll</td><td>MICROS~1.DLL|Microsoft.WindowsAPICodePack.Shell.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll</td><td>1</td><td/></row>
+		<row><td>microsoft.windowsapicodepack3</td><td>ISX_DEFAULTCOMPONENT</td><td>MICROS~1.PDB|Microsoft.WindowsAPICodePack.Shell.pdb</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb</td><td>1</td><td/></row>
+		<row><td>sng_mtt_nano_tracker.exe</td><td>SNG_MTT_Nano_Tracker.exe</td><td>SNG-MT~1.EXE|SNG-MTT-Nano-Tracker.exe</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe</td><td>1</td><td/></row>
+		<row><td>sng_mtt_nano_tracker.exe.con</td><td>ISX_DEFAULTCOMPONENT</td><td>SNG-MT~1.CON|SNG-MTT-Nano-Tracker.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe.config</td><td>1</td><td/></row>
+		<row><td>sng_mtt_nano_tracker.pdb</td><td>ISX_DEFAULTCOMPONENT</td><td>SNG-MT~1.PDB|SNG-MTT-Nano-Tracker.pdb</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.pdb</td><td>1</td><td/></row>
+		<row><td>sng_mtt_nano_tracker.vshost.</td><td>SNG_MTT_Nano_Tracker.vshost.exe</td><td>SNG-MT~1.EXE|SNG-MTT-Nano-Tracker.vshost.exe</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.vshost.exe</td><td>1</td><td/></row>
+		<row><td>sng_mtt_nano_tracker.vshost.1</td><td>ISX_DEFAULTCOMPONENT</td><td>SNG-MT~1.CON|SNG-MTT-Nano-Tracker.vshost.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.vshost.exe.config</td><td>1</td><td/></row>
+		<row><td>sng_mtt_nano_tracker.vshost.2</td><td>ISX_DEFAULTCOMPONENT</td><td>SNG-MT~1.MAN|SNG-MTT-Nano-Tracker.vshost.exe.manifest</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.vshost.exe.manifest</td><td>1</td><td/></row>
+		<row><td>sqlceca40.dll</td><td>sqlceca40.dll</td><td>SQLCEC~1.DLL|sqlceca40.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\AMD64\sqlceca40.dll</td><td>1</td><td/></row>
+		<row><td>sqlceca40.dll1</td><td>sqlceca40.dll1</td><td>SQLCEC~1.DLL|sqlceca40.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\X86\sqlceca40.dll</td><td>1</td><td/></row>
+		<row><td>sqlcecompact40.dll</td><td>sqlcecompact40.dll</td><td>SQLCEC~1.DLL|sqlcecompact40.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\AMD64\sqlcecompact40.dll</td><td>1</td><td/></row>
+		<row><td>sqlcecompact40.dll1</td><td>sqlcecompact40.dll1</td><td>SQLCEC~1.DLL|sqlcecompact40.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\X86\sqlcecompact40.dll</td><td>1</td><td/></row>
+		<row><td>sqlceer40en.dll</td><td>sqlceer40EN.dll</td><td>SQLCEE~1.DLL|sqlceer40EN.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\AMD64\sqlceer40EN.dll</td><td>1</td><td/></row>
+		<row><td>sqlceer40en.dll1</td><td>sqlceer40EN.dll1</td><td>SQLCEE~1.DLL|sqlceer40EN.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\X86\sqlceer40EN.dll</td><td>1</td><td/></row>
+		<row><td>sqlceme40.dll</td><td>sqlceme40.dll</td><td>SQLCEM~1.DLL|sqlceme40.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\AMD64\sqlceme40.dll</td><td>1</td><td/></row>
+		<row><td>sqlceme40.dll1</td><td>sqlceme40.dll1</td><td>SQLCEM~1.DLL|sqlceme40.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\X86\sqlceme40.dll</td><td>1</td><td/></row>
+		<row><td>sqlceqp40.dll</td><td>sqlceqp40.dll</td><td>SQLCEQ~1.DLL|sqlceqp40.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\AMD64\sqlceqp40.dll</td><td>1</td><td/></row>
+		<row><td>sqlceqp40.dll1</td><td>sqlceqp40.dll1</td><td>SQLCEQ~1.DLL|sqlceqp40.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\X86\sqlceqp40.dll</td><td>1</td><td/></row>
+		<row><td>sqlcese40.dll</td><td>sqlcese40.dll</td><td>SQLCES~1.DLL|sqlcese40.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\AMD64\sqlcese40.dll</td><td>1</td><td/></row>
+		<row><td>sqlcese40.dll1</td><td>sqlcese40.dll1</td><td>SQLCES~1.DLL|sqlcese40.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\X86\sqlcese40.dll</td><td>1</td><td/></row>
+		<row><td>system.data.entity.dll</td><td>System.Data.Entity.dll</td><td>SYSTEM~1.DLL|System.Data.Entity.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\System.Data.Entity.dll</td><td>1</td><td/></row>
+		<row><td>system.data.sqlserverce.dll</td><td>System.Data.SqlServerCe.dll</td><td>SYSTEM~1.DLL|System.Data.SqlServerCe.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\System.Data.SqlServerCe.dll</td><td>1</td><td/></row>
+		<row><td>system.data.sqlserverce.enti</td><td>System.Data.SqlServerCe.Entity.dll</td><td>SYSTEM~1.DLL|System.Data.SqlServerCe.Entity.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\System.Data.SqlServerCe.Entity.dll</td><td>1</td><td/></row>
+		<row><td>windowscrape.dll</td><td>WindowScrape.dll</td><td>WINDOW~1.DLL|WindowScrape.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\WindowScrape.dll</td><td>1</td><td/></row>
+		<row><td>windowscrape.pdb</td><td>ISX_DEFAULTCOMPONENT</td><td>WINDOW~1.PDB|WindowScrape.pdb</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\WindowScrape.pdb</td><td>1</td><td/></row>
 	</table>
 
 	<table name="FileSFPCatalog">
@@ -2157,14 +2212,30 @@
 		<col def="S0">FTPLocation</col>
 		<col def="S0">HTTPLocation</col>
 		<col def="S0">Miscellaneous</col>
-		<row><td>EntityFramework.dll</td><td/><td/><td>_5AA4C657_1E94_4A5A_A832_6AA9EEBFD370_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>EntityFramework.dll</td><td/><td/><td>_AA1D4DE8_7297_47CD_A4BD_328BCBDB2610_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT</td><td/><td/><td>_C47A2D45_FF5D_4A28_B990_D46C96BE0009_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>Microsoft.WindowsAPICodePack.Shell.dll</td><td/><td/><td>_515B0297_EAB0_415F_A251_C378ADA3FAD8_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>Microsoft.WindowsAPICodePack.dll</td><td/><td/><td>_FA781CB8_A67F_4625_B992_304B400D48AB_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>Poker.exe</td><td/><td/><td>_D14C2867_18CA_4BED_AB05_09EE16B65E0D_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>Poker.vshost.exe</td><td/><td/><td>_9E0102D4_6E4E_4BBA_8A7F_20E83DE884D2_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>System.Data.SqlServerCe.dll</td><td/><td/><td>_C374D3B8_CECC_4438_855D_95922A1F5C7E_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>WindowScrape.dll</td><td/><td/><td>_582C6F4E_7549_44D1_A2E6_75EAFD85052B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT1</td><td/><td/><td>_81879201_943D_4C48_A855_3A76414817BF_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT2</td><td/><td/><td>_5A568CDC_3D55_44A5_A3BB_A8DAFA2EF8CF_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Microsoft.WindowsAPICodePack.Shell.dll</td><td/><td/><td>_12C7ABBB_8C84_4472_8760_C2A9DBC088C3_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Microsoft.WindowsAPICodePack.dll</td><td/><td/><td>_9CD771C5_1220_412E_80B2_6C0191ACC54F_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>SNG_MTT_Nano_Tracker.exe</td><td/><td/><td>_DF4978F4_81AD_4234_8359_AEA1016AF15A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>SNG_MTT_Nano_Tracker.vshost.exe</td><td/><td/><td>_03C81FA2_185F_466D_AC31_B00B873EF510_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>System.Data.Entity.dll</td><td/><td/><td>_2FE9875E_2D22_4686_BCA1_0F00C50BB592_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>System.Data.SqlServerCe.Entity.dll</td><td/><td/><td>_7BCF1889_A6FA_4DCA_8D4E_9237730F07C0_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>System.Data.SqlServerCe.dll</td><td/><td/><td>_E8724F20_7260_4D85_B271_D26C8E342108_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>WindowScrape.dll</td><td/><td/><td>_495BEDC8_77F0_4087_ACF4_C665DAA7503F_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>sqlceca40.dll</td><td/><td/><td>_2CF3B0C3_FD25_4042_B133_073EA8B00D5A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>sqlceca40.dll1</td><td/><td/><td>_F155C804_2112_4014_9E01_84B4366F858F_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>sqlcecompact40.dll</td><td/><td/><td>_73E72D92_3ABC_473B_B905_B6C4E2E27069_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>sqlcecompact40.dll1</td><td/><td/><td>_CAF7DC36_9FD3_497B_BB86_AB4426D52A63_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>sqlceer40EN.dll</td><td/><td/><td>_2EF973BD_2640_49C2_B78D_F298E39014DE_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>sqlceer40EN.dll1</td><td/><td/><td>_B3CDCDFA_C7FA_4C89_ACD1_D0006BD9E79A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>sqlceme40.dll</td><td/><td/><td>_5A5BA879_9B54_4AEA_A1F7_23ACFF564FF3_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>sqlceme40.dll1</td><td/><td/><td>_99996B72_6C79_4128_BBD2_01730FCE3DBD_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>sqlceqp40.dll</td><td/><td/><td>_0E365EF8_D6D6_4052_96EB_DD0DE6F56D1D_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>sqlceqp40.dll1</td><td/><td/><td>_42AB568A_7AAB_415D_8FEE_7800D83A29CE_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>sqlcese40.dll</td><td/><td/><td>_1DF1D403_EB30_4E5F_A384_691011250FCC_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>sqlcese40.dll1</td><td/><td/><td>_1C5A8544_AA43_4B86_BB5D_FFF8F475CD21_FILTER</td><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="ISCustomActionReference">
@@ -2793,10 +2864,12 @@
 		<col def="I2">Encoded</col>
 		<col def="S0">Comment</col>
 		<col def="I4">TimeStamp</col>
-		<row><td>COMPANY_NAME</td><td>1033</td><td>Your Company Name</td><td>0</td><td/><td>882980085</td></row>
+		<row><td>COMPANY_NAME</td><td>1033</td><td>SNG &amp; MTT Nano Tracker</td><td>0</td><td/><td>-1667113675</td></row>
 		<row><td>DN_AlwaysInstall</td><td>1033</td><td>Always Install</td><td>0</td><td/><td>748749589</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_COLOR</td><td>1033</td><td>The color settings of your system are not adequate for running [ProductName].</td><td>0</td><td/><td>748749589</td></row>
-		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION45FULL</td><td>1033</td><td>Você precisa do Microsoft .NET Framework 4.0 Full ou maior para instalar essa aplicação! Link: https://www.microsoft.com/pt-br/download/details.aspx?id=17851</td><td>0</td><td/><td>882983026</td></row>
+		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION40CLIENT</td><td>1033</td><td>Microsoft .NET Framework 4.0 Client Package ou superior é necessário para continuar a instalação. Link : https://www.microsoft.com/pt-br/download/details.aspx?id=17851</td><td>0</td><td/><td>-1667169163</td></row>
+		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION40FULL</td><td>1033</td><td>Microsoft .NET Framework 4.0 Full package or greater needs to be installed for this installation to continue.</td><td>0</td><td/><td>-1667154891</td></row>
+		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION45FULL</td><td>1033</td><td>Microsoft .NET Framework 4.5 Full package or greater needs to be installed for this installation to continue.</td><td>0</td><td/><td>-1667126251</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_OS</td><td>1033</td><td>The operating system is not adequate for running [ProductName].</td><td>0</td><td/><td>748749589</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_PROCESSOR</td><td>1033</td><td>The processor is not adequate for running [ProductName].</td><td>0</td><td/><td>748749589</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_RAM</td><td>1033</td><td>The amount of RAM is not adequate for running [ProductName].</td><td>0</td><td/><td>748749589</td></row>
@@ -3609,6 +3682,8 @@
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME2</td><td>1033</td><td>LAUNCH~1.EXE|Launch Poker.exe</td><td>0</td><td/><td>882993554</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME3</td><td>1033</td><td>LAUNCH~1.EXE|Launch Poker.vshost.exe</td><td>0</td><td/><td>882993554</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME4</td><td>1033</td><td>LAUNCH~1.EXE|Launch Poker.exe</td><td>0</td><td/><td>883025173</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME5</td><td>1033</td><td>LAUNCH~1.EXE|Launch SNG-MTT-Nano-Tracker.exe</td><td>0</td><td/><td>-1667115691</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME6</td><td>1033</td><td>LAUNCH~1.EXE|Launch SNG-MTT-Nano-Tracker.vshost.exe</td><td>0</td><td/><td>-1667115691</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO</td><td>1033</td><td>From the list of servers below, select the database server you would like to target.</td><td>0</td><td/><td>748749589</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO_DB</td><td>1033</td><td>From the list of catalog names below, select the database catalog you would like to target.</td><td>0</td><td/><td>748749589</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO_TEMPLATE</td><td>1033</td><td>[IS_SQLBROWSE_INTRO]</td><td>0</td><td/><td>748749589</td></row>
@@ -3898,9 +3973,10 @@
 		<row><td>IDS__TargetReq_DESC_RAM</td><td>1033</td><td>The amount of RAM is not adequate for running [ProductName].</td><td>0</td><td/><td>748749589</td></row>
 		<row><td>IDS__TargetReq_DESC_RESOLUTION</td><td>1033</td><td>The screen resolution is not adequate for running [ProductName].</td><td>0</td><td/><td>748749589</td></row>
 		<row><td>ID_STRING1</td><td>1033</td><td/><td>0</td><td/><td>748751637</td></row>
-		<row><td>ID_STRING2</td><td>1033</td><td>http://www.YourCompanyName.com</td><td>0</td><td/><td>882980085</td></row>
-		<row><td>ID_STRING3</td><td>1033</td><td>Your Company Name</td><td>0</td><td/><td>882980085</td></row>
+		<row><td>ID_STRING2</td><td>1033</td><td>https://github.com/danielfonsecacastro/SNG-MTT-Nano-Tracker</td><td>0</td><td/><td>-1667148459</td></row>
+		<row><td>ID_STRING3</td><td>1033</td><td>SNG &amp; MTT Nano Tracker</td><td>0</td><td/><td>-1667113675</td></row>
 		<row><td>ID_STRING4</td><td>1033</td><td>LAUNCH~1.EXE|Launch Poker.exe</td><td>0</td><td/><td>882967861</td></row>
+		<row><td>ID_STRING5</td><td>1033</td><td>LAUNCH~1.EXE|Launch SNG-MTT-Nano-Tracker.exe</td><td>0</td><td/><td>-1667156619</td></row>
 		<row><td>IIDS_UITEXT_FeatureUninstalled</td><td>1033</td><td>This feature will remain uninstalled.</td><td>0</td><td/><td>748749589</td></row>
 	</table>
 
@@ -4011,6 +4087,8 @@
 		<row><td>ARPPRODUCTICON.exe</td><td/><td>D:\Documentos\Visual Studio 2012\Projects\Poker\Poker\cards.ico</td><td>0</td></row>
 		<row><td>Poker.exe1_6C1DD804174C4126BEB7CF44679082F8.exe</td><td/><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\Poker.exe</td><td>0</td></row>
 		<row><td>Poker.exe_F8F87B6427384B838B53246587617A60.exe</td><td/><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\Poker.exe</td><td>0</td></row>
+		<row><td>SNG_MTT_Nano_Track_08F88D55BA094C17A054637C5AE5C45C.exe</td><td/><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe</td><td>0</td></row>
+		<row><td>SNG_MTT_Nano_Track_AE4053DB4F7A4E2C96ADD1957B9F5AD0.exe</td><td/><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe</td><td>0</td></row>
 	</table>
 
 	<table name="IniFile">
@@ -4201,8 +4279,8 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 	<table name="LaunchCondition">
 		<col key="yes" def="s255">Condition</col>
 		<col def="l255">Description</col>
-		<row><td>(Not Version9X) And (Not VersionNT=400) And (Not VersionNT=500) And (Not VersionNT=502) And (Not (VersionNT=600 And Not (MsiNTProductType=1))) And (Not (VersionNT=601 And Not (MsiNTProductType=1))) And (Not (VersionNT=602 And Not (MsiNTProductType=1)))</td><td>##IDPROP_EXPRESS_LAUNCH_CONDITION_OS##</td></row>
-		<row><td>DOTNETVERSION45FULL&gt;="#1"</td><td>##IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION45FULL##</td></row>
+		<row><td>(Not Version9X) And (Not VersionNT=400) And (Not VersionNT=501)</td><td>##IDPROP_EXPRESS_LAUNCH_CONDITION_OS##</td></row>
+		<row><td>DOTNETVERSION40CLIENT&gt;="#1"</td><td>##IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION40CLIENT##</td></row>
 	</table>
 
 	<table name="ListBox">
@@ -4518,7 +4596,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>PROGMSG_IIS_ROLLBACKVROOTS</td><td>##IDS_PROGMSG_IIS_ROLLBACKVROOTS##</td><td/></row>
 		<row><td>PROGMSG_IIS_ROLLBACKWEBSERVICEEXTENSIONS</td><td>##IDS_PROGMSG_IIS_ROLLBACKWEBSERVICEEXTENSIONS##</td><td/></row>
 		<row><td>ProductCode</td><td>{F9A4ABC8-C4F0-4FBD-930F-34DC1D89B83F}</td><td/></row>
-		<row><td>ProductName</td><td>Poker.Setup</td><td/></row>
+		<row><td>ProductName</td><td>SNG &amp; MTT Nano Tracker</td><td/></row>
 		<row><td>ProductVersion</td><td>1.00.0000</td><td/></row>
 		<row><td>ProgressType0</td><td>install</td><td/></row>
 		<row><td>ProgressType1</td><td>Installing</td><td/></row>
@@ -4531,7 +4609,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>RestartManagerOption</td><td>CloseRestart</td><td/></row>
 		<row><td>SERIALNUMBER</td><td/><td/></row>
 		<row><td>SERIALNUMVALSUCCESSRETVAL</td><td>1</td><td/></row>
-		<row><td>SecureCustomProperties</td><td>ISFOUNDNEWERPRODUCTVERSION;USERNAME;COMPANYNAME;ISX_SERIALNUM;SUPPORTDIR;DOTNETVERSION45FULL</td><td/></row>
+		<row><td>SecureCustomProperties</td><td>ISFOUNDNEWERPRODUCTVERSION;USERNAME;COMPANYNAME;ISX_SERIALNUM;SUPPORTDIR;DOTNETVERSION40CLIENT</td><td/></row>
 		<row><td>SelectedSetupType</td><td>##IDS__DisplayName_Typical##</td><td/></row>
 		<row><td>SetupType</td><td>Typical</td><td/></row>
 		<row><td>UpgradeCode</td><td>{57E45C80-6B73-4B14-8CE7-F8F1900BA83A}</td><td/></row>
@@ -4576,7 +4654,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="s255">Key</col>
 		<col def="S255">Name</col>
 		<col def="I2">Type</col>
-		<row><td>DotNet45Full</td><td>2</td><td>SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full</td><td>Version</td><td>2</td></row>
+		<row><td>DotNet40Client</td><td>2</td><td>SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Client</td><td>Install</td><td>2</td></row>
 	</table>
 
 	<table name="Registry">
@@ -4595,7 +4673,9 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="L255">FileName</col>
 		<col def="s72">DirProperty</col>
 		<col def="i2">InstallMode</col>
-		<row><td>Poker.exe</td><td>Poker.exe</td><td/><td>poker_1.set_poker.setup</td><td>2</td></row>
+		<row><td>FileKey1</td><td>SNG_MTT_Nano_Tracker.exe</td><td/><td>sng_mt_1_sng___mtt_nano_tracker</td><td>2</td></row>
+		<row><td>FileKey2</td><td>SNG_MTT_Nano_Tracker.exe</td><td/><td>sng_mt_1_sng___mtt_nano_tracker1</td><td>2</td></row>
+		<row><td>SNG_MTT_Nano_Tracker.exe</td><td>SNG_MTT_Nano_Tracker.exe</td><td/><td>sng_mt_1_sng___mtt_nano_tracker1</td><td>2</td></row>
 	</table>
 
 	<table name="RemoveIniFile">
@@ -4681,8 +4761,8 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="S255">ISComments</col>
 		<col def="S255">ISShortcutName</col>
 		<col def="I4">ISAttributes</col>
-		<row><td>Poker.exe</td><td>poker_1.set_poker.setup</td><td>##IDS_SHORTCUT_DISPLAY_NAME4##</td><td>Poker.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>Poker.exe_F8F87B6427384B838B53246587617A60.exe</td><td>1</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>Poker.exe1</td><td>DesktopFolder</td><td>##IDS_SHORTCUT_DISPLAY_NAME4##</td><td>Poker.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>Poker.exe1_6C1DD804174C4126BEB7CF44679082F8.exe</td><td>1</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>SNG_MTT_Nano_Tracker.exe</td><td>sng_mt_1_sng___mtt_nano_tracker1</td><td>##IDS_SHORTCUT_DISPLAY_NAME5##</td><td>SNG_MTT_Nano_Tracker.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>SNG_MTT_Nano_Track_AE4053DB4F7A4E2C96ADD1957B9F5AD0.exe</td><td>1</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>SNG_MTT_Nano_Tracker.exe1</td><td>DesktopFolder</td><td>##IDS_SHORTCUT_DISPLAY_NAME5##</td><td>SNG_MTT_Nano_Tracker.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>SNG_MTT_Nano_Track_08F88D55BA094C17A054637C5AE5C45C.exe</td><td>1</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="Signature">
