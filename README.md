@@ -13,8 +13,12 @@ https://dl.dropboxusercontent.com/u/103981855/SNG-MTT-Nano-Tracker/SNG-MTT-Nano-
 
 <strong>Pré-Requisitos:</strong>
 
-Windows Vista 32bit
+Windows Vista 32bit ou superior
 2 GB RAM
 
 .NET Framework 4.0<br />
 https://www.microsoft.com/pt-br/download/details.aspx?id=17851
+
+<strong>Melhorias previstas</strong>
+- Melhorar o visual da aplicação com inclusão de menus, ícones, etc... <br />
+- Fechamento automático das janelas 
