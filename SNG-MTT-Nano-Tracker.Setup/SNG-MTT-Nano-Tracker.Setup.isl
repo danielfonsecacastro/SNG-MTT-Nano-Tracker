@@ -340,20 +340,20 @@
 		<col def="S0">ISDotNetInstallerArgsCommit</col>
 		<col def="S0">ISDotNetInstallerArgsUninstall</col>
 		<col def="S0">ISDotNetInstallerArgsRollback</col>
-		<row><td>EntityFramework.dll</td><td>{D7516430-B6B6-490A-BE22-4E36EAECC15C}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>entityframework.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>EntityFramework.dll</td><td>{5BBEDD09-F1D3-4D69-A116-547BEFC748C5}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>entityframework.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT</td><td>{AD1AEA07-2109-4969-B66F-0E561FD89219}</td><td>INSTALLDIR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT3</td><td>{2419E854-9921-4312-A085-37CAF788A926}</td><td>PrimaryVolumePath</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT4</td><td>{3ECC6E1D-F39A-4E9C-B8D6-FDC374588272}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT5</td><td>{914EA166-B761-4B23-A68C-3B1580C525BB}</td><td>AMD641</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT6</td><td>{F18779C6-03FD-47E8-BF4A-69D95531ADAC}</td><td>X861</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Microsoft.WindowsAPICodePack.Shell.dll</td><td>{B22C48E5-7581-43E6-8612-85517BC7B551}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>microsoft.windowsapicodepack1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Microsoft.WindowsAPICodePack.dll</td><td>{1633FB81-0437-4C1A-B7B3-0A6C32605F05}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>microsoft.windowsapicodepack</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>SNG_MTT_Nano_Tracker.exe</td><td>{BC031728-90CB-4F5F-970C-F3B46B7E6648}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>sng_mtt_nano_tracker.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>SNG_MTT_Nano_Tracker.vshost.exe</td><td>{940FCF3E-6F41-4461-A6E2-7C3ADC4B2C6B}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>sng_mtt_nano_tracker.vshost.</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>System.Data.Entity.dll</td><td>{0A29716A-F3EF-4751-993A-FEF1FD10EA3D}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>system.data.entity.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>System.Data.SqlServerCe.Entity.dll</td><td>{5C8A212D-FF7A-43B4-99B5-53CA7D912B4B}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>system.data.sqlserverce.enti</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>System.Data.SqlServerCe.dll</td><td>{E171F0C7-A1F8-47A7-A2D5-7E257BC24858}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>system.data.sqlserverce.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>WindowScrape.dll</td><td>{17FE33BA-4E39-48DB-90AA-1DC6E2FB5F1C}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>windowscrape.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Microsoft.WindowsAPICodePack.Shell.dll</td><td>{BF2F2459-783F-4989-83F7-33CA2E7926C9}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>microsoft.windowsapicodepack1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Microsoft.WindowsAPICodePack.dll</td><td>{57418D65-8038-4EF6-B883-234AC5474020}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>microsoft.windowsapicodepack</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>SNG_MTT_Nano_Tracker.exe</td><td>{9541FD8F-5E4D-4A6B-8055-51C1DC8F8848}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>sng_mtt_nano_tracker.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>SNG_MTT_Nano_Tracker.vshost.exe</td><td>{7D81B21E-54A5-49AD-9943-D362FB9F028D}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>sng_mtt_nano_tracker.vshost.</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>System.Data.Entity.dll</td><td>{162F8BE2-EC68-4F4B-972B-877988EFB699}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>system.data.entity.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>System.Data.SqlServerCe.Entity.dll</td><td>{98034010-1330-40C9-8148-E5301EA12559}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>system.data.sqlserverce.enti</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>System.Data.SqlServerCe.dll</td><td>{78D54A13-41B1-47A0-966C-6CFA30881B2F}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>system.data.sqlserverce.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>WindowScrape.dll</td><td>{37E8FE86-0AF9-40A9-AFF3-EC68BED21EBD}</td><td>SNG___MTT_NANO_TRACKER1</td><td>2</td><td/><td>windowscrape.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>sqlceca40.dll2</td><td>{731124CA-C0F8-45C8-9D0A-4EB6705D6C95}</td><td>AMD641</td><td>2</td><td/><td>sqlceca40.dll2</td><td>20</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>sqlceca40.dll3</td><td>{B05B6B2E-30EA-41DF-96E9-955373AA082F}</td><td>X861</td><td>2</td><td/><td>sqlceca40.dll3</td><td>20</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>sqlcecompact40.dll2</td><td>{8558CB16-F639-41F6-959A-D4BA52A85099}</td><td>AMD641</td><td>2</td><td/><td>sqlcecompact40.dll2</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
@@ -1199,6 +1199,7 @@
 		<row><td>WindowsVolume</td><td>TARGETDIR</td><td>.:WinRoot</td><td/><td>0</td><td/></row>
 		<row><td>X861</td><td>SNG___MTT_NANO_TRACKER1</td><td>X86</td><td/><td>0</td><td/></row>
 		<row><td>sng_mt_1_sng___mtt_nano_tracker</td><td>ProgramMenuFolder</td><td>SNG&amp;MT~1|SNG &amp; MTT Nano Tracker</td><td/><td>1</td><td/></row>
+		<row><td>sng_mt_1_sng___mtt_nano_tracker1</td><td>sng_mt_1_sng___mtt_nano_tracker</td><td>SNG&amp;MT~1|SNG &amp; MTT Nano Tracker</td><td/><td>1</td><td/></row>
 	</table>
 
 	<table name="DrLocator">
@@ -1936,7 +1937,6 @@
 		<row><td>microsoft.windowsapicodepack1</td><td>Microsoft.WindowsAPICodePack.Shell.dll</td><td>MICROS~1.DLL|Microsoft.WindowsAPICodePack.Shell.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll</td><td>1</td><td/></row>
 		<row><td>sng_mtt_nano_tracker.exe</td><td>SNG_MTT_Nano_Tracker.exe</td><td>SNG-MT~1.EXE|SNG-MTT-Nano-Tracker.exe</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe</td><td>1</td><td/></row>
 		<row><td>sng_mtt_nano_tracker.exe.con</td><td>ISX_DEFAULTCOMPONENT4</td><td>SNG-MT~1.CON|SNG-MTT-Nano-Tracker.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe.config</td><td>1</td><td/></row>
-		<row><td>sng_mtt_nano_tracker.pdb</td><td>ISX_DEFAULTCOMPONENT4</td><td>SNG-MT~1.PDB|SNG-MTT-Nano-Tracker.pdb</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.pdb</td><td>1</td><td/></row>
 		<row><td>sng_mtt_nano_tracker.vshost.</td><td>SNG_MTT_Nano_Tracker.vshost.exe</td><td>SNG-MT~1.EXE|SNG-MTT-Nano-Tracker.vshost.exe</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.vshost.exe</td><td>1</td><td/></row>
 		<row><td>sng_mtt_nano_tracker.vshost.1</td><td>ISX_DEFAULTCOMPONENT4</td><td>SNG-MT~1.CON|SNG-MTT-Nano-Tracker.vshost.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.vshost.exe.config</td><td>1</td><td/></row>
 		<row><td>sng_mtt_nano_tracker.vshost.2</td><td>ISX_DEFAULTCOMPONENT4</td><td>SNG-MT~1.MAN|SNG-MTT-Nano-Tracker.vshost.exe.manifest</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.vshost.exe.manifest</td><td>1</td><td/></row>
@@ -2212,20 +2212,20 @@
 		<col def="S0">FTPLocation</col>
 		<col def="S0">HTTPLocation</col>
 		<col def="S0">Miscellaneous</col>
-		<row><td>EntityFramework.dll</td><td/><td/><td>_7A9E6B0D_BF56_4F25_BEFC_A641918DA816_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>EntityFramework.dll</td><td/><td/><td>_EB2FF774_B681_4F45_86C4_5C69A94C4FD7_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT</td><td/><td/><td>_C47A2D45_FF5D_4A28_B990_D46C96BE0009_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT3</td><td/><td/><td>_A86A95B8_E5DB_45BF_AEB4_1B72C28A12A3_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT4</td><td/><td/><td>_1EB209BC_F51E_4025_B2A5_02572D915EA8_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT5</td><td/><td/><td>_457F4E84_3DA0_4291_9B1C_9F3BF6B895FA_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT6</td><td/><td/><td>_8D86CE53_F5D5_4219_9C44_F33E42539DA2_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>Microsoft.WindowsAPICodePack.Shell.dll</td><td/><td/><td>_C4A72483_99EA_458C_92A1_C09B8DC4003F_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>Microsoft.WindowsAPICodePack.dll</td><td/><td/><td>_F0DB36D8_2340_4C3A_A44A_7B4A58BE87A7_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>SNG_MTT_Nano_Tracker.exe</td><td/><td/><td>_821E4112_B9E4_419E_9BFE_549DC6352A64_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>SNG_MTT_Nano_Tracker.vshost.exe</td><td/><td/><td>_734D89AE_13AE_4D68_AE09_9B57007DACA8_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>System.Data.Entity.dll</td><td/><td/><td>_563AA48C_E88E_426D_B053_65D332B3549F_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>System.Data.SqlServerCe.Entity.dll</td><td/><td/><td>_4EEFAC88_1E1F_4077_A6CB_F525346801E1_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>System.Data.SqlServerCe.dll</td><td/><td/><td>_1F6B6A39_CDE5_4CB3_82A9_B7FCCA3EE09D_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>WindowScrape.dll</td><td/><td/><td>_F33650B2_1605_4325_9C35_06B74A92FAAB_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Microsoft.WindowsAPICodePack.Shell.dll</td><td/><td/><td>_BFB0CA45_72CC_4FEF_838D_38F9B316532E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Microsoft.WindowsAPICodePack.dll</td><td/><td/><td>_4FF3E7E8_1960_4FCD_AB17_DFE1F671BFE1_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>SNG_MTT_Nano_Tracker.exe</td><td/><td/><td>_6857C666_CB00_492F_909E_BA6B7A48BE5C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>SNG_MTT_Nano_Tracker.vshost.exe</td><td/><td/><td>_EF2A68B6_2EE9_4F43_8353_F1FD07CD9F4A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>System.Data.Entity.dll</td><td/><td/><td>_80D77BCB_991B_40CF_9F67_F8B0660D2BBF_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>System.Data.SqlServerCe.Entity.dll</td><td/><td/><td>_12D1CF8D_9C03_49E6_920F_C37EABA7E45A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>System.Data.SqlServerCe.dll</td><td/><td/><td>_369BF857_1AF8_4619_8F22_C79E57ABD94E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>WindowScrape.dll</td><td/><td/><td>_8B3D0FE8_2DF0_4D35_92F2_32EEF9B90DD8_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>sqlceca40.dll2</td><td/><td/><td>_DCA6D41B_2255_4A3F_9DCB_225EEA173CC6_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>sqlceca40.dll3</td><td/><td/><td>_D964E260_ACA3_496C_A4E1_852F1EAF739C_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>sqlcecompact40.dll2</td><td/><td/><td>_0FD431B7_7AA3_470C_8F40_AB0E713EAEDB_FILTER</td><td/><td/><td/><td/></row>
@@ -3689,6 +3689,8 @@
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME14</td><td>1033</td><td>SNG &amp; MTT Nano Tracker</td><td>0</td><td/><td>-1667150442</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME15</td><td>1033</td><td>LAUNCH~1.EXE|Launch SNG-MTT-Nano-Tracker.exe</td><td>0</td><td/><td>-1532945385</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME16</td><td>1033</td><td>LAUNCH~1.EXE|Launch SNG-MTT-Nano-Tracker.vshost.exe</td><td>0</td><td/><td>-1532945385</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME17</td><td>1033</td><td>LAUNCH~1.EXE|Launch SNG-MTT-Nano-Tracker.exe</td><td>0</td><td/><td>-1398679891</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME18</td><td>1033</td><td>LAUNCH~1.EXE|Launch SNG-MTT-Nano-Tracker.vshost.exe</td><td>0</td><td/><td>-1398677843</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME2</td><td>1033</td><td>LAUNCH~1.EXE|Launch Poker.exe</td><td>0</td><td/><td>882993554</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME3</td><td>1033</td><td>LAUNCH~1.EXE|Launch Poker.vshost.exe</td><td>0</td><td/><td>882993554</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME4</td><td>1033</td><td>LAUNCH~1.EXE|Launch Poker.exe</td><td>0</td><td/><td>883025173</td></row>
@@ -4114,6 +4116,8 @@
 		<row><td>SNG_MTT_Nano_Track_7F6967E58DAF4113A5C17D2D76C3127F.exe</td><td/><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe</td><td>0</td></row>
 		<row><td>SNG_MTT_Nano_Track_AE4053DB4F7A4E2C96ADD1957B9F5AD0.exe</td><td/><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe</td><td>0</td></row>
 		<row><td>SNG_MTT_Nano_Track_C253C9611D454BDBA3ACC7C7AB145251.exe</td><td/><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe</td><td>0</td></row>
+		<row><td>SNG_MTT_Nano_Track_CAB652200B6F4FAFB9BEEFD9E0D5336E.exe</td><td/><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe</td><td>0</td></row>
+		<row><td>SNG_MTT_Nano_Track_E91A8DDB0D9E45369F83DAF25470043C.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\GenericExe.ico</td><td>0</td></row>
 	</table>
 
 	<table name="IniFile">
@@ -4699,7 +4703,8 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="s72">DirProperty</col>
 		<col def="i2">InstallMode</col>
 		<row><td>FileKey1</td><td>SNG_MTT_Nano_Tracker.exe</td><td/><td>sng_mt_1_sng___mtt_nano_tracker1</td><td>2</td></row>
-		<row><td>NewShortcut1</td><td>SNG_MTT_Nano_Tracker.exe</td><td/><td>sng_mt_1_sng___mtt_nano_tracker</td><td>2</td></row>
+		<row><td>SNG_MTT_Nano_Tracker.exe</td><td>SNG_MTT_Nano_Tracker.exe</td><td/><td>sng_mt_1_sng___mtt_nano_tracker1</td><td>2</td></row>
+		<row><td>SNG_MTT_Nano_Tracker.vshost.exe</td><td>SNG_MTT_Nano_Tracker.vshost.exe</td><td/><td>sng_mt_1_sng___mtt_nano_tracker1</td><td>2</td></row>
 	</table>
 
 	<table name="RemoveIniFile">
@@ -4785,8 +4790,8 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="S255">ISComments</col>
 		<col def="S255">ISShortcutName</col>
 		<col def="I4">ISAttributes</col>
-		<row><td>NewShortcut1</td><td>sng_mt_1_sng___mtt_nano_tracker</td><td>##ID_STRING9##</td><td>SNG_MTT_Nano_Tracker.exe</td><td>[PrimaryVolumePath]SNG &amp; MTT Nano Tracker\SNG-MTT-Nano-Tracker.exe</td><td/><td/><td/><td>NewShortcut1_2400A43FA8524F579BD4EB157EFCB843.exe</td><td>1</td><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>NewShortcut2</td><td>DesktopFolder</td><td>##ID_STRING10##</td><td>SNG_MTT_Nano_Tracker.exe</td><td>[PrimaryVolumePath]SNG &amp; MTT Nano Tracker\SNG-MTT-Nano-Tracker.exe</td><td/><td/><td/><td>NewShortcut2_A5522B0718794581854C198ACC4D8F4C.exe</td><td>1</td><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>SNG_MTT_Nano_Tracker.exe</td><td>sng_mt_1_sng___mtt_nano_tracker1</td><td>##IDS_SHORTCUT_DISPLAY_NAME17##</td><td>SNG_MTT_Nano_Tracker.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>SNG_MTT_Nano_Track_CAB652200B6F4FAFB9BEEFD9E0D5336E.exe</td><td>1</td><td>1</td><td>SNG___MTT_NANO_TRACKER1</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>SNG_MTT_Nano_Tracker.vshost.exe</td><td>sng_mt_1_sng___mtt_nano_tracker1</td><td>##IDS_SHORTCUT_DISPLAY_NAME18##</td><td>SNG_MTT_Nano_Tracker.vshost.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>SNG_MTT_Nano_Track_E91A8DDB0D9E45369F83DAF25470043C.exe</td><td>0</td><td>1</td><td>SNG___MTT_NANO_TRACKER1</td><td/><td/><td/><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="Signature">
