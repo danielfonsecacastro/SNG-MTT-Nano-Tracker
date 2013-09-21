@@ -1199,7 +1199,6 @@
 		<row><td>WindowsVolume</td><td>TARGETDIR</td><td>.:WinRoot</td><td/><td>0</td><td/></row>
 		<row><td>X861</td><td>SNG___MTT_NANO_TRACKER1</td><td>X86</td><td/><td>0</td><td/></row>
 		<row><td>sng_mt_1_sng___mtt_nano_tracker</td><td>ProgramMenuFolder</td><td>SNG&amp;MT~1|SNG &amp; MTT Nano Tracker</td><td/><td>1</td><td/></row>
-		<row><td>sng_mt_1_sng___mtt_nano_tracker1</td><td>sng_mt_1_sng___mtt_nano_tracker</td><td>SNG&amp;MT~1|SNG &amp; MTT Nano Tracker</td><td/><td>1</td><td/></row>
 	</table>
 
 	<table name="DrLocator">
@@ -3989,6 +3988,8 @@
 		<row><td>IDS__TargetReq_DESC_RESOLUTION</td><td>1033</td><td>The screen resolution is not adequate for running [ProductName].</td><td>0</td><td/><td>748749589</td></row>
 		<row><td>ID_STRING1</td><td>1033</td><td/><td>0</td><td/><td>748751637</td></row>
 		<row><td>ID_STRING10</td><td>1033</td><td>SNG&amp;MT~1|SNG &amp; MTT Nano Tracker</td><td>0</td><td/><td>-1532900041</td></row>
+		<row><td>ID_STRING11</td><td>1033</td><td>SNG&amp;MT~1|SNG &amp; MTT Nano Tracker</td><td>0</td><td/><td>-1398726835</td></row>
+		<row><td>ID_STRING12</td><td>1033</td><td>SNG&amp;MT~1|SNG &amp; MTT Nano Tracker</td><td>0</td><td/><td>-1398716595</td></row>
 		<row><td>ID_STRING2</td><td>1033</td><td>https://github.com/danielfonsecacastro/SNG-MTT-Nano-Tracker</td><td>0</td><td/><td>-1667125642</td></row>
 		<row><td>ID_STRING3</td><td>1033</td><td>SNG &amp; MTT Nano Tracker</td><td>0</td><td/><td>-1667156458</td></row>
 		<row><td>ID_STRING4</td><td>1033</td><td>LAUNCH~1.EXE|Launch Poker.exe</td><td>0</td><td/><td>882967861</td></row>
@@ -4106,7 +4107,9 @@
 		<col def="I2">ISIconIndex</col>
 		<row><td>ARPPRODUCTICON.exe</td><td/><td>D:\Documentos\Visual Studio 2012\Projects\Poker\Poker\cards.ico</td><td>0</td></row>
 		<row><td>NewShortcut1_2400A43FA8524F579BD4EB157EFCB843.exe</td><td/><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe</td><td>0</td></row>
+		<row><td>NewShortcut1_435FE87D396C4FF097DE1A29107A8D27.exe</td><td/><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe</td><td>0</td></row>
 		<row><td>NewShortcut1_893471BC732545A3BA644616665670C8.exe</td><td/><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe</td><td>0</td></row>
+		<row><td>NewShortcut2_3907DCAB7BF14923875D6726746567C8.exe</td><td/><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe</td><td>0</td></row>
 		<row><td>NewShortcut2_A5522B0718794581854C198ACC4D8F4C.exe</td><td/><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe</td><td>0</td></row>
 		<row><td>Poker.exe1_6C1DD804174C4126BEB7CF44679082F8.exe</td><td/><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\Poker.exe</td><td>0</td></row>
 		<row><td>Poker.exe_F8F87B6427384B838B53246587617A60.exe</td><td/><td>D:\Documentos\Visual Studio 2012\Projects\PokerMiniTracker\Poker\Poker\bin\Debug\Poker.exe</td><td>0</td></row>
@@ -4116,8 +4119,6 @@
 		<row><td>SNG_MTT_Nano_Track_7F6967E58DAF4113A5C17D2D76C3127F.exe</td><td/><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe</td><td>0</td></row>
 		<row><td>SNG_MTT_Nano_Track_AE4053DB4F7A4E2C96ADD1957B9F5AD0.exe</td><td/><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe</td><td>0</td></row>
 		<row><td>SNG_MTT_Nano_Track_C253C9611D454BDBA3ACC7C7AB145251.exe</td><td/><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe</td><td>0</td></row>
-		<row><td>SNG_MTT_Nano_Track_CAB652200B6F4FAFB9BEEFD9E0D5336E.exe</td><td/><td>C:\Users\Daniel\Desktop\SNG-MTT-Nano-Tracker\trunk\SNG-MTT-Nano-Tracker\bin\Debug\SNG-MTT-Nano-Tracker.exe</td><td>0</td></row>
-		<row><td>SNG_MTT_Nano_Track_E91A8DDB0D9E45369F83DAF25470043C.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\GenericExe.ico</td><td>0</td></row>
 	</table>
 
 	<table name="IniFile">
@@ -4703,8 +4704,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="s72">DirProperty</col>
 		<col def="i2">InstallMode</col>
 		<row><td>FileKey1</td><td>SNG_MTT_Nano_Tracker.exe</td><td/><td>sng_mt_1_sng___mtt_nano_tracker1</td><td>2</td></row>
-		<row><td>SNG_MTT_Nano_Tracker.exe</td><td>SNG_MTT_Nano_Tracker.exe</td><td/><td>sng_mt_1_sng___mtt_nano_tracker1</td><td>2</td></row>
-		<row><td>SNG_MTT_Nano_Tracker.vshost.exe</td><td>SNG_MTT_Nano_Tracker.vshost.exe</td><td/><td>sng_mt_1_sng___mtt_nano_tracker1</td><td>2</td></row>
+		<row><td>NewShortcut1</td><td>SNG_MTT_Nano_Tracker.exe</td><td/><td>sng_mt_1_sng___mtt_nano_tracker</td><td>2</td></row>
 	</table>
 
 	<table name="RemoveIniFile">
@@ -4790,8 +4790,8 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="S255">ISComments</col>
 		<col def="S255">ISShortcutName</col>
 		<col def="I4">ISAttributes</col>
-		<row><td>SNG_MTT_Nano_Tracker.exe</td><td>sng_mt_1_sng___mtt_nano_tracker1</td><td>##IDS_SHORTCUT_DISPLAY_NAME17##</td><td>SNG_MTT_Nano_Tracker.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>SNG_MTT_Nano_Track_CAB652200B6F4FAFB9BEEFD9E0D5336E.exe</td><td>1</td><td>1</td><td>SNG___MTT_NANO_TRACKER1</td><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>SNG_MTT_Nano_Tracker.vshost.exe</td><td>sng_mt_1_sng___mtt_nano_tracker1</td><td>##IDS_SHORTCUT_DISPLAY_NAME18##</td><td>SNG_MTT_Nano_Tracker.vshost.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>SNG_MTT_Nano_Track_E91A8DDB0D9E45369F83DAF25470043C.exe</td><td>0</td><td>1</td><td>SNG___MTT_NANO_TRACKER1</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>NewShortcut1</td><td>sng_mt_1_sng___mtt_nano_tracker</td><td>##ID_STRING11##</td><td>SNG_MTT_Nano_Tracker.exe</td><td>[PrimaryVolumePath]SNG &amp; MTT Nano Tracker\SNG-MTT-Nano-Tracker.exe</td><td/><td/><td/><td>NewShortcut1_435FE87D396C4FF097DE1A29107A8D27.exe</td><td>1</td><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>NewShortcut2</td><td>DesktopFolder</td><td>##ID_STRING12##</td><td>SNG_MTT_Nano_Tracker.exe</td><td>[PrimaryVolumePath]SNG &amp; MTT Nano Tracker\SNG-MTT-Nano-Tracker.exe</td><td/><td/><td/><td>NewShortcut2_3907DCAB7BF14923875D6726746567C8.exe</td><td>1</td><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="Signature">
