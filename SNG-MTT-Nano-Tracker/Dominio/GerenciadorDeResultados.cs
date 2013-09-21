@@ -39,7 +39,7 @@ namespace SNGMTTNanoTracker.Dominio
                 }
             }
 
-            if (arquivoSalvo == false && ultimaMao.Data < DateTime.Now.AddMinutes(-20))
+            if (arquivoSalvo == false && ultimaMao.Data < DateTime.Now.AddMinutes(-8))
             {
                 SalvarResultado(caminho, arquivo, ultimaMao, primeiraMao, null);
             }
