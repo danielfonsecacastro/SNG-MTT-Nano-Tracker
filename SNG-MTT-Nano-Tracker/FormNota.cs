@@ -5,12 +5,12 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading;
-
 using System.Windows.Forms;
 using WindowScrape.Types;
 
@@ -23,6 +23,9 @@ namespace Poker
         public FormNota()
         {
             InitializeComponent();
+            Thread.CurrentThread.CurrentCulture = new CultureInfo("pt-BR");
+            Thread.CurrentThread.CurrentUICulture = new CultureInfo("pt-BR");
+
             mesas = new List<string>();
             startActivityMonitoring(path);
             SetWindowPos(this.Handle, HWND_TOPMOST, 0, 0, 0, 0, TOPMOST_FLAGS);
@@ -99,54 +102,47 @@ namespace Poker
         private delegate void AddLogText(string caminho);
         private void TS_AddLogText(string caminho)
         {
-            try
+
+            if (this.InvokeRequired)
             {
-                if (this.InvokeRequired)
-                {
-                    AddLogText del = new AddLogText(TS_AddLogText);
-                    Invoke(del, caminho);
-                }
-                else
-                {
-                    if (!mesas.Contains(Path.GetFileNameWithoutExtension(caminho)))
-                    {
-                        mesas.Add(Path.GetFileNameWithoutExtension(caminho));
-
-                        var itemMenu = new ToolStripMenuItem
-                        {
-                            Tag = Path.GetFileNameWithoutExtension(caminho),
-                            Text = Path.GetFileNameWithoutExtension(caminho),
-                        };
-                    }
-
-                    if (!String.IsNullOrEmpty(ultimoArquivo))
-                    {
-                        if (!ultimoArquivo.Equals(Path.GetFileNameWithoutExtension(caminho)))
-                        {
-                            return;
-                        }
-                    }
-
-                    Mesa mesa = new Mesa();
-                    ultimoArquivo = Path.GetFileNameWithoutExtension(caminho);
-                    mesa.LerMaoes(caminho);
-                    ultimaMao = mesa.Maoes.OrderBy(por => por.Data).Last();
-                    toolTip1.SetToolTip(this, ultimoArquivo);
-
-                    //MessageBox.Show("SalvarShowDown : " + salvarShowdownToolStripMenuItem.Checked + " TemShowDown : " + ultimaMao.TemShowDown + " -- Salvar Todas Acções: " + salvarTodasAcoesToolStripMenuItem.Checked + " Teve Ação : " + ultimaMao.TeveAcao + "\r\n" + ultimaMao.Conteudo);
-                    if ((salvarShowdownToolStripMenuItem.Checked && ultimaMao.TemShowDown) || (salvarTodasAcoesToolStripMenuItem.Checked && ultimaMao.TeveAcao))
-                        SalvarNota();
-
-                    labelInstrucao.Text = String.Format("Torneio {0}", NumeroTorneio);
-                    buttonSalvar.Enabled = true;
-                    buttonSalvar.Text = "Salvar última mão";
-                    NovaMaoExecute();
-                }
+                AddLogText del = new AddLogText(TS_AddLogText);
+                Invoke(del, caminho);
             }
-            catch (Exception ex)
+            else
             {
+                if (!mesas.Contains(Path.GetFileNameWithoutExtension(caminho)))
+                {
+                    mesas.Add(Path.GetFileNameWithoutExtension(caminho));
 
-                MessageBox.Show(ex.StackTrace);
+                    var itemMenu = new ToolStripMenuItem
+                    {
+                        Tag = Path.GetFileNameWithoutExtension(caminho),
+                        Text = Path.GetFileNameWithoutExtension(caminho),
+                    };
+                }
+
+                if (!String.IsNullOrEmpty(ultimoArquivo))
+                {
+                    if (!ultimoArquivo.Equals(Path.GetFileNameWithoutExtension(caminho)))
+                    {
+                        return;
+                    }
+                }
+
+                Mesa mesa = new Mesa();
+                ultimoArquivo = Path.GetFileNameWithoutExtension(caminho);
+                mesa.LerMaoes(caminho);
+                ultimaMao = mesa.Maoes.OrderBy(por => por.Data).Last();
+                toolTip1.SetToolTip(this, ultimoArquivo);
+
+                //MessageBox.Show("SalvarShowDown : " + salvarShowdownToolStripMenuItem.Checked + " TemShowDown : " + ultimaMao.TemShowDown + " -- Salvar Todas Acções: " + salvarTodasAcoesToolStripMenuItem.Checked + " Teve Ação : " + ultimaMao.TeveAcao + "\r\n" + ultimaMao.Conteudo);
+                if ((salvarShowdownToolStripMenuItem.Checked && ultimaMao.TemShowDown) || (salvarTodasAcoesToolStripMenuItem.Checked && ultimaMao.TeveAcao))
+                    SalvarNota();
+
+                labelInstrucao.Text = String.Format("Torneio {0}", NumeroTorneio);
+                buttonSalvar.Enabled = true;
+                buttonSalvar.Text = "Salvar última mão";
+                NovaMaoExecute();
             }
         }
 

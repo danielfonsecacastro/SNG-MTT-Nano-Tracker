@@ -21,6 +21,7 @@ using Microsoft.WindowsAPICodePack;
 using Microsoft.WindowsAPICodePack.Taskbar;
 using Microsoft.WindowsAPICodePack.Shell;
 using SNGMTTNanoTracker.Data;
+using System.Globalization;
 
 namespace Poker
 {
@@ -29,6 +30,8 @@ namespace Poker
         public FormMain()
         {
             InitializeComponent();
+            Thread.CurrentThread.CurrentCulture = new CultureInfo("pt-BR");
+            Thread.CurrentThread.CurrentUICulture = new CultureInfo("pt-BR");
 
             _resultadoRepositorio = new ResultadoRepositorio();
             _configuracaoRepositorio = new ConfiguracaoRepositorio();
