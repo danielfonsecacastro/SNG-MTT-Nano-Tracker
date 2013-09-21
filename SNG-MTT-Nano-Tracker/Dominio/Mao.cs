@@ -111,11 +111,19 @@ namespace SNGMTTNanoTracker.Dominio
 
         private DateTime CarregarDataDaMao()
         {
-            var primeira = ObterLinha(1);
-            var data = primeira.Substring(primeira.LastIndexOf("-"));
-            data = data.Substring(0, data.IndexOf("BRT")).Replace("-", "").Trim();
+            try
+            {
+                var primeira = ObterLinha(1);
+                var data = primeira.Substring(primeira.LastIndexOf("-"));
+                data = data.Substring(0, data.IndexOf("BRT")).Replace("-", "").Trim();
 
-            return Convert.ToDateTime(data);
+                return Convert.ToDateTime(data);
+            }
+            catch (Exception)
+            {
+
+                return DateTime.Now;
+            }
 
         }
 

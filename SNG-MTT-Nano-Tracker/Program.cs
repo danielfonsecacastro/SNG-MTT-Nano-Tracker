@@ -15,16 +15,16 @@ namespace Poker
         [STAThread]
         static void Main()
         {
-            //try
-            //{
+            try
+            {
                 Application.EnableVisualStyles();
                 Application.SetCompatibleTextRenderingDefault(false);
                 Application.Run(new FormMain());
-            //}
-            //catch (Exception ex)
-            //{
-            //    MessageBox.Show(ex.Message + " - " + ex.StackTrace);
-            //}
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message + " - " + ex.StackTrace);
+            }
         }
     }
 }

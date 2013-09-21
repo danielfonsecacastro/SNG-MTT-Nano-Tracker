@@ -68,6 +68,70 @@ Seat 9: oHitTheRiver folded before Flop (didn't bet)";
         }
 
         [Test]
+        public void DeveCarregarDataCorretamenteMesmoQuandoFormatoForInvalido()
+        {
+            var mao = new Mao(@"PokerStars Hand #104413064757: Tournament #791245034, $0.09+$0.01 USD Hold'em No Limit - Level I (10/20) - 2013/09/20 21:36:15 ET
+Table '791245034 2' 9-max Seat #1 is the button
+Seat 1: dfcastro.net (1500 in chips) 
+Seat 2: soniasandrin (1500 in chips) 
+Seat 3: josecatan (1500 in chips) 
+Seat 4: todoherraje (1500 in chips) 
+Seat 5: kids5542 (1500 in chips) 
+Seat 6: visprenski (1500 in chips) 
+Seat 7: manganão13 (1500 in chips) 
+Seat 8: todeolho (1500 in chips) 
+Seat 9: rependejo (1500 in chips) 
+soniasandrin: posts small blind 10
+josecatan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dfcastro.net [2c Kd]
+todoherraje: calls 20
+kids5542: calls 20
+visprenski: folds 
+manganão13: folds 
+todeolho: calls 20
+rependejo: raises 20 to 40
+dfcastro.net: folds 
+soniasandrin: calls 30
+josecatan: calls 20
+todoherraje: calls 20
+kids5542: calls 20
+todeolho: calls 20
+*** FLOP *** [Jc Jh 3s]
+soniasandrin: checks 
+josecatan: checks 
+todoherraje: checks 
+kids5542: checks 
+todeolho: checks 
+rependejo: bets 140
+soniasandrin: folds 
+josecatan: folds 
+todoherraje has timed out
+todoherraje: folds 
+todoherraje is sitting out
+todoherraje has returned
+kids5542: folds 
+todeolho: folds 
+Uncalled bet (140) returned to rependejo
+todeolho is sitting out
+rependejo collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jc Jh 3s]
+Seat 1: dfcastro.net (button) folded before Flop (didn't bet)
+Seat 2: soniasandrin (small blind) folded on the Flop
+Seat 3: josecatan (big blind) folded on the Flop
+Seat 4: todoherraje folded on the Flop
+Seat 5: kids5542 folded on the Flop
+Seat 6: visprenski folded before Flop (didn't bet)
+Seat 7: manganão13 folded before Flop (didn't bet)
+Seat 8: todeolho folded on the Flop
+Seat 9: rependejo collected (240)");
+
+            Assert.AreEqual(DateTime.Now.ToString("dd/MM/yyyy hh:mm:ss"), mao.Data.ToString("dd/MM/yyyy hh:mm:ss"));
+        }
+
+        [Test]
         public void HandIdDeveSerValido()
         {
             var mao = new Mao(@"PokerStars Hand #98217190126: Tournament #729294977, $0.23+$0.02 USD Hold'em No Limit - Level XIII (600/1200) - 2013/05/06 23:34:01 BRT [2013/05/06 22:34:01 ET]
