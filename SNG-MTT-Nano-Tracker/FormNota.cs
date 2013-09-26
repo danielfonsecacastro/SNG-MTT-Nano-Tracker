@@ -252,7 +252,10 @@ namespace Poker
         public void SetOpacity(double opacity)
         {
             opacidadeSelecionada = opacity;
-            this.Opacity = opacity;
+            if (opacidadeSelecionada <= 0)
+                opacidadeSelecionada = 1d/100d;
+
+            this.Opacity = opacidadeSelecionada;
         }
 
         private void buttonSalvar_Click(object sender, EventArgs e)
