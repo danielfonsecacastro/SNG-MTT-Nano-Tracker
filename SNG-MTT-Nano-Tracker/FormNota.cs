@@ -65,7 +65,11 @@ namespace Poker
             {
                 if (item.Title == FormEstrategiaInfo.MainWindowTitle)
                 {
-                    this.Location = new Point(item.Location.X, item.Location.Y + (item.Size.Height - this.Height));
+                    try
+                    {
+                        this.Location = new Point(item.Location.X, item.Location.Y + (item.Size.Height - this.Height));
+                    }
+                    catch { }
                 }
             }
         }
@@ -103,47 +107,51 @@ namespace Poker
         private void TS_AddLogText(string caminho)
         {
 
-            if (this.InvokeRequired)
+            try
             {
-                AddLogText del = new AddLogText(TS_AddLogText);
-                Invoke(del, caminho);
-            }
-            else
-            {
-                if (!mesas.Contains(Path.GetFileNameWithoutExtension(caminho)))
+                if (this.InvokeRequired)
                 {
-                    mesas.Add(Path.GetFileNameWithoutExtension(caminho));
-
-                    var itemMenu = new ToolStripMenuItem
-                    {
-                        Tag = Path.GetFileNameWithoutExtension(caminho),
-                        Text = Path.GetFileNameWithoutExtension(caminho),
-                    };
+                    AddLogText del = new AddLogText(TS_AddLogText);
+                    Invoke(del, caminho);
                 }
-
-                if (!String.IsNullOrEmpty(ultimoArquivo))
+                else
                 {
-                    if (!ultimoArquivo.Equals(Path.GetFileNameWithoutExtension(caminho)))
+                    if (!mesas.Contains(Path.GetFileNameWithoutExtension(caminho)))
                     {
-                        return;
+                        mesas.Add(Path.GetFileNameWithoutExtension(caminho));
+
+                        var itemMenu = new ToolStripMenuItem
+                        {
+                            Tag = Path.GetFileNameWithoutExtension(caminho),
+                            Text = Path.GetFileNameWithoutExtension(caminho),
+                        };
                     }
+
+                    if (!String.IsNullOrEmpty(ultimoArquivo))
+                    {
+                        if (!ultimoArquivo.Equals(Path.GetFileNameWithoutExtension(caminho)))
+                        {
+                            return;
+                        }
+                    }
+
+                    Mesa mesa = new Mesa();
+                    ultimoArquivo = Path.GetFileNameWithoutExtension(caminho);
+                    mesa.LerMaoes(caminho);
+                    ultimaMao = mesa.Maoes.OrderBy(por => por.Data).Last();
+                    toolTip1.SetToolTip(this, ultimoArquivo);
+
+                    //MessageBox.Show("SalvarShowDown : " + salvarShowdownToolStripMenuItem.Checked + " TemShowDown : " + ultimaMao.TemShowDown + " -- Salvar Todas Acções: " + salvarTodasAcoesToolStripMenuItem.Checked + " Teve Ação : " + ultimaMao.TeveAcao + "\r\n" + ultimaMao.Conteudo);
+                    if ((salvarShowdownToolStripMenuItem.Checked && ultimaMao.TemShowDown) || (salvarTodasAcoesToolStripMenuItem.Checked && ultimaMao.TeveAcao))
+                        SalvarNota();
+
+                    labelInstrucao.Text = String.Format("Torneio {0}", NumeroTorneio);
+                    buttonSalvar.Enabled = true;
+                    buttonSalvar.Text = "Salvar última mão";
+                    NovaMaoExecute();
                 }
-
-                Mesa mesa = new Mesa();
-                ultimoArquivo = Path.GetFileNameWithoutExtension(caminho);
-                mesa.LerMaoes(caminho);
-                ultimaMao = mesa.Maoes.OrderBy(por => por.Data).Last();
-                toolTip1.SetToolTip(this, ultimoArquivo);
-
-                //MessageBox.Show("SalvarShowDown : " + salvarShowdownToolStripMenuItem.Checked + " TemShowDown : " + ultimaMao.TemShowDown + " -- Salvar Todas Acções: " + salvarTodasAcoesToolStripMenuItem.Checked + " Teve Ação : " + ultimaMao.TeveAcao + "\r\n" + ultimaMao.Conteudo);
-                if ((salvarShowdownToolStripMenuItem.Checked && ultimaMao.TemShowDown) || (salvarTodasAcoesToolStripMenuItem.Checked && ultimaMao.TeveAcao))
-                    SalvarNota();
-
-                labelInstrucao.Text = String.Format("Torneio {0}", NumeroTorneio);
-                buttonSalvar.Enabled = true;
-                buttonSalvar.Text = "Salvar última mão";
-                NovaMaoExecute();
             }
+            catch { }
         }
 
         public void SetMesa(string arquivo)
@@ -253,7 +261,7 @@ namespace Poker
         {
             opacidadeSelecionada = opacity;
             if (opacidadeSelecionada <= 0)
-                opacidadeSelecionada = 1d/100d;
+                opacidadeSelecionada = 1d / 100d;
 
             this.Opacity = opacidadeSelecionada;
         }

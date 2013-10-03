@@ -241,15 +241,20 @@ namespace Poker
 
         private void buttonTop_Click(object sender, EventArgs e)
         {
-            foreach (var janela in janelas)
+            try
             {
-                janela.Value.FormEstrategiaInfo.MainWindowTitle = GetInfoWindows(janela.Key).MainWindowTitle;
-                janela.Value.SetarLocalizacao();
-                janela.Value.SetTop();
+                foreach (var janela in janelas)
+                {
+                    janela.Value.FormEstrategiaInfo.MainWindowTitle = GetInfoWindows(janela.Key).MainWindowTitle;
+                    janela.Value.SetarLocalizacao();
+                    janela.Value.SetTop();
 
-                var valor = Convert.ToDouble(trackBarVisibilidade.Value);
-                janela.Value.SetOpacity(valor / 10);
+
+                    var valor = Convert.ToDouble(trackBarVisibilidade.Value);
+                    janela.Value.SetOpacity(valor / 10);
+                }
             }
+            catch { }
         }
 
         private void eventRaised(object sender, System.IO.FileSystemEventArgs e)
@@ -429,7 +434,7 @@ namespace Poker
             var resultadoId = Convert.ToInt32(linha.Cells["ResultadoID"].Value);
 
             var resultado = _resultadoRepositorio.ObterResultadoPorId(resultadoId);
-            
+
             var form = new FormEditTorneio(resultado);
             form.ShowDialog();
 
